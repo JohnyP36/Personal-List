@@ -41,7 +41,6 @@ marktplaats.nl##.hz-LoginNudge
 nederland.fm###xbtm > .shadow
 nederland.fm###xttm > .shadow
 nl.shein.com##.welocme-modal
-nl.y8.com###policy-validation
 nl.motorsport.com##.ms-footer-editions-messages > .active.ms-footer-message
 nl.motorsport.com##.ms-footer-messages > .active.ms-footer-message
 nnieuws.be##.region-banner-diamond.region
@@ -80,6 +79,7 @@ tvgids.tv##.col-right
 voetbalkrant.com##.text-center.imu
 voetbalkrant.com##.text-center.leaderboard
 volkskrant.nl,trouw.nl###LOGIN_BIG_BOTTOM > .tm-body
+y8.com###policy-validation
 zeelandnet.nl##.g_banner
 ! Anti-Adblock
 zeelandnet.nl##.bnr-notice
