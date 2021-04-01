@@ -1,0 +1,27 @@
+@@||geolocation.onetrust.com^$domain=www.nu.nl
+! Uitzonderingen voor EasyList
+@@||aka.spotxcdn.com/integration/ados/v1/ados.js$script,domain=www.radioluisteren.fm
+@@||cdn.spotxcdn.com/integration/easi/v1/easi.js$script,domain=www.radioluisteren.fm
+@@||faktor.io^$3p,domain=consent.talpanetwork.com
+@@||images.marktnet.eu/adimg/
+@@||imasdk.googleapis.com/js/$script,domain=y8.com
+@@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=nos.nl
+@@||imasdk.googleapis.com/js/core/bridge3.*.html#goog_$subdocument,domain=vtm.be
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=www.hbvl.be
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vtm.be
+@@||js.spotx.tv/ados/v1/106185.js$script,domain=www.radioluisteren.fm
+@@||openad.tf1.fr/RealMedia/ads/adstream_mjx.ads/www.eurosportplayer.nl/home/$script,domain=eurosportplayer.nl
+@@||search.spotxchange.com/js/spotx.js$script,domain=www.radioluisteren.fm
+@@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
+@@||sync.search.spotxchange.com/partner?source=easi$image,domain=www.radioluisteren.fm
+@@||tools.islive.nl/cam_ms/2803/_default/index.html$domain=xmissy.nl
+@@||tools.vpscash.nl/datingv3/docs/plug_and_play/*$subdocument,domain=www.flirtmee.nl
+@@||vtm.be/vmmaplayer/embed?videoUrl=*&adZone=$subdocument,domain=knack.be|zita.be
+@@||y8.com/games/*.js?referer=$xhr,domain=y8.com
+! Anti-Adblock
+@@||adservice.google.com.tr^$xhr,domain=player.tubia.com
+@@||cdn.cxense.com/cx.cce.js$script,domain=nl.motorsport.com
+@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=vtm.be
+@@||static.adsafeprotected.com/vans-adapter-google-ima.js$script,domain=motorsport.tv
+@@||quantcast.mgr.consensu.org/tcfv2/*/cmp2.js$script,domain=www.vi.nl
+@@||www.veedi.com/v2/js/ads/advert.js$script,domain=www.veedi.com

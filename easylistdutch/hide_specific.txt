@@ -1,0 +1,86 @@
+112achterhoek-nieuws.nl###sidebar
+ad.nl##.page-header__section--spacer
+afkortingen.nu###banner_right
+afkortingen.nu###banner_top
+afkortingen.nu###link_unit
+afkortingen.nu##.banner
+androidplanet.nl###featured-header[data-campaign]
+androidplanet.nl##.dynamic-content[data-nosnippet]
+appletips.nl##a[href^="/adverteren-"]
+appletips.nl##.padnoshow > div.mobnoshow > .padnoshow
+autoweek.nl##.for-screen.advertise
+beursgorilla.nl##.js--billboard.ut--billboard
+beursgorilla.nl##.js--rect.ut--rectangle
+buienradar.be,buienradar.nl###adholderContainerHeader
+chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
+christenenvoorisrael.nl##.diffuse_cookie-bar__container
+classic.nl##div.brievenbus
+digitaalburg.com##.font-bold.font-sans-serif.xs-font-size.rounded-all.s-full.m-half-lm.l-sb-right-split.widget-area
+dwtonline.com###banner1
+eindexamens.nu###leaderboard
+forum.fok.nl##+js(set-constant, DAB, noopFunc)
+gfcnieuws.com##.n2-section-smartslider
+gfcnieuws.com##.widget_media_image.widget.extendedwopts-mobile.extendedwopts-tablet.extendedwopts-hide
+gic.nl##.banners
+gic.nl##.btn-adverteren
+handbalstartpunt.nl##aside.widget-banner.widget--sidebar.card.widget
+hardware.info##.sidebar_right_top
+historiek.net##div.ai-viewport-1
+hln.be##.advertising-container-top
+iphoned.nl##.mt-8.lg\:flex.hidden.wrap
+jan-magazine.nl##.only-marquee.marquee.bg-image.homepage-marquee
+koopplein.nl###skyscraper
+meppelercourant.nl,dekrantvanmiddendrenthe.nl##.advertorial-item
+meteovista.be,weeronline.nl##.wol-banner-module__bannerContainer___QMBCE.wol-banner-module__bannerHeader___sjbIC
+marktplaats.nl##.mp-adsense-header
+marktplaats.nl,2dehands.be##.vip-banner-top-sticky-container
+marktplaats.nl#?#.mp-Page-element > .mp-Listings + div:not([class]):not([id]):has(> .mp-Listings__admarktTitle)
+marktplaats.nl#?#ul.mp-Listings > li.mp-Listing:has(> .mp-Listing-coverLink > .mp-Listing-group > .mp-Listing-group--price-date-feature > span.mp-Listing-priority > span:contains(/^Topadvertentie$/))
+marktplaats.nl###inloggenDialog
+marktplaats.nl##.hz-LoginNudge
+nederland.fm###xbtm > .shadow
+nederland.fm###xttm > .shadow
+nl.shein.com##.welocme-modal
+nl.y8.com###policy-validation
+nl.motorsport.com##.ms-footer-editions-messages > .active.ms-footer-message
+nl.motorsport.com##.ms-footer-messages > .active.ms-footer-message
+nnieuws.be##.region-banner-diamond.region
+nnieuws.be##.view-vw-banners.view
+nos.nl###ccm_notification_wrapper
+nos.nl##.ster-banner
+nsinternational.com##.r42CookieBar
+nu.nl##a[href*="/advertorial-"]
+nu.nl###header > .zone
+oisterwijknieuws.nl###left-sidebar
+oisterwijknieuws.nl###right-sidebar
+oops.nl###dropinboxv2cover
+openingstijden.com##.adsense
+opwindend.net##.popup
+scholieren.com##.min-h-90
+speedtest.net##.notification-container > div > .notification
+speedtest.net###_evidon-barrier-wrapper
+speeleiland.nl##.banner-sky
+speeleiland.nl##.leader-below-game
+spel.nl##.game-page-sidebar
+spele.nl##.brioche.skycraper.banner
+spele.nl##.broa.leaderboard.banner
+startbewijs.nl##.banner
+synoniemen.net##.promoblok
+techzine.nl###lead
+telegraaf.nl##.ArticleBodyBlocks__bannerWrapper
+telegraaf.nl##.ArticlePageWrapper__banner
+telegraaf.nl##.SectionPage__bannerWrapper
+telegraaf.nl##.TextArticlePage__bannerWrapper
+telegraaf.nl##.VideoArticlePage__banner
+tijd.be##.c-sitenavPlaceholder__ad
+tripadvisor.nl##.ad
+tvgids.nl##.section-home-news__ad
+tvgids.tv##.col-left
+tvgids.tv##.col-right
+voetbalkrant.com##.text-center.imu
+voetbalkrant.com##.text-center.leaderboard
+volkskrant.nl,trouw.nl###LOGIN_BIG_BOTTOM > .tm-body
+zeelandnet.nl##.g_banner
+! Anti-Adblock
+zeelandnet.nl##.bnr-notice
+nu.nl##+js(set, is_adblocker_in_use, false)

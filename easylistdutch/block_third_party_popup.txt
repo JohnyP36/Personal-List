@@ -1,0 +1,2 @@
+||affiliatepartners.com^$popup,third-party
+||vloerenvoordelig.nl^$popup,third-party
