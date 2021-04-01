@@ -43,6 +43,5 @@
 @@/plugins/blockalyzer-adblock-counter/js/advert.js$script
 @@/plugins/ad-blocking-detector/assets/js/*$script
 @@/plugins/noadblock-nice-message/assets/js/ads.js?$script,~third-party
-
 !@@||s_a_f_e..0verflow*$image,domain=browserleaks.com
 !@@||browserleaks.com/*/1.gif?v=$domain=browserleaks.com
