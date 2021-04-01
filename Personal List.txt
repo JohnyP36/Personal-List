@@ -2,6 +2,8 @@
 !====================PERSONAL LIST====================!
 !!===================================================!!
 !
+! Title: Personal List
+!
 ! This list contains 3 list.
 ! The first list is a forked Easylist Dutch,
 !  because the original list is outdated and they don't update it often
@@ -15,7 +17,7 @@
 !
 !
 !===================== FIRST LIST =====================!
-! Title: EasyList Dutch
+! EasyList Dutch
 ! Description: Dutch supplement for the Easylist filters
 ! Last modified: %timestamp%
 !
