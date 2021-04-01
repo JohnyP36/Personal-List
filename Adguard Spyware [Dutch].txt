@@ -3,7 +3,6 @@
 !==what this list contains==!
 ! It contains some filterrules from Adguard Spyware that aren't in Fanboy Complete
 ! It also contains some rules that were used when I browsed done the web
-
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -214,7 +213,7 @@ _tracking.php?b=
 ||google.com/images/phd/gfl.gif
 ||google.com/images/phd/px.gif
 ||google-analytics.com^*/__utm.gif
-||google-analtyics.com/analytics.js
+!||google-analtyics.com/analytics.js
 ||googleoptimize.com/optimize.js$third-party
 ||googletagmanager.com/gtm.js?$third-party,domain=~google.com
 ||graph.facebook.com/*/activities?access_token=&event=
@@ -272,7 +271,7 @@ _tracking.php?b=
 ||xlog.tiktokv.com^
 ||xlog*-*.tiktokv.com^
 ||xlog-va.tiktokv.com^
-!
+! end TikTok
 ||tracker.redditmedia.com^
 ||trackersimulator.org^
 ||tracking.vodafone.com^
@@ -298,8 +297,7 @@ reddit.com##a[href="#pixel"]
 ||canvas.*.edu.*/api/v1/courses/*/ping
 ||canvas.*.ac.*/api/v1/courses/*/ping
 .instructure.com/api/v1/courses/*/ping
-
-
+!
 ! Dutch domains
 .arnostat.nl/click.
 ||accounts.ad.nl/gscounters.sendReport
