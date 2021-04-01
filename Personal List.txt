@@ -804,9 +804,8 @@ reddit.com##a[href="#pixel"]
 @@||cdn.georiot.com/snippet.js$domain=webwereld.nl
 @@||crwdcntrl.net/*callback=setPIDForPlayer$domain=static.rtl.nl
 @@||globecharge.com/images/ping.gif?
-@@||google-analytics.com/analytics.js$domain=mediamarkt.nl|independer.nl
-@@||google-analytics.com/plugins/ua/ec.js$domain=mediamarkt.nl
-@@||googletagmanager.com/gtm.js$domain=kruidvat.nl|argeweb.nl|beterbed.nl|bestradio.fm|blokker.nl
+@@||google-analytics.com/analytics.js$domain=independer.nl
+@@||googletagmanager.com/gtm.js$domain=argeweb.nl|beterbed.nl|bestradio.fm|blokker.nl
 @@||js.vpro.nl/vpro/*/statcounter.js?
 @@||rtl.nl/system/s4m/xldata/get_comscore.js?
 @@||tags.crwdcntrl.net/c/*/cc.js$domain=static.rtl.nl
