@@ -163,6 +163,7 @@ _advertentieleaderboardhome.
 ||totaalwijzer.nl/widget/$third-party
 ||trivago.nl/nl/srv/destination/js/$domain=popinstituut.nl
 ||uu.nl/proton/*/akzonobel_masters_
+||www.googletagservices.com/tag/js/gpt.js$script,domain=www.telegraaf.nl,important
 ||xingo.nl/bannermanagement/
 !
 !--------Specifieke blokkeerregels--------!
@@ -243,6 +244,7 @@ _advertentieleaderboardhome.
 @@||js.spotx.tv/ados/v1/106185.js$script,domain=www.radioluisteren.fm
 @@||openad.tf1.fr/RealMedia/ads/adstream_mjx.ads/www.eurosportplayer.nl/home/$script,domain=eurosportplayer.nl
 @@||search.spotxchange.com/js/spotx.js$script,domain=www.radioluisteren.fm
+@@||sheinsz.ltwebstatic.com^*/assets/common.$script,domain=nl.shein.com
 @@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
 @@||sync.search.spotxchange.com/partner?source=easi$image,domain=www.radioluisteren.fm
 @@||tools.islive.nl/cam_ms/2803/_default/index.html$domain=xmissy.nl
@@ -461,7 +463,6 @@ directwonen.nl#@#.adsbox
 !==what this list contains==!
 ! It contains some filterrules from Adguard Spyware that aren't in Fanboy Complete
 ! It also contains some rules that were used when I browsed done the web
-
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -672,7 +673,7 @@ _tracking.php?b=
 ||google.com/images/phd/gfl.gif
 ||google.com/images/phd/px.gif
 ||google-analytics.com^*/__utm.gif
-||google-analtyics.com/analytics.js
+!||google-analtyics.com/analytics.js
 ||googleoptimize.com/optimize.js$third-party
 ||googletagmanager.com/gtm.js?$third-party,domain=~google.com
 ||graph.facebook.com/*/activities?access_token=&event=
@@ -730,7 +731,7 @@ _tracking.php?b=
 ||xlog.tiktokv.com^
 ||xlog*-*.tiktokv.com^
 ||xlog-va.tiktokv.com^
-!
+! end TikTok
 ||tracker.redditmedia.com^
 ||trackersimulator.org^
 ||tracking.vodafone.com^
@@ -756,7 +757,7 @@ reddit.com##a[href="#pixel"]
 ||canvas.*.edu.*/api/v1/courses/*/ping
 ||canvas.*.ac.*/api/v1/courses/*/ping
 .instructure.com/api/v1/courses/*/ping
-
+!
 ! Dutch domains
 .arnostat.nl/click.
 ||accounts.ad.nl/gscounters.sendReport
@@ -859,6 +860,5 @@ reddit.com##a[href="#pixel"]
 @@/plugins/blockalyzer-adblock-counter/js/advert.js$script
 @@/plugins/ad-blocking-detector/assets/js/*$script
 @@/plugins/noadblock-nice-message/assets/js/ads.js?$script,~third-party
-
 !@@||s_a_f_e..0verflow*$image,domain=browserleaks.com
 !@@||browserleaks.com/*/1.gif?v=$domain=browserleaks.com
