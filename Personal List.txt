@@ -673,7 +673,7 @@ _tracking.php?b=
 ||google-analytics.com^*/__utm.gif
 ||google-analtyics.com/analytics.js
 ||googleoptimize.com/optimize.js$third-party
-||googletagmanager.com/gtm.js?$third-party,domain~google.com
+||googletagmanager.com/gtm.js?$third-party,domain=~google.com
 ||graph.facebook.com/*/activities?access_token=&event=
 ||graph.facebook.com/*?fields=supports_implicit_sdk_logging
 ||graph.facebook.com/logging_client_events
