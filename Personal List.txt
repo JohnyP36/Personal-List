@@ -3,7 +3,6 @@
 !!===================================================!!
 !
 ! Title: Personal List
-! Last modified: %timestamp%
 !
 ! This list contains 3 list.
 ! The first list is a forked Easylist Dutch,
