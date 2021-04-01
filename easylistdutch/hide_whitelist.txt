@@ -24,7 +24,6 @@ schaatsen.nl#@#.advertisement-header
 schaatsen.nl#@#.HeaderAd
 spele.nl#@#.afs_ads
 speurders.nl#@#.ad_header
-tweakers.net#@#a[href^="http://pubads.g.doubleclick.net/"]
 vakantieplaats.nl#@#.feed-ad
 vakantieplaats.nl#@#.topAds
 voetbalnieuws.be#@#a[href^="http://adserving.unibet.com/"]
