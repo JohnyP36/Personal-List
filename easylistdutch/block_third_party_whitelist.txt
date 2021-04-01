@@ -12,6 +12,7 @@
 @@||js.spotx.tv/ados/v1/106185.js$script,domain=www.radioluisteren.fm
 @@||openad.tf1.fr/RealMedia/ads/adstream_mjx.ads/www.eurosportplayer.nl/home/$script,domain=eurosportplayer.nl
 @@||search.spotxchange.com/js/spotx.js$script,domain=www.radioluisteren.fm
+@@||sheinsz.ltwebstatic.com^*/assets/common.$script,domain=nl.shein.com
 @@||smartinit.webads.nl/bin/smartinit.dll?$script,domain=vi.nl
 @@||sync.search.spotxchange.com/partner?source=easi$image,domain=www.radioluisteren.fm
 @@||tools.islive.nl/cam_ms/2803/_default/index.html$domain=xmissy.nl
