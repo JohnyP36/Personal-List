@@ -406,6 +406,7 @@ tripadvisor.nl##.ad
 tvgids.nl##.section-home-news__ad
 tvgids.tv##.col-left
 tvgids.tv##.col-right
+tweakers.net##.notificationsContainer
 voetbalkrant.com##.text-center.imu
 voetbalkrant.com##.text-center.leaderboard
 volkskrant.nl,trouw.nl###LOGIN_BIG_BOTTOM > .tm-body
@@ -444,7 +445,6 @@ schaatsen.nl#@#.advertisement-header
 schaatsen.nl#@#.HeaderAd
 spele.nl#@#.afs_ads
 speurders.nl#@#.ad_header
-tweakers.net#@#a[href^="http://pubads.g.doubleclick.net/"]
 vakantieplaats.nl#@#.feed-ad
 vakantieplaats.nl#@#.topAds
 voetbalnieuws.be#@#a[href^="http://adserving.unibet.com/"]
