@@ -412,6 +412,7 @@ volkskrant.nl,trouw.nl###LOGIN_BIG_BOTTOM > .tm-body
 y8.com###policy-validation
 zeelandnet.nl##.g_banner
 ! Anti-Adblock
+icttipsandtricks.nl##+js(acis, jQuery, ai_adb)
 zeelandnet.nl##.bnr-notice
 nu.nl##+js(set, is_adblocker_in_use, false)
 !
