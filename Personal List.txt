@@ -3,6 +3,7 @@
 !!===================================================!!
 !
 ! Title: Personal List
+! Last modified: %timestamp%
 !
 ! This list contains 3 list.
 ! The first list is a forked Easylist Dutch,
@@ -19,42 +20,41 @@
 !===================== FIRST LIST =====================!
 ! EasyList Dutch
 ! Description: Dutch supplement for the Easylist filters
-! Last modified: %timestamp%
 !
 ! Alleen voor advertenties op Nederlandstalige sites!
 ! Rapporteer gevonden advertenties of fouten op Github!
 !
 !--------Algemene blokkeerregels--------!
-%include easylistdutch/block_general.txt%
+%include Personal-List/easylistdutch/block_general.txt%
 !--------Advertentiedomeinen (derden)--------!
-%include easylistdutch/block_third_party_server.txt%
+%include Personal-List/easylistdutch/block_third_party_server.txt%
 !--------Advertentiedomeinen--------!
-%include easylistdutch/block_first_party_server.txt%
+%include Personal-List/easylistdutch/block_first_party_server.txt%
 !--------Specifieke blokkeerregels (derden)--------!
-%include easylistdutch/block_third_party_resource.txt%
+%include Personal-List/easylistdutch/block_third_party_resource.txt%
 !--------Specifieke blokkeerregels--------!
-%include easylistdutch/block_first_party_resource.txt%
+%include Personal-List/easylistdutch/block_first_party_resource.txt%
 !--------Popups (derden)--------!
-%include easylistdutch/block_third_party_popup.txt%
+%include Personal-List/easylistdutch/block_third_party_popup.txt%
 !--------Popups--------!
-%include easylistdutch/block_first_party_popup.txt%
+%include Personal-List/easylistdutch/block_first_party_popup.txt%
 !--------Uitzonderingen (derden)--------!
-%include easylistdutch/block_third_party_whitelist.txt%
+%include Personal-List/easylistdutch/block_third_party_whitelist.txt%
 !--------Uitzonderingen--------!
-%include easylistdutch/block_first_party_whitelist.txt%
+%include Personal-List/easylistdutch/block_first_party_whitelist.txt%
 !--------Algemene verbergregels--------!
-%include easylistdutch/hide_general.txt%
+%include Personal-List/easylistdutch/hide_general.txt%
 !--------Specifieke verbergregels--------!
-%include easylistdutch/hide_specific.txt%
+%include Personal-List/easylistdutch/hide_specific.txt%
 !--------Uitzonderingen (verbergregels)--------!
-%include easylistdutch/hide_whitelist.txt%
+%include Personal-List/easylistdutch/hide_whitelist.txt%
 !
 !
 !
 !==================== SECOND LIST ====================!
-%include Adguard Spyware [Dutch].txt%
+%include Personal-List/Adguard Spyware [Dutch].txt%
 !
 !
 !
 !==================== SECOND LIST ====================!
-%include Nano anti-Adblock.txt%
+%include Personal-List/Nano anti-Adblock.txt%
