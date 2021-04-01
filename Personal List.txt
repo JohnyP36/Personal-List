@@ -456,6 +456,7 @@ directwonen.nl#@#.adsbox
 !
 !==================== SECOND LIST ====================!
 !--Adguard Tracking Protection--!
+! https://github.com/JohnyP36/Personal-List/blob/main/Adguard%20Spyware%20%5BDutch%5D.txt
 !! this is a list I made to check the differences between Adguard Spyware and Fanboy Complete List
 !==what this list contains==!
 ! It contains some filterrules from Adguard Spyware that aren't in Fanboy Complete
@@ -813,6 +814,7 @@ reddit.com##a[href="#pixel"]
 !
 !==================== THIRD LIST ====================!
 ! Rules copied from Nano Defender Intergration - https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender.txt  [44 rules]
+! https://github.com/JohnyP36/Personal-List/blob/main/Nano%20anti-Adblock.txt
 ||doubleclick.net/instream/ad_status.js$script,redirect=doubleclick.net/instream/ad_status.js
 ||stopadblock.org/adblocker-deaktivieren$subdocument
 ###adblockBanner
