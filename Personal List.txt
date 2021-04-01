@@ -51,9 +51,9 @@
 !
 !
 !==================== SECOND LIST ====================!
-%include Personal-List/main/Adguard%20Spyware%20%5BDutch%5D.txt%
+{%include Personal-List/main/Adguard%20Spyware%20%5BDutch%5D.txt%}
 !
 !
 !
 !==================== SECOND LIST ====================!
-%include Personal-List/main/Nano%20anti-Adblock.txt%
+{%include Personal-List/main/Nano%20anti-Adblock.txt%}
