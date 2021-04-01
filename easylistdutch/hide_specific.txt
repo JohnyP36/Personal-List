@@ -76,6 +76,7 @@ tripadvisor.nl##.ad
 tvgids.nl##.section-home-news__ad
 tvgids.tv##.col-left
 tvgids.tv##.col-right
+tweakers.net##.notificationsContainer
 voetbalkrant.com##.text-center.imu
 voetbalkrant.com##.text-center.leaderboard
 volkskrant.nl,trouw.nl###LOGIN_BIG_BOTTOM > .tm-body
