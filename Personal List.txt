@@ -25,36 +25,36 @@
 ! Rapporteer gevonden advertenties of fouten op Github!
 !
 !--------Algemene blokkeerregels--------!
-%include Personal-List/easylistdutch/block_general.txt%
+%include JohnyP36/Personal-List/easylistdutch/block_general.txt%
 !--------Advertentiedomeinen (derden)--------!
-%include Personal-List/easylistdutch/block_third_party_server.txt%
+%include JohnyP36/Personal-List/easylistdutch/block_third_party_server.txt%
 !--------Advertentiedomeinen--------!
-%include Personal-List/easylistdutch/block_first_party_server.txt%
+%include JohnyP36/Personal-List/easylistdutch/block_first_party_server.txt%
 !--------Specifieke blokkeerregels (derden)--------!
-%include Personal-List/easylistdutch/block_third_party_resource.txt%
+%include JohnyP36/Personal-List/easylistdutch/block_third_party_resource.txt%
 !--------Specifieke blokkeerregels--------!
-%include Personal-List/easylistdutch/block_first_party_resource.txt%
+%include JohnyP36/Personal-List/easylistdutch/block_first_party_resource.txt%
 !--------Popups (derden)--------!
-%include Personal-List/easylistdutch/block_third_party_popup.txt%
+%include JohnyP36/Personal-List/easylistdutch/block_third_party_popup.txt%
 !--------Popups--------!
-%include Personal-List/easylistdutch/block_first_party_popup.txt%
+%include JohnyP36/Personal-List/easylistdutch/block_first_party_popup.txt%
 !--------Uitzonderingen (derden)--------!
-%include Personal-List/easylistdutch/block_third_party_whitelist.txt%
+%include JohnyP36/Personal-List/easylistdutch/block_third_party_whitelist.txt%
 !--------Uitzonderingen--------!
-%include Personal-List/easylistdutch/block_first_party_whitelist.txt%
+%include JohnyP36/Personal-List/easylistdutch/block_first_party_whitelist.txt%
 !--------Algemene verbergregels--------!
-%include Personal-List/easylistdutch/hide_general.txt%
+%include JohnyP36/Personal-List/easylistdutch/hide_general.txt%
 !--------Specifieke verbergregels--------!
-%include Personal-List/easylistdutch/hide_specific.txt%
+%include JohnyP36/Personal-List/easylistdutch/hide_specific.txt%
 !--------Uitzonderingen (verbergregels)--------!
-%include Personal-List/easylistdutch/hide_whitelist.txt%
+%include JohnyP36/Personal-List/easylistdutch/hide_whitelist.txt%
 !
 !
 !
 !==================== SECOND LIST ====================!
-%include Personal-List/Adguard Spyware [Dutch].txt%
+%include JohnyP36/Personal-List/Adguard Spyware [Dutch].txt%
 !
 !
 !
 !==================== SECOND LIST ====================!
-%include Personal-List/Nano anti-Adblock.txt%
+%include JohnyP36/Personal-List/Nano anti-Adblock.txt%
