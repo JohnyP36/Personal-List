@@ -24,29 +24,29 @@
 ! Rapporteer gevonden advertenties of fouten op Github!
 !
 !--------Algemene blokkeerregels--------!
-%include JohnyP36/Personal-List/easylistdutch/block_general.txt%
+%include Personal-List/main/easylistdutch/block_general.txt%
 !--------Advertentiedomeinen (derden)--------!
-%include JohnyP36/Personal-List/easylistdutch/block_third_party_server.txt%
+%include Personal-List/main/easylistdutch/block_third_party_server.txt%
 !--------Advertentiedomeinen--------!
-%include JohnyP36/Personal-List/easylistdutch/block_first_party_server.txt%
+%include Personal-List/main/easylistdutch/block_first_party_server.txt%
 !--------Specifieke blokkeerregels (derden)--------!
-%include JohnyP36/Personal-List/easylistdutch/block_third_party_resource.txt%
+%include Personal-List/main/easylistdutch/block_third_party_resource.txt%
 !--------Specifieke blokkeerregels--------!
-%include JohnyP36/Personal-List/easylistdutch/block_first_party_resource.txt%
+%include Personal-List/main/easylistdutch/block_first_party_resource.txt%
 !--------Popups (derden)--------!
-%include JohnyP36/Personal-List/easylistdutch/block_third_party_popup.txt%
+%include Personal-List/main/easylistdutch/block_third_party_popup.txt%
 !--------Popups--------!
-%include JohnyP36/Personal-List/easylistdutch/block_first_party_popup.txt%
+%include Personal-List/main/easylistdutch/block_first_party_popup.txt%
 !--------Uitzonderingen (derden)--------!
-%include JohnyP36/Personal-List/easylistdutch/block_third_party_whitelist.txt%
+%include Personal-List/main/easylistdutch/block_third_party_whitelist.txt%
 !--------Uitzonderingen--------!
-%include JohnyP36/Personal-List/easylistdutch/block_first_party_whitelist.txt%
+%include Personal-List/main/easylistdutch/block_first_party_whitelist.txt%
 !--------Algemene verbergregels--------!
-%include JohnyP36/Personal-List/easylistdutch/hide_general.txt%
+%include Personal-List/main/easylistdutch/hide_general.txt%
 !--------Specifieke verbergregels--------!
-%include JohnyP36/Personal-List/easylistdutch/hide_specific.txt%
+%include Personal-List/main/easylistdutch/hide_specific.txt%
 !--------Uitzonderingen (verbergregels)--------!
-%include JohnyP36/Personal-List/easylistdutch/hide_whitelist.txt%
+%include Personal-List/main/easylistdutch/hide_whitelist.txt%
 !
 !
 !
