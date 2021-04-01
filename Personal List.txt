@@ -496,8 +496,8 @@ directwonen.nl#@#.adsbox
 /.bootscripts/analytics.min.js
 /.well-known/private-click-measurement
 /?mailoptin-ajax=track_optin_impression
-/\/(public|resources|static|assets)\/([a-f0-9]){28,31}$/$script,xmlhttprequest,~third-party
-/^https?:\/\/js\.[-.0-9a-z]+\/t\/[0-9]{3}\/[0-9]{3}\/a[0-9]{7,9}\.js$/$script,third-party
+!/\/(public|resources|static|assets)\/([a-f0-9]){28,31}$/$script,xmlhttprequest,~third-party
+!/^https?:\/\/js\.[-.0-9a-z]+\/t\/[0-9]{3}\/[0-9]{3}\/a[0-9]{7,9}\.js$/$script,third-party
 /__Analytics-Start?url=
 /_CPiX/art
 /2010/JS/AnalTrack.js^
@@ -700,7 +700,7 @@ _tracking.php?b=
 ||pixel.quantserve.com^
 ||pixel.reddit.com^
 ||pixel.redditmedia.com^
-||play.google.com/log?$redirect=noop.txt,subdocument,stylesheet,script,xmlhttprequest,other
+||play.google.com/log?$redirect=noop.txt,subdocument,stylesheet,script,xmlhttprequest,other,important
 ||play.google.com/newsstand/api/*/people/me/analytics^
 ||play.googleapis.com/log|
 ||play.googleapis.com/play/log^
@@ -856,7 +856,7 @@ reddit.com##a[href="#pixel"]
 /js/an-detect.min.js$script
 /wp-content/plugins/*/adblock-detector.min.js$script
 /noadblock.jpg
-@@/plugins/blockalyzer-adblock-counter/img/ads/$image
+!@@/plugins/blockalyzer-adblock-counter/img/ads/$image
 @@/plugins/blockalyzer-adblock-counter/js/advert.js$script
 @@/plugins/ad-blocking-detector/assets/js/*$script
 @@/plugins/noadblock-nice-message/assets/js/ads.js?$script,~third-party
