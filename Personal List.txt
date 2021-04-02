@@ -690,6 +690,7 @@ _tracking.php?b=
 ||js-agent.newrelic.com^$domain=chaturbate.com,redirect=noop.txt,important,subdocument,stylesheet,script,xmlhttprequest,other
 ||jwpltx.com^$3p
 ||krxd.net^
+||links.services.disqus.com/api/ping
 ||log.data.disney.com^
 ||log2.spotify.com^
 ||logger.dailymotion.com^
@@ -726,7 +727,7 @@ _tracking.php?b=
 ||strm.yandex.ru/log?
 ||subscribe.washingtonpost.com/acquisition/views/tracking
 ||t.vimeo.com^
-!||taboola.com^$third-party
+||taboola.com^$third-party
 ! TikTok
 ||log*-*.tiktokv.com^
 ||mcs-va-*.tiktokv.com^
