@@ -650,6 +650,7 @@ _tracking.php?b=
 ||c.dpgmedia.net^$third-party
 ||c.msn.com^
 ||c00.adobe.com^$redirect=noop.txt,subdocument,stylesheet,script,xmlhttprequest,other
+||ccpa.sp-prod.net/ccpa.js
 ||cdn.api.twitter.com/*/urls/count.json$third-party
 ||cdns.gigya.com/js/gigyaGAIntegration.js
 ||collect-elb-*.amazonaws.com^$redirect=noop.txt,subdocument,stylesheet,script,xmlhttprequest,other
@@ -697,6 +698,7 @@ _tracking.php?b=
 ||metrics.dailymotion.com^
 ||mybbc-analytics.files.bbci.co.uk^
 ||open.spotify.com/log/analytics
+||p.typekit.net^$3p
 ||paypalobjects.com/*/pixel.gif
 ||pebed.dm-event.net^
 ||pipe.aria.microsoft.com/Collector/
