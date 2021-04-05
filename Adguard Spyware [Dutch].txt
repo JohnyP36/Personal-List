@@ -239,6 +239,7 @@ _tracking.php?b=
 ||p.typekit.net^$3p
 ||paypalobjects.com/*/pixel.gif
 ||pebed.dm-event.net^
+||perr.h-cdn.com^
 ||pipe.aria.microsoft.com/Collector/
 ||pixel.quantserve.com^
 ||pixel.reddit.com^
