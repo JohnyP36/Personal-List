@@ -647,7 +647,6 @@ _tracking.php?b=
 ||bbc.com/ngas/latest/dotcom-analytics.js
 ||bol.com/tracking/*.gif
 ||businessinsider.com/track.gif
-||c.dpgmedia.net^$third-party
 ||c.msn.com^
 ||c00.adobe.com^$redirect=noop.txt,subdocument,stylesheet,script,xmlhttprequest,other
 ||ccpa.sp-prod.net/ccpa.js
@@ -714,6 +713,7 @@ _tracking.php?b=
 ||plista.com/async/$3p
 ||pornhub.com/pix.php?s=
 ||qualtrics.com^$third-party
+||quantserve.com^$script,3p
 ||quantserve.com/pixel$third-party
 ||reutersmedia.net/resources_v*/js/*-track
 ||sa.bbc.com^
