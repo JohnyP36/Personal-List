@@ -465,7 +465,6 @@ directwonen.nl#@#.adsbox
 ! It contains some filterrules from Adguard Spyware that aren't in Fanboy Complete
 ! It also contains some rules that were used when I browsed done the web
 ###qoo-counter
-###ramblerCounter
 ###top100counter
 ##amp-embed[type="taboola"]
 ##img[src^="http://c.bigmir.net/"]
@@ -483,10 +482,6 @@ directwonen.nl#@#.adsbox
 .hit.stat24.
 .instructure.com/api/v1/courses/*/ping
 .instructure.com/page_views
-.jp/analyze/
-.jp/b.gif?
-.jp/c.gif?
-.jp/urchin.js
 .microsoft.*/broker.js$domain=~technet.microsoft.com
 .microsoft.com/trans_pixel.
 .microsoft.com/wupixel/
@@ -511,40 +506,25 @@ directwonen.nl#@#.adsbox
 /analytics-event-adapter.
 /analyticsmediator.js
 /api/increment-pv$xmlhttprequest
-/b/ss/*?aqb=1&pccr=
 /bbtstats/*
 /beacon.php?
 /beacon.php3?
 /bpix.bmp?b=
 /cb-pixel.gif?
 ! without "script" /cdn-cgi/bm/cv/*$script
-/cdn-cgi/pe/bag2?*cdn.onthe.io%2Fio.js
-/cdn-cgi/pe/bag2?*geoiplookup
-/cdn-cgi/pe/bag2?*getblueshift.com
-/cdn-cgi/pe/bag2?*google-analytics.com
 /cdn-cgi/pe/bag2?r[]=*ps.eyeota.net
 /cdn-cgi/pe/bag2?r[]=*whos.amung.us
 /chicken.gif?z=
 /clicktrack/*
-/cnt.aspx?*rnd=
-/CntRpt.aspx?hCase=
 /common/tracking/webtrekk
-/counter?$domain=amazon.com|amazon.de|amazon.it|amazon.com.tr
 /cp2.gif?
-/dynaTraceMonitor?
 /exactag_clientside.js
 /facebookproductad/views/js/pixel.js
-! without "script" /google-analyticator/*$script
-/i.gif?pageEvent=
 /images/top100.gif
 /img/bcn.gif?
-/js/counter.js
 /js/iMAWebCookie.js?
 /js/sync?visitor_id=
 /json/count?
-/logger/p.gif?*d=/*
-/matomo.php?action_name=
-/matomo.php?idsite=
 /metrics/log-
 /mip-stats-cnzz/*
 /mms/get_site_js?*abp=
@@ -552,10 +532,7 @@ directwonen.nl#@#.adsbox
 /mpss/o/*$image
 /open.html?x=$image
 /page_beacon.gif?
-/PhoenixGoogleAnalytics.min.js
-/piwik/js/*$domain=~piwik.org
 /pixel/?block_id=*&hash=*&host=
-/pixeltrack.php?
 /plista.js
 /pv?u=$image
 /pvcountup.
@@ -564,19 +541,12 @@ directwonen.nl#@#.adsbox
 /rd-js-integration.min.js
 /rdstation-popup.min.js
 /sayac.html
-/smarttag.js
 /smarttag_PROD.js
-/smarttag-prod.js
 /stat/dspixel.js
 /stats.php?*event=$image
-/syndstats.*.gatracker.
 /tealeaf.config.js
 /tealeafTarget2.html
-/track/open.php?u=$image
-/tracking/tracking.js
-/trackjs.js
 /umami.js
-/v.gif?t=
 /visilabs.min.js
 /watch.*.js?key=*&kw=*&refer=
 /webservices/remoteModulesTracker.php
@@ -585,25 +555,19 @@ directwonen.nl#@#.adsbox
 /wp-content/plugins/pageviews/pageviews.js
 /wp-content/plugins/wp-google-analytics-events/*
 /wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/geoPosition.js
-/xgemius.js
 /xtcore-*.js
 /zz.gif?url=
-://b.*/vanity/?
 ://ct1.*.com/sc/
 ://ct1.*.jp/sc/
 ://ct2.*.com/sc/
 ://ct2.*.jp/sc/
 ://datalayer-*.sky.com^$domain=sky.com
-://r.i.ua^
-://top.*/count/cnt.php?
 ://tracker.*/events-tracker/
-@@||adblockanalytics.com/ads.js|
 @@||cdn.tt.omtrdc.net/cdn/target.js
 @@||cdn-magiclinks.trackonomics.net/client/static/v2/*_gamespot.js$domain=gamespot.com
 @@||computerworld.com/resources/scripts/lib/demandbase.js$script
 @@||cxense.com^$domain=ikea.com
 @@||d3c3cq33003psk.cloudfront.net/opentag$domain=sunglasses-shop.co.uk|sunglasses-shop.fi|sunglasses-shop.nl|sunglasses-shop.se|sunglassesshop.com|sunglassesshop.dk|sunglassesshop.fr|sunglassesshop.no
-@@||detectadblock.com/ads.js
 !@@||dev.visualwebsiteoptimizer.com/j.php
 @@||gameplayer.io^*/EventTracker.js
 @@||gamespot.com/js/compiled/trackingWithCT.js$domain=gamespot.com
@@ -619,8 +583,6 @@ directwonen.nl#@#.adsbox
 @@||wordpress.org/extend/plugins/wp-slimstat/screenshot-$image,~third-party
 @@||wordpress.org/wp-slimstat/assets/banner-$image,~third-party
 @@||wp.com/_static/*/gaAddons.js
-_pagespeed_beacon?
-_social_tracking.js^
 _tracking.php?b=
 ||a.nytimes.com/svc/nyt/data-layer?sourceApp
 ||adblockanalytics.com^$third-party
@@ -631,7 +593,6 @@ _tracking.php?b=
 ||analytics.callbell.eu^
 ||analytics.twitter.com^$third-party
 ||analytics.twitter.com/i/adsct?
-||analytics.webads.eu^
 ||amazon.*/1/p13n-shared-components/*/batch/action
 ||amazon.*/gp/sponsored-products/logging^
 ||amazon.com^*/impress.html
@@ -645,12 +606,9 @@ _tracking.php?b=
 ||az416426.vo.msecnd.net^$3p
 ||bbc.com/ngas/latest/dotcom-analytics.js
 ||bol.com/tracking/*.gif
-||businessinsider.com/track.gif
 ||c.msn.com^
 ||c00.adobe.com^$redirect=noop.txt,subdocument,stylesheet,script,xmlhttprequest,other
-||ccpa.sp-prod.net/ccpa.js
 ||cdn.api.twitter.com/*/urls/count.json$third-party
-||cdns.gigya.com/js/gigyaGAIntegration.js
 ||collect-elb-*.amazonaws.com^$redirect=noop.txt,subdocument,stylesheet,script,xmlhttprequest,other
 ||corporateforms.americanexpress.com^
 ||counter.adguard.com^
@@ -680,14 +638,10 @@ _tracking.php?b=
 ||graph.facebook.com/*/activities?access_token=&event=
 ||graph.facebook.com/*?fields=supports_implicit_sdk_logging
 ||graph.facebook.com/logging_client_events
-||graph.instagram.com/logging_client_events
-||gscounters.*.gigya.com^$third-party
-||gscounters.gigya.com^$third-party
 ||highwebmedia.com/cache/js/output.ed5f5a28fb27.js
 ||hits.theguardian.com^
 ||intake-logging.wikimedia.org^
 ||js-agent.newrelic.com^$domain=chaturbate.com,redirect=noop.txt,important,subdocument,stylesheet,script,xmlhttprequest,other
-||jwpltx.com^$3p
 ||krxd.net^
 ||links.services.disqus.com/api/ping
 ||log.data.disney.com^
@@ -712,8 +666,6 @@ _tracking.php?b=
 ||plista.com/async/$3p
 ||pornhub.com/pix.php?s=
 ||qualtrics.com^$third-party
-||quantserve.com^$script,3p
-||quantserve.com/pixel$third-party
 ||reutersmedia.net/resources_v*/js/*-track
 ||sa.bbc.com^
 ||sc.metrics-shell.com^
@@ -730,7 +682,6 @@ _tracking.php?b=
 ||strm.yandex.ru/log?
 ||subscribe.washingtonpost.com/acquisition/views/tracking
 ||t.vimeo.com^
-||taboola.com^$third-party
 ! TikTok
 ||log*-*.tiktokv.com^
 ||mcs-va-*.tiktokv.com^
@@ -750,7 +701,6 @@ _tracking.php?b=
 ||youtube.com/csi_204?
 ||youtube.com/gen_204
 ||youtube.com/player_204?
-businessinsider.com##.bottom-recommended
 msn.com##.tbla
 msn.com##.trc_related_container
 reddit.com##a[href="#pixel"]
