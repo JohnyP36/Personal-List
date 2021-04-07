@@ -131,7 +131,6 @@ _tracking.php?b=
 ||analytics.callbell.eu^
 ||analytics.twitter.com^$third-party
 ||analytics.twitter.com/i/adsct?
-||analytics.webads.eu^
 ||amazon.*/1/p13n-shared-components/*/batch/action
 ||amazon.*/gp/sponsored-products/logging^
 ||amazon.com^*/impress.html
@@ -180,7 +179,6 @@ _tracking.php?b=
 ||hits.theguardian.com^
 ||intake-logging.wikimedia.org^
 ||js-agent.newrelic.com^$domain=chaturbate.com,redirect=noop.txt,important,subdocument,stylesheet,script,xmlhttprequest,other
-||jwpltx.com^$3p
 ||krxd.net^
 ||log.data.disney.com^
 ||log2.spotify.com^
@@ -203,7 +201,6 @@ _tracking.php?b=
 ||plista.com/async/$3p
 ||pornhub.com/pix.php?s=
 ||qualtrics.com^$third-party
-||quantserve.com^$script,3p
 ||reutersmedia.net/resources_v*/js/*-track
 ||sa.bbc.com^
 ||sc.metrics-shell.com^
@@ -220,7 +217,6 @@ _tracking.php?b=
 ||strm.yandex.ru/log?
 ||subscribe.washingtonpost.com/acquisition/views/tracking
 ||t.vimeo.com^
-||taboola.com^$third-party
 ! TikTok
 ||log*-*.tiktokv.com^
 ||mcs-va-*.tiktokv.com^
