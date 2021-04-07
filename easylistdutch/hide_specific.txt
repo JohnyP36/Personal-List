@@ -4,11 +4,13 @@ afkortingen.nu###banner_right
 afkortingen.nu###banner_top
 afkortingen.nu###link_unit
 afkortingen.nu##.banner
+almere-nieuws.nl###banner-text2 > .bjqs > li.bjqs-slide > .alert-grey.alert
 androidplanet.nl###featured-header[data-campaign]
 androidplanet.nl##.dynamic-content[data-nosnippet]
 appletips.nl##a[href^="/adverteren-"]
 appletips.nl##.padnoshow > div.mobnoshow > .padnoshow
 autoweek.nl##.for-screen.advertise
+berekenhet.nl##.bh-ads
 beursgorilla.nl##.js--billboard.ut--billboard
 beursgorilla.nl##.js--rect.ut--rectangle
 buienradar.be,buienradar.nl###adholderContainerHeader
@@ -18,6 +20,9 @@ classic.nl##div.brievenbus
 digitaalburg.com##.font-bold.font-sans-serif.xs-font-size.rounded-all.s-full.m-half-lm.l-sb-right-split.widget-area
 dwtonline.com###banner1
 eindexamens.nu###leaderboard
+filmtotaal.nl##.ad-centering
+focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
+fok.nl##+js(addEventListener-defuser, , DAB)
 forum.fok.nl##+js(set-constant, DAB, noopFunc)
 gfcnieuws.com##.n2-section-smartslider
 gfcnieuws.com##.widget_media_image.widget.extendedwopts-mobile.extendedwopts-tablet.extendedwopts-hide
@@ -27,7 +32,10 @@ handbalstartpunt.nl##aside.widget-banner.widget--sidebar.card.widget
 hardware.info##.sidebar_right_top
 historiek.net##div.ai-viewport-1
 hln.be##.advertising-container-top
+iphoned.nl##.main-small > .dynamic-content-native
+iphoned.nl##.mb-10.no-last-child-margin.content > .dynamic-content-native
 iphoned.nl##.mt-8.lg\:flex.hidden.wrap
+iphoned.nl###featured-header
 jan-magazine.nl##.only-marquee.marquee.bg-image.homepage-marquee
 koopplein.nl###skyscraper
 meppelercourant.nl,dekrantvanmiddendrenthe.nl##.advertorial-item
@@ -43,8 +51,10 @@ nederland.fm###xttm > .shadow
 nl.shein.com##.welocme-modal
 nl.motorsport.com##.ms-footer-editions-messages > .active.ms-footer-message
 nl.motorsport.com##.ms-footer-messages > .active.ms-footer-message
+nnieuws.be##.banner-silver
 nnieuws.be##.region-banner-diamond.region
 nnieuws.be##.view-vw-banners.view
+nnieuws.be###block-views-vw-banners-block-2
 nos.nl###ccm_notification_wrapper
 nos.nl##.ster-banner
 nsinternational.com##.r42CookieBar
@@ -52,9 +62,17 @@ nu.nl##a[href*="/advertorial-"]
 nu.nl###header > .zone
 oisterwijknieuws.nl###left-sidebar
 oisterwijknieuws.nl###right-sidebar
+omroepbrabant.nl##div.ad--empty-3l.ad-1C:nth-of-type(3)
+omroepwest.nl#$#.adcontainer-Rectangle { position: absolute!important; left: -4000px!important; }
 oops.nl###dropinboxv2cover
 openingstijden.com##.adsense
 opwindend.net##.popup
+pcmweb.nl#?#.site__sidebar > .block[-ext-has='div.banner']
+pcmweb.nl##div.block:nth-of-type(1)
+pcmweb.nl##div.block:nth-of-type(2)
+pornozot.com##.text-center.mb-20
+refoweb.nl##div[id^="div-gpt-ad"]
+rubenweytjens.be##.view-weather-ads-view
 scholieren.com##.min-h-90
 speedtest.net##.notification-container > div > .notification
 speedtest.net###_evidon-barrier-wrapper
@@ -71,15 +89,19 @@ telegraaf.nl##.ArticlePageWrapper__banner
 telegraaf.nl##.SectionPage__bannerWrapper
 telegraaf.nl##.TextArticlePage__bannerWrapper
 telegraaf.nl##.VideoArticlePage__banner
+telegraaf.nl##.WebpushOptin__main
 tijd.be##.c-sitenavPlaceholder__ad
 tripadvisor.nl##.ad
+turksemedia.nl##div[class="sidebar_item"][style="padding-bottom: 16px;"] > a > img[width="276"]
 tvgids.nl##.section-home-news__ad
 tvgids.tv##.col-left
 tvgids.tv##.col-right
+tvgids.nl##.interstitial_banner
 tweakers.net##.notificationsContainer
 voetbalkrant.com##.text-center.imu
 voetbalkrant.com##.text-center.leaderboard
 volkskrant.nl,trouw.nl###LOGIN_BIG_BOTTOM > .tm-body
+weeronline.nl##section[class*="wol-banner-module__banner"]
 y8.com###policy-validation
 zeelandnet.nl##.g_banner
 ! Anti-Adblock
