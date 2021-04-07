@@ -6,6 +6,7 @@
 ||bol.com/nl/upload/banners/
 ||booking.com/?aid=$domain=puuropreis.nl
 ||brightcove.com/js/BrightcoveExperiences.js$domain=backpackgek.nl
+||c.dpgmedia.net^$third-party
 ||cd.tnet.nl/ads/ads.js$script,important,domain=www.metronieuws.nl|www.telegraaf.nl
 ||cdn.media.zylom.com/images/site/zylom/promo/$third-party
 ||centraal.helpmij.nl/images/nieuwsbrief/nod32-colofon.jpg
@@ -27,10 +28,13 @@
 ||search-result.com^*/klokad2.js
 ||sexamateurtjes.nl/banners/
 ||sexverhalen.com/vriendschap/
+||sp.dpgmedia.net^$3p
 ||startpagina.nl^*/dochters/*/banners/
+||static-dscn.net/13146/1686020/$domain=almere-nieuws.nl
 ||thisislive.com/promo/
 ||totaalwijzer.nl/widget/$third-party
 ||trivago.nl/nl/srv/destination/js/$domain=popinstituut.nl
 ||uu.nl/proton/*/akzonobel_masters_
+||widget.vpnnederland.nl/VPNNederland-widget.js$domain=nzbserver.com
 ||www.googletagservices.com/tag/js/gpt.js$script,domain=www.telegraaf.nl,important
 ||xingo.nl/bannermanagement/
