@@ -1,3 +1,4 @@
+.arnostat.nl/click.
 -reclameplaatjes/
 /adbron.
 /adtwee/*
