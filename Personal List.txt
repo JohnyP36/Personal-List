@@ -643,7 +643,6 @@ _tracking.php?b=
 ||amazon.com*/recordevent.html?
 ||amazon.com/*/cerberus/log/
 ||amazon.com/follow/log-metrics^
-||api.github.com/_private/browser/stats$important
 ||app-analytics.snapchat.com^
 ||az416426.vo.msecnd.net^$3p
 ||bbc.com/ngas/latest/dotcom-analytics.js
