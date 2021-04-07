@@ -33,3 +33,5 @@ xxxplaza.nl#@##adcontainer
 zeelandnet.nl#@#.ad-card
 !Anti-Adblock
 directwonen.nl#@#.adsbox
+fok.nl#@#.advertentie
+forum.fok.nl#@##advertentie
