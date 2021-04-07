@@ -10,4 +10,7 @@
 @@||openx.kinepolis.com/delivery/spcjs.php?id=$script,domain=kinepolis.be|kinepolis.com
 @@||prerollads.nl^
 ! Anti-Adblock
+@@||ah.nl^$ghide
+@@||gamekings.tv^$generichide
 @@||girlscene.nl/templates/base/js/adbanner-dummy.js?$script,domain=girlscene.nl
+@@||refoweb.nl^$ghide
