@@ -2,7 +2,7 @@
 ! Description: ...
 ! Expires 1 day
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
-! Last modified: 7-4-2021 15:00 UTC
+! Last modified: 8-4-2021 12:21 UTC
 !
 ! This list contains 3 list.
 ! The first list is a forked Easylist Dutch,
@@ -501,15 +501,12 @@ forum.fok.nl#@##advertentie
 !
 !==================== SECOND LIST ====================!
 !--Adguard Tracking Protection--!
-! https://github.com/JohnyP36/Personal-List/blob/main/Adguard%20Spyware%20%5BDutch%5D.txt
 !! this is a list I made to check the differences between Adguard Spyware and Fanboy Complete List
 !==what this list contains==!
 ! It contains some filterrules from Adguard Spyware that aren't in Fanboy Complete
 ! It also contains some rules that were used when I browsed done the web
 ###qoo-counter
 ###top100counter
-##amp-embed[type="taboola"]
-##img[src^="http://c.bigmir.net/"]
 .amazonaws.com/thbeacon
 .cloudfront.net/br?tid=
 .com/a.gif?
@@ -578,7 +575,6 @@ forum.fok.nl#@##advertentie
 /plista.js
 /pv?u=$image
 /pvcountup.
-/px.js?ch=
 /RankingLogging.
 /rd-js-integration.min.js
 /rdstation-popup.min.js
@@ -605,12 +601,10 @@ forum.fok.nl#@##advertentie
 ://ct2.*.jp/sc/
 ://datalayer-*.sky.com^$domain=sky.com
 ://tracker.*/events-tracker/
-@@||cdn.tt.omtrdc.net/cdn/target.js
 @@||cdn-magiclinks.trackonomics.net/client/static/v2/*_gamespot.js$domain=gamespot.com
 @@||computerworld.com/resources/scripts/lib/demandbase.js$script
 @@||cxense.com^$domain=ikea.com
 @@||d3c3cq33003psk.cloudfront.net/opentag$domain=sunglasses-shop.co.uk|sunglasses-shop.fi|sunglasses-shop.nl|sunglasses-shop.se|sunglassesshop.com|sunglassesshop.dk|sunglassesshop.fr|sunglassesshop.no
-!@@||dev.visualwebsiteoptimizer.com/j.php
 @@||gameplayer.io^*/EventTracker.js
 @@||gamespot.com/js/compiled/trackingWithCT.js$domain=gamespot.com
 @@||github.com/carlomorgenstern/piwik-angular/$domain=github.com
@@ -644,7 +638,6 @@ _tracking.php?b=
 ||amazon.com/*/cerberus/log/
 ||amazon.com/follow/log-metrics^
 ||app-analytics.snapchat.com^
-||az416426.vo.msecnd.net^$3p
 ||bbc.com/ngas/latest/dotcom-analytics.js
 ||bol.com/tracking/*.gif
 ||c.msn.com^
@@ -682,7 +675,6 @@ _tracking.php?b=
 ||highwebmedia.com/cache/js/output.ed5f5a28fb27.js
 ||hits.theguardian.com^
 ||intake-logging.wikimedia.org^
-||js-agent.newrelic.com^$domain=chaturbate.com,redirect=noop.txt,important,subdocument,stylesheet,script,xmlhttprequest,other
 ||krxd.net^
 ||log.data.disney.com^
 ||log2.spotify.com^
@@ -690,14 +682,12 @@ _tracking.php?b=
 ||metrics.dailymotion.com^
 ||open.spotify.com/log/analytics
 ||p.typekit.net^$3p
-||paypalobjects.com/*/pixel.gif
 ||pebed.dm-event.net^
 ||perr.h-cdn.com^
-||pipe.aria.microsoft.com/Collector/
 ||pixel.quantserve.com^
 ||pixel.reddit.com^
 ||pixel.redditmedia.com^
-||play.google.com/log?$redirect=noop.txt,subdocument,stylesheet,script,xmlhttprequest,other,important
+||play.google.com/log?$redirect=noop.txt,subdocument,stylesheet,script,xmlhttprequest,other
 ||play.google.com/newsstand/api/*/people/me/analytics^
 ||play.googleapis.com/log|
 ||play.googleapis.com/play/log^
@@ -718,7 +708,6 @@ _tracking.php?b=
 ||static.yandex.net/browser-updater/stripe/script.js
 ||stats.ebay.com^
 ||stats.paypal.com^
-||strm.yandex.ru/log?
 ||subscribe.washingtonpost.com/acquisition/views/tracking
 ||t.vimeo.com^
 ! TikTok
@@ -728,21 +717,10 @@ _tracking.php?b=
 ||xlog*-*.tiktokv.com^
 ||xlog-va.tiktokv.com^
 ! end TikTok
-||tracker.redditmedia.com^
 ||trackersimulator.org^
-||tracking.vodafone.com^
-||tracking.ws.eurosport.com^
-||udc.msn.com^
 ||wix.com/_api/blog-social-counters/
-||xsltcache.alexa.com/site_stats/$third-party
-||yandex.ru/cycounter$third-party
-||youtube-nocookie.com/gen_204?
-||youtube.com/csi_204?
 ||youtube.com/gen_204
 ||youtube.com/player_204?
-msn.com##.tbla
-msn.com##.trc_related_container
-reddit.com##a[href="#pixel"]
 ! Canvas LMS tracking
 ||canvas.*.edu/page_views
 ||canvas.*.edu.*/page_views
