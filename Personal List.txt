@@ -2,7 +2,7 @@
 ! Description: ...
 ! Expires 1 day
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
-! Last modified: 8-4-2021 12:21 UTC
+! Last modified: 9-4-2021 06:55 UTC
 !
 ! This list contains 3 list.
 ! The first list is a forked Easylist Dutch,
@@ -521,48 +521,25 @@ forum.fok.nl#@##advertentie
 .hit.stat24.
 .instructure.com/api/v1/courses/*/ping
 .instructure.com/page_views
-.microsoft.*/broker.js$domain=~technet.microsoft.com
-.microsoft.com/trans_pixel.
-.microsoft.com/wupixel/
-.net/t.gif?
-.plerdy.com^$third-party
-.providesupport.com/cmd/*?ps_t=
-/.bootscripts/analytics.min.js
 /.well-known/private-click-measurement
 /?mailoptin-ajax=track_optin_impression
 /\/(public|resources|static|assets)\/([a-f0-9]){28,31}$/$script,xmlhttprequest,~third-party
 /^https?:\/\/js\.[-.0-9a-z]+\/t\/[0-9]{3}\/[0-9]{3}\/a[0-9]{7,9}\.js$/$script,third-party
 /__Analytics-Start?url=
 /_CPiX/art
-/2010/JS/AnalTrack.js^
-/adrum.js^
-/ajax/fdlogger/send
-/ajax/fdlogger/send
 /alog.mobile.min.js
-/amplitude-*-min.gz.js
-/analysis/AccessLog?
-/Analytics/Tracking.js
-/analytics-event-adapter.
-/analyticsmediator.js
-/api/increment-pv$xmlhttprequest
 /bbtstats/*
 /beacon.php?
 /beacon.php3?
 /bpix.bmp?b=
 /cb-pixel.gif?
-! without "script" /cdn-cgi/bm/cv/*$script
 /cdn-cgi/pe/bag2?r[]=*ps.eyeota.net
 /cdn-cgi/pe/bag2?r[]=*whos.amung.us
-/chicken.gif?z=
 /clicktrack/*
 /common/tracking/webtrekk
 /cp2.gif?
 /exactag_clientside.js
-/facebookproductad/views/js/pixel.js
 /images/top100.gif
-/img/bcn.gif?
-/js/iMAWebCookie.js?
-/js/sync?visitor_id=
 /json/count?
 /metrics/log-
 /mip-stats-cnzz/*
@@ -580,7 +557,6 @@ forum.fok.nl#@##advertentie
 /rdstation-popup.min.js
 /sayac.html
 /smarttag_PROD.js
-/stat/dspixel.js
 /stats.php?*event=$image
 /tealeaf.config.js
 /tealeafTarget2.html
@@ -588,10 +564,8 @@ forum.fok.nl#@##advertentie
 /visilabs.min.js
 /watch.*.js?key=*&kw=*&refer=
 /webservices/remoteModulesTracker.php
-/wp-content/cache/busting/google-tracking/*
 /wp-content/plugins/asmb-tracking/*
 /wp-content/plugins/pageviews/pageviews.js
-/wp-content/plugins/wp-google-analytics-events/*
 /wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/geoPosition.js
 /xtcore-*.js
 /zz.gif?url=
@@ -599,22 +573,8 @@ forum.fok.nl#@##advertentie
 ://ct1.*.jp/sc/
 ://ct2.*.com/sc/
 ://ct2.*.jp/sc/
-://datalayer-*.sky.com^$domain=sky.com
 ://tracker.*/events-tracker/
-@@||cdn-magiclinks.trackonomics.net/client/static/v2/*_gamespot.js$domain=gamespot.com
-@@||computerworld.com/resources/scripts/lib/demandbase.js$script
-@@||cxense.com^$domain=ikea.com
-@@||d3c3cq33003psk.cloudfront.net/opentag$domain=sunglasses-shop.co.uk|sunglasses-shop.fi|sunglasses-shop.nl|sunglasses-shop.se|sunglassesshop.com|sunglassesshop.dk|sunglassesshop.fr|sunglassesshop.no
 @@||gameplayer.io^*/EventTracker.js
-@@||gamespot.com/js/compiled/trackingWithCT.js$domain=gamespot.com
-@@||github.com/carlomorgenstern/piwik-angular/$domain=github.com
-@@||google-analytics.com/analytics.js$domain=html5.gamedistribution.com
-@@||googletagmanager.com/gtm.js$domain=ccleaner.com|redbull.com
-@@||maps.google.*/gen_204?$xmlhttprequest
-@@||microsoft.com/click/services/RioTracking2.js
-@@||omtrdc.net^$domain=amazon.co.uk|amazon.com|amazon.de
-@@||radio.com/player/javascript/tracking.js$domain=player.radio.com
-@@||scorecardresearch.com/r$image,domain=billetnet.dk|billettservice.no|lippupalvelu.fi|pcworld.com|techhive.com|ticketmaster.ae|ticketmaster.co.uk|ticketmaster.de|ticketmaster.ie|ticketmaster.nl|ticnet.se|wsj.com
 @@||statcounter.com/msline.swf
 @@||wordpress.org/extend/plugins/wp-slimstat/screenshot-$image,~third-party
 @@||wordpress.org/wp-slimstat/assets/banner-$image,~third-party
@@ -623,7 +583,6 @@ _tracking.php?b=
 ||a.nytimes.com/svc/nyt/data-layer?sourceApp
 ||adblockanalytics.com^$third-party
 ||adeventtracker.spotify.com^
-||adobedtm.com^*/satelliteLib-$script,domain=euronews.com|allrecipes.com|nvidia.at|nvidia.be|nvidia.cn|nvidia.co.jp|nvidia.co.kr|nvidia.co.uk|nvidia.com|nvidia.com.br|nvidia.com.mx|nvidia.com.tr|nvidia.com.tw|nvidia.cz|nvidia.de|nvidia.dk|nvidia.es|nvidia.fi|nvidia.fr|nvidia.in|nvidia.it|nvidia.nl|nvidia.no|nvidia.pl|nvidia.ru|nvidia.se
 ||adserver.snapads.com^
 ||adultvideotop.com/js/ga.js
 ||analytics.callbell.eu^
@@ -639,7 +598,6 @@ _tracking.php?b=
 ||amazon.com/follow/log-metrics^
 ||app-analytics.snapchat.com^
 ||bbc.com/ngas/latest/dotcom-analytics.js
-||bol.com/tracking/*.gif
 ||c.msn.com^
 ||c00.adobe.com^$redirect=noop.txt,subdocument,stylesheet,script,xmlhttprequest,other
 ||cdn.api.twitter.com/*/urls/count.json$third-party
@@ -666,9 +624,7 @@ _tracking.php?b=
 ||google.com/images/phd/gfl.gif
 ||google.com/images/phd/px.gif
 ||google-analytics.com^*/__utm.gif
-!||google-analtyics.com/analytics.js
 ||googleoptimize.com/optimize.js$third-party
-||googletagmanager.com/gtm.js?$third-party,domain=~google.com
 ||graph.facebook.com/*/activities?access_token=&event=
 ||graph.facebook.com/*?fields=supports_implicit_sdk_logging
 ||graph.facebook.com/logging_client_events
@@ -685,10 +641,7 @@ _tracking.php?b=
 ||pebed.dm-event.net^
 ||perr.h-cdn.com^
 ||pixel.quantserve.com^
-||pixel.reddit.com^
-||pixel.redditmedia.com^
 ||play.google.com/log?$redirect=noop.txt,subdocument,stylesheet,script,xmlhttprequest,other
-||play.google.com/newsstand/api/*/people/me/analytics^
 ||play.googleapis.com/log|
 ||play.googleapis.com/play/log^
 ||player.vimeo.com/log
@@ -696,16 +649,15 @@ _tracking.php?b=
 ||pornhub.com/pix.php?s=
 ||qualtrics.com^$third-party
 ||reutersmedia.net/resources_v*/js/*-track
-||sa.bbc.com^
+! ||sa.bbc.com^
 ||sc.metrics-shell.com^
-||sdk.stats-locations.com^
-||sdks.stats-locations.com^
-||sitestats.info^$third-party
-||spotify.com/ads/
+! ||sdk.stats-locations.com^
+! ||sdks.stats-locations.com^
+! ||sitestats.info^$third-party
+! ||spotify.com/ads/
 ||ssa.eurosport.com^
 ||ssa.eurosportplayer.com^
-||ssl-google-analytics.l.google.com^
-||static.yandex.net/browser-updater/stripe/script.js
+! ||static.yandex.net/browser-updater/stripe/script.js
 ||stats.ebay.com^
 ||stats.paypal.com^
 ||subscribe.washingtonpost.com/acquisition/views/tracking
@@ -718,18 +670,14 @@ _tracking.php?b=
 ||xlog-va.tiktokv.com^
 ! end TikTok
 ||trackersimulator.org^
-||wix.com/_api/blog-social-counters/
-||youtube.com/gen_204
 ||youtube.com/player_204?
 ! Canvas LMS tracking
 ||canvas.*.edu/page_views
 ||canvas.*.edu.*/page_views
 ||canvas.*.ac.*/page_views
-.instructure.com/page_views
 ||canvas.*.edu/api/v1/courses/*/ping
 ||canvas.*.edu.*/api/v1/courses/*/ping
 ||canvas.*.ac.*/api/v1/courses/*/ping
-.instructure.com/api/v1/courses/*/ping
 !
 !
 !
