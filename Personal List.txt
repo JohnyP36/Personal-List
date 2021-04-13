@@ -2,7 +2,7 @@
 ! Description: ...
 ! Expires 1 day
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
-! Last modified: 9-4-2021 06:55 UTC
+! Last modified: 13-4-2021 12:55 UTC
 !
 ! This list contains 3 list.
 ! The first list is a forked Easylist Dutch,
@@ -645,7 +645,6 @@ _tracking.php?b=
 ||play.googleapis.com/log|
 ||play.googleapis.com/play/log^
 ||player.vimeo.com/log
-||plista.com/async/$3p
 ||pornhub.com/pix.php?s=
 ||qualtrics.com^$third-party
 ||reutersmedia.net/resources_v*/js/*-track
