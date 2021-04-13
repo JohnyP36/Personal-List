@@ -143,7 +143,6 @@ _tracking.php?b=
 ||play.googleapis.com/log|
 ||play.googleapis.com/play/log^
 ||player.vimeo.com/log
-||plista.com/async/$3p
 ||pornhub.com/pix.php?s=
 ||qualtrics.com^$third-party
 ||reutersmedia.net/resources_v*/js/*-track
