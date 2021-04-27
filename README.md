@@ -1,5 +1,6 @@
 # Personal-List
 I made this list for personal use. 
+It is recommended to use _Personal List_ with the default filterlists in [uBlock Origin](https://github.com/uBlockOrigin/uAssets).
 [This "Persosal" list](https://github.com/JohnyP36/Personal-List/blob/main/Personal%20List.txt) contains the following filterlists:
 
 ## [EasyList Dutch](https://github.com/JohnyP36/Personal-List/tree/main/easylistdutch)
@@ -17,9 +18,4 @@ Rules copied from Adguard Spyware and Adguard Spyware [Dutch].
 See the **important** note above!
 
 ## [Nano anti-adblock](https://github.com/JohnyP36/Personal-List/blob/main/Nano%20anti-Adblock.txt)
-Because the famous Nano filterlist are archieved I copied the most usefull rules in regard to anti-adblock
-
-
-
-
-It can recommended to use _Personal List_ with the default filterlists in [uBlock Origin](https://github.com/uBlockOrigin/uAssets).
+Because the famous Nano filterlist are archieved I copied the most usefull rules in regard to anti-adblock.
