@@ -19,4 +19,7 @@ See the **important** note above!
 ## [Nano anti-adblock](https://github.com/JohnyP36/Personal-List/blob/main/Nano%20anti-Adblock.txt)
 Because the famous Nano filterlist are archieved I copied the most usefull rules in regard to anti-adblock
 
+
+
+
 It can recommended to use _Personal List_ with the default filterlists in [uBlock Origin](https://github.com/uBlockOrigin/uAssets).
