@@ -21,4 +21,4 @@ Rules copied from Adguard Spyware and Adguard Spyware [Dutch].
 See the **important** note above!
 
 ## [Nano anti-adblock](https://github.com/JohnyP36/Personal-List/blob/main/Nano%20anti-Adblock.txt)
-Because the famous Nano filterlist are archieved I copied the most usefull rules in regard to anti-adblock.
+Because the famous Nano filterlists are archieved I copied the most usefull rules in regard to anti-adblock.
