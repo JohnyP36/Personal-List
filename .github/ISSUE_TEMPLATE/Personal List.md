@@ -1,3 +1,8 @@
+---
+name: EasyList Dutch 
+about: Use this template for issues regarding EasyList Dutch filters.
+
+---
 <!-- Replace the bracketed [...] placeholders with your own information. -->
 
 <!-- Any additions, changes or removals is at the Authors discretion. 
