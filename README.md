@@ -1,7 +1,9 @@
 # Personal-List
 I made this list for personal use. 
 
-It is recommended to use _Personal List_ with the default filterlists in [uBlock Origin](https://github.com/uBlockOrigin/uAssets). 
+It is recommended to use _Personal List_ with the default filterlists in [uBlock Origin](https://github.com/uBlockOrigin/uAssets) or Adguard. 
+
+Special for uBo syntax (and Adguard) is [this list](https://github.com/JohnyP36/Personal-List/blob/main/Personal%20List%20(uBo).txt)
 
 [This "Persosal" list](https://github.com/JohnyP36/Personal-List/blob/main/Personal%20List.txt) contains the following filterlists:
 
