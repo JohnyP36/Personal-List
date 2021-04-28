@@ -14,11 +14,8 @@ Old filters which are confirmed to still be required must be moved to the top of
 
 ``
 ! https://github.com/JohnyP36/Personal-List/issues/7777 
-
-||data.inertanceretinallaurel.com^
-
-! 2021-04-27
-
+||data.inertanceretinallaurel.com^  
+! 2021-04-27  
 ||androidplanet.nl,iphoned.nl##.dynamic-content-native
 ``
 
