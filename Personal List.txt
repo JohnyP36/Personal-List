@@ -502,6 +502,7 @@ forum.fok.nl#@##advertentie
 !==================== SECOND LIST ====================!
 !--Adguard Tracking Protection--!
 !! this is a list I made to check the differences between Adguard Spyware and Fanboy Complete List
+! https://github.com/JohnyP36/Personal-List/blob/main/other%20lists/Adguard%20Spyware%20%5BDutch%5D.txt
 !==what this list contains==!
 ! It contains some filterrules from Adguard Spyware that aren't in Fanboy Complete
 ! It also contains some rules that were used when I browsed done the web
@@ -599,5 +600,5 @@ _tracking.php?b=
 !
 !==================== THIRD LIST ====================!
 ! Rules copied from Nano Defender Intergration - https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender.txt  [44 rules]
-! https://github.com/JohnyP36/Personal-List/blob/main/Nano%20anti-Adblock.txt
+! https://github.com/JohnyP36/Personal-List/blob/main/other%20lists/Nano%20anti-Adblock.txt
 !Not in use, because anti-adblock rules should be made per site/domain basis
