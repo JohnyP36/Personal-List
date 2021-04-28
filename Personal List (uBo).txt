@@ -66,7 +66,7 @@
 !==what this list contains==!
 ! It contains some filterrules from Adguard Spyware that aren't in Fanboy Complete
 ! It also contains some rules that were used when I browsed done the web
-!#include other lists/Adguard Spyware [Dutch].txt
+!#include other%20lists/Adguard%20Spyware%20%5BDutch%5D.txt
 !
 !
 !
