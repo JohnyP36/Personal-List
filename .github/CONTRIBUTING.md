@@ -1,6 +1,6 @@
 ### Filter lists
 
-##### Ordening of filers 
+#### Ordening of filers 
 
 New filter must be added at the top of the list. 
 
