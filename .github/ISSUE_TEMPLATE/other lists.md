@@ -1,6 +1,6 @@
 ---
 name: Other lists 
-about: Use this template if you have an issue with [Adguard Spyware (Dutch)](https://github.com/JohnyP36/Personal-List/blob/main/other%20lists/Adguard%20Spyware%20%5BDutch%5D.txt) and [Nano anti-Adblock](https://github.com/JohnyP36/Personal-List/blob/main/other%20lists/Nano%20anti-Adblock.txt).
+about: Use this template if you have an issue with Adguard Spyware (Dutch) and Nano anti-Adblock
 
 ---
 <!-- Replace the bracketed [...] placeholders with your own information. -->
