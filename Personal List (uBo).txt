@@ -1,0 +1,76 @@
+! Title: Personal List
+! Description: My own supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
+! Expires 1 days (update frequency)
+! Github issues: https://github.com/JohnyP36/Personal-List/issues
+! Last modified: 28-4-2021 5:15 UTC
+!
+! This list contains 3 list.
+! The first list is a forked Easylist Dutch,
+!  because the original list is outdated and they don't update it often
+!
+! The second one is a forked Adguard Tracking Procetion
+! In that list I removed everything that EasyList + EasyPrivacy + Fanboy Enhanced Tracking already contained
+! And it has an extra section for Dutch domains
+!
+! The last list is a forked Nano Defender Intergration
+! I added this list for anti-adblock
+!
+!
+!===================== FIRST LIST =====================!
+! EasyList Dutch
+!
+! Alleen voor advertenties op Nederlandstalige sites!
+! Rapporteer gevonden advertenties of fouten op Github!
+!--------Algemene blokkeerregels--------!
+!#include easylistdutch/block_general.txt
+!
+!--------Advertentiedomeinen (derden)--------!
+!#include easylistdutch/block_third_party_server.txt
+!
+!--------Advertentiedomeinen--------!
+!#include easylistdutch/block_first_party_server.txt
+!
+!--------Specifieke blokkeerregels (derden)--------!
+!#include easylistdutch/block_third_party_resource.txt
+!
+!--------Specifieke blokkeerregels--------!
+!#include easylistdutch/block_first_party_resource.txt
+!
+!--------Popups (derden)--------!
+!#include easylistdutch/block_third_party_popup.txt
+!
+!--------Popups--------!
+!#include easylistdutch/block_first_party_popup.txt
+!
+!--------Uitzonderingen (derden)--------!
+!#include easylistdutch/block_third_party_whitelist.txt
+!
+!--------Uitzonderingen--------!
+!#include easylistdutch/block_first_party_whitelist.txt
+!
+!--------Algemene verbergregels--------!
+!#include easylistdutch/hide_general.txt
+!
+!--------Specifieke verbergregels--------!
+!#include easylistdutch/hide_specific.txt
+!
+!--------Uitzonderingen (verbergregels)--------!
+!#include easylistdutch/hide_whitelist.txt
+!
+!
+!
+!==================== SECOND LIST ====================!
+!--Adguard Tracking Protection--!
+!! this is a list I made to check the differences between Adguard Spyware and Fanboy Complete List
+! https://github.com/JohnyP36/Personal-List/blob/main/other%20lists/Adguard%20Spyware%20%5BDutch%5D.txt
+!==what this list contains==!
+! It contains some filterrules from Adguard Spyware that aren't in Fanboy Complete
+! It also contains some rules that were used when I browsed done the web
+!#include other lists/Adguard Spyware [Dutch].txt
+!
+!
+!
+!==================== THIRD LIST ====================!
+! Rules copied from Nano Defender Intergration - https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender.txt  [44 rules]
+! https://github.com/JohnyP36/Personal-List/blob/main/other%20lists/Nano%20anti-Adblock.txt
+!#include other lists/Nano anti-Adblock.txt
