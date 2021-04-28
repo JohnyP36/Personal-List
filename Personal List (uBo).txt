@@ -73,4 +73,4 @@
 !==================== THIRD LIST ====================!
 ! Rules copied from Nano Defender Intergration - https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender.txt  [44 rules]
 ! https://github.com/JohnyP36/Personal-List/blob/main/other%20lists/Nano%20anti-Adblock.txt
-!#include other lists/Nano anti-Adblock.txt
+!#include other%20lists/Nano%20anti-Adblock.txt
