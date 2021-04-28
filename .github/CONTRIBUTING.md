@@ -27,3 +27,6 @@ Keep it simple. Put in the title box `A:` for adding a site, `C` for changing a 
 Put here after the site url. Example `mediamarkt.nl` ~~`https://www.mediamarkt.nl/view/`~~. At the end put the issue number. 
 
 So `A: mediamarkt.nl #7`. The issue itself will contains all the details.
+
+
+###### *[Futher info](https://github.com/BPower0036/AdBlockFilters/issues/3)*
