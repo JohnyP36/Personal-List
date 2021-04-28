@@ -28,5 +28,4 @@ Put here after the site url. Example `mediamarkt.nl` ~~`https://www.mediamarkt.n
 
 So `A: mediamarkt.nl #7`. The issue itself will contains all the details.
 
-
 ###### *[Futher info](https://github.com/BPower0036/AdBlockFilters/issues/3)*
