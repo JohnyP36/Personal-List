@@ -31,8 +31,8 @@ To avoid being banned, don't constantly re-open or create new (related) issue re
 <!-- [Screenshot(s) for difficult to describe visual issues are **mandatory**. Post links instead of **Inline Images** for Screenshots containing **Adult material**.] -->
 
 ### Versions
-- Browser/version: ****[here]***,*[here]*
-- Extension name / version: ****[here]***,*[here]*
+- Browser/version: **[here]**,*[here]*
+- Extension name / version: **[here]**,*[here]*
 
 ### Notes
 <!-- [Add here the result of whatever investigation work you have done: please investigate the issues you report -- this prevents burdening other volunteers. This is especially true for issues arising from settings which are very different from default ones.] -->
