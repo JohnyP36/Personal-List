@@ -1,4 +1,4 @@
-### Filter lists
+## Filter lists
 
 #### Ordening of filers 
 
@@ -12,12 +12,10 @@ Old filters which are confirmed to still be required must be moved to the top of
 
 **All** added filters must be associated with a formal issue number or date, example:
 
-``
-! https://github.com/JohnyP36/Personal-List/issues/7777 
-||data.inertanceretinallaurel.com^  
-! 2021-04-27  
-||androidplanet.nl,iphoned.nl##.dynamic-content-native
-``
+>! https://github.com/JohnyP36/Personal-List/issues/7777 
+>||data.inertanceretinallaurel.com^  
+>! 2021-04-27  
+>||androidplanet.nl,iphoned.nl##.dynamic-content-native
 
 This way this documents why a filter was added, and how to verify whether an old filter is still needed. The comment line preceding the filter(s) to solve a specific issue should be only a URL to the issue. The issue itself can contains all the details about how the issue was solved, and why it was solved this way, etc.
 
