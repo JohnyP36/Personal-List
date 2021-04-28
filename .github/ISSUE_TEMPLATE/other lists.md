@@ -24,7 +24,7 @@ To avoid being banned, don't constantly re-open or create new (related) issue re
     - [ ] uBlock Origin with default lists/settings
     - [ ] using a new, unmodified browser profile
 - [ ] I am running the latest version of uBlock Origin (or Adguard or Adblock Plus, etc.)
-- [ ] This is not an `NSFW` issue. 
+- [ ] This is an `NSFW` issue. 
        - If it is, put "NSFW" in the title of your issue
 
 ### URL(s) where the issue occurs
