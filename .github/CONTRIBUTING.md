@@ -28,4 +28,4 @@ Put here after the site url. Example `mediamarkt.nl` ~~`https://www.mediamarkt.n
 
 So `A: mediamarkt.nl fix #7`. The issue itself will contains all the details.
 
-###### *[Futher info](https://github.com/BPower0036/AdBlockFilters/issues/3)*
+###### *[Futher info](https://github.com/BPower0036/AdBlockFilters/issues/3)* and *[Wiki - Static filer Syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#scriptinject)*
