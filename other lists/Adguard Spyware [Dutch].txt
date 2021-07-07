@@ -2,93 +2,26 @@
 !! this is a list I made to check the differences between Adguard Spyware and Fanboy Complete List
 !==what this list contains==!
 ! It contains some filterrules from Adguard Spyware that aren't in Fanboy Complete
-! It also contains some rules that were used when I browsed done the web
-###qoo-counter
-###top100counter
-.cloudfront.net/br?tid=
-.com/hit-increment/
 .demdex.net/id^$redirect=noop.txt,important,subdocument,stylesheet,script,xmlhttprequest,other
-.instructure.com/api/v1/courses/*/ping
-.instructure.com/page_views
-/.well-known/private-click-measurement
-/?mailoptin-ajax=track_optin_impression
-/__Analytics-Start?url=
-/alog.mobile.min.js
-/bbtstats/*
-/beacon.php?
-/beacon.php3?
-/bpix.bmp?b=
-/cb-pixel.gif?
-/cdn-cgi/pe/bag2?r[]=*ps.eyeota.net
-/cdn-cgi/pe/bag2?r[]=*whos.amung.us
-/clicktrack/*
-/common/tracking/webtrekk
-/cp2.gif?
-/exactag_clientside.js
-/images/top100.gif
-/json/count?
-/metrics/log-
-/mip-stats-cnzz/*
-/mms/get_site_js?*abp=
-/mooc/controllers/course_ajax.php
-/mpss/o/*$image
-/open.html?x=$image
-/page_beacon.gif?
-/pixel/?block_id=*&hash=*&host=
-/plista.js
-/pv?u=$image
-/pvcountup.
-/RankingLogging.
-/rd-js-integration.min.js
-/rdstation-popup.min.js
-/sayac.html
-/smarttag_PROD.js
-/stats.php?*event=$image
-/tealeaf.config.js
-/tealeafTarget2.html
-/umami.js
-/visilabs.min.js
-/watch.*.js?key=*&kw=*&refer=
-/webservices/remoteModulesTracker.php
-/wp-content/plugins/asmb-tracking/*
-/wp-content/plugins/pageviews/pageviews.js
-/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/geoPosition.js
-/xtcore-*.js
-/zz.gif?url=
-://ct1.*.com/sc/
-://ct2.*.com/sc/
-://tracker.*/events-tracker/
-_tracking.php?b=
-||adblockanalytics.com^$third-party
-||analytics.callbell.eu^
-||amazon.com^*/impress.html
+||analytics.webads.eu^
+   !webads.eu^$third-party in Fanboy
 ||c00.adobe.com^$redirect=noop.txt,subdocument,stylesheet,script,xmlhttprequest,other
-||collect-elb-*.amazonaws.com^$redirect=noop.txt,subdocument,stylesheet,script,xmlhttprequest,other
-||dailymotion.com^*/log/
+||c.dpgmedia.net^$third-party
 ||data.adobedc.net^$third-party
 ||device-metrics-us*.amazon.com^$redirect=noop.txt,subdocument,stylesheet,script,xmlhttprequest,other
 ||do-not-tracker.org^
 ||eviltracker.net^
-||geo.mozilla.org^
-||geoiplookup.wikimedia.org^
-||go.morningstar.com^
-||google.com/apis/gpf_metrics?
-||google.com/images/phd/gfl.gif
-||googleoptimize.com/optimize.js$third-party
-||intake-logging.wikimedia.org^
-||p.typekit.net^$3p
+||jwpltx.com^$third-party
+||p.typekit.net^$third-party
 ||perr.h-cdn.com^
+   !||perr.h-cdn.com^$third-party in Fanboy
 ||pixel.quantserve.com^
-||play.google.com/log?$redirect=noop.txt,subdocument,stylesheet,script,xmlhttprequest,other
+   !||quantserve.com/pixel; + ||quantserve.com/pixel/$third-party in Fanboy
 ||play.googleapis.com/log|
 ||play.googleapis.com/play/log^
+||quantserve.com^$script,third-party
+   !/quantserve.com/* + ||quantserve.com^$~third-party in Fanboy
 ||qualtrics.com^$third-party
+!||taboola.com^$3p
 ||trackersimulator.org^
 ||youtube.com/player_204?
-! Canvas LMS tracking
-||canvas.*.edu/page_views
-||canvas.*.edu.*/page_views
-||canvas.*.ac.*/page_views
-||canvas.*.edu/api/v1/courses/*/ping
-||canvas.*.edu.*/api/v1/courses/*/ping
-||canvas.*.ac.*/api/v1/courses/*/ping
