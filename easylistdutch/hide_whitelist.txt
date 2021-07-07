@@ -15,7 +15,6 @@ comedycentral.nl#@##bannerad
 digitekst.com#@#.adTitle
 emarketingexperts.nl#@#.adwords
 forum.fok.nl#@#.adfieldbg
-hotcontact.nl,xxxplaza.nl#@#.adlink
 kamernet.nl#@#.topAdd
 kinderspelletjes.nl#@##adframe:not(frameset)
 landleven.nl#@#.post-ad
@@ -29,7 +28,6 @@ vakantieplaats.nl#@#.topAds
 voetbalnieuws.be#@#a[href^="http://adserving.unibet.com/"]
 wereldklokken.nl#@#.adsbygoogle
 xxxplaza.nl#@##ad_right
-xxxplaza.nl#@##adcontainer
 zeelandnet.nl#@#.ad-card
 !Anti-Adblock
 directwonen.nl#@#.adsbox
