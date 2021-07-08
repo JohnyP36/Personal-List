@@ -1,8 +1,8 @@
-||banner.klikklik.nl^
-||banners.toeto.com^
+/^https?:\/\/temptation.(bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc).(nl|be)/
+||adverteren.rd.nl^
+||aj1716.online^
 ||banners.utilo.nl^
 ||bnr.agf.nl^
-||cdn.ster.nl/banners^
-||data-ssl.stepstone.nl^
-||ganaar.gertibaldi.com^
+||content1.pcmweb.nl^
+||content2.nrc.nl^
 ||mooieplaatjes.bierdopje.com^
