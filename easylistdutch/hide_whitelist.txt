@@ -1,4 +1,4 @@
-autodealers.nl,speurders.nl,xxxplaza.nl#@##advertentie
+autodealers.nl,speurders.nl#@##advertentie
 blikopnieuws.nl,computeridee.nl#@#.reclame
 drenthemobiel.nl,flevolandmobiel.nl,gelderlandmobiel.nl,groningenmobiel.nl,limburgmobiel.nl,marktplaza.nl,moorslede.be,nederlandmobiel.nl,noord-brabantmobiel.nl,noord-hollandmobiel.nl,overijsselmobiel.nl,paginamarkt.nl,sexjobs.nl,utrechtmobiel.nl,zeelandmobiel.nl,zuid-hollandmobiel.nl#@#.advertentie
 ! Uitzonderingen voor EasyList
@@ -13,6 +13,7 @@ bokt.nl#@#.ad-body
 bokt.nl#@#.node-ad
 comedycentral.nl#@##bannerad
 digitekst.com#@#.adTitle
+directwonen.nl#@#.top-advert
 emarketingexperts.nl#@#.adwords
 forum.fok.nl#@#.adfieldbg
 kamernet.nl#@#.topAdd
@@ -29,7 +30,3 @@ voetbalnieuws.be#@#a[href^="http://adserving.unibet.com/"]
 wereldklokken.nl#@#.adsbygoogle
 xxxplaza.nl#@##ad_right
 zeelandnet.nl#@#.ad-card
-!Anti-Adblock
-directwonen.nl#@#.adsbox
-fok.nl#@#.advertentie
-forum.fok.nl#@##advertentie
