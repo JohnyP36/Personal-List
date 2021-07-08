@@ -2,11 +2,13 @@
 
 #### Ordening of filers 
 
-New filter must be added at the top of the list. 
+New filter must be added on the top of each list. 
 
 The reason is to provide an easy way to check whether a filter is still relevant. The filters at the end of the file will be the oldest filters, and also the most likely to maybe be obsolete. 
 
 Old filters which are confirmed to still be required must be moved to the top of the list. 
+
+**Note in addition to above: everything has to be in an *alphabetic* order!**
 
 #### Issue number association 
 
