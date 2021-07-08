@@ -1,3 +1,6 @@
+!#if env_mobile
+nudeviste.be,nudevista.nl
+!#endif##.mob_adv
 112achterhoek-nieuws.nl###sidebar
 18plussexdating.nl##.homebanner
 247spice.com##.elementor-element-2da19501 + .elementor-element-6406e483
@@ -171,6 +174,8 @@ leiderdorpsweekblad.nl##.adUnderArticle
 loemedia.nl###text-17
 loemedia.nl##div.ppb_header.withsmallpadding.one:has(:has-text(Advertentie))
 loemedia.nl##div.ppb_header.withsmallpadding.one:has(:has-text(Banner))
+luchtvaartnieuws.nl##.block-block >.content:has([id^="div-gpt-ad"])
+luchtvaartnieuws.nl##.block-block >.content:has(.adsbygoogle)
 m.radioluisteren.fm###adsense
 maaslandradio.nl##[id^="media_image"]:has-text(Advertentie)
 made-in.be###leaderboard_row
@@ -225,9 +230,6 @@ nu.nl###header > .zone
 nu.nl##a[href*="/advertorial-"]
 nu.nl##div.articlelist[data-section="advertorial-belastingdienst-adverteerder"]
 nu.nl##div[data-type="tealium"]
-!#if env_mobile
-nudeviste.be,nudevista.nl##.mob_adv
-!#endif
 oisterwijknieuws.nl###left-sidebar
 oisterwijknieuws.nl###right-sidebar
 okemedia.nl##[id^="custom_html"]:has(img[src*="banner"])
