@@ -1,12 +1,13 @@
 .arnostat.nl/click.
+-Ad-360.
 -reclameplaatjes/
 /adbron.
 /adtwee/*
 /adv_tekstlinks.
 /adverteerders/*
 /advertentie-banner-
-/advertentie.$domain=~2dehands.be|~anzeigen-aufgabe-alpha.de|~anzeigen-aufgabe-beta.de|~anzeigen-aufgabe-test.de|~rd.nl
-/advertentie/*$domain=~2dehands.be|~anzeigen-aufgabe-alpha.de|~anzeigen-aufgabe-beta.de|~anzeigen-aufgabe-test.de|~rd.nl
+/advertentie.
+/advertentie/*
 /advertentie1.
 /advertentie2/*
 /advertentie_head.
@@ -17,7 +18,11 @@
 /bannerlookup.
 /big_reclames/*
 /bolcom-partnerprogramma-wordpress-plugin/*
+/css/branding.css$3p
+/gaslicht/header300x20.png$image
+/gaslicht/gaslicht*$subdocument
 /img/recl/*
+/mediahuis-ads/*$~css
 /nmc/adv/*
 /pebble-adhese.
 /prikbordAdvertentie_
