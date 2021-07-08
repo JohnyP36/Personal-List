@@ -23,19 +23,19 @@
 ! Alleen voor advertenties op Nederlandstalige sites!
 ! Rapporteer gevonden advertenties of fouten op Github!
 !--------Algemene blokkeerregels--------!
-!#include easylistdutch/block_general.txt
+!#include easylistdutch/Block%20(general).txt
 !
 !--------Advertentiedomeinen (derden)--------!
-!#include easylistdutch/block_third_party_server.txt
+!#include easylistdutch/Block%203p%20(server).txt
 !
 !--------Advertentiedomeinen--------!
-!#include easylistdutch/block_first_party_server.txt
+!#include easylistdutch/Block%201p%20(server).txt
 !
 !--------Specifieke blokkeerregels (derden)--------!
-!#include easylistdutch/block_third_party_resource.txt
+!#include easylistdutch/Block%203p%20(specific).txt
 !
 !--------Specifieke blokkeerregels--------!
-!#include easylistdutch/block_first_party_resource.txt
+!#include easylistdutch/Block%201p%20(specific).txt
 !
 !--------Popups (derden)--------!
 !#include easylistdutch/block_third_party_popup.txt
@@ -44,19 +44,22 @@
 !#include easylistdutch/block_first_party_popup.txt
 !
 !--------Uitzonderingen (derden)--------!
-!#include easylistdutch/block_third_party_whitelist.txt
+!#include easylistdutch/Block%203p%20(whitelist).txt
 !
 !--------Uitzonderingen--------!
-!#include easylistdutch/block_first_party_whitelist.txt
+!#include easylistdutch/Block%201p%20(whitelist).txt
 !
 !--------Algemene verbergregels--------!
-!#include easylistdutch/hide_general.txt
+!#include easylistdutch/Hide%20(general).txt
 !
 !--------Specifieke verbergregels--------!
-!#include easylistdutch/hide_specific.txt
+!#include easylistdutch/Hide%20(specific).txt
 !
 !--------Uitzonderingen (verbergregels)--------!
-!#include easylistdutch/hide_whitelist.txt
+!#include easylistdutch/Hide%20(whitelist).txt
+!
+!-----------------Anti-AdBlock-----------------!
+!#include easylistdutch/Anti-AdBlock.txt
 !
 !
 !
