@@ -19,6 +19,7 @@
 ||chainadvertising.eu^$script,domain=kinkymedia.nl
 ||cinkeltrading.nl/pics/*.gif$domain=cumcams.nl
 ||custom.islive.nl/_respo/*.gif$image,domain=camsex.nl
+||denieuwepraktijk.nl/zoic/kaart-coronatestlocaties.svg$domain=groningerkrant.nl
 ||digitalaudience.io/bakery/pix/$image,third-party
 ||disqus.com/recommendations/$subdocument,domain=webmastersunited.com
 ||dutchitchannel.nl/media/6*/*.jpg$third-party
