@@ -1,3 +1,9 @@
 name: EasyList Dutch
 description: Use this template for issues regarding EasyList Dutch filters.
-
+body:
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      description: Check the appropriate boxes before you submit your issue
+      options:
+        - label: This is a **Dutch** domain, so no general websites with Dutch subdomains (e.g. nl.y8.com)
