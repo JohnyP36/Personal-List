@@ -1,5 +1,5 @@
 name: (NSFW) EasyList Dutch
-description: Use this template for issues regarding `EasyList Duth` filters *which are NSFW**
+description: Use this template for issues regarding `EasyList Duth` filters **which are NSFW**
 title: "`NSFW`: "
 labels: [NSFW]
 body:
