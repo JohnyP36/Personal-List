@@ -26,13 +26,13 @@ body:
         - label: I have/had [EasyList](https://easylist.to/easylist/easylist.txt) and [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt) enabled
           required: true
         - label: | 
-            Other privacy related webextensions are disabled
+            Other privacy related webextensions are disabled  --  
             *This is to ensure there are no issues or conflicts with other webbrowser extensions*
           required: true
         - label: I am running the latest version of uBlock Origin (or Adguard or Adblock Plus, etc.)
           required: false
         - label: | 
-            This is not an `NSFW` issue
+            This is not an `NSFW` issue  --  
             *If it is an "NSFW" issue use this [issue template]()*
           required: true
           
