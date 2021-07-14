@@ -1,4 +1,4 @@
-name: [NSFW] EasyList Dutch
+name: (NSFW) EasyList Dutch
 description: Use this template for issues regarding `EasyList Duth` filters *which are NSFW**
 title: "`NSFW`: "
 labels: [NSFW]
@@ -20,8 +20,8 @@ body:
         - label: I performed a [cursory search of the issue tracker](https://github.com/JohnyP36/Personal-List/issues) to avoid opening a duplicate issue
           required: true
        - label: | 
-           This is not an `NSFW` issue  --  
-           *If it is an "NSFW" issue use this [issue template]()*
+           This is an `NSFW` issue  --  
+           *If it is **not** an "NSFW" issue use this [issue template](https://github.com/JohnyP36/Personal-List/issues/new?assignees=&labels=&template=easylistdutch.yml)*
          required: true
           
   - type: checkboxes
