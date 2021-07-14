@@ -20,7 +20,7 @@ body:
         - label: I tried to reproduce the issue when...
           required: true
           options:
-            - label: [EasyList](https://easylist.to/easylist/easylist.txt) and [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt) are enabled
+            - label: I have/had [EasyList](https://easylist.to/easylist/easylist.txt) and [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt) enabled
               required: true
             - label: Other privacy related webextensions are disabled
               description: This is to ensure there are no issues or conflicts with other webbrowser extensions
