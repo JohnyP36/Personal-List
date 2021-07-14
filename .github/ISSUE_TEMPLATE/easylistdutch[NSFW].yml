@@ -1,1 +1,115 @@
+name: [NSFW] EasyList Dutch
+description: Use this template for issues regarding `EasyList Duth` filters *which are NSFW**
+title: "`NSFW`: "
+labels: [NSFW]
+body:
+  - type: markdown
+    attributes:
+      value: | 
+        Any additions, changes or removals is at the Authors discretion. 
+        You're free to counterargue (to a certain point) if you disagree with the decision. 
+        To avoid being banned, don't constantly re-open or create new (related) issue reports.
 
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      description: Check the appropriate boxes before you submit your issue.
+      options:
+        - label: This is a **Dutch** domain, so no general websites with Dutch subdomains (e.g. nl.y8.com)
+          required: true
+        - label: I performed a [cursory search of the issue tracker](https://github.com/JohnyP36/Personal-List/issues) to avoid opening a duplicate issue
+          required: true
+       - label: | 
+           This is not an `NSFW` issue  --  
+           *If it is an "NSFW" issue use this [issue template]()*
+         required: true
+          
+  - type: checkboxes
+    id: name2
+    attributes:
+      label: I tried to reproduce the issue when...
+      options:
+        - label: I have/had [EasyList](https://easylist.to/easylist/easylist.txt) and [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt) enabled
+          required: true
+        - label: | 
+            Other privacy related webextensions are disabled  --  
+            *This is to ensure there are no issues or conflicts with other webbrowser extensions*
+          required: true
+        - label: I am running the latest version of uBlock Origin (or Adguard or Adblock Plus, etc.)
+          required: false
+          
+  - type: textarea
+    attributes:
+      label: URL(s) where the issue occurs
+      description: At least one URL for a web page where the clearly described issue occurs is **mandatory**. 
+        The backticks (`) surrounding the URLs are important, it prevents the URL from being clickable.
+      placeholder: |
+        `example.nl`
+        `xyz.example.nl`
+        `example.com/abc`
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Describe the issue
+      description: Be as clear as possible. Nobody can read mind, and nobody is looking at your issue over your shoulder.
+      placeholder: Just a description of the issue when you visit the site. Or steps on reproducing this.
+    validations: 
+      required: true
+
+  - type: textarea
+    attributes: 
+      label: Screenshot(s)
+      description: |
+        Screenshot(s) for difficult to describe visual issues are **mandatory**.
+        **Post links instead of Inline Images for Screenshots containing Adult material.**
+    validations: 
+      required: false
+
+  - type: dropdown
+    attributes: 
+      label: Browser name
+      multiple: true
+      options: 
+        - Microsoft Edge
+        - Chrome
+        - Firefox
+        - Safari
+        - Brave
+        - another browser
+    validations:
+      required: true
+  - type: dropdown
+    id: name6
+    attributes:
+      label: Extension name
+      multiple: true
+      options: 
+        - uBlock
+        - Adguard
+        - AdBlock (Plus)
+        - another adblocker
+    validations: 
+      required: true
+  - type: input
+    id: name63
+    attributes: 
+      label: Browser version
+      placeholder: e.g.  91.0.864.67 (Official build) (64-bits)
+  - type: input
+    id: name64
+    attributes:
+      label: Extension version
+      placeholder: e.g.  1.36.0
+
+  - type: textarea
+    attributes: 
+      label: Notes
+      description: | 
+        Add here the result of whatever investigation work you have done: please investigate the issues you report -- this prevents burdening other volunteers. 
+        This is especially true for issues arising from settings which are very different from default ones. 
+        If you suspect certain filters mention it below (this helps spending time to debug it manually).
+      placeholder: Write here the result of whatever investigation work you have done
+    validations: 
+      required: false
