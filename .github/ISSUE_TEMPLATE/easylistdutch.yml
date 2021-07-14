@@ -19,7 +19,10 @@ body:
           required: true
         - label: I performed a [cursory search of the issue tracker](https://github.com/JohnyP36/Personal-List/issues) to avoid opening a duplicate issue
           required: true
-          
+        - label: I am running the latest version of uBlock Origin (or Adguard or Adblock Plus, etc.)
+          required: false
+        - label: This is not an `NSFW` issue  --  *If it is an "NSFW" issue use this [issue template](https://github.com/JohnyP36/Personal-List/issues/new?assignees=&labels=NSFW&template=easylistdutch%5BNSFW%5D.yml&title=%60NSFW%60%3A+)*
+          required: true
   - type: checkboxes
     id: name2
     attributes:
@@ -27,12 +30,13 @@ body:
       options:
         - label: I have/had [EasyList](https://easylist.to/easylist/easylist.txt) and [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt) enabled
           required: true
-        - label: Other privacy related webextensions are disabled  --  *This is to ensure there are no issues or conflicts with other webbrowser extensions*
+        - label: other privacy related webextensions are disabled  --  *This is to ensure there are no issues or conflicts with other webbrowser extensions*
           required: true
-        - label: I am running the latest version of uBlock Origin (or Adguard or Adblock Plus, etc.)
+        - label: uBlock Origin with default lists/settings *if appliable*
           required: false
-        - label: This is not an `NSFW` issue  --  *If it is an "NSFW" issue use this [issue template](https://github.com/JohnyP36/Personal-List/issues/new?assignees=&labels=NSFW&template=easylistdutch%5BNSFW%5D.yml&title=%60NSFW%60%3A+)*
-          required: true
+        - label: using a new, unmodified browser profile
+          required: false
+
           
   - type: textarea
     attributes:
