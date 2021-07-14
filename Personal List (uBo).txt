@@ -63,12 +63,7 @@
 !
 !
 !
-!==================== SECOND LIST ====================!
-!#include other%20lists/Adguard%20Spyware%20%5BDutch%5D.txt
-!
-!
-!
-!==================== THIRD LIST ====================!
+!=================== SECOND LIST ===================!
  ! Because it's more accurate to encounter anti-adblock on site basis, my forked Nano anti-Adblock list is not included.
  ! You can add it by yourself; this is the link: https://raw.githubusercontent.com/JohnyP36/Personal-List/main/other%20lists/Nano%20anti-Adblock.txt
 !!#include other%20lists/Nano%20anti-Adblock.txt
