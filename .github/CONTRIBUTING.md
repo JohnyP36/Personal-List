@@ -32,4 +32,4 @@ Keep it simple.
 
 So `A: mediamarkt.nl fix #7`. The issue itself will contains all the details.
 
-###### *[Resources Library](https://github.com/BPower0036/AdBlockFilters/issues/3)* and *[Wiki - Static filer Syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#scriptinject)*
+###### *[Resources Library](https://github.com/BPower0036/AdBlockFilters/issues/3)* , *[Wiki - Static filer Syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#scriptinject)* and *[Regular Expressions (RegEx) syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet)* are very handy when making new rules.
