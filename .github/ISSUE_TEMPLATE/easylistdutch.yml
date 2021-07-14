@@ -92,11 +92,12 @@ body:
     id: name63
     attributes: 
       label: Browser version
-      description: Browser
+      placeholder: e.g.  91.0.864.67 (Official build) (64-bits)
   - type: input
     id: name64
     attributes:
       label: Extension version
+      placeholder: e.g.  1.36.0
 
   - type: textarea
     attributes: 
