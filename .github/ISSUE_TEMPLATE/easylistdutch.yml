@@ -20,8 +20,8 @@ body:
           id: name12
           required: true
         - label: I tried to reproduce the issue when...
-          id:name13
           required: true
+          id: name13
   - type: checkboxes
     attributes:
       label: " "
