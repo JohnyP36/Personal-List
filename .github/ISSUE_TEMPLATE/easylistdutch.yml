@@ -62,25 +62,25 @@ body:
     attributes: 
       label: Browser + Extension **name**
       description: Browser
-        multiple: true
-        options: 
-          - Microsoft Edge
-          - Chrome
-          - Firefox
-          - Safari
-          - Brave
-          - another browser
+      multiple: true
+      options: 
+        - Microsoft Edge
+        - Chrome
+        - Firefox
+        - Safari
+        - Brave
+        - another browser
     validations:
       required: true
   - type: dropdown
     attributes:
       description: Extension name
-        multiple: true
-        options: 
-          - uBlock
-          - Adguard
-          - AdBlock (Plus)
-          - another adblocker
+      multiple: true
+      options: 
+        - uBlock
+        - Adguard
+        - AdBlock (Plus)
+        - another adblocker
     validations: 
       required: true
   - type: input
