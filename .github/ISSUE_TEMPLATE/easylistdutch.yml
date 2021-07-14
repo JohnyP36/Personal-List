@@ -65,7 +65,7 @@ body:
 
   - type: dropdown
     attributes: 
-      label: Browser *name*
+      label: Browser name
       multiple: true
       options: 
         - Microsoft Edge
@@ -79,7 +79,7 @@ body:
   - type: dropdown
     id: name6
     attributes:
-      label: Extension *name*
+      label: Extension name
       multiple: true
       options: 
         - uBlock
@@ -91,12 +91,12 @@ body:
   - type: input
     id: name63
     attributes: 
-      label: Browser *version*
+      label: Browser version
       description: Browser
   - type: input
     id: name64
     attributes:
-      label: Extension *version*
+      label: Extension version
 
   - type: textarea
     attributes: 
