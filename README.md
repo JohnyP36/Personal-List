@@ -17,11 +17,13 @@ Because the current filterlist [EasyDutch](https://github.com/BPower0036/AdBlock
 
 If you see ads on dutch websites please report it [here](https://github.com/BPower0036/AdBlockFilters/issues).
 
-## *[Adguard Spyware (Dutch)](https://github.com/JohnyP36/Personal-List/blob/main/other%20lists/Adguard%20Spyware%20%5BDutch%5D.txt)*
-Rules copied from Adguard Spyware and Adguard Spyware [Dutch]. 
-
-##### IMPORTANT
-See the **important** note above!
+## *[My filters](https://github.com/JohnyP36/Personal-List/blob/main/other%20lists/My%20filters.txt)*
+Different kind of rule
+ - Rules copied from Adguard Spyware and Adguard Spyware (Dutch)
+ - Blocking of parameters
+ - Blocking of privacy banners on Google and YouTube
+ - Some rules copied from uBlock Privacy and Unbreak
+ - Some rules regarding sites I often visit (both blocking and hiding rules) 
 
 ## *[Nano anti-adblock](https://github.com/JohnyP36/Personal-List/blob/main/other%20lists/Nano%20anti-Adblock.txt)*
 Because the famous Nano filterlists are archieved I copied the most usefull rules in regard to anti-adblock.
