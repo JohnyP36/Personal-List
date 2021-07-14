@@ -1,3 +1,4 @@
+!2021-07-14
 ||123video.nl/alternate
 ||123video.nl/customs/*/assets/images/*.gif
 ||123video.nl/img/banners/
@@ -135,6 +136,7 @@
 ||outdoor-sex.nl/wp-content/uploads/*/Sexindeprovincie-$image
 ||paypro.nl/payproads/
 ||pdd-nos.nl/footer.html
+||poepsexfilmstube.nl/sexdating/sexdating.php$subdocument
 ||poldertube.nl/banners/*/small_banner
 ||popinstituut.nl/wp-content/uploads/2014/02/Huren.nl
 ||pornoexpert.nl/img/950x250_*.gif$image
