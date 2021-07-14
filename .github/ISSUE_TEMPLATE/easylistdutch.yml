@@ -60,8 +60,8 @@ body:
 
   - type: dropdown
     attributes: 
-      label: Browser *and* Extension **name**
-      - description: Browser
+      label: Browser + Extension **name**
+      description: Browser
         multiple: true
         options: 
           - Microsoft Edge
@@ -70,7 +70,11 @@ body:
           - Safari
           - Brave
           - another browser
-      - description: Extension name
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      description: Extension name
         multiple: true
         options: 
           - uBlock
@@ -82,10 +86,10 @@ body:
   - type: input
     attributes: 
       label: Browser + Extension **version**
-      - description: Browser
-      - description: Extension
-    validations: 
-      required: true
+      description: Browser
+  - type: input
+    attributes:
+      description: Extension
 
   - type: textarea
     attributes: 
