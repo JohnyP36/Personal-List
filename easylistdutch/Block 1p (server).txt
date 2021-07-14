@@ -1,4 +1,3 @@
-/^https?:\/\/temptation.(bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc).(nl|be)/
 ||adverteren.rd.nl^
 ||aj1716.online^
 ||banners.utilo.nl^
