@@ -60,7 +60,7 @@ body:
 
   - type: dropdown
     attributes: 
-      label: Browser + Extension **name**
+      label: Browser *and* Extension **name**
       - description: Browser
         multiple: true
         options: 
@@ -82,10 +82,8 @@ body:
   - type: input
     attributes: 
       label: Browser + Extension **version**
-      - description: |
-          Browser
-      - description: |
-          Extension
+      - description: Browser
+      - description: Extension
     validations: 
       required: true
 
