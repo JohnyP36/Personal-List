@@ -34,6 +34,6 @@ To avoid being banned, don't constantly re-open or create new (related) issue re
 - Extension name / version: **[here]**,*[here]*
 
 ### Notes
-[Add here the result of whatever investigation work you have done: please investigate the issues you report -- this prevents burdening other volunteers. This is especially true for issues arising from settings which are very different from default ones.]
-[If you suspect certain filters (this helps spending time to debug it manually).]
-[If you have a screenshot of the issue or advert, this will help to highlight it.]
+[Add here the result of whatever investigation work you have done: please investigate the issues you report -- this prevents burdening other volunteers. This is especially true for issues arising from settings which are very different from default ones. 
+If you suspect certain filters (this helps spending time to debug it manually).
+If you have a screenshot of the issue or advert, this will help to highlight it.]
