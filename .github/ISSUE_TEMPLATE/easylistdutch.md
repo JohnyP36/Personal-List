@@ -10,7 +10,9 @@ You're free to counterargue (to a certain point) if you disagree with the decisi
 To avoid being banned, don't constantly re-open or create new (related) issue reports.
 -->
 
-<!-- Just include the website URL in the Title line of this issue report -->
+<!-- Just include the website URL in the Title line of this issue report 
+with an `A` if you want to add a rule; a `C` if you want to change a rule; a `R` if you want to remove a rule.
+-->
 
 ### Prerequisites
 <!-- Check the appropriate boxes before you submit your issue -->
