@@ -1,3 +1,4 @@
+!2021-07-14
 !#if env_mobile
 nudeviste.be,nudevista.nl
 !#endif##.mob_adv
@@ -261,6 +262,7 @@ pcmweb.nl##.site__sidebar > .block:has(div.banner)
 pcmweb.nl##div.block:has([id^="div-gpt-ad"])
 pcmweb.nl##div.block:has-text(Vacatures)
 petities.com###visible_ad_1
+poepsexfilmstube.nl###tracking-url
 pornokartel.nl##.video-block-happy
 pornokartel.nl##[href*="pornokartel.nl/adverteren"]
 pornolekker.nl##[class^="Scl"]:has([src^="//ads"])
@@ -316,6 +318,7 @@ sex-kamer.nl##.adHomePage
 sex-kamer.nl##.videoOverAdBig
 sexpower.nl###pre-footer-banners
 sexpower.nl###top-banner
+sexpunt.nl###top:has(.banner)
 sexylingerie-winkel.be##.homepage-seo-footer
 shespot.nl##[id^="text"]:has([src^="https://www.shespot.nl/wp-content/uploads/"])
 slam.nl##.holder-ads
