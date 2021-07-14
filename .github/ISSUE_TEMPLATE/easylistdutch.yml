@@ -1,5 +1,5 @@
 name: EasyList Dutch
-about: Use this template for issues regarding `EasyList Duth` filters
+description: Use this template for issues regarding `EasyList Duth` filters
 body:
   - type: markdown
     attributes:
@@ -14,28 +14,40 @@ body:
       description: Check the appropriate boxes before you submit your issue.
       options:
         - label: This is a **Dutch** domain, so no general websites with Dutch subdomains (e.g. nl.y8.com)
+          id: name11
           required: true
         - label: I performed a [cursory search of the issue tracker](https://github.com/JohnyP36/Personal-List/issues) to avoid opening a duplicate issue
+          id: name12
           required: true
         - label: I tried to reproduce the issue when...
+          id:name13
           required: true
-          options:
-            - label: I have/had [EasyList](https://easylist.to/easylist/easylist.txt) and [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt) enabled
-              required: true
-            - label: Other privacy related webextensions are disabled
-              description: This is to ensure there are no issues or conflicts with other webbrowser extensions
-              required: true
-            - label: I am running the latest version of uBlock Origin (or Adguard or Adblock Plus, etc.)
-              required: false
-            - label: This is not an `NSFW` issue
-              required: true
-              description: If it is an "NSFW" issue use this [issue template]()
-
+  - type: checkboxes
+    attributes:
+      label: " "
+      id: name21
+      options:
+        - label: I have/had [EasyList](https://easylist.to/easylist/easylist.txt) and [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt) enabled
+          id: name22
+          required: true
+        - label: Other privacy related webextensions are disabled
+          description: This is to ensure there are no issues or conflicts with other webbrowser extensions
+          id: name23
+          required: true
+        - label: I am running the latest version of uBlock Origin (or Adguard or Adblock Plus, etc.)
+          id: name24
+          required: false
+        - label: This is not an `NSFW` issue
+          description: If it is an "NSFW" issue use this [issue template]()
+          id: name25
+          required: true
+          
   - type: textarea
     attributes:
       label: URL(s) where the issue occurs
       description: At least one URL for a web page where the clearly described issue occurs is **mandatory**. 
         The backticks (`) surrounding the URLs are important, it prevents the URL from being clickable.
+      id: name3
       placeholder: |
         `example.nl`
         `xyz.example.nl`
@@ -47,6 +59,7 @@ body:
     attributes:
       label: Describe the issue
       description: Be as clear as possible. Nobody can read mind, and nobody is looking at your issue over your shoulder.
+      id: name4
       placeholder: Just a description of the issue when you visit the site. Or steps on reproducing this.
     validations: 
       required: true
@@ -62,6 +75,7 @@ body:
     attributes: 
       label: Browser + Extension **name**
       description: Browser
+      id: name61
       multiple: true
       options: 
         - Microsoft Edge
@@ -74,7 +88,9 @@ body:
       required: true
   - type: dropdown
     attributes:
+      label: " "
       description: Extension name
+      id: name62
       multiple: true
       options: 
         - uBlock
@@ -87,9 +103,12 @@ body:
     attributes: 
       label: Browser + Extension **version**
       description: Browser
+      id: name63
   - type: input
     attributes:
+      label: " "
       description: Extension
+      id: name64
 
   - type: textarea
     attributes: 
