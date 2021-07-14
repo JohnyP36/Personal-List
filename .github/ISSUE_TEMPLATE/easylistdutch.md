@@ -1,6 +1,6 @@
 ---
-name: EasyList Dutch (*for advanced users*)
-about: Use this template for issues regarding EasyList Dutch filters **and if you are an advanced user**.
+name: EasyList Dutch (for advanced users)
+about: Use this template for issues regarding EasyList Dutch filters and if you are an advanced user.
 
 ---
 <!-- Replace the bracketed [...] placeholders with your own information. -->
