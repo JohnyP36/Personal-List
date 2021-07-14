@@ -15,13 +15,11 @@ body:
       label: Prerequisites
       description: Check the appropriate boxes before you submit your issue.
       options:
-        - label: This is a **Dutch** domain, so no general websites with Dutch subdomains (e.g. nl.y8.com)
-          required: true
-        - label: I performed a [cursory search of the issue tracker](https://github.com/JohnyP36/Personal-List/issues) to avoid opening a duplicate issue
-          required: true
-        - label: | 
-           This is an `NSFW` issue  --  
-           *If it is **not** an "NSFW" issue use this [issue template](https://github.com/JohnyP36/Personal-List/issues/new?assignees=&labels=&template=easylistdutch.yml)*
+       - label: This is a **Dutch** domain, so no general websites with Dutch subdomains (e.g. nl.y8.com)
+         required: true
+       - label: I performed a [cursory search of the issue tracker](https://github.com/JohnyP36/Personal-List/issues) to avoid opening a duplicate issue
+         required: true
+       - label: This is an `NSFW` issue  --  *If it is **not** an "NSFW" issue use this [issue template](https://github.com/JohnyP36/Personal-List/issues/new?assignees=&labels=&template=easylistdutch.yml)*
          required: true
           
   - type: checkboxes
@@ -31,9 +29,7 @@ body:
       options:
         - label: I have/had [EasyList](https://easylist.to/easylist/easylist.txt) and [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt) enabled
           required: true
-        - label: | 
-            Other privacy related webextensions are disabled  --  
-            *This is to ensure there are no issues or conflicts with other webbrowser extensions*
+        - label: Other privacy related webextensions are disabled  --  *This is to ensure there are no issues or conflicts with other webbrowser extensions*
           required: true
         - label: I am running the latest version of uBlock Origin (or Adguard or Adblock Plus, etc.)
           required: false
