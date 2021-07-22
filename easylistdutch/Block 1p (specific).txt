@@ -1,4 +1,12 @@
-!2021-07-14
+! 2021-07-22
+||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/*-banner$image
+||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/WK*.$image
+||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/Week-*.png$image
+||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/Twee-wegen.gif$image
+||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/CJG-Alblasserdam.jpg$image
+||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/Rozendaal.jpg$image
+||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/zonder-herfst.gif$image
+! 2021-07-14
 ||123video.nl/alternate
 ||123video.nl/customs/*/assets/images/*.gif
 ||123video.nl/img/banners/
