@@ -39,6 +39,4 @@
 ||t.whalehunter.cash/tiny/*$image,domain=kinkymedia.nl
 ||totaalwijzer.nl/widget/$third-party
 ||trivago.nl/nl/srv/destination/js/$domain=popinstituut.nl
-||webseed.com/WP/ARF/$script,domain=vaccinedeaths.com
-||webseed.com/WP/BRF/$script,domain=vaccinedeaths.com
 ||widget.vpnnederland.nl/VPNNederland-widget.js$domain=nzbserver.com
