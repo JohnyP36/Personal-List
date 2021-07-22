@@ -1,6 +1,7 @@
 ! 2021-07-22
 alblasserdamsnieuws.nl##.albla-widget
 alblasserdamsnieuws.nl##.sidebarbox > .widgettitle:has-text(Banner)
+dagelijksestandaard.nl##.wpb_content_element.vc_separator:nth-of-type(4)
 ! 2021-07-14
 !#if env_mobile
 nudeviste.be,nudevista.nl
