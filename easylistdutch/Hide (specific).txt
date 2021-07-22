@@ -1,4 +1,7 @@
-!2021-07-14
+! 2021-07-22
+alblasserdamsnieuws.nl##.albla-widget
+alblasserdamsnieuws.nl##.sidebarbox > .widgettitle:has-text(Banner)
+! 2021-07-14
 !#if env_mobile
 nudeviste.be,nudevista.nl
 !#endif##.mob_adv
