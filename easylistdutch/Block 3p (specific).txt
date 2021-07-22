@@ -1,5 +1,5 @@
-! 22-07-2021 https://github.com/BPower0036/AdBlockFilters/commit/c1f94f8a570249650d53226e9c7f569ec47561fd#diff-fc048d7e10fe1949b116223817a5fe2092d99d04ba533eb3c09e8b79c8723bef
-/^https?:\/\/statics\.(ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(nl|be)\/js\/advertising-/$script
+! 22-07-2021 https://github.com/BPower0036/AdBlockFilters/commit/c11105cced861d9edbf33e87aae4ceb7967c765d#diff-fc048d7e10fe1949b116223817a5fe2092d99d04ba533eb3c09e8b79c8723bef
+/^https?:\/\/statics\.(?:ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
 ! 10-07-2021
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
 /images/*.gif$image,domain=18plussexdating.nl|30plussexdate.nl|datingsexgids.nl|eroticdate.be|geheimesexdate.be|hotdatingvlaanderen.be|ikneukgraag.nl|nederlandsextube.nl|neukplaza.nl|sexadvertentiesonline.nl|sexdatingholland.com|sexstartnet.nl|studentesexcontact.nl|tienersexpret.nl|vlaanderen-sexdate.be|xxxcontactengids.nl|zinineensexdate.com|zinomteneuken.nl
