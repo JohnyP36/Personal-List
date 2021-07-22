@@ -3,6 +3,7 @@ alblasserdamsnieuws.nl##.albla-widget
 alblasserdamsnieuws.nl##.sidebarbox > .widgettitle:has-text(Banner)
 dagelijksestandaard.nl##.wpb_content_element.vc_separator:nth-of-type(4)
 folderz.nl##.advert
+morningstar.*###ad_top_page
 ! 2021-07-14
 !#if env_mobile
 nudeviste.be,nudevista.nl
@@ -203,7 +204,6 @@ meerradio.nl##.grijze-balk:has-text(Advert)
 meerradio.nl##div[id="pristineslider.12"]
 meppelercourant.nl,dekrantvanmiddendrenthe.nl##.advertorial-item
 meteovista.be##div[class*="AdWrapper"]
-morningstar.nl###ad_top_page
 nederland.fm###xbtm > .shadow
 nederland.fm###xttm > .shadow
 nederlandsexdate.nl##.card-header:has-text(Advertentie)
