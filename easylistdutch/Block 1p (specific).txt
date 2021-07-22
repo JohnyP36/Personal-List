@@ -6,6 +6,7 @@
 ||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/CJG-Alblasserdam.jpg$image
 ||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/Rozendaal.jpg$image
 ||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/zonder-herfst.gif$image
+||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,1p
 ! 2021-07-14
 ||123video.nl/alternate
 ||123video.nl/customs/*/assets/images/*.gif
