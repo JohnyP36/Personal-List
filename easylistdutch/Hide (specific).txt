@@ -1,3 +1,7 @@
+! https://github.com/easylist/easylistdutch/issues/14
+waldnet.nl##.topbanner
+waldnet.nl##div.kolom_haad_cntr > div.kolom_haad > div[style="height: 300px;"]
+waldnet.nl##div[style$="0px;"]:has(.adsbygoogle)
 ! https://github.com/easylist/easylistdutch/commit/1e7ce67b45bfc7b7bc96ccfad7d61e574a07487c
 europa-landbouwmachines.nl##.pub
 europa-landbouwmachines.nl##.pub-content
@@ -388,8 +392,6 @@ voetbalkrant.com##.leaderboard
 vrouwen-sexdate.be##.moduletable:has-text(Advert)
 waarzo.nl##.contentbox:has-text(Advertentie)
 waarzo.nl##.smallbox:has-text(Advertentie)
-waldnet.nl##.topbanner
-waldnet.nl##div[style$="0px;"]:has(.adsbygoogle)
 want.nl##.article__content:style(margin-top: -125px!important;)
 want.nl##.sticky-banner-container
 wanttoknow.nl###right-sidebar > .mb-3:has(img[src*="banner"])
