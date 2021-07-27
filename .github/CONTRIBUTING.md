@@ -32,4 +32,18 @@ Keep it simple.
 
 So `A: mediamarkt.nl fix #7`. The issue itself will contains all the details.
 
+##### How to know in which lists the rule(s) belong? 
+
+- Block (general)      = *Algemene geblokkeerde netwerkfilters*
+- Block 1p (server)    = *Advertentiedomeinen (die op server niveau geblokkeerd worden)*
+- Block 3p (server)    = *Advertentiedomeinen (die als 3e partij geblokkeerd worden)*
+- Block 1p (specific)  = *Specifieke Netwerkfilters / Advertentiedomeinen (die op server niveau geblokkeerd worden)*
+- Block 3p (specific)  = *Specifieke Advertentiedomeinen (die als 3e partij geblokkeerd worden)*
+- Block 1p (whitelist) = *Uitzonderingen netwerkfilters 1e partij*
+- Block 3p (whitelist) = *Uitzonderingen netwerkfilters 3e partij*
+- Hide (general)       = *Algemene verbergregels*
+- Hide (specific)      = *Specifieke verbergregels*
+- Hide (whitelist)     = *Uitzonderingen verbergregels*
+- Anti-Adblock         = *Anti-AdBlock*
+
 ###### *[Resources Library](https://github.com/BPower0036/AdBlockFilters/issues/3)* , *[Wiki - Static filer Syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#scriptinject)* and *[Regular Expressions (RegEx) syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet)* are very handy when making new rules.
