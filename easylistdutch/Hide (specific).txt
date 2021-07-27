@@ -16,12 +16,7 @@ morningstar.*###ad_top_page
 nudeviste.be,nudevista.nl
 !#endif##.mob_adv
 112achterhoek-nieuws.nl###sidebar
-18plussexdating.nl##.homebanner
-247spice.com##.elementor-element-2da19501 + .elementor-element-6406e483
-247spice.com##.slideInLeft.animated:has-text(Advert)
-30plussexdate.nl,ikwilneuken.be,ikwilneuken.net,meidenzoekensex.nl,sexcontactadressen.nl##.nomobile.boxlinks:has(.homebanner)
 402online.com##.bannerblock
-538.nl###eCommerce
 7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be##.dfp-space
 7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be##.page-header__section--spacer
 7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be##.tile:has(:scope >.ankeiler--advertisement)
@@ -60,15 +55,12 @@ bdsmbook.nl###random_banner_widget-2
 be.hardware.info##^script:has-text(Inject=!)
 be.hardware.info##+js(nostif, .call(null), 10)
 beeldbelsex.com##.wp-block-column > center:has([data-src*="banners"])
-beeldbelsex.com##[href^="https://islive.com/"]
-beeldbelsex.com##[href^="https://www.twero.com/"]
 belgie-sexcontact.be##.well:has(img[src])
 belgie-sexdate.be##.well:has(img[src^="https://www.2k19.nl/"])
 bellotube.com###exo
 berekenhet.nl##.bh-ads
 beursgorilla.nl##.js--billboard.ut--billboard
 beursgorilla.nl##.js--rect.ut--rectangle
-bieos-omroep.nl##.bieos-widget
 biernet.nl###ban_blok
 biernet.nl###BJA3
 biflatie.nl##div[class*="elementor-widget-button"]:has-text(Advert)
@@ -81,7 +73,6 @@ camsexbabe.nl,mijnpornotube.nl,pornosterneuken.nl##.video-sidebar
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
 classic.nl##div.brievenbus
 crimesite.nl##em:has-text(reclame)
-cumcams.nl##.wpb_wrapper > center:has([src^="//pt.potwm.com/video-banner/"])
 cumcams.nl##[id^="custom_html"]:has(img[src*="wlresources.com/"])
 dagelijksestandaard.nl##div.wpb_raw_code > .wpb_wrapper:has(div[style="padding:20px;"])
 dagelijksestandaard.nl##hr:nth-of-type(3)
