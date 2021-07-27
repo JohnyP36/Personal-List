@@ -13,9 +13,13 @@ folderz.nl##.advert
 morningstar.*###ad_top_page
 ! 2021-07-14
 !#if env_mobile
-nudeviste.be,nudevista.nl
-!#endif##.mob_adv
+nudeviste.be,nudevista.nl##.mob_adv
+!#endif
 112achterhoek-nieuws.nl###sidebar
+18plussexdating.nl##.homebanner
+247spice.com##.elementor-element-2da19501 + .elementor-element-6406e483
+247spice.com##.slideInLeft.animated:has-text(Advert)
+30plussexdate.nl,ikwilneuken.be,ikwilneuken.net,meidenzoekensex.nl,sexcontactadressen.nl##.nomobile.boxlinks:has(.homebanner)
 402online.com##.bannerblock
 7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be##.dfp-space
 7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be##.page-header__section--spacer
