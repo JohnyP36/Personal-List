@@ -54,7 +54,6 @@
 ||radiocoupon.nl^$third-party
 ||sallandacties.nl^$third-party
 ||schoorsteen.geenstijl.nl^$third-party
-||sdcash.nl^$third-party
 ||static-cdn.spott.ai^$third-party
 ||static-dscn.net^$third-party
 ||teasemedia.nl^$third-party
