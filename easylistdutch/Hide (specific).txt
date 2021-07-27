@@ -1,3 +1,6 @@
+! https://github.com/easylist/easylistdutch/commit/1e7ce67b45bfc7b7bc96ccfad7d61e574a07487c
+europa-landbouwmachines.nl##.pub
+europa-landbouwmachines.nl##.pub-content
 ! 2021-07-22
 alblasserdamsnieuws.nl##.albla-widget
 alblasserdamsnieuws.nl##.sidebarbox > .widgettitle:has-text(Banner)
@@ -412,4 +415,3 @@ zeelandnet.nl##.article-bnr-first
 zeelandnet.nl##.as__bottom-banner
 zeelandnet.nl##.hero-banner
 zeelandnet.nl##aside:has([id^="div-gpt-ad"])
-zinineensexdate.com##.nomobile.boxleft:has(img[src^="/images/"])v
