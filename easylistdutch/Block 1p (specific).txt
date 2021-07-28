@@ -1,3 +1,5 @@
+! https://github.com/AdguardTeam/AdguardFilters/commit/4091290338b889e95bb9b64a4feff73394973c68
+||itnijs.frl/wp-content/uploads/2017/10/bannerItNijs
 ! 2021-07-28
 ||netonline.be/slices/banners/
 ||www.infotalia.com/worktalia_promo_hor.jpg
