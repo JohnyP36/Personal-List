@@ -1,3 +1,8 @@
+! 2021-07-28
+noordkopcentraal.nl##.headbanner
+noordkopcentraal.nl##div[id^="media_image-"].widget.clearfix.widget_media_image > a[href] > img[width="462"]
+noordkopcentraal.nl##div[id^="media_image-"].widget.clearfix.widget_media_image > h3.widgettitle:has-text(Advertenties)
+noordkopcentraal.nl##section#block-4.widget.clearfix.widget_block > div.wp-block-columns > div.wp-block-column
 ! https://github.com/easylist/easylistdutch/issues/14
 waldnet.nl##.topbanner
 waldnet.nl##div.kolom_haad_cntr > div.kolom_haad > div[style="height: 300px;"]
@@ -102,7 +107,6 @@ direct-sexdate.be##div.card:has(img[src*="/banner"])
 dissident.one##.adsbygoogle
 dissident.one##.td-adspot-title
 dolcevia.com##.banner-style
-dolcevia.com##.ira-container.ira-format-block > .bookingaff
 dolcevia.com,halstadcentraal.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
 dominant.be,lesbos.be,pornno.be,pornofilmpjes.be,sextoons.be,tiener-sex.be###video-sidebar-wrap
 dongen.nieuws.nl##.nieuws-banner
@@ -227,8 +231,6 @@ ninefornews.nl##.widget-top:has-text(/Sponsored/i)
 nnieuws.be##.banner-silver
 nnieuws.be##.region-banner-diamond
 nnieuws.be##.view-vw-banners.view
-noordkopcentraal.nl###banners
-noordkopcentraal.nl###table-49960
 nos.nl##.ster-banner
 nos.nl##.teletekst__banner
 notebookcheck.nl##.amaz_el
