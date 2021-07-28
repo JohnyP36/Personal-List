@@ -1,8 +1,12 @@
 ! 2021-07-28
+itnijs.frl##.widget > .banner
+netonline.be##table.text_12_jobs_only > tbody:has(td[width="10"])
 noordkopcentraal.nl##.headbanner
 noordkopcentraal.nl##div[id^="media_image-"].widget.clearfix.widget_media_image > a[href] > img[width="462"]
 noordkopcentraal.nl##div[id^="media_image-"].widget.clearfix.widget_media_image > h3.widgettitle:has-text(Advertenties)
 noordkopcentraal.nl##section#block-4.widget.clearfix.widget_block > div.wp-block-columns > div.wp-block-column
+oogtv.nl##.home-banner
+oogtv.nl##div#main-content.container.main-content > div.row > div.col-md-9.article-holder > article > p:has(img[src^="https://www.oogtv.nl/wp-content/uploads/"][src$=".gif"])
 ! https://github.com/easylist/easylistdutch/issues/14
 waldnet.nl##.topbanner
 waldnet.nl##div.kolom_haad_cntr > div.kolom_haad > div[style="height: 300px;"]
