@@ -1,3 +1,6 @@
+! 2021-07-28
+||netonline.be/slices/banners/
+||www.infotalia.com/worktalia_promo_hor.jpg
 ! 2021-07-22
 ||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/*-banner$image
 ||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/WK*.$image
@@ -7,11 +10,8 @@
 ||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/Rozendaal.jpg$image
 ||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/zonder-herfst.gif$image
 ||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,1p
-! 2021-07-14
-||123video.nl/alternate
+! 2021-07-28
 ||123video.nl/customs/*/assets/images/*.gif
-||123video.nl/img/banners/
-||123video.nl^*/nathan.js
 ||18plussexdating.nl/images/18plussexdating.$image
 ||18plussexdating.nl/images/twero.$image
 ||2sexcontact.nl/wp-content/uploads/*/*banner.gif$image
@@ -25,12 +25,8 @@
 ||402automotive.com/files/images/website/banners/*.$image
 ||am-forum.nl/upload/logo_elektrodump.png
 ||amz01.plzcdn.com/a/
-||ans-online.nl/wp-content/themes/mimbo/images/Banner-
-||ans-online.nl/wp-content/uploads/*/*-banner*.$image
 ||antilliaansdagblad.com/images/*-200x200px*.gif$image
 ||antilliaansdagblad.com/images/banners/
-||autoedizione.nl/wp-content/uploads/*/ae-sponsor
-||autozine.nl/promo/banner.jpg
 ||beeldbelsex.com/wp-content/uploads/*/bellenafspreken.$image
 ||bekijkporno.nl/wp-content/uploads*/*-camsex-livejasmin$image
 ||bekijkporno.nl/wp-content/uploads/*/beste-gratis-webcam-chats$image
@@ -59,12 +55,11 @@
 ||digitaalburg.com/rn02/wp-content/uploads/*/MERKX11.png
 ||digitaalburg.com/rn02/wp-content/uploads/*/Roel.jpg
 ||digitaalburg.com/rn02/wp-content/uploads/*/uitwaard21.jpg
-||digitaalburg.com/rn02/wp-content/uploads/*/Vacature-400x700-
+||digitaalburg.com/rn02/wp-content/uploads/*/Vacature-
 ||digitaalburg.com/rn02/wp-content/uploads/*/vertiadvies_
 ||digitaalburg.com/rn02/wp-content/uploads/*/webbanner-
 ||dolcevia.com^*/Banners/
 ||dordtcentraal.nl/wp-content/uploads/*/Inline-banner-DC-Reclame$image
-||dutchcowboys.nl/images/*-takeover.png
 ||dutchleader.nl/php/popex/
 ||dutchporner.com/wp-content/uploads/*/*Account-Promo$image
 ||duurzaam-actueel.nl^*banner
@@ -101,16 +96,11 @@
 ||landenweb.nl/imgBoeking/$image
 ||loemedia.nl/wp-content/uploads/*/BannerPruisSchilderwerken-
 ||loemedia.nl/wp-content/uploads/*/HemaBannerGroot-
-||loemedia.nl/wp-content/uploads/*-banner-
 ||lokaleomroepzeewolde.nl/images/banners/
 ||maaslandradio.nl/wp-content/uploads/*/autodoc.
-||maaslandradio.nl/wp-content/uploads/*/auto-onderdelen24.
 ||maaslandradio.nl/wp-content/uploads/*/Banner-
 ||maaslandradio.nl/wp-content/uploads/*/Hekwerkland.
-||marktnet.nl/bs/loadBanner.aspx?
 ||media.prdn.nl/retailtrends/images/*.gif
-||media.rtl.nl/web/components/service/streamspots/*.mp4$object
-||mediareader.omroepwest.nl/gaslicht^
 ||meidenzoekensex.nl/assets/img/shemaledate$image
 ||milfdatingnederland.nl/banner$image
 ||mobqo.nl^*/banner
@@ -119,8 +109,6 @@
 ||nederlandsextube.nl/images/sextubewebcams$image
 ||nederlandsextube.nl/images/stijlvolsexybanner$image
 ||nederlandsextube.nl/images/webned$image
-||netonline.be/reizen/ebookers/
-||netonline.be/slices/banners/
 ||neukcontacten.info/images/pikant.$image
 ||niedziela.nl/images/banners/
 ||nieuwsuitnijmegen.nl/gfx/banners/
@@ -128,17 +116,14 @@
 ||noordkopcentraal.nl^*/banner_
 ||notebookcheck.nl/fileadmin/Sonstiges/ama_abn2_$xmlhttprequest
 ||okemedia.nl/wp-content/uploads/*/*banner.jpg
-||omejoop.be/pop.js
+!||omejoop.be/pop.js
 ||omroeppenm.nl^*/banner/
 ||omroepwest.nl/*/ad.png
 ||omroepzeeland.nl/*/ad.png
 ||onderwegonline.nl/wp-content/uploads/*/Onderweg-336x280.png$image
-||onestat.com/app/banneriframe.aspx?
-||onestat.com/banners/adone-
 ||ontdek-amerika.nl/marketing/bartsbanner.gif
 ||oogtv.nl/wp-content/banners/
 ||oops.nl/banner/$subdocument
-||openingsurengids.be/includes/js/checkblock.js
 ||opiniepeilers.nl/media/*/*notiesHR*.jpg$image
 ||opwindend.net/Promotie*.php?$subdocument
 ||outdoor-sex.nl/wp-content/uploads/*/buitenseks.$image
