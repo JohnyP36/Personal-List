@@ -2,7 +2,7 @@
 ||itnijs.frl/wp-content/uploads/2017/10/bannerItNijs
 ! 2021-07-28
 ||netonline.be/slices/banners/
-||www.infotalia.com/worktalia_promo_hor.jpg
+||oogtv.nl/wp-content/uploads/*/beno_banner_$image
 ! 2021-07-22
 ||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/*-banner$image
 ||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/WK*.$image
