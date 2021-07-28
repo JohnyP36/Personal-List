@@ -2,6 +2,7 @@
 ||itnijs.frl/wp-content/uploads/2017/10/bannerItNijs
 ! 2021-07-28
 ||netonline.be/slices/banners/
+||oogtv.nl/wp-content/banners/
 ||oogtv.nl/wp-content/uploads/*/beno_banner_$image
 ! 2021-07-22
 ||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/*-banner$image
@@ -124,7 +125,6 @@
 ||omroepzeeland.nl/*/ad.png
 ||onderwegonline.nl/wp-content/uploads/*/Onderweg-336x280.png$image
 ||ontdek-amerika.nl/marketing/bartsbanner.gif
-||oogtv.nl/wp-content/banners/
 ||oops.nl/banner/$subdocument
 ||opiniepeilers.nl/media/*/*notiesHR*.jpg$image
 ||opwindend.net/Promotie*.php?$subdocument
