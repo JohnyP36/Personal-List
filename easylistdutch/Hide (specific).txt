@@ -2,6 +2,8 @@
 123video.nl##.page-load-switch
 123video.nl##.stunt-wide
 itnijs.frl##.widget > .banner
+jammfm.nl##.owl-carousel:has(.sa_hover_container):has([style*="/banner"])
+jammfm.nl##.vc_row-flex.vc_row[style*="width: 1578px;"]:has(.qt-sponsor)
 maaslandradio.nl##.slides
 maaslandradio.nl##[id^="media_image"]:has-text(Advertentie)
 netonline.be##table.text_12_jobs_only > tbody:has(td[width="10"])
