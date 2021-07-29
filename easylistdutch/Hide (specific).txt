@@ -1,10 +1,14 @@
-! 2021-07-28
+! 2021-07-29
+123video.nl##.page-load-switch
+123video.nl##.stunt-wide
 itnijs.frl##.widget > .banner
+maaslandradio.nl##.slides
+maaslandradio.nl##[id^="media_image"]:has-text(Advertentie)
 netonline.be##table.text_12_jobs_only > tbody:has(td[width="10"])
+noordkopcentraal.nl##.ewic-slider-pro-widget
 noordkopcentraal.nl##.headbanner
-noordkopcentraal.nl##div[id^="media_image-"].widget.clearfix.widget_media_image > a[href] > img[width="462"]
-noordkopcentraal.nl##div[id^="media_image-"].widget.clearfix.widget_media_image > h3.widgettitle:has-text(Advertenties)
-noordkopcentraal.nl##section#block-4.widget.clearfix.widget_block > div.wp-block-columns > div.wp-block-column
+noordkopcentraal.nl##div[id^="media_image-"].widget_media_image > a[href] > img[width="462"]
+noordkopcentraal.nl##div[id^="media_image-"].widget_media_image > .widgettitle:has-text(Advertenties)
 oogtv.nl##.home-banner
 oogtv.nl##div#main-content.container.main-content > div.row > div.col-md-9.article-holder > article > p:has(img[src^="https://www.oogtv.nl/wp-content/uploads/"][src$=".gif"])
 ! https://github.com/easylist/easylistdutch/issues/14
@@ -15,12 +19,6 @@ waldnet.nl##div[style$="0px;"]:has(.adsbygoogle)
 europa-landbouwmachines.nl##.pub
 europa-landbouwmachines.nl##.pub-content
 ! 2021-07-22
-alblasserdamsnieuws.nl##.albla-widget
-alblasserdamsnieuws.nl##.sidebarbox > .widgettitle:has-text(Banner)
-dagelijksestandaard.nl##.wpb_content_element.vc_separator:nth-of-type(4)
-folderz.nl##.advert
-morningstar.*###ad_top_page
-! 2021-07-14
 !#if env_mobile
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
@@ -38,6 +36,8 @@ afkortingen.nu###banner_rectangle
 afkortingen.nu###banner_right
 afkortingen.nu###banner_top
 afkortingen.nu,allradio.nl,erotracks.nl,nrc.nl,sexfotodating.nl,simone.nl,startbewijs.nl,startkabel.nl,totaaltv.nl,tvgids.nl##.banner
+alblasserdamsnieuws.nl##.albla-widget
+alblasserdamsnieuws.nl##.sidebarbox > .widgettitle:has-text(Banner)
 alle-tests.nl###advertising
 almere-nieuws.nl###banner-text2
 almere-nieuws.nl###jeg_sidecontent > .jeg_container:has(.jeg_ad)
@@ -87,6 +87,7 @@ chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
 classic.nl##div.brievenbus
 crimesite.nl##em:has-text(reclame)
 cumcams.nl##[id^="custom_html"]:has(img[src*="wlresources.com/"])
+dagelijksestandaard.nl##.wpb_content_element.vc_separator:nth-of-type(4)
 dagelijksestandaard.nl##div.wpb_raw_code > .wpb_wrapper:has(div[style="padding:20px;"])
 dagelijksestandaard.nl##hr:nth-of-type(3)
 dagelijksestandaard.nl,netxxx.nl##hr:nth-of-type(1)
@@ -134,6 +135,7 @@ fd.nl##.fd-message-home-header
 filmtotaal.nl###adf-rectangle
 filmtotaal.nl##.ad-centering
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
+folderz.nl##.advert
 funnygames.be,funnygames.nl###katon-slot
 funnygames.be,funnygames.nl##.bannerContainer
 gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
@@ -195,7 +197,6 @@ loemedia.nl##div.ppb_header.withsmallpadding.one:has(:has-text(Banner))
 luchtvaartnieuws.nl##.block-block >.content:has([id^="div-gpt-ad"])
 luchtvaartnieuws.nl##.block-block >.content:has(.adsbygoogle)
 m.radioluisteren.fm###adsense
-maaslandradio.nl##[id^="media_image"]:has-text(Advertentie)
 made-in.be###leaderboard_row
 marketingtribune.nl###banner-billboard
 marktnet.nl##.tab4
@@ -214,6 +215,7 @@ meerradio.nl##.grijze-balk:has-text(Advert)
 meerradio.nl##div[id="pristineslider.12"]
 meppelercourant.nl,dekrantvanmiddendrenthe.nl##.advertorial-item
 meteovista.be##div[class*="AdWrapper"]
+morningstar.*###ad_top_page
 nederland.fm###xbtm > .shadow
 nederland.fm###xttm > .shadow
 nederlandsexdate.nl##.card-header:has-text(Advertentie)
