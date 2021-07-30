@@ -252,7 +252,6 @@ nu.nl##div.articlelist[data-section="advertorial-belastingdienst-adverteerder"]
 nu.nl##div[data-type="tealium"]
 oisterwijknieuws.nl###left-sidebar
 oisterwijknieuws.nl###right-sidebar
-okemedia.nl##[id^="custom_html"]:has(img[src*="banner"])
 omroepbrabant.nl##div[class^="ad-"]
 omroepflevoland.nl##.ad-container
 omroepgelderland.nl,omroepwest.nl,omroepzeeland.nl##.adcontainer
@@ -274,7 +273,6 @@ oozo.nl##.rcntctr
 openingstijden.com##.adsense
 openingsurengids.be##.promSB
 opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
-opwindend.net##.popup
 parool.nl,trouw.nl##.ad--section
 pcmweb.nl##.site__sidebar > .block:has(div.banner)
 pcmweb.nl##div.block:has([id^="div-gpt-ad"])
