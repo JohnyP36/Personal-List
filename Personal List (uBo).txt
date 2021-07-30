@@ -1,9 +1,9 @@
-! Title: Personal List (uBo)
+! Title: Dutch Filter List (uBo)
 ! Description: My own supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
 ! Expires: 1 days (update frequency)
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 ! Homepage: https://github.com/JohnyP36/Personal-List
-! Last modified: 7-7-2021 10:24 UTC
+! Last modified: 30-7-2021 12:22 UTC
 !
 ! This list contains 3 list.
 ! The first list is a forked Easylist Dutch,
