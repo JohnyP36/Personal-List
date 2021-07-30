@@ -12,6 +12,8 @@
 ||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/Boeren-van-Amstel.jpg$image
 ||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/Logo-Ridder-RGB_$image
 ||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/adverteren-$image
+||wp.com/romagazine.nl/*/wp-content/uploads/*/enschede*?w=665$image
+||wp.com/romagazine.nl/*/wp-content/uploads/*/*.jpg?w=665$image
 ! https://github.com/AdguardTeam/AdguardFilters/commit/4091290338b889e95bb9b64a4feff73394973c68
 ||itnijs.frl/wp-content/uploads/2017/10/bannerItNijs
 ! 2021-07-28
