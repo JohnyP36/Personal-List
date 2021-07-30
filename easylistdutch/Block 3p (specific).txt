@@ -42,5 +42,4 @@
 ||statics.*.nl/js/advertising-$script,domain=ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
 ||t.whalehunter.cash/tiny/*$image,domain=kinkymedia.nl
 ||totaalwijzer.nl/widget/$third-party
-||trivago.nl/nl/srv/destination/js/$domain=popinstituut.nl
 ||widget.vpnnederland.nl/VPNNederland-widget.js$domain=nzbserver.com
