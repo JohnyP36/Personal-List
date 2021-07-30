@@ -1,3 +1,17 @@
+! https://github.com/BPower0036/AdBlockFilters/commit/3d6e94366d8282e250d29d3e47e79dad3e234a7a
+historiek.net##[id^="custom_html"]:has-text(/Advertentie/i)
+! https://github.com/easylist/easylistdutch/commit/a6265915191d95f6f01884b00b72c72c69fe9f7c
+marktplaats.nl,2dehands.be###top-banner-wrapper
+marktplaats.nl,2dehands.be##.BannerRight-root
+marktplaats.nl,2dehands.be##.banner-row
+marktplaats.nl,2dehands.be##.banner-vipbottom
+marktplaats.nl,2dehands.be##.l-page:style(max-width: 1300px!important;)
+marktplaats.nl,2dehands.be##.mp-adsense-header
+marktplaats.nl,2dehands.be##.mp-Banner
+marktplaats.nl,2dehands.be##.mp-Page-element > .mp-Listings + div:not([class]):not([id]):has(:scope > .mp-Listings__admarktTitle)
+marktplaats.nl,2dehands.be##.premium-content
+marktplaats.nl,2dehands.be##.vip-banner-top-sticky-container
+marktplaats.nl,2dehands.be##ul.mp-Listings > li.mp-Listing:has(:scope > .mp-Listing-coverLink > .mp-Listing-group > .mp-Listing-group--price-date-feature > span.mp-Listing-priority > span:has-text(/^Topadvertentie$/))
 ! 2021-07-29
 123video.nl##.page-load-switch
 123video.nl##.stunt-wide
@@ -6,7 +20,7 @@ jammfm.nl##.owl-carousel:has(.sa_hover_container):has([style*="/banner"])
 jammfm.nl##.vc_row-flex.vc_row[style*="width: 1578px;"]:has(.qt-sponsor)
 maaslandradio.nl##.slides
 maaslandradio.nl##[id^="media_image"]:has-text(Advertentie)
-netonline.be##table.text_12_jobs_only > tbody:has(td[width="10"])
+netonline.be##.text_12_jobs_only
 noordkopcentraal.nl##.ewic-slider-pro-widget
 noordkopcentraal.nl##.headbanner
 noordkopcentraal.nl##div[id^="media_image-"].widget_media_image > a[href] > img[width="462"]
@@ -204,15 +218,6 @@ m.radioluisteren.fm###adsense
 made-in.be###leaderboard_row
 marketingtribune.nl###banner-billboard
 marktnet.nl##.tab4
-marktplaats.nl,2dehands.be##.BannerRight-root
-marktplaats.nl,2dehands.be##.banner-vipbottom
-marktplaats.nl,2dehands.be##.l-page:style(max-width: 1300px!important;)
-marktplaats.nl,2dehands.be##.mp-adsense-header
-marktplaats.nl,2dehands.be##.mp-Banner
-marktplaats.nl,2dehands.be##.mp-Page-element > .mp-Listings + div:not([class]):not([id]):has(:scope > .mp-Listings__admarktTitle)
-marktplaats.nl,2dehands.be##.premium-content
-marktplaats.nl,2dehands.be##.vip-banner-top-sticky-container
-marktplaats.nl,2dehands.be##ul.mp-Listings > li.mp-Listing:has(:scope > .mp-Listing-coverLink > .mp-Listing-group > .mp-Listing-group--price-date-feature > span.mp-Listing-priority > span:has-text(/^Topadvertentie$/))
 marokko.nl##.ad_between
 mediacourant.nl##.mc-adv
 meerradio.nl##.grijze-balk:has-text(Advert)
