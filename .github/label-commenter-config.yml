@@ -7,9 +7,6 @@ labels:
       pr:
         body: Thank you @{{ pull_request.user.login }} for suggesting this. Please follow the pull request templates.
         action: close
-    unlabeled: 
-      issue:
-        action: open
   - name: wontfix
     labeled:
       issue:
@@ -23,6 +20,12 @@ labels:
       issue:
         body: This issue already exists.
         action: close
+  - name: can't reproduce
+    labeled: 
+      issue: 
+        body: | 
+          Sorry, I can't reproduce your issue. Please give more information (e.g. screenshots)
+          or investigate if the problem/issue still occurs.
     unlabeled:
       issue:
         action: open
