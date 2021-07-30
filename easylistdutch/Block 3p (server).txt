@@ -26,7 +26,7 @@
 ||csmcampagne.consumind.nl^$third-party
 ||daisycon.com^$third-party
 ||datingcash.eu^$third-party
-||doubleclick.net^$domain=2be.be|mtv.nl|nederland.fm|nickelodeon.nl|nos.nl|opgelicht.nl|outmusic.nl|puna.nl|radio.nl|vi.nl
+||doubleclick.net^$domain=2be.be|mtv.nl|nederland.fm|nickelodeon.nl|opgelicht.nl|outmusic.nl|puna.nl|radio.nl|vi.nl
 ||ds1.nl^$third-party
 ||dt51.net^$third-party
 ||dt61.net^$third-party
