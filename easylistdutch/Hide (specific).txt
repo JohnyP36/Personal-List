@@ -1,3 +1,13 @@
+! https://github.com/BPower0036/AdBlockFilters/compare/3a3dd07d7d...510487371b#diff-d6aabe9ad4d4bba6efa8ee46d13c27492dbb28d6e51b6cca707b28ab8ac463a4
+computable.nl##.sponsored
+kidsweek.nl##.node-advertorial
+knhs.nl##div.row:has( > section > .cycler:has(img[src*="banner"]))
+knhs.nl##.banners-right
+nieuwsonline.nu##.clearfix:has(img[src*="/header/"])
+startlijstjes.nl##.advertentieblock
+startlijstjes.nl##.item:has([class^="item_special"]:has-text(tradetracker.net))
+uiennieuws.nl##.banner
+villamedia.nl##[href^="https://www.anp.nl/start"]
 ! https://github.com/BPower0036/AdBlockFilters/commit/3d6e94366d8282e250d29d3e47e79dad3e234a7a
 historiek.net##[id^="custom_html"]:has-text(/Advertentie/i)
 ! https://github.com/easylist/easylistdutch/commit/a6265915191d95f6f01884b00b72c72c69fe9f7c
