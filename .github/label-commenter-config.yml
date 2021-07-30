@@ -26,6 +26,3 @@ labels:
         body: | 
           Sorry, I can't reproduce your issue. Please give more information (e.g. screenshots)
           or investigate if the problem/issue still occurs.
-    unlabeled:
-      issue:
-        action: open
