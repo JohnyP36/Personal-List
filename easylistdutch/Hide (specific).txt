@@ -28,7 +28,7 @@ noordkopcentraal.nl##div[id^="media_image-"].widget_media_image > .widgettitle:h
 oogtv.nl##.home-banner
 oogtv.nl##div#main-content.container.main-content > div.row > div.col-md-9.article-holder > article > p:has(img[src^="https://www.oogtv.nl/wp-content/uploads/"][src$=".gif"])
 openingsurengids.be##.promSB
-romagazine.nl##aside#text-2.widget.widget_text > div.textwidget > font > font > a[href]:has(img[src*="wp.com/romagazine.nl/14nwsite/wp-content/uploads/"])
+romagazine.nl##aside > .textwidget [src*="wp.com/romagazine.nl/"][src*="/wp-content/uploads/"][src$="?w=665"]
 ! https://github.com/easylist/easylistdutch/issues/14
 waldnet.nl##.topbanner
 waldnet.nl##div.kolom_haad_cntr > div.kolom_haad > div[style="height: 300px;"]
