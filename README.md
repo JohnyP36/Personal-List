@@ -26,4 +26,9 @@ Different kind of rule
  - Some rules regarding sites I often visit (both blocking and hiding rules) 
 
 ## *[Nano anti-adblock](https://github.com/JohnyP36/Personal-List/blob/main/other%20lists/Nano%20anti-Adblock.txt)*
-Because the famous Nano filterlists are archieved I copied the most usefull rules in regard to anti-adblock.
+Because the famous Nano filterlists are archieved I copied the most usefull rules in regard to anti-adblock. 
+
+### Subcribe to my filterlists
+- [EasyList Dutch](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/Personal%20List%20(uBo).txt&title=EasylistDutch)
+- [Dynamic rules](https://subscribe.adblockplus.org/?location=https://github.com/JohnyP36/Personal-List/edit/main/other%20lists/Nano%20anti-Adblock.txt)
+- [My filters](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/other%20lists/My%20filters.txt)
