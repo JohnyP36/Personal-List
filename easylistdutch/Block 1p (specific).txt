@@ -2,6 +2,7 @@
 ||123video.nl^*/300x100_
 ||123video.nl/customs/*/assets/images/*.gif
 ||infotalia.com/worktalia_promo_
+||mmcdn.nl/tags/
 ||openingsurengids.be/includes/js/checkblockv2.js
 ||openingsurengids.be/template/images/publi/
 ||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/banner$image
@@ -197,11 +198,6 @@
 ||wanttoknow.nl^*Banner
 ||webcamsexplaza.com/bannerwsp.$image
 ||wildfm.nl/wp-content/uploads/*/thumbnail_image002.png
-||wp.com/romagazine.nl/14nwsite/wp-content/uploads/*/Banner300x250-
-||wp.com/romagazine.nl/14nwsite/wp-content/uploads/*/BannerPZ-
-||wp.com/romagazine.nl/14nwsite/wp-content/uploads/*/gemeenteamsterdamprojectleidergrondzaken.jpg
-||wp.com/romagazine.nl/14nwsite/wp-content/uploads/*/gemeenteamsterdamprojectleidergrondzakenplus.jpg
-||wp.com/romagazine.nl/14nwsite/wp-content/uploads/*/ROmagazineProjectleiderCiviel-GemeenteBarneveld.png
 ||wp.com/www.regionoordkop.nl/wp-content/uploads/*/banner-
 ||wp.com/www.regionoordkop.nl/wp-content/uploads/*/Bdijknov2016336x280.gif
 ||wp.com/www.regionoordkop.nl/wp-content/uploads/*/Costa.jpg
