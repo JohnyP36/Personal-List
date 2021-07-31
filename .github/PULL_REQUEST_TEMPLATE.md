@@ -1,8 +1,8 @@
 <!-- Replace the bracketed [...] placeholders with your own information. -->
 
-> Any additions, changes or removals is at the Authors discretion. 
-You're free to counterargue (to a certain point) if you disagree with the decision. 
-To avoid being banned, don't constantly re-open or create new (related) issue reports.
+> Any additions, changes or removals is at the Authors discretion.  
+You're free to counterargue (to a certain point) if you disagree with the decision.  
+To avoid being banned, don't constantly re-open or create new (related) issue reports.  
 
 ### Prerequisites
 <!-- Check the appropriate boxes before you submit your issue -->
