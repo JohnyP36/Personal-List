@@ -30,7 +30,9 @@ jammfm.nl##.owl-carousel:has(.sa_hover_container):has([style*="/banner"])
 jammfm.nl##.vc_row-flex.vc_row[style*="width: 1578px;"]:has(.qt-sponsor)
 maaslandradio.nl##.slides
 maaslandradio.nl##[id^="media_image"]:has-text(Advertentie)
+nederlandsmedianieuws.nl##.sidebar:has-text(Advert)
 netonline.be##.text_12_jobs_only
+nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
 noordkopcentraal.nl##.ewic-slider-pro-widget
 noordkopcentraal.nl##.headbanner
 noordkopcentraal.nl##div[id^="media_image-"].widget_media_image > a[href] > img[width="462"]
