@@ -1,7 +1,7 @@
 ! 2021-08-
 ||brandweerspotters.nl/modules/banners/
-||shespot.nl/wp-content/uploads/*/vibrators.gif
-||shespot.nl/wp-content/uploads/*/womanizer-*.jpg
+||shespot.nl/wp-content/uploads/*/vibrators.gif$image
+||shespot.nl/wp-content/uploads/*/womanizer-*.jpg$image
 ||tpo.nl/broodplank/TRUE*.gif
 ||tube.nederlandseporno.nl/wp-content/uploads/*.gif
 ||vlietnieuws.nl/wp-content/plugins/custom-banners/*$script,first-party
