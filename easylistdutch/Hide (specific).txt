@@ -9,8 +9,6 @@ koopplein.nl##.promobloc-desktop
 koopplein.nl##.promoblocs__banner
 marokko.nl###ad-rec-btf
 marokko.nl##.ad_inner
-unity.nu##.banner
-vlietnieuws.nl##.banner_wrapper
 ! https://github.com/BPower0036/AdBlockFilters/compare/3a3dd07d7d...510487371b#diff-d6aabe9ad4d4bba6efa8ee46d13c27492dbb28d6e51b6cca707b28ab8ac463a4
 computable.nl##.sponsored
 kidsweek.nl##.node-advertorial
@@ -301,6 +299,7 @@ oozo.nl##.rcntctr
 openingstijden.com##.adsense
 openingsurengids.be##.promSB
 opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
+! 2021-08-02
 parool.nl,trouw.nl##.ad--section
 pcmweb.nl##.site__sidebar > .block:has(div.banner)
 pcmweb.nl##div.block:has([id^="div-gpt-ad"])
@@ -350,7 +349,7 @@ scholieren.com##.min-h-90
 secretcircle.com##.column:has(.advert)
 seksmet.nl###main-header-wrapper
 seksmet.nl##.et_pb_module:has(.gofollow:has(img[src]))
-seksmet.nl##.et_pb_text:has(div[class] > center > a[href])
+seksmet.nl##.et_pb_text:has(div[class] > center > a[href]):not(:has(h3.heading.more))
 seksmet.nl##[href^="https://dt51.net/"]
 sexcam-mokkels.nl,tellows.nl##.entry-content > div
 sexdating-vrouwen.be###aside > :has(iframe[data-src*="affilaxy.com"])
@@ -358,6 +357,7 @@ sexjobs.nl##.banner-wrapper
 sexjobs.nl##div[id^="banner-"]
 sex-kamer.nl##.adHomePage
 sex-kamer.nl##.videoOverAdBig
+sexfun.nl##[href^="https://ads.v1d305.com/redirect/"]
 sexpower.nl###pre-footer-banners
 sexpower.nl###top-banner
 sexpunt.nl###top:has(.banner)
@@ -403,7 +403,9 @@ tube.nederlandseporno.nl##h3:has-text(Webcamsex)
 turksemedia.nl##.easingslider
 tvblik.nl##.header-banner
 tvgids24.nl##.adBoxbig
+unity.nu##.banner
 vagina.nl##[id$="fish-hooks"]:has-text(Advertenties)
+vlietnieuws.nl##.banner_wrapper
 video18.nl##.modal
 vivatube.com##.mt15.container:has-text(Advert)
 vrouwen-sexdate.be##.moduletable:has-text(Advert)
@@ -415,6 +417,7 @@ wanttoknow.nl###right-sidebar > .mb-3:has(img[src*="banner"])
 wanttoknow.nl###right-sidebar > :has(.mb-3:has-text(Advert))
 wanttoknow.nl##.float-right
 wanttoknow.nl##.mb-3:has-text(Advert)
+watchfaces.be##[id^="text"]:has(.adsbygoogle)
 watchfaces.be##div.google
 webwereld.nl##.leaderBoardHolder
 weeronline.nl##section[class*="wol-banner-"]
