@@ -409,8 +409,6 @@ tvblik.nl##.header-banner
 tvgids.tv##.col-left
 tvgids.tv##.col-right
 tvgids24.nl##.adBoxbig
-tweakers.net##.client-promo
-tweakers.net##.video-container > iframe[src^="https://ads.pexi.nl/"]
 vagina.nl##[id$="fish-hooks"]:has-text(Advertenties)
 video18.nl##.modal
 vivatube.com##.mt15.container:has-text(Advert)
