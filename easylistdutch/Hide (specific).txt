@@ -1,3 +1,7 @@
+! 2021-08-
+marokko.nl###ad-rec-btf
+marokko.nl##.ad_inner
+vlietnieuws.nl##.banner_wrapper
 ! https://github.com/BPower0036/AdBlockFilters/compare/3a3dd07d7d...510487371b#diff-d6aabe9ad4d4bba6efa8ee46d13c27492dbb28d6e51b6cca707b28ab8ac463a4
 computable.nl##.sponsored
 kidsweek.nl##.node-advertorial
