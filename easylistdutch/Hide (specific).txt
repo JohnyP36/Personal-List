@@ -292,14 +292,12 @@ online-radio.nl##[id^="containersitead"]
 onschuldigemeiden.nl##.widget:has([href^="https://short1.nl/smart/"])
 oops.nl###dropinboxv2cover
 oops.nl##[src="http://www.oops.nl/banner/bannerindex.html"]
-oops.nl##body > table > tbody > tr > td[background]:style(height:55px!important;)
-oops.nl##center:has-text(Klik hier voor meer webcams)
+oops.nl##body > table > tbody > tr > td[background]:style(height:60px!important;)
 oops.nl##table[cellspacing="30"]
 oozo.nl##.rcntctr
 openingstijden.com##.adsense
 openingsurengids.be##.promSB
 opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
-! 2021-08-02
 parool.nl,trouw.nl##.ad--section
 pcmweb.nl##.site__sidebar > .block:has(div.banner)
 pcmweb.nl##div.block:has([id^="div-gpt-ad"])
