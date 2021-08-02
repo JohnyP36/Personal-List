@@ -1,5 +1,6 @@
 ! 2021-08-
 ||brandweerspotters.nl/modules/banners/
+||tube.nederlandseporno.nl/wp-content/uploads/*.gif
 ||vlietnieuws.nl/wp-content/plugins/custom-banners/*$script,first-party
 ! 2021-07-29
 ||123video.nl^*/300x100_
