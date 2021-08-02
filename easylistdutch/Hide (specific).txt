@@ -354,8 +354,6 @@ seksmet.nl##.et_pb_text:has(div[class] > center > a[href])
 seksmet.nl##[href^="https://dt51.net/"]
 sexcam-mokkels.nl,tellows.nl##.entry-content > div
 sexdating-vrouwen.be###aside > :has(iframe[data-src*="affilaxy.com"])
-sexfun.nl###recommendBlock
-sexfun.nl##[href^="https://ads.v1d305.com/redirect/"]
 sexjobs.nl##.banner-wrapper
 sexjobs.nl##div[id^="banner-"]
 sex-kamer.nl##.adHomePage
