@@ -2,8 +2,6 @@
 @@||ah.nl^$ghide
 directwonen.nl#@#.adsbox
 filmtotaal.nl##+js(nofab)
-fok.nl#@#.advertentie
-forum.fok.nl#@##advertentie
 @@||gamekings.tv^$generichide
 girlscene.nl##+js(set, adblock, 0)
 ||improvedigital.com/*/headerlift.min.js$script,redirect-rule=noop.js,domain=funnygames.be|funnygames.nl|spele.be|spele.nl
