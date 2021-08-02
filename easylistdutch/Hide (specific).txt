@@ -1,7 +1,11 @@
 ! 2021-08-
+asex.nl###adblk1
+asex.nl###bottum_ad
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,tenniskrant.be,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.imu
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,sportid.be,tenniskrant.be,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.leaderboard
 brandweerspotters.nl###banners:has-text(Sponsors)
+gratiscams.nl###menuinner > ul#menuinner > .cat
+gratispittigesexfilms.nl,hetegangbang.nl##.spot-on
 ! https://github.com/BPower0036/AdBlockFilters/compare/3a3dd07d7d...510487371b#diff-d6aabe9ad4d4bba6efa8ee46d13c27492dbb28d6e51b6cca707b28ab8ac463a4
 computable.nl##.sponsored
 kidsweek.nl##.node-advertorial
@@ -390,6 +394,7 @@ telegraaf.nl##.WebpushOptin__main
 telegraaf.nl##.withBanners
 tellows.nl###lb_header
 tijd.be###bb-iawr-inarticle-mediafin_nl
+tijd.be##.ac_paragraph:has(.bb_wrapper)
 tijd.be##.sticky-article-halfpager
 transfermarkt.nl##.werbung
 trucks.nl##.trucks_ros_alpha_rectangle-halfpage
