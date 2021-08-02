@@ -1,3 +1,5 @@
+! 2021-08-
+||brandweerspotters.nl/modules/banners/
 ! 2021-07-29
 ||123video.nl^*/300x100_
 ||123video.nl/customs/*/assets/images/*.gif
