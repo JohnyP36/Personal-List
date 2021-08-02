@@ -2,13 +2,6 @@
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,tenniskrant.be,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.imu
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,sportid.be,tenniskrant.be,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.leaderboard
 brandweerspotters.nl###banners:has-text(Sponsors)
-koopplein.nl##.ad
-koopplein.nl##.ad-item-container
-koopplein.nl##.header-banner
-koopplein.nl##.promobloc-desktop
-koopplein.nl##.promoblocs__banner
-marokko.nl###ad-rec-btf
-marokko.nl##.ad_inner
 ! https://github.com/BPower0036/AdBlockFilters/compare/3a3dd07d7d...510487371b#diff-d6aabe9ad4d4bba6efa8ee46d13c27492dbb28d6e51b6cca707b28ab8ac463a4
 computable.nl##.sponsored
 kidsweek.nl##.node-advertorial
@@ -226,7 +219,13 @@ kinkymedia.nl##.adguru-ad-banner
 kinkymedia.nl##.adguru-zone-wrap
 kinkymedia.nl##.footer-widget-container:has(.size-full.aligncenter):has(img[src$="gif"])
 kinkymedia.nl##[id^="adguru-zone-widget"]
+! 2021-08-02
 kinkysexcontactonline.nl,negerinnensexdating.eu,neukplaza.nl,privesexgids.nl,sexdatingholland.com,stellensexdating.nl,studentesexcontact.nl,tienersexpret.nl,zinomteneuken.nl##[class="rand nomobile"]:has(img[src^="/images/"])
+koopplein.nl##.ad
+koopplein.nl##.ad-item-container
+koopplein.nl##.header-banner
+koopplein.nl##.promobloc-desktop
+koopplein.nl##.promoblocs__banner
 landenweb.nl##.content > table > tbody:has-text(advert)
 leiderdorpsweekblad.nl##.adUnderArticle
 loemedia.nl###text-17
@@ -238,7 +237,9 @@ m.radioluisteren.fm###adsense
 made-in.be###leaderboard_row
 marketingtribune.nl###banner-billboard
 marktnet.nl##.tab4
+marokko.nl###ad-rec-btf
 marokko.nl##.ad_between
+marokko.nl##.ad_inner
 mediacourant.nl##.mc-adv
 meerradio.nl##.grijze-balk:has-text(Advert)
 meerradio.nl##div[id="pristineslider.12"]
