@@ -433,9 +433,9 @@ weertdegekste.nl##.banner-right
 weertdegekste.nl##.infeed-outer
 weertdegekste.nl##.infeed-wrap
 westerwoldeactueel.nl##.adr-wrapper
-wielerflits.nl###mm_hpa
-wielerflits.nl##.affiliate_links
-wielerflits.nl##.mm_container
+wielerflits.be,wielerflits.nl###mm_hpa
+wielerflits.be,wielerflits.nl##.affiliate_links
+wielerflits.be,wielerflits.nl##.mm_container
 wildfm.nl##img[width="699"][height="90"]
 wos.nl##.header-right
 xxxdump.nl###reclame-eroads
