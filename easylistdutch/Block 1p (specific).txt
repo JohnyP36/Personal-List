@@ -1,7 +1,9 @@
 ! 2021-07-29
 ||123video.nl^*/300x100_
 ||123video.nl/customs/*/assets/images/*.gif
+||christelijknieuws.nl/upload/modules/banner/$image
 ||infotalia.com/worktalia_promo_
+||kookboekennieuws.nl/wp-content/uploads/*/*-banners-*.$image
 ||knhs.nl/imagegen.ashx?image=/media/1*&width=360&constrain=true$image
 ||knhs.nl/imagegen.ashx?image=/media/1*/*banner-*&width=550&constrain=true$image
 ||mmcdn.nl/tags/
