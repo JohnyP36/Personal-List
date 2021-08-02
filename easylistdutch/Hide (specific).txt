@@ -103,6 +103,7 @@ bdsmbook.nl###random_banner_widget-2
 be.hardware.info##^script:has-text(Inject=!)
 be.hardware.info##+js(nostif, .call(null), 10)
 beeldbelsex.com##.wp-block-column > center:has([data-src*="banners"])
+beeldbelsex.com##[href^="https://islive.com/"]
 belgie-sexcontact.be##.well:has(img[src])
 belgie-sexdate.be##.well:has(img[src^="https://www.2k19.nl/"])
 bellotube.com###exo
