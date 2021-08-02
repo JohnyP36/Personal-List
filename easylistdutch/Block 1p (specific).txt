@@ -1,11 +1,12 @@
 ! 2021-08-
 ||brandweerspotters.nl/modules/banners/
+||vlietnieuws.nl/wp-content/plugins/custom-banners/*$script,first-party
 ! 2021-07-29
 ||123video.nl^*/300x100_
 ||123video.nl/customs/*/assets/images/*.gif
-||christelijknieuws.nl/upload/modules/banner/$image
+||christelijknieuws.nl/upload/modules/banner/
 ||infotalia.com/worktalia_promo_
-||kookboekennieuws.nl/wp-content/uploads/*/*-banners-*.$image
+||kookboekennieuws.nl/wp-content/uploads/*/*-banners-*.
 ||knhs.nl/imagegen.ashx?image=/media/1*&width=360&constrain=true$image
 ||knhs.nl/imagegen.ashx?image=/media/1*/*banner-*&width=550&constrain=true$image
 ||mmcdn.nl/tags/
@@ -21,6 +22,7 @@
 ||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/Logo-Ridder-RGB_$image
 ||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/adverteren-$image
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/enschede*?w=665$image
+||wp.com/romagazine.nl/*/wp-content/uploads/*/*.gif*w=665$image
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*.jpg?w=665$image
 ! https://github.com/AdguardTeam/AdguardFilters/commit/4091290338b889e95bb9b64a4feff73394973c68
 ||itnijs.frl/wp-content/uploads/2017/10/bannerItNijs
