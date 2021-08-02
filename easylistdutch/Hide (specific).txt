@@ -406,8 +406,6 @@ tube.nederlandseporno.nl##h3:has-text(Sexdating)
 tube.nederlandseporno.nl##h3:has-text(Webcamsex)
 turksemedia.nl##.easingslider
 tvblik.nl##.header-banner
-tvgids.tv##.col-left
-tvgids.tv##.col-right
 tvgids24.nl##.adBoxbig
 vagina.nl##[id$="fish-hooks"]:has-text(Advertenties)
 video18.nl##.modal
