@@ -1,4 +1,5 @@
 ! 2021-08-
+brandweerspotters.nl###banners:has-text(Sponsors)
 marokko.nl###ad-rec-btf
 marokko.nl##.ad_inner
 vlietnieuws.nl##.banner_wrapper
