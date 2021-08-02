@@ -1,6 +1,4 @@
 ! 2021-07-29
 @@||dekrantvantoen.nl/resources/*/images/*_336x120.$image
-@@||koopplein.nl^*/advertenties/upload
-@@||sexjobs.nl/advertentie/
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||te-les-koop.nl/advertenties.php
