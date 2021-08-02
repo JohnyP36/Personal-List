@@ -377,7 +377,7 @@ spelersvrouw.nl##.widget_text.gridlove-box
 srherald.com##.gsrhera
 standaard.be##.ad--button
 standaard.be##.ad--halfpageskyscraper
-starnieuws.com###overig_nieuws
+starnieuws.com###topstory > div:has-text(Advertentie)
 startpagina.nl##.top-banner
 synoniemen.net##.promoblok
 takecare4.eu###branding > .clearfix
