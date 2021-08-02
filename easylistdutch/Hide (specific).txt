@@ -283,7 +283,6 @@ omroepflevoland.nl##.ad-container
 omroepgelderland.nl,omroepwest.nl,omroepzeeland.nl##.adcontainer
 omroephorstaandemaas.nl,omroepvenlo.nl,wos.nl##.prom
 omroeppenm.nl,rickfm.nl###advertisement
-onderwegonline.nl##.widgettitle:has-text(Advertentie)
 online-omzetten.nl##.clearfix.entry > small
 online-omzetten.nl##[style^="margin"]:has(.adsbygoogle)
 online-radio.nl###top_ad-360
