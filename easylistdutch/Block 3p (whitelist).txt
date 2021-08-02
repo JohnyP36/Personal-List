@@ -18,3 +18,4 @@
 @@||tools.vpscash.nl/datingv3/docs/plug_and_play/islive/$script,domain=cumcams.nl|tube.nederlandseporno.nl
 @@||tools.vpscash.nl/webcams/promo/plug_play_webcams/*$subdocument,domain=beeldbelsex.com
 @@||vtm.be/vmmaplayer/embed?videoUrl=*&adZone=$subdocument,domain=knack.be|zita.be
+@@||www.affilaxy.com/promos/regforms/generators/sexklik/php/register_form.php$domain=vrouwen-sexdate.be
