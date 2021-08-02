@@ -26,7 +26,7 @@ This way this documents why a filter was added, and how to verify whether an old
 #### Commit message
 
 Keep it simple. 
- - Put in the title box `A:` for adding a site, `C` for changing a rule, `R` for removing a rule. 
+ - Put in the title box `A:` for adding a site, `C` for changing a rule, `R` for removing a rule. Use `M` for moving a rule/rules to another part in the filterlist
  - Put here after the site url. Example `mediamarkt.nl` ~~`https://www.mediamarkt.nl/view/`~~. 
  - At the end put the issue number. 
 
