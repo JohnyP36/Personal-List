@@ -1,5 +1,6 @@
 ! 2021-08-
 ||brandweerspotters.nl/modules/banners/
+||cdn.shortpixel.ai/client/q_lossy,ret_img,w_*/https://groningerkrant.nl/wp-content/uploads/*.jp
 ||shespot.nl/wp-content/uploads/*/vibrators.gif$image
 ||shespot.nl/wp-content/uploads/*/womanizer-*.jpg$image
 ||tpo.nl/broodplank/TRUE*.gif
