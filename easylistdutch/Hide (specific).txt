@@ -212,7 +212,7 @@ historiek.net##.textwidget:has-text(advertentie)
 historiek.net##div.ai-viewport-1
 hotradiohits.nl###tpl_banners
 hyvesgames.nl##.gamereel_featured-ad
-iculture.nl##div[style="min-height:250px"]
+! 2021-08-03
 inmemoriam.be##.o-news__add
 jan-magazine.nl##.homepage-marquee
 kanaalxxx.nl##.fpbnr
@@ -297,7 +297,7 @@ online-radio.nl##[id^="containersitead"]
 onschuldigemeiden.nl##.widget:has([href^="https://short1.nl/smart/"])
 oops.nl###dropinboxv2cover
 oops.nl##[src="http://www.oops.nl/banner/bannerindex.html"]
-oops.nl##body > table > tbody > tr > td[background]:style(height:60px!important;)
+!oops.nl##body > table > tbody > tr > td[background]:style(height:60px!important;)
 oops.nl##table[cellspacing="30"]
 oozo.nl##.rcntctr
 openingstijden.com##.adsense
