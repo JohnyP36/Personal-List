@@ -7,9 +7,10 @@
 @@||js.spotx.tv/ados/v1/106185.js$script,domain=www.radioluisteren.fm
 @@||media.plista.com^*$image,domain=totaaltv.nl
 @@||plista.com/async$script,domain=totaaltv.nl
-@@||pt.potwm.com/tube-player/*$subdocument,domain=camsexbabe.nl
+@@||potwm.com/tube-player/?$frame,domain=camsexbabe.nl
+@@||potwm.com/api/video-promotion/v1/get-$xhr,domain=camsexbabe.nl|potwm.com
+@@||prtawe.com/embed/tbplyr/*$script,domain=camsexbabe.nl
 @@||pt.protoawe.com/embed/tbplyr/*$script,domain=lekkerewebcams.nl|gratispornofilm.nl|teen-sex.nl
-@@||pt.prtawe.com/embed/tbplyr/*$script,domain=camsexbabe.nl
 @@||search.spotxchange.com/js/spotx.js$script,domain=www.radioluisteren.fm
 @@||securepubads.g.doubleclick.net/gpt/pubads_$script,domain=allestoringen.*
 @@||sync.search.spotxchange.com/partner?source=easi$image,domain=www.radioluisteren.fm
