@@ -182,6 +182,7 @@ gooieneemlander.nl,noordhollandsdagblad.nl,leidschdagblad.nl###advertorial-desti
 gratisaftehalen.nl##.plistaAllOuter
 gratispornofilm.nl##.lazyloaded.block-bordered
 gratispornofilm.nl,luana-escort.nl##.cp-webcam-gallery-container
+! 2021-08-03
 groningerkrant.nl##[href^="https://track.adppg.com/"]
 guldencourant.nl##.jeg_midbar:has([class^="ads-wrapper"])
 halstadcentraal.nl##.carouselbanner_left
