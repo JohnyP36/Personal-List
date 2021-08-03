@@ -3,6 +3,7 @@
 @@||ah.nl^$ghide
 filmtotaal.nl##+js(nofab)
 girlscene.nl##+js(set, adblock, 0)
+gratisaftehalen.nl##+js(abort-current-inline-script, fuckAdBlock, undefined)
 ||improvedigital.com/*/headerlift.min.js$script,redirect-rule=noop.js,domain=funnygames.be|funnygames.nl|spele.be|spele.nl
 ||goplay.be/js/sourcepoint/msg?v=
 notebookcheck.nl##+js(acis, document.getElementById, send)
