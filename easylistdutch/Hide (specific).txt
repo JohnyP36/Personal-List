@@ -184,10 +184,9 @@ gratispornofilm.nl##.lazyloaded.block-bordered
 gratispornofilm.nl,luana-escort.nl##.cp-webcam-gallery-container
 groningerkrant.nl##[href^="https://track.adppg.com/"]
 guldencourant.nl##.jeg_midbar:has([class^="ads-wrapper"])
-gva.be##main > div > .grid:has-text(Auto's in de kijker)
 halstadcentraal.nl##.carouselbanner_left
 halstadcentraal.nl##.respbanners
-handbalstartpunt.nl##aside.widget-banner
+!handbalstartpunt.nl##aside.widget-banner
 hardware.info##.sidebar_right_top
 hartvannederland.nl##[data-testid^="banner"]
 hartvannederland.nl##[data-testid^="homepageAfter"]
