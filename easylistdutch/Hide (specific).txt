@@ -16,20 +16,6 @@ startlijstjes.nl##.advertentieblock
 startlijstjes.nl##.item:has([class^="item_special"]:has-text(tradetracker.net))
 uiennieuws.nl##.banner
 villamedia.nl##[href^="https://www.anp.nl/start"]
-! https://github.com/BPower0036/AdBlockFilters/commit/3d6e94366d8282e250d29d3e47e79dad3e234a7a
-historiek.net##[id^="custom_html"]:has-text(/Advertentie/i)
-! https://github.com/easylist/easylistdutch/commit/a6265915191d95f6f01884b00b72c72c69fe9f7c
-marktplaats.nl,2dehands.be###top-banner-wrapper
-marktplaats.nl,2dehands.be##.BannerRight-root
-marktplaats.nl,2dehands.be##.banner-row
-marktplaats.nl,2dehands.be##.banner-vipbottom
-marktplaats.nl,2dehands.be##.l-page:style(max-width: 1300px!important;)
-marktplaats.nl,2dehands.be##.mp-adsense-header
-marktplaats.nl,2dehands.be##.mp-Banner
-marktplaats.nl,2dehands.be##.mp-Page-element > .mp-Listings + div:not([class]):not([id]):has(:scope > .mp-Listings__admarktTitle)
-marktplaats.nl,2dehands.be##.premium-content
-marktplaats.nl,2dehands.be##.vip-banner-top-sticky-container
-marktplaats.nl,2dehands.be##ul.mp-Listings > li.mp-Listing:has(:scope > .mp-Listing-coverLink > .mp-Listing-group > .mp-Listing-group--price-date-feature > span.mp-Listing-priority > span:has-text(/^Topadvertentie$/))
 ! 2021-07-29
 123video.nl##.page-load-switch
 123video.nl##.stunt-wide
@@ -206,13 +192,12 @@ hardware.info##.sidebar_right_top
 hartvannederland.nl##[data-testid^="banner"]
 hartvannederland.nl##[data-testid^="homepageAfter"]
 hartvannederland.nl##[data-testid="topBanner"] > [class]
+historiek.net##[id^="custom_html"]:has-text(/Advertentie/i)
 historiek.net###before-header
 historiek.net##.code-block:has-text(advertentie)
-historiek.net##.textwidget:has-text(advertentie)
 historiek.net##div.ai-viewport-1
 hotradiohits.nl###tpl_banners
 hyvesgames.nl##.gamereel_featured-ad
-! 2021-08-03
 inmemoriam.be##.o-news__add
 jan-magazine.nl##.homepage-marquee
 kanaalxxx.nl##.fpbnr
@@ -242,6 +227,17 @@ m.radioluisteren.fm###adsense
 made-in.be###leaderboard_row
 marketingtribune.nl###banner-billboard
 marktnet.nl##.tab4
+marktplaats.nl,2dehands.be###top-banner-wrapper
+marktplaats.nl,2dehands.be##.BannerRight-root
+marktplaats.nl,2dehands.be##.banner-row
+marktplaats.nl,2dehands.be##.banner-vipbottom
+marktplaats.nl,2dehands.be##.l-page:style(max-width: 1300px!important;)
+marktplaats.nl,2dehands.be##.mp-adsense-header
+marktplaats.nl,2dehands.be##.mp-Banner
+marktplaats.nl,2dehands.be##.mp-Page-element > .mp-Listings + div:not([class]):not([id]):has(:scope > .mp-Listings__admarktTitle)
+marktplaats.nl,2dehands.be##.premium-content
+marktplaats.nl,2dehands.be##.vip-banner-top-sticky-container
+marktplaats.nl,2dehands.be##ul.mp-Listings > li.mp-Listing:has(:scope > .mp-Listing-coverLink > .mp-Listing-group > .mp-Listing-group--price-date-feature > span.mp-Listing-priority > span:has-text(/^Topadvertentie$/))
 marokko.nl###ad-rec-btf
 marokko.nl##.ad_between
 marokko.nl##.ad_inner
