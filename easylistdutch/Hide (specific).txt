@@ -149,6 +149,7 @@ dorpsklanken.online##.ads-mobiel
 dutchitchannel.nl##.banner:has([href*="/bannerclick.html&banner"])
 dutchporntube.nl##.entry-header > .button
 dutchporntube.nl##[id^="custom_html"]:has-text(Werelds Beste)
+dutchporntube.nl###sidebar > section[id]:has-text(/Zoeken-Kennismaken en Afspreken/i)
 dvhn.nl,lc.nl##.main__ad
 dvhn.nl,lc.nl,meppelercourant.nl##.top__ad
 dwtonline.com###banner1
