@@ -94,6 +94,7 @@ be.hardware.info##^script:has-text(Inject=!)
 be.hardware.info##+js(nostif, .call(null), 10)
 beeldbelsex.com##.wp-block-column > center:has([data-src*="banners"])
 beeldbelsex.com##[href^="https://islive.com/"]
+beeldbelsex.com##[href^="https://www.twero.com/nl/"]:has(img[src$=".gif"])
 belgie-sexcontact.be##.well:has(img[src])
 bellotube.com###exo
 berekenhet.nl##.bh-ads
