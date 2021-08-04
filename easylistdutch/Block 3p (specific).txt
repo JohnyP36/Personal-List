@@ -2,6 +2,7 @@
 ||agfstorage.blob.core.windows.net/banners/$image,domain=groentennieuws.nl|uiennieuws.nl
 ||cdn.agf.nl/nieuws/gif-jpg/*.gif$image,domain=groentennieuws.nl|uiennieuws.nl
 ||sedproductions.nl/banners/*.gif$image,domain=cumcams.nl
+||tools-affil2.com/rtb/index.php$subdocument,domain=beeldbelsex.com
 ||wp.com/www.appletips.nl/wp-content/uploads/amacdeals$image,domain=appletips.nl
 ||wp.com/www.appletips.nl/wp-content/uploads/cnmx$image,domain=appletips.nl
 ||wp.com/www.appletips.nl/wp-content/uploads/upgreatest1$image,domain=appletips.nl
