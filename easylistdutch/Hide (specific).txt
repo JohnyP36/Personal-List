@@ -146,6 +146,7 @@ dominant.be,lesbos.be,pornno.be,pornofilmpjes.be,sextoons.be,tiener-sex.be###vid
 dongen.nieuws.nl##.nieuws-banner
 doorbraak.be###top-advertisement-area
 dorpsklanken.online##.ads-mobiel
+dorpsklanken.online##.advertenties
 dutchitchannel.nl##.banner:has([href*="/bannerclick.html&banner"])
 dutchporntube.nl##.entry-header > .button
 dutchporntube.nl##[id^="custom_html"]:has-text(Werelds Beste)
