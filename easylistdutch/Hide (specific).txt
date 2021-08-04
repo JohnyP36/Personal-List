@@ -171,7 +171,7 @@ gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
 games.nl,hyvesgames.nl,limburger.nl,standaard.be,tripadvisor.nl##.ad
 geenstijl.nl##.slajeslag
 geenstijl.nl##a[data-ga-event^="link-tip"]
-geile-sexcontacten.be##.card:has([src^="https://www.affilaxy.com/promos/"])
+geile-sexcontacten.be##.card:has([src^="https://www.affilaxy.com/promos//popup/js/pop-under.js"])
 geile-sexcontacten.be##.d-lg-block:has-text(Advert)
 gic.nl##.banners
 glutenvrij.nl##.Article__inner > .Article__title:has-text(Advert)
