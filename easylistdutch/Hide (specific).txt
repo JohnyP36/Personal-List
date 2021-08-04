@@ -136,9 +136,8 @@ deoudrotterdammer.nl##[width="300"][height="600"]
 deperfecte-sexdate.be,neuk-sexcontact.be##.well:has(img[src^="/images/banners"])
 digitaalburg.com##.widget-area-bottom.align-center:has(.adsbygoogle)
 digitaalburg.com##aside[class^="widget widget_text"]
-direct-sexdate.be##div.card:has([href*="www.datepartner.be"])
 direct-sexdate.be##div.card:has(img[src*="/banner"])
-dissident.one##.adsbygoogle
+!dissident.one##.adsbygoogle
 dissident.one##.td-adspot-title
 dolcevia.com##.banner-style
 dolcevia.com,halstadcentraal.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
