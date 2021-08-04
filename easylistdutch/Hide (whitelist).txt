@@ -1,6 +1,7 @@
 ! 2021-08-02
 ! Uitzonderingen voor EasyList
 directwonen.nl#@#.top-advert
+focus-wtv.be#@#.sponsored-article
 marktplaats.nl#@#.adSummary
 speurders.nl#@#.ad_header
 vakantieplaats.nl#@#.feed-ad
