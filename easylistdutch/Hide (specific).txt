@@ -163,6 +163,7 @@ ewmagazine.nl##.banner-leaderboard
 fd.nl##.fd-message-home-header
 filmtotaal.nl###adf-rectangle
 filmtotaal.nl##.ad-centering
+focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
 folderz.nl##.advert
 funnygames.be,funnygames.nl,spele.be,spele.nl##div.game-container > div.slot-container > div:has(div[id*="right"])
 funnygames.be,funnygames.nl,spele.be,spele.nl##.is-billboard.slot-container > div
