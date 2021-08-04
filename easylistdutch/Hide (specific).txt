@@ -175,7 +175,6 @@ geile-sexcontacten.be##.card:has([src^="https://www.affilaxy.com/promos/"])
 geile-sexcontacten.be##.d-lg-block:has-text(Advert)
 geilverlangen.nl##[href^="https://www.stout-flirten.nl/lp/"]
 gic.nl##.banners
-gic.nl##.btn-adverteren
 glutenvrij.nl##.Article__inner > .Article__title:has-text(Advert)
 goedkoopstekeukensduitsland.nl##[id^="text"]:has(a[href^="https://www.goedkoopstekeukensduitsland.nl"][href$="-bnr"])
 goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
