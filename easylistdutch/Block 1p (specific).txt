@@ -1,6 +1,7 @@
 ! 2021-08-
 ||brandweerspotters.nl/modules/banners/
 ||cdn.shortpixel.ai/client/q_lossy,ret_img,w_*/https://groningerkrant.nl/wp-content/uploads/*/Rijschool-in-Groningen*.$image
+||oisterwijknieuws.nl/wp-content/uploads/*/lelieveld-634-x-80.jpg$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/MBA-regiobank-*.gif$image
 ||shespot.nl/wp-content/uploads/*/vibrators.gif$image
 ||shespot.nl/wp-content/uploads/*/womanizer-*.jpg$image
