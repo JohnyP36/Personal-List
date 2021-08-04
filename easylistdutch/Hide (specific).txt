@@ -168,7 +168,6 @@ folderz.nl##.advert
 funnygames.be,funnygames.nl###katon-slot
 funnygames.be,funnygames.nl##.bannerContainer
 gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
-games.nl,hyvesgames.nl,limburger.nl,standaard.be,tripadvisor.nl##.ad
 geenstijl.nl##.slajeslag
 geenstijl.nl##a[data-ga-event^="link-tip"]
 geile-sexcontacten.be##.card:has([src^="https://www.affilaxy.com/promos//popup/js/pop-under.js"])
@@ -194,6 +193,7 @@ historiek.net###before-header
 historiek.net##.code-block:has-text(advertentie)
 historiek.net##div.ai-viewport-1
 hotradiohits.nl###tpl_banners
+hyvesgames.nl,limburger.nl,standaard.be,tripadvisor.nl##.ad
 hyvesgames.nl##.gamereel_featured-ad
 inmemoriam.be##.o-news__add
 jan-magazine.nl##.homepage-marquee
