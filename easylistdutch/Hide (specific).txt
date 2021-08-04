@@ -95,7 +95,6 @@ be.hardware.info##+js(nostif, .call(null), 10)
 beeldbelsex.com##.wp-block-column > center:has([data-src*="banners"])
 beeldbelsex.com##[href^="https://islive.com/"]
 belgie-sexcontact.be##.well:has(img[src])
-belgie-sexdate.be##.well:has(img[src^="https://www.2k19.nl/"])
 bellotube.com###exo
 berekenhet.nl##.bh-ads
 beursgorilla.nl##.js--billboard.ut--billboard
@@ -137,7 +136,6 @@ deperfecte-sexdate.be,neuk-sexcontact.be##.well:has(img[src^="/images/banners"])
 digitaalburg.com##.widget-area-bottom.align-center:has(.adsbygoogle)
 digitaalburg.com##aside[class^="widget widget_text"]
 direct-sexdate.be##div.card:has(img[src*="/banner"])
-!dissident.one##.adsbygoogle
 dissident.one##.td-adspot-title
 dolcevia.com##.banner-style
 dolcevia.com,halstadcentraal.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
