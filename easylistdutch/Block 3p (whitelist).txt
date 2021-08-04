@@ -1,4 +1,5 @@
 @@/images/volgende.gif$image,1p,domain=sexdatingholland.com|studentesexcontact.nl|tienersexpret.nl|zinomteneuken.nl
+@@||affilaxy.com/promos/regforms/generators/sexklik/php/register_form.php$domain=geile-sexcontacten.be|vrouwen-sexdate.be
 @@||aka.spotxcdn.com/integration/ados/v1/ados.js$script,domain=www.radioluisteren.fm
 @@||aweprt.com/embed/$script,domain=cumcams.nl
 @@||cdn.spotxcdn.com/integration/easi/v1/easi.js$script,domain=www.radioluisteren.fm
@@ -20,4 +21,3 @@
 @@||tools.vpscash.nl/datingv3/docs/plug_and_play/islive/$script,domain=cumcams.nl|tube.nederlandseporno.nl
 @@||tools.vpscash.nl/webcams/promo/plug_play_webcams/*$subdocument,domain=beeldbelsex.com
 @@||vtm.be/vmmaplayer/embed?videoUrl=*&adZone=$subdocument,domain=knack.be|zita.be
-@@||www.affilaxy.com/promos/regforms/generators/sexklik/php/register_form.php$domain=vrouwen-sexdate.be
