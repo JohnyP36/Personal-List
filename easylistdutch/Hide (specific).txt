@@ -168,6 +168,7 @@ folderz.nl##.advert
 funnygames.be,funnygames.nl###katon-slot
 funnygames.be,funnygames.nl##.bannerContainer
 gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
+gamereactor.nl##.ad_top
 geenstijl.nl##.slajeslag
 geenstijl.nl##a[data-ga-event^="link-tip"]
 geile-sexcontacten.be##.card:has([src^="https://www.affilaxy.com/promos//popup/js/pop-under.js"])
