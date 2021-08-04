@@ -64,6 +64,7 @@ alblasserdamsnieuws.nl##.albla-widget
 alblasserdamsnieuws.nl##.sidebarbox > .widgettitle:has-text(Banner)
 alle-tests.nl###advertising
 almere-nieuws.nl###banner-text2
+almere-nieuws.nl###containerx
 almere-nieuws.nl###jeg_sidecontent > .jeg_container:has(.jeg_ad)
 almere-nieuws.nl##.jeg_container > .jeg_container:has(.jeg_ad)
 androidplanet.nl##.w-full:has-text(ADV):has-text(Gesponsord door):has-text(Advertentie)
