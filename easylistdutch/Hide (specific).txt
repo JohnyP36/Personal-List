@@ -279,6 +279,7 @@ nu.nl###header > .zone
 nu.nl##a[href*="/advertorial-"]
 nu.nl##div.articlelist[data-section="advertorial-belastingdienst-adverteerder"]
 nu.nl##div[data-type="tealium"]
+oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
 oisterwijknieuws.nl###left-sidebar
 oisterwijknieuws.nl###right-sidebar
 omroepbrabant.nl##div[class^="ad-"]
