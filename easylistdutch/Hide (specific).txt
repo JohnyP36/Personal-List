@@ -165,10 +165,9 @@ filmtotaal.nl###adf-rectangle
 filmtotaal.nl##.ad-centering
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
 folderz.nl##.advert
-funnygames.be,funnygames.nl###katon-slot
-funnygames.be,funnygames.nl##.bannerContainer
+funnygames.be,funnygames.nl,spele.be,spele.nl##div.game-container > div.slot-container > div:has(div[id*="right"])
+funnygames.be,funnygames.nl,spele.be,spele.nl##.is-billboard.slot-container > div
 gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
-gamereactor.nl##.ad_top
 geenstijl.nl##.slajeslag
 geenstijl.nl##a[data-ga-event^="link-tip"]
 geile-sexcontacten.be##.card:has([src^="https://www.affilaxy.com/promos//popup/js/pop-under.js"])
@@ -368,8 +367,6 @@ speeleiland.nl##.banner-sky
 speeleiland.nl##.leader-below-game
 spel.nl,spelletjes.nl##.advert
 spel.nl,spelletjes.nl##.game-page-sidebar
-spele.be,spele.nl##.is-billboard.slot-container
-spele.be,spele.nl##.is-skyscraper.slot-container
 spelersvrouw.nl##.widget_text.gridlove-box
 srherald.com##.gsrhera
 standaard.be##.ad--button
