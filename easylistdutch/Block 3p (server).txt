@@ -52,6 +52,7 @@
 ||partnerprogramma.bol.com^$third-party
 ||pexi.nl^$third-party
 ||pics.obedo.nl^$third-party
+||pornokartel.nl^$third-party
 ||radiocoupon.nl^$third-party
 ||sallandacties.nl^$third-party
 ||schoorsteen.geenstijl.nl^$third-party
