@@ -2,6 +2,7 @@
 ||2k21.nl^$third-party
 ||2k23.nl^$third-party
 ||2k24.nl^$third-party
+||7mb.nl^$third-party
 ||adconfigproxy.azurewebsites.net^$third-party
 ||adfactor.nl^$third-party
 ||adpepper.nl^$third-party
