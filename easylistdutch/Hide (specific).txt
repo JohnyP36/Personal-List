@@ -30,9 +30,8 @@ almere-nieuws.nl##.jeg_container > .jeg_container:has(.jeg_ad)
 androidplanet.nl##.w-full:has-text(ADV):has-text(Gesponsord door):has-text(Advertentie)
 androidplanet.nl,iphoned.nl##header[data-name="featured-header"]
 androidplanet.nl,iphoned.nl##.aa-top-dog
-androidplanet.nl,iphoned.nl##.dynamic-content[data-nosnippet]
-androidplanet.nl,iphoned.nl##.dynamic-content-native
 androidplanet.nl,iphoned.nl##.widget_offers
+androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
 androidworld.nl,indeleiderstrui.nl,openrotterdam.nl,webmastersunited.com##.ads
 ans-online.nl##.theiaStickySidebar > .widget:has-text(Advertentie)
 appletips.nl###singleab
