@@ -428,6 +428,7 @@ wielerflits.be,wielerflits.nl##.mm_container
 wildfm.nl##img[width="699"][height="90"]
 wos.nl##.header-right
 xxxdump.nl###reclame-eroads
+zeelandnet.nl##.bnr-notice
 zeelandnet.nl##.article-bnr-first
 zeelandnet.nl##.as__bottom-banner
 zeelandnet.nl##.hero-banner
