@@ -9,17 +9,6 @@
 ! 22-07-2021 https://github.com/BPower0036/AdBlockFilters/commit/c11105cced861d9edbf33e87aae4ceb7967c765d#diff-fc048d7e10fe1949b116223817a5fe2092d99d04ba533eb3c09e8b79c8723bef
 /^https?:\/\/statics\.(?:ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
 ! 10-07-2021
-.nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
-/images/*.gif$image,domain=18plussexdating.nl|30plussexdate.nl|datingsexgids.nl|eroticdate.be|geheimesexdate.be|hotdatingvlaanderen.be|ikneukgraag.nl|nederlandsextube.nl|neukplaza.nl|sexadvertentiesonline.nl|sexdatingholland.com|sexstartnet.nl|studentesexcontact.nl|tienersexpret.nl|vlaanderen-sexdate.be|xxxcontactengids.nl|zinineensexdate.com|zinomteneuken.nl
-/images/banners/*$image,domain=deperfecte-sexdate.be|deperfecte-sexdate.nl|neukengratis.be|neuk-sexcontact.be|sexcontact-xxx.be|sexdate-xxx.be|sexdating4u.be|vrouwsex.be
-/images/bdsmsexcontact$image,domain=adulttop50.nl|sexadvertentiesonline.nl|sexfotodating.nl|zinineensexdate.com
-/voicebericht/assets/images/verdien-geld-met-anoniem-thuiswerk.$image,domain=1on1.nl|beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|sexcamsites.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
-/voicebericht/assets/images/videochat277x$image,domain=beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|sexcamsites.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
-/wp-content/uploads/*.gif$image,domain=ero-meiden.nl|geilverlangen.nl|hete-foto.nl|kechtube.com|lekkerewebcams.nl|onschuldigemeiden.nl|pornokartel.nl|seksmet.nl|shespot.nl|tube.nederlandseporno.nl
-/wp-content/uploads/*/*banner$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
-/wp-content/uploads/*/*-outline-canvas-*.$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
-/wp-content/uploads/*/Mijn-Zaak$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
-/wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl
 ||agfstorage.blob.core.windows.net/banners$domain=agf.nl
 ||blablacar.nl/widget-driver/$third-party
 ||booking.com/flexiproduct.html$domain=puuropreis.nl
