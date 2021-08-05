@@ -45,5 +45,9 @@ So `A: mediamarkt.nl fix #7`. The issue itself will contains all the details.
 - Hide (specific)      = *Specifieke verbergregels*
 - Hide (whitelist)     = *Uitzonderingen verbergregels*
 - Anti-Adblock         = *Anti-AdBlock*
-
-###### *[Resources Library](https://github.com/BPower0036/AdBlockFilters/issues/3)* , *[Wiki - Static filer Syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#scriptinject)* and *[Regular Expressions (RegEx) syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet)* are very handy when making new rules.
+---
+##### Wiki's which are very handy when making new rules
+- *[Resources Library](https://github.com/BPower0036/AdBlockFilters/issues/3)* 
+- *[Wiki - Static filer Syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#scriptinject)* 
+- *[Wiki - Scriptlets (+js)](https://github.com/gorhill/uBlock/wiki/Resources-Library#defuser-scriptlets)*
+- *[Regular Expressions (RegEx) syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet)*
