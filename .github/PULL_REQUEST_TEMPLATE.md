@@ -23,17 +23,25 @@ To avoid being banned, don't constantly re-open or create new (related) issue re
 [At least one URL for a web page where the clearly described issue occurs is **mandatory**. The backticks surrounding the URLs is important, it prevents the URL from being clickable. Warn with "NSFW" where applicable.]
 
 ### Describe the issue
-[Be as clear as possible: nobody can read mind, and nobody is looking at your issue over your shoulder.]  
-[Just a description of the issues when you visit the sites. Or steps on reproducing this]
+<!-- [Be as clear as possible: nobody can read mind, and nobody is looking at your issue over your shoulder.]  
+[Just a description of the issues when you visit the sites. Or steps on reproducing this] -->
 
 ### Screenshot(s)
-[Screenshot(s) for difficult to describe visual issues are **mandatory**. Post links instead of **Inline Images** for Screenshots containing **Adult material**.]
+<!-- [Screenshot(s) for difficult to describe visual issues are **mandatory**. Post links instead of **Inline Images** for Screenshots containing **Adult material**.] -->
+<!-- [Replace %screenshot_url% below with a link to the screenshot of the problem. Also, you can paste image from clipboard instead. It will be automatically loaded.  
+If you have multiple screenshots just copy-paste the 3 line below. Please remove the `x` after screenshot with a number if you uploaded a screenshot.] -->
+<details><summary> screenshot x </summary>
+![image](%screenshot_url%)
+</details> 
 
 ### Versions
 <!-- delete the "e.g." and put between the "**...**" your own information. Put between the "_..._" the version number of your browser/extension --> 
-| Browser name & version | Extension name & version |
-| :---:                  |       :---:       |
-| \`e.g. **MS Edge** _92_\`   | \`e.g. **uBlock** _1.36.2_\` |
+| Information             | Value                 |
+| :---                    |         :---:         |
+| ***Browser*** name      | \`e.g. **MS Edge** \` |
+| ***Browser*** version   | \`e.g. _92_\`         | 
+| ***Extension*** name    | \`e.g. **uBlock** \`  |
+| ***Extension*** version | \`e.g. _1.36.2_\`     |
 
 ### Notes
 [Add here the result of whatever investigation work you have done: please investigate the issues you report -- this prevents burdening other volunteers. This is especially true for issues arising from settings which are very different from default ones. 
