@@ -18,4 +18,3 @@ nu.nl##+js(set, isAdBlockEnabled, false)
 @@||quantcast.mgr.consensu.org/tcfv2/*/cmp2.js$script,domain=www.vi.nl
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=vtm.be
 webwereld.nl##+js(set, adBlockStatus, false)
-zeelandnet.nl##.bnr-notice
