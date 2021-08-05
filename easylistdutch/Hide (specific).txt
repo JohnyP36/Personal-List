@@ -28,7 +28,7 @@ almere-nieuws.nl###containerx
 almere-nieuws.nl###jeg_sidecontent > .jeg_container:has(.jeg_ad)
 almere-nieuws.nl##.jeg_container > .jeg_container:has(.jeg_ad)
 androidplanet.nl##.w-full:has-text(ADV):has-text(Gesponsord door):has-text(Advertentie)
-androidplanet.nl,iphoned.nl###featured-header
+androidplanet.nl,iphoned.nl##header[data-name="featured-header"]
 androidplanet.nl,iphoned.nl##.aa-top-dog
 androidplanet.nl,iphoned.nl##.dynamic-content[data-nosnippet]
 androidplanet.nl,iphoned.nl##.dynamic-content-native
