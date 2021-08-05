@@ -2,13 +2,14 @@
 112midden-zeeland.nl##+js(aopr, anOptions)
 @@||ah.nl^$ghide
 filmtotaal.nl##+js(nofab)
-girlscene.nl##+js(set, adblock, 0)
-gratisaftehalen.nl##+js(abort-current-inline-script, fuckAdBlock, undefined)
-icttipsandtricks.nl##+js(acis, String.prototype.charCodeAt, ai_)
 ||improvedigital.com^$3p,badfilter
 ||improvedigital.com^$3p,domain=~funnygames.be|~funnygames.nl|~spele.be|~spele.nl
 ||improvedigital.com/*/headerlift.min.js$script,redirect-rule=noop.js,domain=funnygames.be|funnygames.nl|spele.be|spele.nl
+girlscene.nl##+js(set, adblock, 0)
 ||goplay.be/js/sourcepoint/msg?v=
+gratisaftehalen.nl##+js(abort-current-inline-script, fuckAdBlock, undefined)
+icttipsandtricks.nl##+js(acis, String.prototype.charCodeAt, ai_)
+!@@||looopings.nl/ad-blocker.js
 modekoninginmaxima.nl##+js(nobab)
 notebookcheck.nl##+js(acis, document.getElementById, send)
 nu.nl##+js(set, isAdBlockEnabled, false)
