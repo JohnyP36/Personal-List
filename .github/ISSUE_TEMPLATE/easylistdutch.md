@@ -38,10 +38,6 @@ with an `A` if you want to add a rule; a `C` if you want to change a rule; a `R`
 
 ### Screenshot(s)
 <!-- [Screenshot(s) for difficult to describe visual issues are **mandatory**. Post links instead of **Inline Images** for Screenshots containing **Adult material**.] -->
-<!-- [Replace %screenshot_url% below with a link to the screenshot of the problem. Also, you can paste image from clipboard instead. It will be automatically loaded.] -->
-<details><summary>Screenshot:</summary>
-![image](%screenshot_url%)
-</details>  
 
 ### Versions
 - Browser/version: **[here]**,*[here]*
@@ -50,4 +46,4 @@ with an `A` if you want to add a rule; a `C` if you want to change a rule; a `R`
 ### Notes
 <!-- [Add here the result of whatever investigation work you have done: please investigate the issues you report -- this prevents burdening other volunteers. This is especially true for issues arising from settings which are very different from default ones.] -->
 <!-- If you suspect certain filters (this helps spending time to debug it manually).
-If you have a screen shot of the issue or advert, this will help to highlight it. -->
+If you have a screenshot of the issue or advert, this will help to highlight it. -->
