@@ -38,6 +38,10 @@ with an `A` if you want to add a rule; a `C` if you want to change a rule; a `R`
 
 ### Screenshot(s)
 <!-- [Screenshot(s) for difficult to describe visual issues are **mandatory**. Post links instead of **Inline Images** for Screenshots containing **Adult material**.] -->
+<!-- [Replace %screenshot_url% below with a link to the screenshot of the problem. Also, you can paste image from clipboard instead. It will be automatically loaded.] -->
+<details><summary>Screenshot:</summary>
+![image](%screenshot_url%)
+</details>  
 
 ### Versions
 - Browser/version: **[here]**,*[here]*
