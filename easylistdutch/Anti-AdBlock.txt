@@ -14,7 +14,7 @@ modekoninginmaxima.nl##+js(nobab)
 notebookcheck.nl##+js(acis, document.getElementById, send)
 nu.nl##+js(set, isAdBlockEnabled, false)
 @@/ads.js$domain=marokko.nl
-@@||refoweb.nl^$ghide
+!refoweb.nl#@#.adsbox
 ||googlesyndication.com/pagead/show_ads.js$script,redirect=noopjs,domain=spel.nl
 @@||quantcast.mgr.consensu.org/tcfv2/*/cmp2.js$script,domain=www.vi.nl
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=vtm.be
