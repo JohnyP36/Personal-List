@@ -222,6 +222,9 @@ meerradio.nl##.grijze-balk:has-text(Advert)
 meerradio.nl##div[id="pristineslider.12"]
 meppelercourant.nl,dekrantvanmiddendrenthe.nl##.advertorial-item
 meteovista.be##div[class*="AdWrapper"]
+modekoninginmaxima.nl##.adsbygoogle
+modekoninginmaxima.nl##.after-content-ad:not(:has-text(/Niets van deze website mag verveelvoudigd en/i))
+modekoninginmaxima.nl##.region-top-advertisement
 morningstar.*###ad_top_page
 nederland.fm###xbtm > .shadow
 nederland.fm###xttm > .shadow
