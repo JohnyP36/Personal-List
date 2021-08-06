@@ -1,7 +1,6 @@
 ! 2021-08-02
 112midden-zeeland.nl##+js(aopr, anOptions)
 @@||ah.nl^$ghide
-filmtotaal.nl##+js(nofab)
 ||improvedigital.com^$3p,badfilter
 ||improvedigital.com^$3p,domain=~funnygames.be|~funnygames.nl|~spele.be|~spele.nl
 ||improvedigital.com/*/headerlift.min.js$script,redirect-rule=noop.js,domain=funnygames.be|funnygames.nl|spele.be|spele.nl
