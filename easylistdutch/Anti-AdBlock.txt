@@ -17,5 +17,5 @@ nu.nl##+js(set, isAdBlockEnabled, false)
 !refoweb.nl#@#.adsbox
 ||googlesyndication.com/pagead/show_ads.js$script,redirect=noopjs,domain=spel.nl
 @@||quantcast.mgr.consensu.org/tcfv2/*/cmp2.js$script,domain=www.vi.nl
-@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=vtm.be
+vtm.be#@#+js(set-constant, __PLAYER_AD__, true)
 webwereld.nl##+js(set, adBlockStatus, false)
