@@ -309,7 +309,7 @@ prewarcar.nl##img[width="160"][height="92"]
 proximus.be##.col.pix-sidebar
 puuropreis.nl##.banner-column
 qseks.nl###black-studio-tinymce-2:has-text(Advertentie)
-quickckaims.nl##[src^="blob:https://quickclaims.nl/"]
+quickckaims.nl##.overlay:has([src^="blob:https://quickclaims.nl/"])
 racingnews365.nl##.branded-countdown__content__partner-wrapper
 racingnews365.nl##.homepage-casino-wrapper
 radio0511.com##.sponsorImg
