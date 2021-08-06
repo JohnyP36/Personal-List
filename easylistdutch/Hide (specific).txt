@@ -47,7 +47,7 @@ autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
 autoweek.nl##.advertise
 autozine.nl###asidetop
 autozine.nl##aside > .ad
-azerty.nl##.block.mod_article
+azerty.nl##.block.mod_article > div a[href*="ictwaarborg.nl/"]
 barneveldsekrant.nl##.w-300x.RM5
 barneveldsekrant.nl##[class] > [id="div-gpt-ad-banner"]:has-text(advertentie)
 barneveldsekrant.nl##div.bg-grey.text-center:has-text(advertentie)
