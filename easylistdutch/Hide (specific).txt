@@ -135,8 +135,8 @@ filmtotaal.nl###adf-rectangle
 filmtotaal.nl##.ad-centering
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
 folderz.nl##.advert
-funnygames.be,funnygames.nl,spele.be,spele.nl##div.game-container > div.slot-container > div:has(div[id*="right"])
-funnygames.be,funnygames.nl,spele.be,spele.nl##.is-billboard.slot-container > div
+funnygames.be,funnygames.nl,spele.be,spele.nl##.is-billboard
+funnygames.be,funnygames.nl,spele.be,spele.nl##.is-skyscraper
 gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
 geenstijl.nl##.slajeslag
 geenstijl.nl##a[data-ga-event^="link-tip"]
