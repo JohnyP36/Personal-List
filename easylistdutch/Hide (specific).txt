@@ -43,6 +43,8 @@ asex.nl###adblk1
 asex.nl###bottum_ad
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,tenniskrant.be,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.imu
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,sportid.be,tenniskrant.be,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.leaderboard
+audiobookbay.nl###rsidebar > ul > li > h2:has-text(/ad/i)
+audiobookbay.nl#$#[src="http://audiobookbay.nl/images/dir.gif"]{ width: 100px !important }
 autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
 autoweek.nl##.advertise
 autozine.nl###asidetop
