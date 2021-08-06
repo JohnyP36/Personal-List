@@ -10,7 +10,7 @@ girlscene.nl##+js(set, adblock, undefined)
 gratisaftehalen.nl##+js(abort-current-inline-script, fuckAdBlock, undefined)
 icttipsandtricks.nl##+js(acis, String.prototype.charCodeAt, ai_)
 !@@||looopings.nl/ad-blocker.js
-modekoninginmaxima.nl##+js(nobab)
+@@*$generichide,domain=modekoninginmaxima.nl|quickclaims.nl
 notebookcheck.nl##+js(acis, document.getElementById, send)
 nu.nl##+js(set, isAdBlockEnabled, false)
 @@/ads.js$domain=marokko.nl
