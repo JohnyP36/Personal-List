@@ -1,20 +1,19 @@
 ! 2021-08-02
-112midden-zeeland.nl##+js(aopr, anOptions)
-@@||ah.nl^$ghide
+112midden-zeeland.nl##+js(abort-on-property-read, anOptions)
+@@*$generichide,domain=ah.nl|modekoninginmaxima.nl|quickclaims.nl
 ||improvedigital.com^$3p,badfilter
 ||improvedigital.com^$3p,domain=~funnygames.be|~funnygames.nl|~spele.be|~spele.nl
 ||improvedigital.com/*/headerlift.min.js$script,redirect-rule=noop.js,domain=funnygames.be|funnygames.nl|spele.be|spele.nl
-girlscene.nl##+js(set, adblock, undefined)
+girlscene.nl##+js(set-constant, adblock, undefined)
 ||goplay.be/js/sourcepoint/msg?v=
 gratisaftehalen.nl##+js(abort-current-inline-script, fuckAdBlock, undefined)
-icttipsandtricks.nl##+js(acis, String.prototype.charCodeAt, ai_)
+icttipsandtricks.nl##+js(abort-current-inline-script, String.prototype.charCodeAt, ai_)
 !@@||looopings.nl/ad-blocker.js
-@@*$generichide,domain=modekoninginmaxima.nl|quickclaims.nl
-notebookcheck.nl##+js(acis, document.getElementById, send)
-nu.nl##+js(set, isAdBlockEnabled, false)
+notebookcheck.nl##+js(abort-current-inline-script, document.getElementById, send)
+nu.nl##+js(set-constant, isAdBlockEnabled, false)
 @@/ads.js$domain=marokko.nl
 !refoweb.nl#@#.adsbox
 ||googlesyndication.com/pagead/show_ads.js$script,redirect=noopjs,domain=spel.nl
 @@||quantcast.mgr.consensu.org/tcfv2/*/cmp2.js$script,domain=www.vi.nl
 vtm.be#@#+js(set-constant, __PLAYER_AD__, true)
-webwereld.nl##+js(set, adBlockStatus, false)
+webwereld.nl##+js(set-constant, adBlockStatus, false)
