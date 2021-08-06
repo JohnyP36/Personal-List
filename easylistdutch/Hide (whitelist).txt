@@ -1,5 +1,6 @@
 ! 2021-08-02
 ! Uitzonderingen voor EasyList
+audiobookbay.nl#@#[href^="/down-"]
 dagelijksestandaard.nl#@#.wpInsertInPostAd
 directwonen.nl#@#.top-advert
 focus-wtv.be#@#.sponsored-article
