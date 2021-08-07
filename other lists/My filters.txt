@@ -1,4 +1,5 @@
 ! EasyList + EasyPrivacy + Fanboy's Enhanced Tracking List (+ Fanboy's Annoyance) 	-> https://fanboy.co.nz/r/fanboy-ultimate.txt  /  https://fanboy.co.nz/r/fanboy-complete.txt
+!*$csp=upgrade-insecure-requests,domain=~ehubsoft.net
 
 !https://www.reddit.com/r/privacytoolsIO/comments/g9hjrd/using_ublock_origin_to_abort_possible_browser/
 *,~hangouts.google.com##+js(nowebrtc)
@@ -13,10 +14,11 @@ fb*$queryprune=/^(fb_action_ids|fb_actions_types|fb_ref|fb_source|fbclid)/i
 $removeparam=/^(dpg_source|dpg_campaign|dpg_medium|dpg_content|dclid|gclid|gclsrc|guccounter|guce_referrer|guce_referrer_sig|yclid|__twitter_impression)=/
 $removeparam=source,domain=googleusercontent.com
 !||google.*/search,~consent.google.com/ml$queryprune=~/^(q|tbm|chips|tbs)/,domain=google.*
-||google.*/search$removeparam=/^(aqs|bih|biw|client|cshid|dpr|ei|gs_lcp|hl|ie|sa|sclient|source|sourceid|uact|ved|vet)=/
+||google.*/search$removeparam=/^(aqs|bih|biw|client|cshid|dpr|ei|gs_lcp|hl|ie|sa|sclient|source|sourceid|uact|vet)=/
 ||google.*^$removeparam=/^(tab)=/
 ||www.google.com/url?$removeparam=ved
 ||youtube.com$queryprune=/(ab_channel|cbr|cbrver|cos|cplatform|delay|feature|kw|tab)/
+||bol.com^$removeparam=Referrer
 ||duckduckgo.com^$removeparam=t
 ||github.com^$removeparam=/^(email_source|email_token)=/
 ||instagram.com^$removeparam=igshid
@@ -63,20 +65,19 @@ www.google.*,nsinternational.com##body:style(overflow: auto !important)
 www.google.*,nsinternational.com##html:style(overflow: auto !important)
 
 !======= y8.com =======!
-!@@||entitlements.jwplayer.com/bUfVZsiFEeerwgY3v_uBow.json
+!@@||entitlements.jwplayer.com/*.json
 @@||nl.y8.com/games/*$domain=nl.y8.com
-@@||imasdk.googleapis.com^$3p,domain=storage.y8.com
+!@@||imasdk.googleapis.com^$3p,domain=storage.y8.com
 !!-------OVERIG-------!!
-||cdns.eu1.gigya.com^$3p,domain=~stuk.tv|~kijk.nl|~rtlxl.nl
+||eu1.gigya.com^$~1p
+@@||cdns.eu1.gigya.com/sdk.config.get$3p,xhr,domain=kijk.nl|rtlxl.nl|stuk.tv
+@@||cdns.eu1.gigya.com/gs/sso.htm$3p,subdocument,domain=kijk.nl|rtlxl.nl|stuk.tv
+@@||cdns.eu1.gigya.com/gs/webSdk/Api.aspx$3p,subdocument,domain=kijk.nl|rtlxl.nl|stuk.tv
 ||config-prod.choice.faktor.io/*/faktor.js$script,domain=consent.talpanetwork.com
-||dev.visualwebsiteoptimizer.com/j.php$script,important,domain=www.nu.nl
-||gateway.reddit.com/desktopapi/v1/sidebar_ad$domain=www.reddit.com,important
-||gemius.pl/gstream.js$script,domain=destentor.nl|telegraaf.nl,important
-||geolocation.onetrust.com^$domain=~nu.nl
-@@||cdn.cxense.com/cx.cce.js$script,domain=nl.motorsport.com
 @@||faktor.io^$3p,domain=consent.talpanetwork.com
-@@||adservice.google.com.tr^$xhr,domain=player.tubia.com
-@@||static.adsafeprotected.com/vans-adapter-google-ima.js$script,domain=motorsport.tv
+||geolocation.onetrust.com^
+||gateway.reddit.com/desktopapi/v1/sidebar_ad$domain=www.reddit.com,important
+@@||gemius.pl/gplayer.js$script,3p,badfilter
 @@||taboola.com/*$domain=gloednieuw.nl
 
 ! Cookie Banner e.d.
@@ -85,15 +86,11 @@ christenenvoorisrael.nl##.diffuse_cookie-bar__container
 instagram.com##div[class][role="presentation"]:has([role="dialog"] > div[class] > div[class] > div[class] > div[class]:has(h2[class]:has-text(Accept cookies))):has(a[href="/legal/cookies/"])
 instagram.com##article[role="presentation"] > div[class] > div[class] > div[class]:has([aria-label^="Information icon"]):not([role="presentation"])
 instagram.com##div[style^="height:"] > section[class] > div[class] > div[class]:has([aria-label^="Information icon"])
-learnenglishteens.britishcouncil.org,learnenglish.britishcouncil.org###cookie-banner
-marktplaats.nl###inloggenDialog
-marktplaats.nl##.hz-LoginNudge
-nl.shein.com##.welocme-modal
-nl.motorsport.com##.ms-footer-editions-messages > .active.ms-footer-message
-nl.motorsport.com##.ms-footer-messages > .active.ms-footer-message
+marktplaats.nl##div[class*="LoginNudge"]:has-text(/Log hier in/i):has-text(/Inloggen/i)
+!marktplaats.nl##.mp-LoginNudge--animated.mp-LoginNudge
+marktplaats.nl##div[class] > div[class] > section[class] > div[class] > div[class*="Login"]
 nos.nl###ccm_notification_wrapper
 nsinternational.com##.cookie-notice
-sites.google.com##.dnjcK.lhbLEe
 speedtest.net##.notification-container > div > .notification
 speedtest.net###_evidon-barrier-wrapper
 volkskrant.nl,trouw.nl###LOGIN_BIG_BOTTOM > .tm-body
@@ -101,12 +98,9 @@ y8.com###policy-validation
 gloednieuw.nl#@##taboola-below-article-thumbnails
 
 !!-----ALGEMEEN-----!!
-||2mdn.net/instream/$important
-||doubleclick.net^$important
 ||doubleclick.net/instream/ad_status.js$script,redirect=doubleclick.net/instream/ad_status.js
+calorielijst.nl##+js(aopw, clickIE)
 -copy-paste-blocker/
-/adservice.$domain=~adservice.io|~player.tubia.com,important
-/advert.js$script,domain=~veedi.com,important
 /copy_text.js
 /disable-right-click-
 /disable-right-click/*
@@ -116,6 +110,16 @@ gloednieuw.nl#@##taboola-below-article-thumbnails
 /no-right-click.$script
 /norightclick.
 /scripts/ads.js$script,important
+/wp-content/plugins/image-watermark/js/no-right-click.js
+/wp-content/plugins/wp-content-copy-protection/assets/*
+/wp-content/plugins/jcwp-copy-paste-blocker/*
+/wp-content/plugins/disable-right-click/*
+/wp-content/plugins/right-click-disable-orignal/*
+
+! Encounter whitelist rules from Adguard Base
+@@||2mdn.net/instream/$badfilter
+@@||hb.improvedigital.com/pbw/prebid/prebid-idhb-v*.min.js$domain=html5.gamedistribution.com,badfilter
+@@||hb.improvedigital.com/pbw/gamedistributionv*.min.js$domain=html5.gamedistribution.com,badfilter
 
 ! Facebook
 ||facebook.com^$domain=~facebook.com
@@ -144,16 +148,14 @@ gloednieuw.nl#@##taboola-below-article-thumbnails
 ||pagead2.googlesyndication.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js,important
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js,important
 ||widgets.outbrain.com/outbrain.js$script,redirect=widgets.outbrain.com/outbrain.js,important
-/analytics/analytics.$~xmlhttprequest,3p
-!in uBolck filters -------------------------------------- /block-adblock.js$script
+!in Fanboy Complete without ,3p --------------------------!/analytics/analytics.$~xmlhttprequest,3p
 !in Fanboy Complete without $3p, but that's a 'badfilter' !/ga_setup.js$3p
-!in Adguard Tracking Protection ------------------------- !/google-analytics.$3p
-!in Adguard Tracking Protection ------------------------- !/google-analytics.$script,3p
+!in Fanboy Complete ------------------------------------- !/google-analytics.$3p
+!in Fanboy Complete ------------------------------------- !/google-analytics.$script,3p
 !in Fanboy Complete ------------------------------------- !/googleanalytics.js$3p
 !in Fanboy Complete ------------------------------------- !-google-analytics/$3p
 !  uBlock filters - Unbreak
 */b/ss/*&aqe=$image,redirect=1x1-transparent.gif
-||cdn.taboola.com/libtrc/*/loader.js$script,redirect=noopjs,important,domain=cnet.com
 @@||fundingchoicesmessages.google.com^$script,domain=bbc.com
 
 ! Rules from Adguard and Adguard Dutch
@@ -177,7 +179,6 @@ gloednieuw.nl#@##taboola-below-article-thumbnails
 ||quantserve.com^$script,third-party
    !/quantserve.com/* + ||quantserve.com^$~third-party in Fanboy
 ||qualtrics.com^$third-party
-!||taboola.com^$3p
 ||trackersimulator.org^
 ||youtube.com/player_204?
 
