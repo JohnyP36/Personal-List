@@ -5,16 +5,8 @@
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! Last modified: 7 August 2021 11:47 UTC
 !
-! This list contains 3 list.
-! The first list is a forked Easylist Dutch,
+! This list is a forked Easylist Dutch,
 !  because the original list is outdated and they don't update it often
-!
-! The second one is a forked Adguard Tracking Procetion
-! In that list I removed everything that EasyList + EasyPrivacy + Fanboy Enhanced Tracking already contained
-! And it has an extra section for Dutch domains
-!
-! The last list is a forked Nano Defender Intergration
-! I added this list for anti-adblock
 !
 !
 !===================== FIRST LIST =====================!
@@ -67,3 +59,10 @@
  ! Because it's more accurate to encounter anti-adblock on site basis, my forked Nano anti-Adblock list is not included.
  ! You can add it by yourself; this is the link: https://raw.githubusercontent.com/JohnyP36/Personal-List/main/other%20lists/Nano%20anti-Adblock.txt
 !!#include other%20lists/Nano%20anti-Adblock.txt
+!
+!
+!
+!==================== THIRD LIST ===================!
+ ! Just a set of personal rules. They are NOT included in this "Dutch Filter List" and will never be.
+ ! You can add it by yourself; this is the link: https://raw.githubusercontent.com/JohnyP36/Personal-List/main/other%20lists/My%20filters.txt
+!!#include other%20lists/My%20filters.txt
