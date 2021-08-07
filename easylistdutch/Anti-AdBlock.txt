@@ -15,4 +15,5 @@ nu.nl##+js(set-constant, isAdBlockEnabled, false)
 ||googlesyndication.com/pagead/show_ads.js$script,redirect=noopjs,domain=spel.nl
 @@||quantcast.mgr.consensu.org/tcfv2/*/cmp2.js$script,domain=www.vi.nl
 vtm.be#@#+js(set-constant, __PLAYER_AD__, true)
+!@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=vtm.be
 webwereld.nl##+js(set-constant, adBlockStatus, false)
