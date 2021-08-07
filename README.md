@@ -28,10 +28,13 @@ Different kind of rule
 ## *[Nano anti-adblock](https://github.com/JohnyP36/Personal-List/blob/main/other%20lists/Nano%20anti-Adblock.txt)*
 Because the famous Nano filterlists are archieved I copied the most usefull rules in regard to anti-adblock. 
 
+---
+
 ### Subcribe to my filterlists
 - [EasyList Dutch](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/Personal%20List%20(uBo).txt&title=EasylistDutch)
 - [Nano anti-Adblock](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/other%20lists/Nano%20anti-Adblock.txt&title=Nano%20anti-Adblock)
 - [My filters](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/other%20lists/My%20filters.txt&title=My%20filters)
+<br/>
 
 #### Support
 If you want to buy me a cup of coffee or want to support me, you can donate via [PayPal](https://www.paypal.com/donate?hosted_button_id=8BBT5V55TGVXW)
