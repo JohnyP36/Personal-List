@@ -1,8 +1,7 @@
 ! 2021-08-02
 112midden-zeeland.nl##+js(abort-on-property-read, anOptions)
 @@*$generichide,domain=ah.nl|modekoninginmaxima.nl|quickclaims.nl
-@@||improvedigital.com^$3p,domain=funnygames.be|funnygames.nl|spele.be|spele.nl
-!||improvedigital.com/*/headerlift.min.js$script,redirect-rule=noop.js,domain=funnygames.be|funnygames.nl|spele.be|spele.nl
+@@||hb.improvedigital.com/pbw/headerlift.min.js$3p,domain=funnygames.be|funnygames.nl|spele.be|spele.nl
 girlscene.nl##+js(set-constant, adblock, undefined)
 ||goplay.be/js/sourcepoint/msg?v=
 gratisaftehalen.nl##+js(abort-current-inline-script, fuckAdBlock, undefined)
