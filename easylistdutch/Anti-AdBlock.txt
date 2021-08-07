@@ -9,7 +9,7 @@ icttipsandtricks.nl##+js(abort-current-inline-script, String.prototype.charCodeA
 !@@||looopings.nl/ad-blocker.js
 notebookcheck.nl##+js(abort-current-inline-script, document.getElementById, send)
 nu.nl##+js(set-constant, isAdBlockEnabled, false)
-@@/ads.js$domain=marokko.nl
+marokko.nl##+js(set-constant, ads_toegestaan, true)
 !refoweb.nl#@#.adsbox
 ||googlesyndication.com/pagead/show_ads.js$script,redirect=noopjs,domain=spel.nl
 @@||quantcast.mgr.consensu.org/tcfv2/*/cmp2.js$script,domain=www.vi.nl
