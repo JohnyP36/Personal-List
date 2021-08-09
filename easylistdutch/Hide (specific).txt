@@ -131,6 +131,7 @@ ero-meiden.nl,geilverlangen.nl##.size-full.attachment-full
 europa-landbouwmachines.nl##.pub
 europa-landbouwmachines.nl##.pub-content
 ewmagazine.nl##.banner-leaderboard
+farm-date.com##.hide-for-small-only:has-text(Sponsors)
 fd.nl##.fd-message-home-header
 filmtotaal.nl###adf-rectangle
 filmtotaal.nl##.ad-centering
