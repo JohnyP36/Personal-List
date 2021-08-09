@@ -1,5 +1,5 @@
 ! 2021-07-29 
-||agfstorage.blob.core.windows.net/banners/$image,domain=groentennieuws.nl|uiennieuws.nl
+||agfstorage.blob.core.windows.net/banners/$image,domain=agf.nl|groentennieuws.nl|uiennieuws.nl
 ||cdn.agf.nl/nieuws/gif-jpg/*.gif$image,domain=groentennieuws.nl|uiennieuws.nl
 ||ent-cdn.com/files/bans/belowvid*40plusengeil$image,domain=vagina.nl
 ||sedproductions.nl/banners/*.gif$image,domain=cumcams.nl|nederlandsewebcambabes.nl
@@ -10,7 +10,6 @@
 ! 22-07-2021 https://github.com/BPower0036/AdBlockFilters/commit/c11105cced861d9edbf33e87aae4ceb7967c765d#diff-fc048d7e10fe1949b116223817a5fe2092d99d04ba533eb3c09e8b79c8723bef
 /^https?:\/\/statics\.(?:ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
 ! 10-07-2021
-||agfstorage.blob.core.windows.net/banners$domain=agf.nl
 ||blablacar.nl/widget-driver/$third-party
 ||booking.com/flexiproduct.html$domain=puuropreis.nl
 ||cdn.agf.nl/nieuws/*.gif$domain=agf.nl
