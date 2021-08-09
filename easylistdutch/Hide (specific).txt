@@ -75,6 +75,7 @@ bokt.nl###frontpage_mediumrect
 buienradar.be,buienradar.nl###adholderContainerHeader
 buienradar.nl##.uitradar:has(img[src*=".nl/resources//images/promo/"])
 brandweerspotters.nl###banners:has-text(Sponsors)
+cabla.nl##.ontwerp_ads
 camsexbabe.nl##.d-md-block.d-none.video-sidebar
 camsexbabe.nl##.happy-player-beside
 camsexbabe.nl##.happy-section
