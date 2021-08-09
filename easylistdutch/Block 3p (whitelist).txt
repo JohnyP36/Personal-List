@@ -6,8 +6,6 @@
 @@||aka.spotxcdn.com/integration/ados/v1/ados.js$script,domain=www.radioluisteren.fm
 @@||aweprt.com/embed/$script,domain=cumcams.nl
 @@||cdn.spotxcdn.com/integration/easi/v1/easi.js$script,domain=www.radioluisteren.fm
-@@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=nos.nl|vtm.be
-@@||imasdk.googleapis.com/js/core/bridge3.*.html#goog_$subdocument,domain=vtm.be
 @@||js.spotx.tv/ados/v1/106185.js$script,domain=www.radioluisteren.fm
 @@||media.plista.com^*$image,domain=totaaltv.nl
 @@||plista.com/async$script,domain=totaaltv.nl
