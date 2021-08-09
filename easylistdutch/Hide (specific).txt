@@ -341,7 +341,6 @@ scholieren.com##.blockvertorial
 scholieren.com##.min-h-250
 scholieren.com##.min-h-90
 secretcircle.com##.column:has(.advert)
-seksmet.nl###main-header-wrapper
 seksmet.nl##.et_pb_module:has(.gofollow:has(img[src]))
 !seksmet.nl##.et_pb_text:has(div[class] > center > a[href]):not(:has(h3.heading.more))
 seksmet.nl##.et_pb_text:has(div[class] > center > a[href^="https://dt51.net/"])
