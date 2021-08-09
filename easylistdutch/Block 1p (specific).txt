@@ -190,7 +190,6 @@
 ||sexcontactadressen.nl/assets/img/*.gif$image
 ||sexervaringendelen.nl/porno/$image
 ||sexverhalen.com/vriendschap/
-||shemaledateonline.nl/banner$image
 ||simone.nl/bestanden/afbeelding/*-banner-
 ||simone.nl/bestanden/afbeelding/banner/
 ||speurdeals.nl/uploads/banners$image
