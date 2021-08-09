@@ -19,6 +19,7 @@
 ||dorpsklanken.online/wp-content/uploads/*/*_300x100*.gif$image
 ||elektronicaforum.nl/banner*$image,first-party
 ||farm-date.com/slides/banner-$image,first-party
+||flexnieuws.nl/wp-content/uploads/*/Naamloos-*.png$image
 ||gowiththevlo.nl/wp-content/uploads/*/apeldoorn-antiekmarkten-*.jpg$image
 ||gowiththevlo.nl/wp-content/uploads/*/bo_banner_gwtv.jpg$image
 ||gowiththevlo.nl/wp-content/uploads/*/va_banner_gwtv.jpg$image
