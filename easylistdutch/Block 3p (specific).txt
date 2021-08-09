@@ -16,7 +16,6 @@
 ||cdn.agf.nl/nieuws/*.gif$domain=agf.nl
 ||cdn.media.zylom.com/images/site/zylom/promo/$third-party
 ||cdn.sbsnet.nl/creatives/assets/*.mp4$domain=kijk.nl
-||chainadvertising.eu^$script,domain=kinkymedia.nl
 ||cinkeltrading.nl/pics/*.gif$domain=cumcams.nl
 ||custom.islive.nl/_respo/*.gif$image,domain=camsex.nl
 ||denieuwepraktijk.nl/zoic/kaart-coronatestlocaties.svg$domain=groningerkrant.nl
