@@ -6,6 +6,7 @@
 @@||aweprt.com/embed/$script,domain=cumcams.nl
 @@||cdn.spotxcdn.com/integration/easi/v1/easi.js$script,domain=www.radioluisteren.fm
 @@||js.spotx.tv/ados/v1/106185.js$script,domain=www.radioluisteren.fm
+@@||lexozfldkklgvc.com/assets/cp/js/webcam_gallery/iframe_handler.js$script,domain=sexmeid.nl
 @@||lexozfldkklgvc.com/cp/webcam_gallery/index.php$subdocument,domain=sexmeid.nl
 @@||media.plista.com^*$image,domain=totaaltv.nl
 @@||plista.com/async$script,domain=totaaltv.nl
