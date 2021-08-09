@@ -21,6 +21,5 @@
 @@||tools.vpscash.nl/datingv3/docs/plug_and_play/*$subdocument,domain=www.flirtmee.nl
 @@||tools.vpscash.nl/datingv3/docs/plug_and_play/islive/$script,domain=beeldbelsex.com|cumcams.nl|tube.nederlandseporno.nl
 @@||tools.vpscash.nl/webcams/promo/plug_play_webcams/*$subdocument,domain=beeldbelsex.com
-@@||vtm.be/vmmaplayer/embed?videoUrl=*&adZone=$subdocument,domain=knack.be|zita.be
 @@||widgets.spklw.com/v1/data/*$xhr,domain=dagelijksestandaard.nl
 @@||widgets.sprinklecontent.com/v2/*$xhr,script,domain=dagelijksestandaard.nl
