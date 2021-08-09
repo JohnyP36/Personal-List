@@ -203,6 +203,8 @@ m.radioluisteren.fm###adsense
 maaslandradio.nl##.slides
 maaslandradio.nl##[id^="media_image"]:has-text(Advertentie)
 made-in.be###leaderboard_row
+mariogames.be##.googleadvidx
+mariogames.be##div.gameinfo:has-text(/sponsored links/i)
 marketingtribune.nl###banner-billboard
 marktnet.nl##.tab4
 marktplaats.nl,2dehands.be###top-banner-wrapper
