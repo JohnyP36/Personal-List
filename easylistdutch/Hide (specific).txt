@@ -163,6 +163,7 @@ hardware.info##.sidebar_right_top
 hartvannederland.nl##[data-testid^="banner"]
 hartvannederland.nl##[data-testid^="homepageAfter"]
 hartvannederland.nl##[data-testid="topBanner"] > [class]
+hetkrantje-online.nl##.adUnderArticle
 historiek.net##[id^="custom_html"]:has-text(/Advertentie/i)
 historiek.net###before-header
 historiek.net##.code-block:has-text(advertentie)
