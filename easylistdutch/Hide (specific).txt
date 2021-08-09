@@ -161,6 +161,7 @@ guldencourant.nl##.jeg_midbar:has([class^="ads-wrapper"])
 halstadcentraal.nl##.carouselbanner_left
 halstadcentraal.nl##.respbanners
 !handbalstartpunt.nl##aside.widget-banner
+hardnieuws.nl##[class*="mb-"]:has([id$="ros-970x250"])
 hardware.info##.sidebar_right_top
 hartvannederland.nl##[data-testid^="banner"]
 hartvannederland.nl##[data-testid^="homepageAfter"]
