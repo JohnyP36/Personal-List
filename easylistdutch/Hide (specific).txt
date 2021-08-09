@@ -184,7 +184,7 @@ kinkymedia.nl##.adguru-ad-banner
 kinkymedia.nl##.adguru-zone-wrap
 kinkymedia.nl##.footer-widget-container:has(.size-full.aligncenter):has(img[src$="gif"])
 kinkymedia.nl##[id^="adguru-zone-widget"]
-kinkysexcontactonline.nl,negerinnensexdating.eu,neukplaza.nl,privesexgids.nl,sexdatingholland.com,stellensexdating.nl,studentesexcontact.nl,tienersexpret.nl,zinomteneuken.nl##[class="rand nomobile"]:has(img[src^="/images/"])
+kinkysexcontactonline.nl,negerinnensexdating.eu,neukplaza.nl,privesexgids.nl,sexdatingholland.com,stellensexdating.nl,studentesexcontact.nl,tienersexpret.nl,zinomteneuken.nl##[class="rand nomobile"]:has(img[src^="/images/"]):not(:has(a[href*="islive"]))
 knhs.nl##div.row:has( > section > .cycler:has(img[src*="banner"]))
 knhs.nl##.banners-right
 koopplein.nl##.ad
