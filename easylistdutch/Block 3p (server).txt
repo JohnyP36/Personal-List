@@ -21,6 +21,7 @@
 ||bva-auctions.com^$domain=telegraaf.nl
 ||cashpartners.eu^$third-party,domain=~extreemonlinecontact.nl|~extremesexmatch.nl|~instasex.nl
 ||cd.tnet.nl^$script,third-party
+||chainadvertising.eu^$third-party
 ||cleafs.nl^$third-party
 ||conversive.nl^$third-party
 ||coolconcepts.nl^$third-party
