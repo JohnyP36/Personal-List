@@ -404,6 +404,7 @@ tvgids24.nl##.adBoxbig
 uiennieuws.nl##.banner
 unity.nu##.banner
 vagina.nl##[id$="fish-hooks"]:has-text(Advertenties)
+vagina.nl##.video-fish-hook:has-text(/sluit en speel af/i)
 vlietnieuws.nl##.banner_wrapper
 video18.nl##.modal
 villamedia.nl##[href^="https://www.anp.nl/start"]
