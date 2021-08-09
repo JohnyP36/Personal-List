@@ -2,6 +2,7 @@
 
 ! 2021-08-04
 !#if env_mobile
+nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
 112achterhoek-nieuws.nl###sidebar
@@ -274,7 +275,6 @@ nporadio2.nl##.home-module--advertisement
 nu.nl###header > .zone
 nu.nl##a[href*="/advertorial-"]
 nu.nl##div.articlelist[data-section="advertorial-belastingdienst-adverteerder"]
-nu.nl##div[data-type="tealium"]
 oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
 oisterwijknieuws.nl###left-sidebar
 oisterwijknieuws.nl###right-sidebar
