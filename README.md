@@ -8,7 +8,7 @@ Special for uBo syntax (and Adguard) is [this list](https://github.com/JohnyP36/
 [This "Persosal" list](https://github.com/JohnyP36/Personal-List/blob/main/Personal%20List.txt) contains the following filterlists:
 
 ## *[EasyList Dutch](https://github.com/JohnyP36/Personal-List/tree/main/easylistdutch)*
-My own updated version of EasyList Dutch. 
+My own updated version of EasyList Dutch, which is now based on [EasyDutch](https://github.com/BPower0036/AdBlockFilters/blob/main/easydutch). 
 
 I made this filter because the EasyList Dutch filter isn't maintained often.
 
