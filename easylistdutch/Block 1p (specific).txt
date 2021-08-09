@@ -76,7 +76,6 @@
 ||cdn.nieuws.nl/media/sites/18/*.gif$image
 ||cdn.nieuws.nl/media/sites/88/*.gif$image
 ||cdn.nieuws.nl/media/sites/88/*/banner$image
-||cdn.seksmet.nl/wp-content/uploads/*/twero-sociaal*.gif
 ||cdn.ster.nl/banners^
 ||chatmetvreemden.be/static/html/
 ||chatmetvreemden.nl/static/html/
