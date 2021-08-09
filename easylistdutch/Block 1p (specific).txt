@@ -17,6 +17,7 @@
 ||brandweerspotters.nl/modules/banners/
 ||cdn.shortpixel.ai/client/q_lossy,ret_img,w_*/https://groningerkrant.nl/wp-content/uploads/*/Rijschool-in-Groningen*.$image
 ||dorpsklanken.online/wp-content/uploads/*/*_300x100*.gif$image
+||elektronicaforum.nl/banner*$image,first-party
 ||gowiththevlo.nl/wp-content/uploads/*/apeldoorn-antiekmarkten-*.jpg$image
 ||gowiththevlo.nl/wp-content/uploads/*/bo_banner_gwtv.jpg$image
 ||gowiththevlo.nl/wp-content/uploads/*/va_banner_gwtv.jpg$image
