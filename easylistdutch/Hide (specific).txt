@@ -257,8 +257,9 @@ nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
 nieuws.nl###header-banner
 nieuwsonline.nu##.clearfix:has(img[src*="/header/"])
 nieuwsuitnijmegen.nl##.banner-box-1
-ninefornews.nl##.widget-top:has-text(/Advertentie/i)
-ninefornews.nl##.widget-top:has-text(/Archief/i):style(margin-top: -50px!important;)
+ninefornews.nl##.nfn-target[data-advadsredirect]
+ninefornews.nl##.sticky-element-placeholder
+ninefornews.nl##.widget:has(.nfn-target[data-advadsredirect])
 ninefornews.nl##.widget-top:has-text(/Gesponsorde/i) 
 ninefornews.nl##.widget-top:has-text(/Sponsored/i)
 nnieuws.be##.banner-silver
