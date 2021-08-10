@@ -155,6 +155,8 @@
 ||niedziela.nl/images/banners/
 ||nieuwsuitnijmegen.nl/gfx/banners/
 ||ninefornews.nl/wp-content/a-d-s/banner*$image
+||ninefornews.nl/wp-content/uploads/*/tetralogie300x250.jpg$image
+||ninefornews.nl/wp-content/uploads/*/*-300x250-*.jpg$image
 ||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,first-party
 ||noordkopcentraal.nl^*/banner_
 ||notebookcheck.nl/fileadmin/Sonstiges/ama_abn2_$xmlhttprequest
