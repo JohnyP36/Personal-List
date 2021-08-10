@@ -200,6 +200,7 @@ koopplein.nl##.ad-item-container
 koopplein.nl##.header-banner
 koopplein.nl##.promobloc-desktop
 koopplein.nl##.promoblocs__banner
+kutscheetje.nl##[id^="text"]:has([src*="banner"])
 landenweb.nl##.content > table > tbody:has-text(advert)
 leiderdorpsweekblad.nl##.adUnderArticle
 loemedia.nl###text-17
