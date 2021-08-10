@@ -2,6 +2,7 @@
 @@||laredoute.com^$image,domain=laredoute.nl
 ! 2021-08-
 @@||affilaxy.com/promos/plugnplay/generators/sexklik/php/*$subdocument,domain=genotsplekje.nl
+@@||affilaxy.com/promos/plugnplayresponsive/generators/sexklik/php/plug-play.php$subdocument,domain=sproeiendekutjes.nl
 @@||affilaxy.com/promos/regforms/generators/sexklik/php/register_form.php$domain=geile-sexcontacten.be|sexdating-vrouwen.be|vrouwen-sexdate.be
 @@||aka.spotxcdn.com/integration/ados/v1/ados.js$script,domain=www.radioluisteren.fm
 @@||aweprt.com/embed/$script,domain=cumcams.nl
