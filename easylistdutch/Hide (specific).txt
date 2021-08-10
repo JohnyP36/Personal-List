@@ -363,6 +363,7 @@ sexjobs.nl##.banner-wrapper
 sexjobs.nl##div[id^="banner-"]
 sex-kamer.nl##.adHomePage
 sex-kamer.nl##.videoOverAdBig
+sexafspraakonline.nl##.d-lg-block.d-none > .card:has-text(Advert)
 sexfun.nl##[href^="https://ads.v1d305.com/redirect/"]
 sexpower.nl###pre-footer-banners
 sexpower.nl###top-banner
