@@ -208,6 +208,7 @@ loemedia.nl##div.ppb_header.withsmallpadding.one:has(:has-text(Advertentie))
 loemedia.nl##div.ppb_header.withsmallpadding.one:has(:has-text(Banner))
 luchtvaartnieuws.nl##.block-block >.content:has([id^="div-gpt-ad"])
 luchtvaartnieuws.nl##.block-block >.content:has(.adsbygoogle)
+luchtvaartnieuws.nl##.block-title:has-text(Partners van)
 m.radioluisteren.fm###adsense
 maaslandradio.nl##.slides
 maaslandradio.nl##[id^="media_image"]:has-text(Advertentie)
