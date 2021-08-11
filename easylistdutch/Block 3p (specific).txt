@@ -4,6 +4,7 @@
 ||ent-cdn.com/files/bans/belowvid*40plusengeil$image,domain=vagina.nl
 ||inviteonly.nl/banner/*$image,domain=kutscheetje.nl
 ||sedproductions.nl/banners/*.gif$image,domain=cumcams.nl|nederlandsewebcambabes.nl
+||static.qmusic.*/acties/qnl-nu-ad/index.html$subdocument,domain=nu.nl
 ||tools-affil2.com/rtb/index.php$subdocument,domain=beeldbelsex.com
 ||wp.com/www.appletips.nl/wp-content/uploads/amacdeals$image,domain=appletips.nl
 ||wp.com/www.appletips.nl/wp-content/uploads/cnmx$image,domain=appletips.nl
