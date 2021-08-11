@@ -1,19 +1,22 @@
-! Title: Dutch Filter List (uBo)
-! Description: My own supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
-! Expires: 1 days (update frequency)
-! Github issues: https://github.com/JohnyP36/Personal-List/issues
+! Title: Dutch Filter List
+! Description: | 
+    A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
+    mainly for uBlock and Adguard users
+! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
-! Last modified: 7 August 2021 11:47 UTC
+! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
+! Last modified: 
+!
+! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
 ! This list is a forked Easylist Dutch,
 !  because the original list is outdated and they don't update it often
 !
 !
 !===================== FIRST LIST =====================!
-! EasyList Dutch
-!
 ! Alleen voor advertenties op Nederlandstalige sites!
 ! Rapporteer gevonden advertenties of fouten op Github!
+!
 !--------Algemene blokkeerregels--------!
 !#include easylistdutch/Block%20(general).txt
 !
@@ -53,16 +56,3 @@
 !-----------------Anti-AdBlock-----------------!
 !#include easylistdutch/Anti-AdBlock.txt
 !
-!
-!
-!=================== SECOND LIST ===================!
- ! Because it's more accurate to encounter anti-adblock on site basis, my forked Nano anti-Adblock list is not included.
- ! You can add it by yourself; this is the link: https://raw.githubusercontent.com/JohnyP36/Personal-List/main/other%20lists/Nano%20anti-Adblock.txt
-!!#include other%20lists/Nano%20anti-Adblock.txt
-!
-!
-!
-!==================== THIRD LIST ===================!
- ! Just a set of personal rules. They are NOT included in this "Dutch Filter List" and will never be.
- ! You can add it by yourself; this is the link: https://raw.githubusercontent.com/JohnyP36/Personal-List/main/other%20lists/My%20filters.txt
-!!#include other%20lists/My%20filters.txt
