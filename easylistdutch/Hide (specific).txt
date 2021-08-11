@@ -240,6 +240,7 @@ meerradio.nl##.grijze-balk:has-text(Advert)
 meerradio.nl##div[id="pristineslider.12"]
 meppelercourant.nl,dekrantvanmiddendrenthe.nl##.advertorial-item
 meteovista.be##div[class*="AdWrapper"]
+milflive.nl##[src="/customs/milflive.nl/assets/images/233x257-samen-masturberen.gif"]:style(width:75% !important)
 modekoninginmaxima.nl##.adsbygoogle
 modekoninginmaxima.nl##.after-content-ad:not(:has-text(/Niets van deze website mag verveelvoudigd en/i))
 modekoninginmaxima.nl##.region-top-advertisement
