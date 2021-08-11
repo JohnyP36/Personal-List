@@ -204,6 +204,7 @@ koopplein.nl##.promobloc-desktop
 koopplein.nl##.promoblocs__banner
 kutscheetje.nl##[id^="text"]:has([src*="banner"])
 landenweb.nl##.content > table > tbody:has-text(advert)
+leerlingen.com##.clearfix.widget > :has(.sponsors)
 leiderdorpsweekblad.nl##.adUnderArticle
 loemedia.nl###text-17
 loemedia.nl##div.ppb_header.withsmallpadding.one:has(:has-text(Advertentie))
