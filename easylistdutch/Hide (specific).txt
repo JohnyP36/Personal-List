@@ -349,6 +349,7 @@ rtvkrimpenerwaard.nl##.art-positioncontrol
 rtvkrimpenerwaard.nl##[id^="pg-1407"]:has-text(Vrienden):has([class^="sp-logo-carousel"] .sp-lcp-logo-wrapper):has(img[src])
 rubenweytjens.be##.block-ad-banner
 rubenweytjens.be##.view-weather-ads-view
+schaefer-shop.nl##.pda > .row:has([id*="topseller"]):has([id*="crossseller"])
 scholieren.com##.blockvertorial
 scholieren.com##.min-h-250
 scholieren.com##.min-h-90
