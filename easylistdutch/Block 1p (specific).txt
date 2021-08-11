@@ -23,6 +23,7 @@
 ||gowiththevlo.nl/wp-content/uploads/*/apeldoorn-antiekmarkten-*.jpg$image
 ||gowiththevlo.nl/wp-content/uploads/*/bo_banner_gwtv.jpg$image
 ||gowiththevlo.nl/wp-content/uploads/*/va_banner_gwtv.jpg$image
+||milflive.nl/customs/milflive.nl/assets/images/233x257-aador-sexshop.gif$image,first-party
 ||oisterwijknieuws.nl/wp-content/uploads/*/lelieveld-634-x-80.jpg$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/MBA-regiobank-*.gif$image
 ||modekoninginmaxima.nl/sites/default/files/*/vorsten2_170x600.gif$image
