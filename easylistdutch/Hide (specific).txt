@@ -95,6 +95,7 @@ dating-zoeken.nl,hete-sexcontacten.nl,milf-overzicht.nl,sexdating-afspraak.nl,se
 dbsuriname.com,westerwoldeactueel.nl##.g
 decibel.nl##.edgtf-carousel-holder
 decibel.nl##img[width="640"][height="180"]
+dekattensite.nl##.nxs-default-p > p:has-text(advert)
 dekrantnieuws.nl##.vc_box_outline.vc_single_image-wrapper
 dekrantnieuws.nl,destreekkrant.nu##.vc_carousel-inner > .vc_carousel-slideline > .vc_carousel-slideline-inner
 dekrantnieuws.nl,destreekkrant.nu##.vc_inner:has([src$="324x484.jpg"])
