@@ -147,6 +147,7 @@ geenstijl.nl##.slajeslag
 geenstijl.nl##a[data-ga-event^="link-tip"]
 geile-sexcontacten.be##.card:has([src^="https://www.affilaxy.com/promos//popup/js/pop-under.js"])
 geile-sexcontacten.be##.d-lg-block:has-text(Advert)
+geile-sexverhalen.nl###footermiddle > .well:has-text(/advert/i)
 geilefotoverhalen.nl##.widget:has(iframe[src*="/aff_ad?"])
 geileverhalen.nl##div.author-presentation-container:has([src^="https://go2.go2cloud.org/"])
 gic.nl##.banners
