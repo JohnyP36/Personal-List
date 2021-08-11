@@ -2,6 +2,7 @@
 ||agfstorage.blob.core.windows.net/banners/$image,domain=agf.nl|groentennieuws.nl|uiennieuws.nl
 ||cdn.agf.nl/nieuws/gif-jpg/*.gif$image,domain=groentennieuws.nl|uiennieuws.nl
 ||ent-cdn.com/files/bans/belowvid*40plusengeil$image,domain=vagina.nl
+||go2cloud.org/aff_ad?*&format=iframe$subdocument,domain=sexoverzicht.nl|sextube.nl
 ||inviteonly.nl/banner/*$image,domain=kutscheetje.nl
 ||sedproductions.nl/banners/*.gif$image,domain=cumcams.nl|nederlandsewebcambabes.nl
 ||static.qmusic.*/acties/qnl-nu-ad/index.html$subdocument,domain=nu.nl
