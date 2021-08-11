@@ -260,9 +260,9 @@ nieuwsonline.nu##.clearfix:has(img[src*="/header/"])
 nieuwsuitnijmegen.nl##.banner-box-1
 ninefornews.nl##.nfn-target[data-advadsredirect]
 ninefornews.nl##.sticky-element-placeholder
-ninefornews.nl##.widget:has(.nfn-target[data-advadsredirect])
 ninefornews.nl##.widget-top:has-text(/Gesponsorde/i) 
 ninefornews.nl##.widget-top:has-text(/Sponsored/i)
+ninefornews.nl##[id^="text-"]:has(.nfn-target[data-advadsredirect])
 nnieuws.be##.banner-silver
 nnieuws.be##.region-banner-diamond
 nnieuws.be##.view-vw-banners.view
