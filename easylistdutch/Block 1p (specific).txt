@@ -1,6 +1,6 @@
 ! 2021-08-
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
-/images/*.gif$image,domain=123video.nl|18plussexdating.nl|30plussexdate.nl|datingsexgids.nl|eroticdate.be|geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|nederlandsextube.nl|neukafspraakjes.com|neukplaza.nl|pornopret.com|privesexgids.nl|sexadvertentiesonline.nl|sexdatingholland.com|sexstartnet.nl|studentesexcontact.nl|tienersexpret.nl|vindsexcontact.nl|vlaanderen-sexdate.be|webcamchicks.net|xxxcontactengids.nl|xxxlivesex.nl|zinineensexdate.com|zinomteneuken.nl
+/images/*.gif$image,domain=123video.nl|18plussexdating.nl|30plussexdate.nl|datingsexgids.nl|eroticdate.be|geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukplaza.nl|pornopret.com|privesexgids.nl|sexadvertentiesonline.nl|sexdatingholland.com|sexstartnet.nl|studentesexcontact.nl|tienersexpret.nl|vindsexcontact.nl|vlaanderen-sexdate.be|webcamchicks.net|xxxcontactengids.nl|xxxlivesex.nl|zinineensexdate.com|zinomteneuken.nl
 /images/banners/*$image,domain=deperfecte-sexdate.be|deperfecte-sexdate.nl|neukengratis.be|neuk-sexcontact.be|sexcontact-xxx.be|sexdate-xxx.be|sexdating4u.be|shemaledaten.net|vrouwsex.be
 /images/bdsmsexcontact$image,domain=adulttop50.nl|neukadressen.com|sexadvertentiesonline.nl|sexfotodating.nl|zinineensexdate.com
 /img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|stout-contact.be|stout-contact.nl|zoekertjesbelgie.be
@@ -23,7 +23,6 @@
 ||gowiththevlo.nl/wp-content/uploads/*/apeldoorn-antiekmarkten-*.jpg$image
 ||gowiththevlo.nl/wp-content/uploads/*/bo_banner_gwtv.jpg$image
 ||gowiththevlo.nl/wp-content/uploads/*/va_banner_gwtv.jpg$image
-||milflive.nl/customs/milflive.nl/assets/images/233x257-aador-sexshop.gif$image,first-party
 ||oisterwijknieuws.nl/wp-content/uploads/*/lelieveld-634-x-80.jpg$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/MBA-regiobank-*.gif$image
 ||modekoninginmaxima.nl/sites/default/files/*/vorsten2_170x600.gif$image
