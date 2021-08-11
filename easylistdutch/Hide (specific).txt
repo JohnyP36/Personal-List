@@ -153,6 +153,7 @@ goedkoopstekeukensduitsland.nl##[id^="text"]:has(a[href^="https://www.goedkoopst
 goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 gooieneemlander.nl,noordhollandsdagblad.nl,leidschdagblad.nl###advertorial-destination
 gratiscams.nl###menuinner > ul#menuinner > .cat
+gratisepub.nl##.type-post:has-text(advert)
 gratispittigesexfilms.nl,hetegangbang.nl##.spot-on
 gratispornofilm.nl##.lazyloaded.block-bordered
 gratispornofilm.nl##.cp-webcam-gallery-container
