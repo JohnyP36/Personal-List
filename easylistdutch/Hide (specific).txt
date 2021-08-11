@@ -148,6 +148,7 @@ geenstijl.nl##a[data-ga-event^="link-tip"]
 geile-sexcontacten.be##.card:has([src^="https://www.affilaxy.com/promos//popup/js/pop-under.js"])
 geile-sexcontacten.be##.d-lg-block:has-text(Advert)
 geilefotoverhalen.nl##.widget:has(iframe[src*="/aff_ad?"])
+geileverhalen.nl##div.author-presentation-container:has([src^="https://go2.go2cloud.org/"])
 gic.nl##.banners
 glutenvrij.nl##.Article__inner > .Article__title:has-text(Advert)
 goedkoopstekeukensduitsland.nl##[id^="text"]:has(a[href^="https://www.goedkoopstekeukensduitsland.nl"][href$="-bnr"])
