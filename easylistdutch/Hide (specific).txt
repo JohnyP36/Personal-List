@@ -90,7 +90,7 @@ dagelijksestandaard.nl##.wpInsertInPostAd:has(script[type="text/javascript"])
 dagelijksestandaard.nl##div.wpb_raw_code > .wpb_wrapper:has(div[style="padding:20px;"])
 dagelijksestandaard.nl##hr:nth-of-type(3)
 dagelijksestandaard.nl,netxxx.nl##hr:nth-of-type(1)
-dating-vinden.be,deperfecte-sexdate.be,deperfecte-sexdate.nl,geil-neuken.nl,neukengratis.be,neuk-sexcontact.be,sexcontact-xxx.be,sexdate-xxx.be,sexdating4u.be,vrouwsex.be##.well:has(.bannergroup)
+dating-vinden.be,deperfecte-sexdate.be,deperfecte-sexdate.nl,flirten-vlaanderen.be,geil-neuken.nl,neukengratis.be,neuk-sexcontact.be,sexcontact-xxx.be,sexdate-xxx.be,sexdating4u.be,vrouwsex.be##.well:has(.bannergroup)
 dating-zoeken.nl,hete-sexcontacten.nl,milf-overzicht.nl,sexdating-afspraak.nl,sexdating-gids.be,sexdatinggids.be,vrouwensexdate.nl##.d-lg-block.d-none:has-text(Advert):not(:has(.jcarousel-skin-tango))
 dbsuriname.com,westerwoldeactueel.nl##.g
 decibel.nl##.edgtf-carousel-holder
