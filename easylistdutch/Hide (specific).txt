@@ -416,6 +416,7 @@ tube.nederlandseporno.nl##[id^="custom_html"]:has-text(Polder Webcamsex)
 tube.nederlandseporno.nl##h3:has-text(Sexdating)
 tube.nederlandseporno.nl##h3:has-text(Webcamsex)
 turksemedia.nl##.easingslider
+turkinfo.nl##.img_position_left:has([src*=adsbygoogle])
 tvblik.nl##.header-banner
 tvgids24.nl##.adBoxbig
 uiennieuws.nl##.banner
