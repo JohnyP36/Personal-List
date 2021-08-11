@@ -33,29 +33,6 @@
 ||xmissy.nl/*/_customplayers/*/twistys/player01_footer.jpg$image
 ! 2021-07-29
 ||123video.nl^*/300x100_
-||christelijknieuws.nl/upload/modules/banner/
-||infotalia.com/worktalia_promo_
-||kookboekennieuws.nl/wp-content/uploads/*/*-banners-*.
-||knhs.nl/imagegen.ashx?image=/media/1*&width=360&constrain=true$image
-||knhs.nl/imagegen.ashx?image=/media/1*/*banner-*&width=550&constrain=true$image
-||mmcdn.nl/tags/
-||nieuwsonline.nu/header/*advertentie.$image
-||nieuwsonline.nu/header/samsungwatchfaces.webp$image
-||openingsurengids.be/includes/js/checkblockv2.js
-||openingsurengids.be/template/images/publi/
-||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/banner$image
-||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/BW_logo_blok_rgb_$image
-||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/JammFM*-banner$image
-||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/logo1-default_new-$image
-||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/Boeren-van-Amstel.jpg$image
-||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/Logo-Ridder-RGB_$image
-||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/adverteren-$image
-||wp.com/romagazine.nl/*/wp-content/uploads/*/enschede*?w=665$image
-||wp.com/romagazine.nl/*/wp-content/uploads/*/*.gif*w=665$image
-||wp.com/romagazine.nl/*/wp-content/uploads/*/*.jpg?w=665$image
-! https://github.com/AdguardTeam/AdguardFilters/commit/4091290338b889e95bb9b64a4feff73394973c68
-||itnijs.frl/wp-content/uploads/2017/10/bannerItNijs
-! 2021-07-28
 ||18plussexdating.nl/images/18plussexdating.$image
 ||18plussexdating.nl/images/twero.$image
 ||402automotive.com/files/*/files/images/*/*/enibanner.$image
@@ -88,6 +65,7 @@
 ||cdn.ster.nl/banners^
 ||chatmetvreemden.be/static/html/
 ||chatmetvreemden.nl/static/html/
+||christelijknieuws.nl/upload/modules/banner/
 ||crimesite.nl/inhoud/uploads/*/*.gif$image
 ||dagelijksestandaard.nl/wp-content/uploads/*/PROMO-DDS.$image
 ||decibel.nl/wp-content/uploads/*/banner-
@@ -128,13 +106,18 @@
 ||htforum.nl/yabbse/topframe_v3.php
 ||huisvrouwenvoorsex.nl/banner*.gif$image
 ||ikwilneuken.*/assets/img/*.gif$image
+||infotalia.com/worktalia_promo_
 ||ishotmyself.nl/include/*/promo/footer/
 ||islive.nl/splash1/banners/
+||itnijs.frl/wp-content/uploads/2017/10/bannerItNijs
 ||kavelplatform.nl/assets/uploads/banners/
 ||kilroynews.net^*banner
 ||kinkydatingnederland.nl/banner$image
 ||kinkymedia.nl/wp-content/plugins/wp-ad-guru/*$script,first-party
 ||kinkymedia.nl/wp-content/uploads/vierkant*$image
+||knhs.nl/imagegen.ashx?image=/media/1*&width=360&constrain=true$image
+||knhs.nl/imagegen.ashx?image=/media/1*/*banner-*&width=550&constrain=true$image
+||kookboekennieuws.nl/wp-content/uploads/*/*-banners-*.
 ||landenweb.nl/imgBoeking/$image
 ||loemedia.nl/wp-content/uploads/*/BannerPruisSchilderwerken-
 ||loemedia.nl/wp-content/uploads/*/HemaBannerGroot-
@@ -145,6 +128,7 @@
 ||media.prdn.nl/retailtrends/images/*.gif
 ||meidenzoekensex.nl/assets/img/shemaledate$image
 ||milfdatingnederland.nl/banner$image
+||mmcdn.nl/tags/
 ||mobqo.nl^*/banner
 ||mygaydate.nl/banner$image
 ||nederlandsextube.nl/images/amateurwebcams$image
@@ -154,6 +138,8 @@
 ||neukcontacten.info/images/pikant.$image
 ||netonline.be/slices/banners/
 ||niedziela.nl/images/banners/
+||nieuwsonline.nu/header/*advertentie.$image
+||nieuwsonline.nu/header/samsungwatchfaces.webp$image
 ||nieuwsuitnijmegen.nl/gfx/banners/
 ||ninefornews.nl/wp-content/a-d-s/banner*$image
 ||ninefornews.nl/wp-content/uploads/*/tetralogie300x250.jpg$image
@@ -171,7 +157,16 @@
 ||oogtv.nl/wp-content/banners/
 ||oogtv.nl/wp-content/uploads/*/beno_banner_$image
 ||oops.nl/banner/$subdocument
+||openingsurengids.be/includes/js/checkblockv2.js
+||openingsurengids.be/template/images/publi/
 ||opiniepeilers.nl/media/*/*notiesHR*.jpg$image
+||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/banner$image
+||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/BW_logo_blok_rgb_$image
+||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/JammFM*-banner$image
+||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/logo1-default_new-$image
+||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/Boeren-van-Amstel.jpg$image
+||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/Logo-Ridder-RGB_$image
+||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/adverteren-$image
 ||opwindend.net/Promotie*.php?$subdocument
 ||outdoor-sex.nl/wp-content/uploads/*/buitenseks.$image
 ||outdoor-sex.nl/wp-content/uploads/*/Sexindeprovincie-$image
@@ -229,6 +224,9 @@
 ||wanttoknow.nl^*Banner
 ||webcamsexplaza.com/bannerwsp.$image
 ||wildfm.nl/wp-content/uploads/*/thumbnail_image002.png
+||wp.com/romagazine.nl/*/wp-content/uploads/*/enschede*?w=665$image
+||wp.com/romagazine.nl/*/wp-content/uploads/*/*.gif*w=665$image
+||wp.com/romagazine.nl/*/wp-content/uploads/*/*.jpg?w=665$image
 ||wp.com/www.regionoordkop.nl/wp-content/uploads/*/banner-
 ||wp.com/www.regionoordkop.nl/wp-content/uploads/*/Bdijknov2016336x280.gif
 ||wp.com/www.regionoordkop.nl/wp-content/uploads/*/Costa.jpg
