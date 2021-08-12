@@ -337,6 +337,7 @@ radio0511.com##.sponsorImg
 radioeenhoorn.nl##.module_round_box
 radioluisterenlive.nl##.ad
 radiomonique.am##.bannerswidget
+radiozenders.fm##.banner-rectangle:not(:nth-of-type(3))
 rd.nl##.codalt-container
 rd.nl##.rdnl__adds
 refoweb.nl##.bannercontainer
