@@ -151,6 +151,9 @@ geile-sexverhalen.be,geile-sexverhalen.nl###footermiddle > .well:has-text(/adver
 geile-sexverhalen.be##div.well:has-text(/sponser/i)
 geilefotoverhalen.nl##.widget:has(iframe[src*="/aff_ad?"])
 geileverhalen.nl##div.author-presentation-container:has([src^="https://go2.go2cloud.org/"])
+gezondheid.be##[class^="gz-ads"]
+gezondheid.be###gz_header:style(margin-top:-120px !important;)
+gezondheid.be###leaderbord
 gic.nl##.banners
 glutenvrij.nl##.Article__inner > .Article__title:has-text(Advert)
 goedkoopstekeukensduitsland.nl##[id^="text"]:has(a[href^="https://www.goedkoopstekeukensduitsland.nl"][href$="-bnr"])
