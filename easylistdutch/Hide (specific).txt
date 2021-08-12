@@ -304,7 +304,6 @@ oogtv.nl##.home-banner
 oogtv.nl##div#main-content.container.main-content > div.row > div.col-md-9.article-holder > article > p:has(img[src^="https://www.oogtv.nl/wp-content/uploads/"][src$=".gif"])
 oops.nl###dropinboxv2cover
 oops.nl##[src="http://www.oops.nl/banner/bannerindex.html"]
-!oops.nl##body > table > tbody > tr > td[background]:style(height:60px!important;)
 oops.nl##table[cellspacing="30"]
 oozo.nl##.rcntctr
 openingstijden.com##.adsense
@@ -331,7 +330,7 @@ prewarcar.nl##img[width="160"][height="92"]
 proximus.be##.col.pix-sidebar
 puuropreis.nl##.banner-column
 qseks.nl###black-studio-tinymce-2:has-text(Advertentie)
-quickckaims.nl##.overlay:has([src^="blob:https://quickclaims.nl/"])
+quickclaims.nl##.overlay:has([src^="blob:https://quickclaims.nl/"])
 racingnews365.nl##.branded-countdown__content__partner-wrapper
 racingnews365.nl##.homepage-casino-wrapper
 radio0511.com##.sponsorImg
