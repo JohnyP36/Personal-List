@@ -299,6 +299,7 @@ online-omzetten.nl##[style^="margin"]:has(.adsbygoogle)
 online-radio.nl###top_ad-360
 online-radio.nl##[id^="AdvertMid"]
 online-radio.nl##[id^="containersitead"]
+onlineluisteren.nl##center > div:has(.adsbygoogle)
 onschuldigemeiden.nl##.widget:has([href^="https://short1.nl/smart/"])
 oogtv.nl##.home-banner
 oogtv.nl##div#main-content.container.main-content > div.row > div.col-md-9.article-holder > article > p:has(img[src^="https://www.oogtv.nl/wp-content/uploads/"][src$=".gif"])
