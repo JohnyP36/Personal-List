@@ -272,6 +272,8 @@ ninefornews.nl##.widget-top:has-text(/Sponsored/i)
 ninefornews.nl##[id^="text-"]:has(.nfn-target[data-advadsredirect])
 nlsexfilmpjes.com###left_div li:not( > a[target="_blank"])
 nlsexfilmpjes.com###toplist_bodem li:not( > a[target="_blank"])
+nltube.com##.bottom-bns-block
+nltube.com##.player-right
 nnieuws.be##.banner-silver
 nnieuws.be##.region-banner-diamond
 nnieuws.be##.view-vw-banners.view
