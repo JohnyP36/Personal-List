@@ -30,6 +30,8 @@
 ||tpo.nl/broodplank/TRUE*.gif
 ||tube.nederlandseporno.nl/wp-content/uploads/*.gif
 ||vlietnieuws.nl/wp-content/plugins/custom-banners/*$script,first-party
+||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
+||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
 ||xmissy.nl/*/_customplayers/*/twistys/player01_footer.jpg$image,first-party
 ! 2021-07-29
 ||123video.nl^*/300x100_
