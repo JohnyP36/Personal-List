@@ -2,6 +2,7 @@
 112midden-zeeland.nl##+js(abort-on-property-read, anOptions)
 @@*$generichide,domain=ah.nl|modekoninginmaxima.nl|quickclaims.nl
 doorbraak.be,gowiththevlo.nl##+js(abort-on-property-read, advanced_ads_check_adblocker)
+fok.nl#@##advertentie
 @@||hb.improvedigital.com/pbw/headerlift.min.js$script,third-party,domain=funnygames.be|funnygames.nl|spele.be|spele.nl
 girlscene.nl##+js(set-constant, adblock, undefined)
 ||goplay.be/js/sourcepoint/msg?v=
