@@ -466,6 +466,7 @@ westerwoldeactueel.nl##.adr-wrapper
 wielerflits.be,wielerflits.nl###mm_hpa
 wielerflits.be,wielerflits.nl##.affiliate_links
 wielerflits.be,wielerflits.nl##.mm_container
+wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 wildfm.nl##img[width="699"][height="90"]
 wos.nl##.header-right
 xxxdump.nl###reclame-eroads
