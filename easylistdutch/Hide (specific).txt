@@ -407,6 +407,7 @@ synoniemen.net##.promoblok
 takecare4.eu###branding > .clearfix
 tameteo.nl##.creatividad
 techzine.nl###lead
+telefoonboek.nl##[class*="organic-"]:has-text(Advertentie)
 telegraaf.nl##.ArticleBodyBlocks__bannerWrapper
 telegraaf.nl##.ArticlePageWrapper__banner
 telegraaf.nl##.MainCuratedTeasersLayout__banner
