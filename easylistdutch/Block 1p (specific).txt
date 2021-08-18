@@ -214,7 +214,6 @@
 ||transport-online.nl/site/includes/uploads/banner-
 ||turksemedia.nl/logos/*.
 ||unity.nu/media/*/BANNERS/
-||uu.nl/proton/*/akzonobel_masters_
 ||video18.nl/img/banners/$image
 ||voetbalkrant.com/images/pub/
 ||voetbalnieuws.be/*/images/website-takeover/*$image,first-party
