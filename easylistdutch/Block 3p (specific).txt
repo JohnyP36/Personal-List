@@ -8,6 +8,7 @@
 ||sedproductions.nl/banners/*.gif$image,domain=cumcams.nl|nederlandsewebcambabes.nl
 ||static.qmusic.*/acties/qnl-nu-ad/index.html$subdocument,domain=nu.nl
 ||tools-affil2.com/rtb/index.php$subdocument,domain=beeldbelsex.com
+||widgets.skyscanner.net^$domain=puuropreis.nl
 ||wp.com/www.appletips.nl/wp-content/uploads/amacdeals$image,domain=appletips.nl
 ||wp.com/www.appletips.nl/wp-content/uploads/cnmx$image,domain=appletips.nl
 ||wp.com/www.appletips.nl/wp-content/uploads/upgreatest1$image,domain=appletips.nl
