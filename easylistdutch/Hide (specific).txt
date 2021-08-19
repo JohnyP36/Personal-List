@@ -270,10 +270,12 @@ nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
 nieuws.nl###header-banner
 nieuwsonline.nu##.clearfix:has(img[src*="/header/"])
 nieuwsuitnijmegen.nl##.banner-box-1
+ninefornews.nl##.in-house:has(img[width="300"][height="250"])
 ninefornews.nl##.nfn-target[data-advadsredirect]
 ninefornews.nl##.sticky-element-placeholder
 ninefornews.nl##.widget-top:has-text(/Gesponsorde/i) 
 ninefornews.nl##.widget-top:has-text(/Sponsored/i)
+ninefornews.nl##.widget_text.widget:has(img[width="300"][height="600"])
 ninefornews.nl##[id^="text-"]:has(.nfn-target[data-advadsredirect])
 nlsexfilmpjes.com###left_div li:not(:scope > a[target="_blank"])
 nlsexfilmpjes.com###toplist_bodem li:not(:scope > a[target="_blank"])
