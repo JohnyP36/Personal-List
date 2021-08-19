@@ -15,6 +15,7 @@
 @@||plista.com/async$script,domain=totaaltv.nl
 @@||potwm.com/tube-player/?$frame,domain=camsexbabe.nl
 @@||potwm.com/api/video-promotion/v1/get-$xhr,domain=camsexbabe.nl|potwm.com
+@@||promotools.islive.nl/ads/nieuws_en_updates_230x135/vijf-updates/txt.js$script,domain=kutscheetje.nl
 @@||promotools.islive.nl/cam_ms/*$subdocument,domain=girlpics.nl
 @@||prtawe.com/embed/tbplyr/*$script,domain=camsexbabe.nl
 @@||pt.protoawe.com/embed/tbplyr/*$script,domain=lekkerewebcams.nl|gratispornofilm.nl|teen-sex.nl
