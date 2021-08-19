@@ -2,6 +2,7 @@
 leerzaam.com##p:has(.adsbygoogle)
 nieuws.nl##.banner
 promootjesite.nl##.adsense
+rd.nl##.infotainment:has(a[href^="/advert"])
 ! 2021-08-04
 !#if env_mobile
 nu.nl##div[data-type="tealium"]
