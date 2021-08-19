@@ -14,7 +14,7 @@
 /advertentieblokje120x20.
 /advertentieblokje300x20.
 /advertenties.
-/advertenties/*$domain=~oldtimernederland.nl
+/advertenties/*
 /bannerlookup.
 /big_reclames/*
 /bolcom-partnerprogramma-wordpress-plugin/*
