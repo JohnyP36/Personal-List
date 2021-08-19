@@ -1,4 +1,6 @@
 ! 2021-08-
+fantv.nl##.tm-top-a
+fantv.nl##.tm-top-c
 leerzaam.com##p:has(.adsbygoogle)
 nieuws.nl##.banner
 promootjesite.nl##.adsense
