@@ -18,6 +18,7 @@
 ||bannermarkt.nl^$third-party
 ||banners.vip.nl^$third-party
 ||bluemango.nl^$third-party
+||botndm.nl^$third-party
 ||bva-auctions.com^$domain=telegraaf.nl
 ||cashpartners.eu^$third-party,domain=~extreemonlinecontact.nl|~extremesexmatch.nl|~instasex.nl
 ||cd.tnet.nl^$script,third-party
@@ -46,6 +47,7 @@
 ||midhold.nl^$third-party
 ||mt67.net^$third-party
 ||netdirect.nl^$third-party
+||nextday.media^$third-party
 ||nonstoppartner.net^$third-party
 ||online-banners.nl^$third-party
 ||partner.bol.com^$third-party
