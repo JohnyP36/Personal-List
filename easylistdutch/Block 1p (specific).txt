@@ -28,6 +28,7 @@
 ||oisterwijknieuws.nl/wp-content/uploads/*/MBA-regiobank-*.gif$image
 ||modekoninginmaxima.nl/sites/default/files/*/vorsten2_170x600.gif$image
 ||promootjesite.nl/images/affliateBanner/$image
+||seksverhalen.org/telefoonsex.png
 ||shespot.nl/wp-content/uploads/*/womanizer-*.jpg$image
 ||tpo.nl/broodplank/TRUE*.gif
 ||tube.nederlandseporno.nl/wp-content/uploads/*.gif
