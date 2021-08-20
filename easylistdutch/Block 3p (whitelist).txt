@@ -7,6 +7,7 @@
 @@||aka.spotxcdn.com/integration/ados/v1/ados.js$script,domain=www.radioluisteren.fm
 @@||aweprt.com/embed/$script,domain=cumcams.nl
 @@||cdn.spotxcdn.com/integration/easi/v1/easi.js$script,domain=www.radioluisteren.fm
+@@||erossite.com/nsfw/i/banner/*$subdocument,domain=eroticdreams.org
 @@||go2.go2cloud.org/aff_ad$popup,domain=tools.vpscash.nl
 @@||js.spotx.tv/ados/v1/106185.js$script,domain=www.radioluisteren.fm
 @@||lexozfldkklgvc.com/assets/cp/js/webcam_gallery/iframe_handler.js$script,domain=sexmeid.nl
