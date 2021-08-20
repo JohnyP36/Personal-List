@@ -20,7 +20,7 @@
 ||bluemango.nl^$third-party
 ||botndm.nl^$third-party
 ||bva-auctions.com^$domain=telegraaf.nl
-||cashpartners.eu^$third-party,domain=~extreemonlinecontact.nl|~extremesexmatch.nl|~instasex.nl
+||cashpartners.eu^$third-party,domain=~extreemonlinecontact.nl|~extremesexmatch.nl|~instasex.nl|~seksverhaaltjes.be
 ||cd.tnet.nl^$script,third-party
 ||chainadvertising.eu^$third-party
 ||cleafs.nl^$third-party
