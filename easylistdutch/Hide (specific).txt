@@ -3,6 +3,7 @@ fantv.nl##.tm-top-a
 fantv.nl##.tm-top-c
 fcutrecht.nl##.has-toto-banners.container > .columns
 fcutrecht.nl##.is-uppercase.is-3:has-text(/interessante deals/i)
+heracles.nl##.footer-sponsors
 leerzaam.com##p:has(.adsbygoogle)
 nieuws.nl##.banner
 promootjesite.nl##.adsense
