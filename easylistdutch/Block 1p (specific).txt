@@ -29,6 +29,9 @@
 ||modekoninginmaxima.nl/sites/default/files/*/vorsten2_170x600.gif$image
 ||promootjesite.nl/images/affliateBanner/$image
 ||psv.nl/multimedia/toto_new/index.html$subdocument
+||psv.nl/upload/*_image*.gif$image
+||psv.nl/upload/*_Soccerlab_Logo.png$image
+||psv.nl/upload/*SponsorVrouwenGOED-300x75.jpg$image
 ||seksverhalen.org/telefoonsex.png
 ||shespot.nl/wp-content/uploads/*/womanizer-*.jpg$image
 ||tpo.nl/broodplank/TRUE*.gif
