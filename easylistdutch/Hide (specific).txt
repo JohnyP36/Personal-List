@@ -5,6 +5,7 @@ leerzaam.com##p:has(.adsbygoogle)
 nieuws.nl##.banner
 promootjesite.nl##.adsense
 rd.nl##.infotainment:has(a[href^="/advert"])
+rkcwaalwijk.nl##.flex.carousel--default.carousel
 seksverhalen.org##header:style(height:100px !important;)
 vitesse.nl##div.box-body:has(p > a[title="Vriendenloterij"])
 ! 2021-08-04
