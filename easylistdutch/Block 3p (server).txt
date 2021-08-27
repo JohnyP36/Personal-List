@@ -56,7 +56,6 @@
 ||pics.obedo.nl^$third-party
 ||pornokartel.nl^$third-party
 ||radiocoupon.nl^$third-party
-||sallandacties.nl^$third-party
 ||schoorsteen.geenstijl.nl^$third-party
 ||sdcash.nl$third-party
 ||static-cdn.spott.ai^$third-party
