@@ -69,4 +69,3 @@
 ||views.affiliate4you.nl^$third-party
 ||vippromos.nl^$third-party
 ||vpscash.nl^$third-party
-||www2.beekje.nl^$third-party
