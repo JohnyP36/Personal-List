@@ -17,6 +17,11 @@
 ||audiobookbay.nl/images/fr.jpg$image,important
 ||brandweerspotters.nl/modules/banners/
 ||cdn.shortpixel.ai/client/q_lossy,ret_img,w_*/https://groningerkrant.nl/wp-content/uploads/*/Rijschool-in-Groningen*.$image
+||ciaotutti.nl/wp-content/uploads/*/camping-delle-rose-isolabona-ligurie-vakantie*.gif$image
+||ciaotutti.nl/wp-content/uploads/*/ghiacci-vecchi-vakantie-toscane.gif$image
+||ciaotutti.nl/wp-content/uploads/*/italmania-*reizen-italie*$image
+||ciaotutti.nl/wp-content/uploads/*/koffiecentrale-augustus*$image
+||ciaotutti.nl/wp-content/uploads/*/villa-in-umbria-vakantie*$image
 ||dorpsklanken.online/wp-content/uploads/*/*_300x100*.gif$image
 ||elektronicaforum.nl/banner*$image,first-party
 ||farm-date.com/slides/banner-$image,first-party
