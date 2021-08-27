@@ -70,4 +70,3 @@
 ||vippromos.nl^$third-party
 ||vpscash.nl^$third-party
 ||www2.beekje.nl^$third-party
-||xpartners.nl^$third-party
