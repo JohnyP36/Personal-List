@@ -63,7 +63,6 @@
 ||static-dscn.net^$third-party
 ||teasemedia.nl^$third-party
 ||tel.adversitement.nl^$third-party
-||topzorgverzekeringvergelijken.nl^$third-party
 ||tradetracker.com^$third-party
 ||verkoopmenu.nl^$third-party
 ||views.affiliate4you.nl^$third-party
