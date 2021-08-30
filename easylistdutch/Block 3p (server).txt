@@ -16,7 +16,6 @@
 ||awin.com^$third-party
 ||bannermarkt.nl^$third-party
 ||banners.vip.nl^$third-party
-||bluemango.nl^$third-party
 ||botndm.nl^$third-party
 ||bva-auctions.com^$domain=telegraaf.nl
 ||cashpartners.eu^$third-party,domain=~extreemonlinecontact.nl|~extremesexmatch.nl|~instasex.nl|~seksverhaaltjes.be
