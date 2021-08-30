@@ -37,7 +37,6 @@
 ||kimhollandpartners.nl^$third-party
 ||klikbonus.com^$third-party
 ||m4n.nl^$third-party
-||maakmedia.nl^$third-party
 ||midhold.nl^$third-party
 ||mt67.net^$third-party
 ||netdirect.nl^$third-party
