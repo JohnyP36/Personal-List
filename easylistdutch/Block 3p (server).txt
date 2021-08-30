@@ -13,7 +13,6 @@
 ||affilaxy.com^$third-party
 ||affiliatepartners.com^$third-party
 ||asp.unitedconsumers.com^$third-party
-||assets.nudeal.nl^$third-party
 ||awin.com^$third-party
 ||bannermarkt.nl^$third-party
 ||banners.vip.nl^$third-party
