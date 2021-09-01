@@ -8,6 +8,7 @@ feyenoord.nl##.totoOdds
 heracles.nl##.footer-sponsors
 leerzaam.com##p:has(.adsbygoogle)
 nieuws.nl##.banner
+paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
 promootjesite.nl##.adsense
 rd.nl##.infotainment:has(a[href^="/advert"])
 rkcwaalwijk.nl##.flex.carousel--default.carousel
