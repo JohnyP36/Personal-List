@@ -1,5 +1,5 @@
 ! 2021-08-
-autozine.nl,koopplein.nl,tripadvisor.be##.ad
+autozine.nl,hyvesgames.nl,koopplein.nl,limburger.nl,standaard.be,tripadvisor.be,tripadvisor.nl##.ad
 fantv.nl##.tm-top-a
 fantv.nl##.tm-top-c
 fcutrecht.nl##.has-toto-banners.container > .columns
@@ -194,7 +194,6 @@ historiek.net###before-header
 historiek.net##.code-block:has-text(advertentie)
 historiek.net##div.ai-viewport-1
 hotradiohits.nl###tpl_banners
-hyvesgames.nl,limburger.nl,standaard.be,tripadvisor.nl##.ad
 hyvesgames.nl##.gamereel_featured-ad
 inmemoriam.be##.o-news__add
 interglot.nl##.pane_results > div:has-text(Ads)
