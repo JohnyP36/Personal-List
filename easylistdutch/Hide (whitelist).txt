@@ -7,6 +7,7 @@ gratisaftehalen.nl#@#.ads-image
 japan-webike.nl#@#img[class*="img_ad"][data-src*="sale"]
 marktplaats.nl#@#.adSummary
 modekoninginmaxima.nl#@#.after-content-ad:has-text(/Niets van deze website mag verveelvoudigd en/i)
+paginamarkt.nl#@#.advertentie
 sexverhalen.com#@#.widget_ads:has-text(/partner/i)
 speurders.nl#@#.ad_header
 vakantieplaats.nl#@#.feed-ad
