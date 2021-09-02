@@ -38,6 +38,8 @@
 ||psv.nl/upload/*_Soccerlab_Logo.png$image
 ||psv.nl/upload/*SponsorVrouwenGOED-300x75.jpg$image
 ||seksverhalen.org/telefoonsex.png
+||sexchatlounge.nl/bannerlinks.html$subdocument
+||sexchatlounge.nl/bannerrechts.html$subdocument
 ||shespot.nl/wp-content/uploads/*/womanizer-*.jpg$image
 ||tpo.nl/broodplank/TRUE*.gif
 ||tube.nederlandseporno.nl/wp-content/uploads/*.gif
