@@ -2,12 +2,7 @@
 ###adsense_artikel_4
 ###advertentie
 ###advertentieblokjeid
-###cycloneslider-advertentie2-2
-###cycloneslider-advertenties-1
 ###gesponsordelink
-###middenAd2_footer
-###middenAd3_footer
-###middenAd4_footer
 ###prog-sponsorlinks
 ###reclame2
 ###reclame_rechts
@@ -17,13 +12,6 @@
 ###semilo-lrectangle
 ###sidereclame
 ###vipAdmarktBannerBlock
-###vs_a2s_tag_fullsize
-##.ad_list_row_normal1
-##.ad_list_row_normal1_no_border
-##.ad_list_row_normal2
-##.ad_list_row_normal2_no_border
-##.admarkt_bottom_list_header
-##.admarkt_gallery_info
 ##.adstekst
 ##.advertentie
 ##.advertenties
