@@ -1,5 +1,6 @@
 ! 2021-08-
 autozine.nl,hyvesgames.nl,koopplein.nl,limburger.nl,standaard.be,tripadvisor.be,tripadvisor.nl##.ad
+edestad.nl##.bg-grey.text-center:has-text(/advert/i)
 fantv.nl##.tm-top-a
 fantv.nl##.tm-top-c
 fcutrecht.nl##.has-toto-banners.container > .columns
