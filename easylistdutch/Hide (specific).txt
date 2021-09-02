@@ -12,6 +12,8 @@ leerzaam.com##p:has(.adsbygoogle)
 nieuws.nl##.banner
 paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
 promootjesite.nl##.adsense
+radiozenders.fm##.banner-rectangle:not(:nth-of-type(3))
+radiozenders.fm##.marqueeItem:has(a[href^="https://partner.bol.com/"])
 rd.nl##.infotainment:has(a[href^="/advert"])
 rkcwaalwijk.nl##.flex.carousel--default.carousel
 salvora.nl##.avia-content-slider:has-text(/sponsor/i)
@@ -362,7 +364,6 @@ radio0511.com##.sponsorImg
 radioeenhoorn.nl##.module_round_box
 radioluisterenlive.nl##.ad
 radiomonique.am##.bannerswidget
-radiozenders.fm##.banner-rectangle:not(:nth-of-type(3))
 rd.nl##.codalt-container
 rd.nl##.rdnl__adds
 refoweb.nl##.bannercontainer
