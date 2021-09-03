@@ -27,6 +27,10 @@
 ||elektronicaforum.nl/banner*$image,first-party
 ||farm-date.com/slides/banner-$image,first-party
 ||flexnieuws.nl/wp-content/uploads/*/Naamloos-*.png$image
+||gigantfm.nl/upload/20170420110645812.jpg
+||gigantfm.nl/upload/20210730122903794.gif
+||gigantfm.nl/upload/autoonderdelen24_1.png
+||gigantfm.nl/upload/onderdelenshop.gif
 ||gowiththevlo.nl/wp-content/uploads/*/apeldoorn-antiekmarkten-*.jpg$image
 ||gowiththevlo.nl/wp-content/uploads/*/bo_banner_gwtv.jpg$image
 ||gowiththevlo.nl/wp-content/uploads/*/va_banner_gwtv.jpg$image
