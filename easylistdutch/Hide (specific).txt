@@ -14,6 +14,8 @@ fantv.nl##.tm-top-c
 fcutrecht.nl##.has-toto-banners.container > .columns
 fcutrecht.nl##.is-uppercase.is-3:has-text(/interessante deals/i)
 feyenoord.nl##.totoOdds
+grandprixradio.nl##[id^="custom_html-"]:has([target="_blank"][rel="noopener"]):not(:has-text(/F1 kalender/i))
+grandprixradio.nl##[id^="custom_html-"]:has([src^="https://partner.bol.com/"])
 heracles.nl##.footer-sponsors
 indiexl.nl###carousel-indiexl_partners_carousel_widget
 keizerstad.nl##[id^="media_image"]
