@@ -15,6 +15,9 @@ heracles.nl##.footer-sponsors
 indiexl.nl###carousel-indiexl_partners_carousel_widget
 landenweb.nl##.content > table:has(:scope > tbody:has-text(advert))
 leerzaam.com##p:has(.adsbygoogle)
+nederland.tv##.adv-tekst
+nederland.tv##.banner_image
+nederland.tv##.banner_image2
 nieuws.nl##.banner
 paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
 promootjesite.nl##.adsense
