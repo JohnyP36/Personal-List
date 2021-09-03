@@ -15,6 +15,7 @@
 ||2link.be/banners/
 ||audiobookbay.nl/images/bin.jpg$image,important
 ||audiobookbay.nl/images/fr.jpg$image,important
+||baarsclassicrock.nl/wp-content/uploads/*/banner_
 ||brandweerspotters.nl/modules/banners/
 ||cdn.shortpixel.ai/client/q_lossy,ret_img,w_*/https://groningerkrant.nl/wp-content/uploads/*/Rijschool-in-Groningen*.$image
 ||ciaotutti.nl/wp-content/uploads/*/camping-delle-rose-isolabona-ligurie-vakantie*.gif$image
