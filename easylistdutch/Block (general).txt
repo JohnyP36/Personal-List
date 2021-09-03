@@ -34,6 +34,7 @@
 /scripts/edoris/edoris.dll?tem=ln_banner_view&
 /scripts/edoris/shared/*$object
 /small_reclames/*
+/tekst_advertentie_
 /topadvertentie.
 ://promotie.$third-party
 _336x120.$image,domain=~www.dekrantvantoen.nl
