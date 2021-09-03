@@ -13,6 +13,7 @@ fcutrecht.nl##.is-uppercase.is-3:has-text(/interessante deals/i)
 feyenoord.nl##.totoOdds
 heracles.nl##.footer-sponsors
 indiexl.nl###carousel-indiexl_partners_carousel_widget
+keizerstad.nl##[id^="media_image"]
 landenweb.nl##.content > table:has(:scope > tbody:has-text(advert))
 leerzaam.com##p:has(.adsbygoogle)
 nederland.tv##.adv-tekst
