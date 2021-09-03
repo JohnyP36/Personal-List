@@ -1,4 +1,5 @@
 ||adverteren.rd.nl^
+||advertising-cdn.dpgmedia.cloud^
 ||aj1716.online^
 ||bnr.agf.nl^
 ||content1.pcmweb.nl^
