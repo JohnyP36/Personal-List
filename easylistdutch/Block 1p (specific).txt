@@ -22,6 +22,8 @@
 ||ciaotutti.nl/wp-content/uploads/*/italmania-*reizen-italie*$image
 ||ciaotutti.nl/wp-content/uploads/*/koffiecentrale-augustus*$image
 ||ciaotutti.nl/wp-content/uploads/*/villa-in-umbria-vakantie*$image
+!||darknet.rutor.nl/data/*.gif$image
+!||darknet.rutor.nl/data/ikea.jpg$image
 ||dorpsklanken.online/wp-content/uploads/*/*_300x100*.gif$image
 ||elektronicaforum.nl/banner*$image,first-party
 ||farm-date.com/slides/banner-$image,first-party
