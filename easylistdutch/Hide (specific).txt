@@ -26,6 +26,7 @@ rkcwaalwijk.nl##.flex.carousel--default.carousel
 salvora.nl##.avia-content-slider:has-text(/sponsor/i)
 sc-heerenveen.nl##.sponsor-grid:has-text(/advert/i)
 seksverhalen.org##header:style(height:100px !important;)
+spreekbuis.nl##.widget_media_image
 vitesse.nl##div.box-body:has(p > a[title="Vriendenloterij"])
 ! 2021-08-04
 !#if env_mobile
