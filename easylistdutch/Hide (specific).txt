@@ -1,6 +1,7 @@
 ! 2021-08-
 autozine.nl,hyvesgames.nl,koopplein.nl,limburger.nl,standaard.be,tripadvisor.be,tripadvisor.nl##.ad
 baarsclassicrock.nl##.widebanner
+broadcastmagazine.nl##.Advertisement
 edestad.nl##.bg-grey.text-center:has-text(/advert/i)
 edestad.nl##.mtb-50.pt-50.col-sm-12.col-lg-12.col-md-12.bg-grey:not(:has(div[class$="text-center"]))
 edestad.nl##.w-300x.RM5
