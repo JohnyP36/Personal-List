@@ -195,6 +195,7 @@ geileverhalen.nl##div.author-presentation-container:has([src^="https://go2.go2cl
 gezondheid.be##[class^="gz-ads"]
 gezondheid.be###gz_header:style(margin-top:-120px !important;)
 gezondheid.be###leaderbord
+gfcnieuws.com,historiek.net##div.ai-viewport-1
 gic.nl##.banners
 glutenvrij.nl##.Article__inner > .Article__title:has-text(Advert)
 goedkoopstekeukensduitsland.nl##[id^="text"]:has(a[href^="https://www.goedkoopstekeukensduitsland.nl"][href$="-bnr"])
@@ -219,7 +220,6 @@ hetkrantje-online.nl##.adUnderArticle
 historiek.net##[id^="custom_html"]:has-text(/Advertentie/i)
 historiek.net###before-header
 historiek.net##.code-block:has-text(advertentie)
-historiek.net##div.ai-viewport-1
 hotradiohits.nl###tpl_banners
 hyvesgames.nl##.gamereel_featured-ad
 inmemoriam.be##.o-news__add
