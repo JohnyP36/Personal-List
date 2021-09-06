@@ -5,6 +5,8 @@ amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,in
 autozine.nl,hyvesgames.nl,koopplein.nl,limburger.nl,standaard.be,tripadvisor.be,tripadvisor.nl##.ad
 baarsclassicrock.nl##.widebanner
 broadcastmagazine.nl##.Advertisement
+dagbladdewest.com##.swiper-wrapper
+dagbladdewest.com##img[width="300"]
 dolcevia.com,h2owaternetwerk.nl,halstadcentraal.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
 edestad.nl##.bg-grey.text-center:has-text(/advert/i)
 edestad.nl##.mtb-50.pt-50.col-sm-12.col-lg-12.col-md-12.bg-grey:not(:has(div[class$="text-center"]))
