@@ -22,6 +22,9 @@
 ||ciaotutti.nl/wp-content/uploads/*/italmania-*reizen-italie*$image
 ||ciaotutti.nl/wp-content/uploads/*/koffiecentrale-augustus*$image
 ||ciaotutti.nl/wp-content/uploads/*/villa-in-umbria-vakantie*$image
+||dagbladdewest.com/wp-content/uploads/*/*_300x250px.*$image
+||dagbladdewest.com/wp-content/uploads/*/*-AD*.jpg$image
+||dagbladdewest.com/wp-content/uploads*/*728x90px*.jpg$image
 !||darknet.rutor.nl/data/*.gif$image
 !||darknet.rutor.nl/data/ikea.jpg$image
 ||dorpsklanken.online/wp-content/uploads/*/*_300x100*.gif$image
