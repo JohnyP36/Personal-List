@@ -42,6 +42,7 @@
 ||oisterwijknieuws.nl/wp-content/uploads/*/lelieveld-634-x-80.jpg$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/MBA-regiobank-*.gif$image
 ||modekoninginmaxima.nl/sites/default/files/*/vorsten2_170x600.gif$image
+||notebookcheck.nl/fileadmin/Sonstiges/am_abv3_$xmlhttprequest
 ||promootjesite.nl/images/affliateBanner/$image
 ||psv.nl/multimedia/toto_new/index.html$subdocument
 ||psv.nl/upload/*_image*.gif$image
@@ -177,7 +178,6 @@
 ||ninefornews.nl/wp-content/uploads/*/*-300x250-*.jpg$image
 ||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,first-party
 ||noordkopcentraal.nl^*/banner_
-||notebookcheck.nl/fileadmin/Sonstiges/ama_abn2_$xmlhttprequest
 ||okemedia.nl/wp-content/uploads/*/*banner.jpg
 !||omejoop.be/pop.js
 ||omroeppenm.nl^*/banner/
