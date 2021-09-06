@@ -40,6 +40,7 @@ seksverhalen.org##header:style(height:100px !important;)
 sporza.be##.advertising
 spreekbuis.nl##.widget_media_image
 vitesse.nl##div.box-body:has(p > a[title="Vriendenloterij"])
+waterkant.net##.td-fix-index:has(a[href])
 ! 2021-08-04
 !#if env_mobile
 nu.nl##div[data-type="tealium"]
