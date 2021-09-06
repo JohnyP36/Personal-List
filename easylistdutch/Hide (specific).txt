@@ -343,9 +343,9 @@ oisterwijknieuws.nl###left-sidebar
 oisterwijknieuws.nl###right-sidebar
 omroepbrabant.nl##div[class^="ad-"]
 omroepflevoland.nl##.ad-container
-omroepgelderland.nl,omroepwest.nl,omroepzeeland.nl##.adcontainer
 omroephorstaandemaas.nl,omroepvenlo.nl,wos.nl##.prom
 omroeppenm.nl,rickfm.nl###advertisement
+omroepwest.nl,omroepzeeland.nl##.adcontainer
 online-omzetten.nl##.clearfix.entry > small
 online-omzetten.nl##[style^="margin"]:has(.adsbygoogle)
 online-radio.nl###top_ad-360
