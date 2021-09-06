@@ -39,6 +39,8 @@ sc-heerenveen.nl##.sponsor-grid:has-text(/advert/i)
 seksverhalen.org##header:style(height:100px !important;)
 sporza.be##.advertising
 spreekbuis.nl##.widget_media_image
+srnieuws.com##.card-view:has(h5.bold > a[href][target="_blank"])
+srnieuws.com##.centered.card-view:has([id^="taboola"])
 vitesse.nl##div.box-body:has(p > a[title="Vriendenloterij"])
 waterkant.net##.td-fix-index:has(a[href])
 ! 2021-08-04
