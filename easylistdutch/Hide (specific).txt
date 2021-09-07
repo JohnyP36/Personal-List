@@ -28,6 +28,7 @@ gld.nl,omroepwest.nl,rtvnoord.nl##.groei-ad
 golf.nl##.c-header__advert-container
 grandprixradio.nl##[id^="custom_html-"]:has([target="_blank"][rel="noopener"]):not(:has-text(/F1 kalender/i))
 grandprixradio.nl##[id^="custom_html-"]:has([src^="https://partner.bol.com/"])
+handbalinside.nl##div[id^="handb-"]
 heracles.nl##.footer-sponsors
 indiexl.nl###carousel-indiexl_partners_carousel_widget
 keizerstad.nl##[id^="media_image"]
