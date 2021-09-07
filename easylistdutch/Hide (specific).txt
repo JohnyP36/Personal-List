@@ -15,6 +15,8 @@ dolcevia.com,h2owaternetwerk.nl,halstadcentraal.nl,lokaleomroepzeewolde.nl,radio
 edestad.nl##.bg-grey.text-center:has-text(/advert/i)
 edestad.nl##.mtb-50.pt-50.col-sm-12.col-lg-12.col-md-12.bg-grey:not(:has(div[class$="text-center"]))
 edestad.nl##.w-300x.RM5
+europa-landbouwmachines.nl##.pub
+europa-landbouwmachines.nl##.hidden-print.pub-desktop-a.hidden-xs
 fantv.nl##.tm-top-a
 fantv.nl##.tm-top-c
 fcutrecht.nl##.has-toto-banners.container > .columns
@@ -176,8 +178,6 @@ elkspel.nl##.banner-container
 eromarkt.nl##.headerlinks:has(iframe[src="linkframe.php"])
 eromarkt.nl,erotischemassagemarkt.nl,erotischemodellen.nl,swingersmarkt.nl##.menubanner:has([src^="ads"])
 ero-meiden.nl,geilverlangen.nl##.size-full.attachment-full
-europa-landbouwmachines.nl##.pub
-europa-landbouwmachines.nl##.pub-content
 ewmagazine.nl##.banner-leaderboard
 farm-date.com##.hide-for-small-only:has-text(Sponsors)
 fd.nl##.fd-message-home-header
