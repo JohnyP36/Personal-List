@@ -447,7 +447,6 @@ startlijstjes.nl##.item:has([class^="item_special"]:has-text(tradetracker.net))
 startpagina.nl##.top-banner
 synoniemen.net##.promoblok
 takecare4.eu###branding > .clearfix
-tameteo.nl##.creatividad
 techzine.nl###lead
 telefoonboek.nl##[class*="organic-"]:has-text(Advertentie)
 telegraaf.nl##.ArticleBodyBlocks__bannerWrapper
