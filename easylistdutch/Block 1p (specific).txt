@@ -60,6 +60,7 @@
 ||tube.nederlandseporno.nl/wp-content/uploads/*.gif
 ||vitesse.nl/generate/stores/Vitesse.nl/*/VriendenLoterij-banner-website.jpg$image
 ||vlietnieuws.nl/wp-content/plugins/custom-banners/*$script,first-party
+||voetbalrotterdam.nl/wp-content/uploads/*/soccerdealbanner*$image
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
 ||willem-ii.nl/banner/$image
