@@ -9,6 +9,7 @@ apintie.sr###navcol2
 apintie.sr###sidebar > div[style*="width:300px; height:"]:not(:has(img[alt="Apintie iPhone App"]))
 autozine.nl,hyvesgames.nl,koopplein.nl,limburger.nl,standaard.be,tripadvisor.be,tripadvisor.nl##.ad
 baarsclassicrock.nl##.widebanner
+basketball.nl##div[data-component="partner"]
 broadcastmagazine.nl##.Advertisement
 dagbladdewest.com##.swiper-wrapper
 dagbladdewest.com##img[width="300"]
