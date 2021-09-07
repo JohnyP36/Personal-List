@@ -92,7 +92,7 @@ androidplanet.nl,iphoned.nl##header[data-name="featured-header"]
 androidplanet.nl,iphoned.nl##.aa-top-dog
 androidplanet.nl,iphoned.nl##.widget_offers
 androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
-androidworld.nl,indeleiderstrui.nl,openrotterdam.nl,webmastersunited.com##.ads
+androidworld.nl,handbal.nl,indeleiderstrui.nl,openrotterdam.nl,webmastersunited.com##.ads
 ans-online.nl##.theiaStickySidebar > .widget:has-text(Advertentie)
 appletips.nl###singleab
 appletips.nl##.ph_upgreatest
