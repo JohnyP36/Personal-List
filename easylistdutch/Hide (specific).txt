@@ -47,6 +47,7 @@ nieuws.nl###footer-banner
 nieuws.nl##.banner
 omroepalmere.nl##[id^="media_image"]:not(:has-text(Met dank aan)):not(#media_image-24):not(#media_image-28)
 omroepalmere.nl##.widget_carousel_slider:has-text(Partners)
+omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 openingstijden.com,promootjesite.nl##.adsense
 paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
 radio-minerva.be###topbanner
@@ -367,7 +368,6 @@ oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
 oisterwijknieuws.nl###left-sidebar
 oisterwijknieuws.nl###right-sidebar
 omroepbrabant.nl##div[class^="ad-"]
-omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,wos.nl##.prom
 omroeppenm.nl,rickfm.nl###advertisement
 omroepwest.nl,omroepzeeland.nl##.adcontainer
 online-omzetten.nl##.clearfix.entry > small
