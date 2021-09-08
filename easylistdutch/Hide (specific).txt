@@ -22,6 +22,7 @@ dolcevia.com,h2owaternetwerk.nl,halstadcentraal.nl,lokaleomroepzeewolde.nl,radio
 edestad.nl##.bg-grey.text-center:has-text(/advert/i)
 edestad.nl##.mtb-50.pt-50.col-sm-12.col-lg-12.col-md-12.bg-grey:not(:has(div[class$="text-center"]))
 edestad.nl##.w-300x.RM5
+eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gazetvandaag.be,grandprix.ws,hotstreams.nl,krantvandaag.nl,nieuwsgigant.nl,voetbal-vandaag.nl###topbox
 europa-landbouwmachines.nl,mijn-tv-gids.be##.pub
 europa-landbouwmachines.nl##.hidden-print.pub-desktop-a.hidden-xs
 fantv.nl##.tm-top-a
@@ -75,7 +76,6 @@ srnieuws.com##.card-view:has(h5.bold > a[href][target="_blank"])
 srnieuws.com##.centered.card-view:has([id^="taboola"])
 vitesse.nl##div.box-body:has(p > a[title="Vriendenloterij"])
 voetbal-vandaag.nl###sidebar_aanbevelen
-voetbal-vandaag.nl###topbox
 voetbalvandaag.be##.adds
 voetbalrotterdam.nl##div[style="max-width: 728px; width: 100%; height: 90px;"]
 voetbalrotterdam.nl##div[style="max-width:300px; width:100%; height:250px;"]
