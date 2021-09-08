@@ -58,6 +58,7 @@ spreekbuis.nl##.widget_media_image
 srnieuws.com##.card-view:has(h5.bold > a[href][target="_blank"])
 srnieuws.com##.centered.card-view:has([id^="taboola"])
 vitesse.nl##div.box-body:has(p > a[title="Vriendenloterij"])
+voetbal-vandaag.nl###topbox
 voetbalrotterdam.nl##div[style="max-width: 728px; width: 100%; height: 90px;"]
 voetbalrotterdam.nl##div[style="max-width:300px; width:100%; height:250px;"]
 waterkant.net##.td-fix-index:has(a[href])
