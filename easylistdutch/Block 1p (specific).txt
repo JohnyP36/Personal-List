@@ -60,6 +60,7 @@
 ||sexchatlounge.nl/bannerlinks.html$subdocument
 ||sexchatlounge.nl/bannerrechts.html$subdocument
 ||shespot.nl/wp-content/uploads/*/womanizer-*.jpg$image
+||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||tennisvlaanderen.be/documents/*/19Sponsorblok-$image
 ||tennisvlaanderen.be/documents/*/21Sponsorblok-$image
 ||tpo.nl/broodplank/TRUE*.gif
