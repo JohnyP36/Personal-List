@@ -59,7 +59,7 @@ rd.nl##.infotainment:has(a[href^="/advert"])
 reformatorischeomroep.nl##.item-banner
 rkcwaalwijk.nl##.flex.carousel--default.carousel
 rotterdambasketbal.nl##.gdlr-core-pbf-wrapper:has(img[title^="roba_sponosor_"])
-rtvstichtsevecht.nl##body > .content:has-text(/advert/i)
+roulettefm.nl,rtvstichtsevecht.nl##body > .content:has-text(/advert/i)
 rtvdordrecht.nl##.bannerContainer
 salvora.nl##.avia-content-slider:has-text(/sponsor/i)
 sc-heerenveen.nl##.sponsor-grid:has-text(/advert/i)
