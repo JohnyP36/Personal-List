@@ -367,7 +367,7 @@ oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
 oisterwijknieuws.nl###left-sidebar
 oisterwijknieuws.nl###right-sidebar
 omroepbrabant.nl##div[class^="ad-"]
-omroephorstaandemaas.nl,omroepvenlo.nl,wos.nl##.prom
+omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,wos.nl##.prom
 omroeppenm.nl,rickfm.nl###advertisement
 omroepwest.nl,omroepzeeland.nl##.adcontainer
 online-omzetten.nl##.clearfix.entry > small
