@@ -42,6 +42,8 @@ indiexl.nl###carousel-indiexl_partners_carousel_widget
 keizerstad.nl##[id^="media_image"]
 landenweb.nl##.content > table:has(:scope > tbody:has-text(advert))
 leerzaam.com##p:has(.adsbygoogle)
+nieuws.nl###header-banner
+nieuws.nl###footer-banner
 nieuws.nl##.banner
 omroepalmere.nl##[id^="media_image"]:not(:has-text(Met dank aan)):not(#media_image-24):not(#media_image-28)
 omroepalmere.nl##.widget_carousel_slider:has-text(Partners)
@@ -329,7 +331,6 @@ netxxx.nl##.widget:has(img[src])
 niburu.co##.sponsers
 nieuwnieuws.nl##.article-page__bumper
 nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
-nieuws.nl###header-banner
 nieuwsonline.nu##.clearfix:has(img[src*="/header/"])
 nieuwsuitnijmegen.nl##.banner-box-1
 ninefornews.nl##.in-house:has(img[width="300"][height="250"])
