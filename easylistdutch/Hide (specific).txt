@@ -9,6 +9,7 @@ apintie.sr###navcol2
 apintie.sr###sidebar > div[style*="width:300px; height:"]:not(:has(img[alt="Apintie iPhone App"]))
 autozine.nl,hyvesgames.nl,koopplein.nl,limburger.nl,standaard.be,tripadvisor.be,tripadvisor.nl##.ad
 baarsclassicrock.nl##.widebanner
+basketbal.vlaanderen##.holder--divider-top
 basketball.nl##div[data-component="partner"]
 basketballbelgium.be###sidebar-top-content > .widget-area:has(img[width="970"][height="250"])
 basketballbelgium.be##[id*="crelan"]:has([id^="carousel"]:has(img[alt="Advertisement"]))
