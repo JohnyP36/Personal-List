@@ -87,7 +87,7 @@ adultwebmaster.nl##.main-promo-bn-responsive
 afkortingen.nu###banner_rectangle
 afkortingen.nu###banner_right
 afkortingen.nu###banner_top
-afkortingen.nu,allradio.nl,erotracks.nl,nrc.nl,sexfotodating.nl,simone.nl,startbewijs.nl,startkabel.nl,startpagina.nl,totaaltv.nl,tvgids.nl##.banner
+afkortingen.nu,allradio.nl,erotracks.nl,nrc.nl,sexfotodating.nl,simone.nl,startbewijs.nl,startkabel.nl,startpagina.nl,totaaltv.nl,tvgemist.be,tvgids.nl##.banner
 alblasserdamsnieuws.nl##.albla-widget
 alblasserdamsnieuws.nl##.sidebarbox > .widgettitle:has-text(Banner)
 alle-tests.nl###advertising
