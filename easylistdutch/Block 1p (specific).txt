@@ -60,6 +60,8 @@
 ||sexchatlounge.nl/bannerlinks.html$subdocument
 ||sexchatlounge.nl/bannerrechts.html$subdocument
 ||shespot.nl/wp-content/uploads/*/womanizer-*.jpg$image
+||tennisvlaanderen.be/documents/*/19Sponsorblok-$image
+||tennisvlaanderen.be/documents/*/21Sponsorblok-$image
 ||tpo.nl/broodplank/TRUE*.gif
 ||tube.nederlandseporno.nl/wp-content/uploads/*.gif
 ||vitesse.nl/generate/stores/Vitesse.nl/*/VriendenLoterij-banner-website.jpg$image
