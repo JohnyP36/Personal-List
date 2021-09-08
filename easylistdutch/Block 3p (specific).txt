@@ -1,6 +1,7 @@
 ! 2021-08-
 !||2link.be/images/nobanner.jpg$image,domain=2news.be|2travel.be|2you.be
 ||agfstorage.blob.core.windows.net/banners/$image,domain=agf.nl|groentennieuws.nl|uiennieuws.nl
+||b-cdn.net/w_/s3-roulettefm/*.$image,domain=roulettefm.nl
 ||cdn.agf.nl/nieuws/gif-jpg/*.gif$image,domain=groentennieuws.nl|uiennieuws.nl
 ||cloudfront.net/-/media/6-parnerships/$domain=feyenoord.nl
 ||cloudfront.net/banners/$domain=eredivisie.nl
