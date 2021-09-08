@@ -11,6 +11,7 @@ autozine.nl,hyvesgames.nl,koopplein.nl,limburger.nl,standaard.be,tripadvisor.be,
 baarsclassicrock.nl##.widebanner
 basketball.nl##div[data-component="partner"]
 broadcastmagazine.nl##.Advertisement
+bruzz.be,omroepflevoland.nl,sportuitslagen.org##.ad-container
 dagbladdewest.com##.swiper-wrapper
 dagbladdewest.com##img[width="300"]
 dolcevia.com,h2owaternetwerk.nl,halstadcentraal.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
@@ -358,7 +359,6 @@ oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
 oisterwijknieuws.nl###left-sidebar
 oisterwijknieuws.nl###right-sidebar
 omroepbrabant.nl##div[class^="ad-"]
-omroepflevoland.nl,sportuitslagen.org##.ad-container
 omroephorstaandemaas.nl,omroepvenlo.nl,wos.nl##.prom
 omroeppenm.nl,rickfm.nl###advertisement
 omroepwest.nl,omroepzeeland.nl##.adcontainer
