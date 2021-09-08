@@ -18,7 +18,7 @@ dolcevia.com,h2owaternetwerk.nl,halstadcentraal.nl,lokaleomroepzeewolde.nl,radio
 edestad.nl##.bg-grey.text-center:has-text(/advert/i)
 edestad.nl##.mtb-50.pt-50.col-sm-12.col-lg-12.col-md-12.bg-grey:not(:has(div[class$="text-center"]))
 edestad.nl##.w-300x.RM5
-europa-landbouwmachines.nl##.pub
+europa-landbouwmachines.nl,mijn-tv-gids.be##.pub
 europa-landbouwmachines.nl##.hidden-print.pub-desktop-a.hidden-xs
 fantv.nl##.tm-top-a
 fantv.nl##.tm-top-c
