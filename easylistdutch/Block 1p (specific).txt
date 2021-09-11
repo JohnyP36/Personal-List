@@ -45,6 +45,7 @@
 ||gowiththevlo.nl/wp-content/uploads/*/bo_banner_gwtv.jpg$image
 ||gowiththevlo.nl/wp-content/uploads/*/va_banner_gwtv.jpg$image
 ||hetnieuwsvandaag.be/media/cache/rectangle_image/media/image/*$image
+||linqmedia.nl/cwm/fm/userfiles/banner/$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/lelieveld-634-x-80.jpg$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/MBA-regiobank-*.gif$image
 ||modekoninginmaxima.nl/sites/default/files/*/vorsten2_170x600.gif$image
