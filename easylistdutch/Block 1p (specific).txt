@@ -32,6 +32,7 @@
 !||darknet.rutor.nl/data/ikea.jpg$image
 ||dorpsklanken.online/wp-content/uploads/*/*_300x100*.gif$image
 ||elektronicaforum.nl/banner*$image,first-party
+||excellentfm.nl/images/aanbieding/$first-party
 ||farm-date.com/slides/banner-$image,first-party
 ||flexnieuws.nl/wp-content/uploads/*/Naamloos-*.png$image
 ||gic.nl/uploads/fckconnector/
