@@ -55,6 +55,7 @@ nieuws.nl##.banner
 nieuwsmotor.nl##.add-background
 omroepalmere.nl##[id^="media_image"]:not(:has-text(Met dank aan)):not(#media_image-24):not(#media_image-28)
 omroepalmere.nl##.widget_carousel_slider:has-text(Partners)
+omroepeemsdelta.nl,radiozuidrand.be##aside:has-text(/advert/i)
 omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 omroephouten.nl##.sponsor-carousel
 openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
@@ -63,7 +64,6 @@ radio-minerva.be###topbanner
 radioreflex.be##aside:has-text(/sponsor/i)
 radiozenders.fm##.banner-rectangle:not(:nth-of-type(3))
 radiozenders.fm##.marqueeItem:has(a[href^="https://partner.bol.com/"])
-radiozuidrand.be##aside:has-text(/advert/i)
 rd.nl##.infotainment:has(a[href^="/advert"])
 reformatorischeomroep.nl##.item-banner
 rkcwaalwijk.nl##.flex.carousel--default.carousel
