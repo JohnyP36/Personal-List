@@ -16,6 +16,7 @@ basketballbelgium.be##[id*="crelan"]:has([id^="carousel"]:has(img[alt="Advertise
 basketballbelgium.be##div[class*="partner"]:has([href*="doubleclick.net"]):has([href*="crelan.be"])
 broadcastmagazine.nl##.Advertisement
 bruzz.be,omroepflevoland.nl,sportuitslagen.org##.ad-container
+camping-frankrijk.nl##div[class^="content-home"]:has([id*="HyperLinkBanner"])
 dagbladdewest.com##.swiper-wrapper
 dagbladdewest.com##img[width="300"]
 dolcevia.com,h2owaternetwerk.nl,halstadcentraal.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
