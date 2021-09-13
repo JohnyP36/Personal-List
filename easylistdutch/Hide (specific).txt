@@ -46,6 +46,7 @@ keizerstad.nl##[id^="media_image"]
 landenweb.nl##.content > table:has(:scope > tbody:has-text(advert))
 leerzaam.com##p:has(.adsbygoogle)
 linqmedia.nl##.advertentieTitel
+motorfietsblog.nl##.cbcontent
 nieuws.nl###header-banner
 nieuws.nl###footer-banner
 nieuws.nl##.banner
