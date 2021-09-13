@@ -66,6 +66,7 @@ omroepalmere.nl##.widget_carousel_slider:has-text(Partners)
 omroepbrabant.nl##div[class^="ad_"]
 omroepeemsdelta.nl,radiozuidrand.be##aside:has-text(/advert/i)
 omroephouten.nl##.sponsor-carousel
+omroeprsh.nl##[id*="media"]:has(img[width="300"]):not(:has([href*="youtube"]))
 openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
 osuradio.nl##.wdslider
 paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
