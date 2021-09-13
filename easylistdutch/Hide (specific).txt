@@ -356,8 +356,8 @@ modekoninginmaxima.nl##.adsbygoogle
 modekoninginmaxima.nl##.after-content-ad:not(:has-text(/Niets van deze website mag verveelvoudigd en/i))
 modekoninginmaxima.nl##.region-top-advertisement
 morningstar.*###ad_top_page
-nederland.fm###xbtm > .shadow
-nederland.fm###xttm > .shadow
+!nederland.fm###xbtm > .shadow
+!nederland.fm###xttm > .shadow
 nederlandsexdate.nl##.card-header:has-text(Advertentie)
 nederlandsextube.nl##.prefilm
 nederlandsextube.nl##.side
