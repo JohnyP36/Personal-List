@@ -32,6 +32,7 @@ fantv.nl##.tm-top-c
 fcutrecht.nl##.has-toto-banners.container > .columns
 fcutrecht.nl##.is-uppercase.is-3:has-text(/interessante deals/i)
 feyenoord.nl##.totoOdds
+gic.nl,kbradio.nl##.banners
 girlpowerradio.nl##[class*="sponsorcarousel"]
 gld.nl,omroepwest.nl,rtvnoord.nl##.groei-ad
 golf.be##.header__bottom
@@ -242,7 +243,6 @@ gezondheid.be##[class^="gz-ads"]
 gezondheid.be###gz_header:style(margin-top:-120px !important;)
 gezondheid.be###leaderbord
 gfcnieuws.com,historiek.net##div.ai-viewport-1
-gic.nl##.banners
 glutenvrij.nl##.Article__inner > .Article__title:has-text(Advert)
 goedkoopstekeukensduitsland.nl##[id^="text"]:has(a[href^="https://www.goedkoopstekeukensduitsland.nl"][href$="-bnr"])
 goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
