@@ -70,6 +70,7 @@
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||tennisvlaanderen.be/documents/*/19Sponsorblok-$image
 ||tennisvlaanderen.be/documents/*/21Sponsorblok-$image
+||tijd.be/ad/
 ||tpo.nl/broodplank/TRUE*.gif
 ||tube.nederlandseporno.nl/wp-content/uploads/*.gif
 ||vitesse.nl/generate/stores/Vitesse.nl/*/VriendenLoterij-banner-website.jpg$image
