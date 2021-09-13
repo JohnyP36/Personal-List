@@ -86,6 +86,7 @@
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
 ||willem-ii.nl/banner/$image
 ||xmissy.nl/*/_customplayers/*/twistys/player01_footer.jpg$image,first-party
+||zwartewaterfm.nl/images/SponsorenZwarteWaterFM.jpg
 ! 2021-07-29
 ||123video.nl^*/300x100_
 ||18plussexdating.nl/images/18plussexdating.$image
