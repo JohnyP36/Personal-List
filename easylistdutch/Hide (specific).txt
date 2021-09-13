@@ -81,6 +81,9 @@ rotterdambasketbal.nl##.gdlr-core-pbf-wrapper:has(img[title^="roba_sponosor_"])
 roulettefm.nl,rtvstichtsevecht.nl##body > .content:has-text(/advert/i)
 rtvalbrandswaard.com##section:has-text(/steun ons/i)
 rtvdordrecht.nl##.bannerContainer
+rtveen.nl###advertenties
+rtveen.nl##div.category:has-text(/advert/i)
+rtveen.nl##li:has-text(reclame)
 rtvideaal.nl##.widget_random_banner_widget
 rtvpapendrecht.nl##div[class^="vc_column"]:has-text(/reclame/i)
 salvora.nl##.avia-content-slider:has-text(/sponsor/i)
