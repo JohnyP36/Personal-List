@@ -79,6 +79,7 @@ sporza.be##.advertising
 spreekbuis.nl##.widget_media_image
 srnieuws.com##.card-view:has(h5.bold > a[href][target="_blank"])
 srnieuws.com##.centered.card-view:has([id^="taboola"])
+tijd.be##.c-articleteaser--sponsored
 vitesse.nl##div.box-body:has(p > a[title="Vriendenloterij"])
 voetbal-vandaag.nl###sidebar_aanbevelen
 voetbalvandaag.be##.adds
