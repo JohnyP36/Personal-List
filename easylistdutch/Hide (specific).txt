@@ -58,6 +58,7 @@ nieuws.nl##.banner
 nieuwsmotor.nl##.add-background
 omroepalmere.nl##[id^="media_image"]:not(:has-text(Met dank aan)):not(#media_image-24):not(#media_image-28)
 omroepalmere.nl##.widget_carousel_slider:has-text(Partners)
+omroepbrabant.nl##div[class^="ad_"]
 omroepeemsdelta.nl,radiozuidrand.be##aside:has-text(/advert/i)
 omroephouten.nl##.sponsor-carousel
 openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
