@@ -112,6 +112,9 @@ voetbalrotterdam.nl##div[style="max-width:300px; width:100%; height:250px;"]
 volleybelgium.be##.sponsors
 volleyvlaanderen.be###text-3:has([class^="slider"])
 waterkant.net##.td-fix-index:has(a[href])
+waldnet.nl##.banner
+waldnet.nl##div.kolom_haad_cntr > div.kolom_haad > div[style="height: 300px;"]
+waldnet.nl##div[style$="0px;"]:has(.adsbygoogle)
 ! 2021-08-04
 !#if env_mobile
 nu.nl##div[data-type="tealium"]
@@ -539,9 +542,6 @@ vivatube.com##.mt15.container:has-text(Advert)
 vrouwen-sexdate.be##.moduletable:has-text(Advert)
 waarzo.nl##.contentbox:has-text(Advertentie)
 waarzo.nl##.smallbox:has-text(Advertentie)
-waldnet.nl##.topbanner
-waldnet.nl##div.kolom_haad_cntr > div.kolom_haad > div[style="height: 300px;"]
-waldnet.nl##div[style$="0px;"]:has(.adsbygoogle)
 want.nl##.article__content:style(margin-top: -125px!important;)
 want.nl##.sticky-banner-container
 wanttoknow.nl###right-sidebar > .mb-3:has(img[src*="banner"])
