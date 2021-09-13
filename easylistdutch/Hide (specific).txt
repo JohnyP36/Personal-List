@@ -51,6 +51,7 @@ motorrijdenexpert.nl##div[class*="full-row relative-row"]:has([href]):has([class
 nieuws.nl###header-banner
 nieuws.nl###footer-banner
 nieuws.nl##.banner
+nieuwsmotor.nl##.add-background
 omroepalmere.nl##[id^="media_image"]:not(:has-text(Met dank aan)):not(#media_image-24):not(#media_image-28)
 omroepalmere.nl##.widget_carousel_slider:has-text(Partners)
 omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
