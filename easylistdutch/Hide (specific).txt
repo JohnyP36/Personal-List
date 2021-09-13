@@ -66,6 +66,7 @@ omroepbrabant.nl##div[class^="ad_"]
 omroepeemsdelta.nl,radiozuidrand.be##aside:has-text(/advert/i)
 omroephouten.nl##.sponsor-carousel
 openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
+osuradio.nl##.wdslider
 paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
 radio-minerva.be###topbanner
 radioreflex.be##aside:has-text(/sponsor/i)
