@@ -100,6 +100,8 @@ sporza.be##.advertising
 spreekbuis.nl##.widget_media_image
 srnieuws.com##.card-view:has(h5.bold > a[href][target="_blank"])
 srnieuws.com##.centered.card-view:has([id^="taboola"])
+stubru.be###reclameblok-wrapper  (https://stubru.be/popnieuws/tomorrowlandwil3festivalweekendsin2022)
+stubru.be##li:has-text(/advert/i)
 tijd.be##.c-articleteaser--sponsored
 twentefm.nl##.bannerzone_728x90:has-text(/advert/i)
 vitesse.nl##div.box-body:has(p > a[title="Vriendenloterij"])
