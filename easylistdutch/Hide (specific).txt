@@ -19,7 +19,7 @@ bruzz.be,omroepflevoland.nl,sportuitslagen.org##.ad-container
 camping-frankrijk.nl##div[class^="content-home"]:has([id*="HyperLinkBanner"])
 dagbladdewest.com##.swiper-wrapper
 dagbladdewest.com##img[width="300"]
-dolcevia.com,h2owaternetwerk.nl,halstadcentraal.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
+dolcevia.com,h2owaternetwerk.nl,halstadcentraal.nl,lokaleomroepzeewolde.nl,midvliet.nl,radiolelystad.nl##.bannergroup
 edestad.nl##.bg-grey.text-center:has-text(/advert/i)
 edestad.nl##.mtb-50.pt-50.col-sm-12.col-lg-12.col-md-12.bg-grey:not(:has(div[class$="text-center"]))
 edestad.nl##.w-300x.RM5
