@@ -15,6 +15,7 @@ basketball.nl##div[data-component="partner"]
 basketballbelgium.be###sidebar-top-content > .widget-area:has(img[width="970"][height="250"])
 basketballbelgium.be##[id*="crelan"]:has([id^="carousel"]:has(img[alt="Advertisement"]))
 basketballbelgium.be##div[class*="partner"]:has([href*="doubleclick.net"]):has([href*="crelan.be"])
+bollenstreekomroep.nl,omroepspakenburg.nl##.wpb_wrapper[data-td-block-uid^="tdi_"]:has(.owl-item)
 broadcastmagazine.nl##.Advertisement
 bruzz.be,omroepflevoland.nl,sportuitslagen.org##.ad-container
 camping-frankrijk.nl##div[class^="content-home"]:has([id*="HyperLinkBanner"])
