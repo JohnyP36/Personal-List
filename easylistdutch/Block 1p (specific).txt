@@ -8,7 +8,7 @@
 /voicebericht/assets/images/videochat277x$image,domain=beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|sexcamsites.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
 /wp-content/uploads/*.gif$image,domain=2sexcontact.nl|bekijkporno.nl|ero-meiden.nl|geilverlangen.nl|hete-foto.nl|kechtube.com|lekkerewebcams.nl|onschuldigemeiden.nl|pornokartel.nl|rtvpapendrecht.nl|seksmet.nl|sexmeid.nl
 |shespot.nl|sproeiendekutjes.nl|tube.nederlandseporno.nl
-/wp-content/uploads/*/*banner$image,domain=baarsclassicrock.nl|dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl|spreekbuis.nl
+/wp-content/uploads/*/*banner$image,domain=baarsclassicrock.nl|dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl|rtveen.nl|spreekbuis.nl
 /wp-content/uploads/*/*-outline-canvas-*.$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
 /wp-content/uploads/*/Mijn-Zaak$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
 /wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl
@@ -67,6 +67,7 @@
 ||radioacacia.nl/sponsoren/
 ||radiovisie.eu/wp-content/banners/*970x250.$image
 ||rtvdordrecht.nl/cwm/fm/userfiles/banner/*
+||rtveen.nl/wp-content/uploads/*-Banner-
 ||rtvlansingerland.nl/wp-content/uploads/*/Zorgvilla.gif
 ||seks.com/img/*.gif$image
 ||seks.com/snacc.jpg$image
