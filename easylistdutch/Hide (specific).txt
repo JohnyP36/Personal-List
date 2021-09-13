@@ -69,6 +69,7 @@ reformatorischeomroep.nl##.item-banner
 rkcwaalwijk.nl##.flex.carousel--default.carousel
 rotterdambasketbal.nl##.gdlr-core-pbf-wrapper:has(img[title^="roba_sponosor_"])
 roulettefm.nl,rtvstichtsevecht.nl##body > .content:has-text(/advert/i)
+rtvalbrandswaard.com##section:has-text(/steun ons/i)
 rtvdordrecht.nl##.bannerContainer
 salvora.nl##.avia-content-slider:has-text(/sponsor/i)
 sc-heerenveen.nl##.sponsor-grid:has-text(/advert/i)
