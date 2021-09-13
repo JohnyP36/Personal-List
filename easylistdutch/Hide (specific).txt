@@ -18,6 +18,7 @@ basketballbelgium.be##div[class*="partner"]:has([href*="doubleclick.net"]):has([
 broadcastmagazine.nl##.Advertisement
 bruzz.be,omroepflevoland.nl,sportuitslagen.org##.ad-container
 camping-frankrijk.nl##div[class^="content-home"]:has([id*="HyperLinkBanner"])
+coastline945fm.nl###partners
 dagbladdewest.com##.swiper-wrapper
 dagbladdewest.com##img[width="300"]
 dolcevia.com,h2owaternetwerk.nl,halstadcentraal.nl,lokaleomroepzeewolde.nl,midvliet.nl,radiolelystad.nl##.bannergroup
