@@ -57,7 +57,7 @@ omroepalmere.nl##[id^="media_image"]:not(:has-text(Met dank aan)):not(#media_ima
 omroepalmere.nl##.widget_carousel_slider:has-text(Partners)
 omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 omroephouten.nl##.sponsor-carousel
-openingstijden.com,promootjesite.nl##.adsense
+openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
 paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
 radio-minerva.be###topbanner
 radioreflex.be##aside:has-text(/sponsor/i)
