@@ -78,6 +78,7 @@
 ||tijd.be/ad/
 ||tpo.nl/broodplank/TRUE*.gif
 ||tube.nederlandseporno.nl/wp-content/uploads/*.gif
+||twentefm.nl/directcast/custom/rtvnot/playout/commercials/
 ||vitesse.nl/generate/stores/Vitesse.nl/*/VriendenLoterij-banner-website.jpg$image
 ||vlietnieuws.nl/wp-content/plugins/custom-banners/*$script,first-party
 ||voetbalrotterdam.nl/wp-content/uploads/*/soccerdealbanner*$image
