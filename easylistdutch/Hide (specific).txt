@@ -47,6 +47,7 @@ handbalinside.nl##div[id^="handb-"]
 heracles.nl##.footer-sponsors
 indiexl.nl###carousel-indiexl_partners_carousel_widget
 keizerstad.nl##[id^="media_image"]
+klokradio.nl##[class^="panel-grid"]:has-text(/advert/i)
 landenweb.nl##.content > table:has(:scope > tbody:has-text(advert))
 leerzaam.com##p:has(.adsbygoogle)
 linqmedia.nl##.advertentieTitel
