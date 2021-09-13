@@ -20,6 +20,7 @@ camping-frankrijk.nl##div[class^="content-home"]:has([id*="HyperLinkBanner"])
 dagbladdewest.com##.swiper-wrapper
 dagbladdewest.com##img[width="300"]
 dolcevia.com,h2owaternetwerk.nl,halstadcentraal.nl,lokaleomroepzeewolde.nl,midvliet.nl,radiolelystad.nl##.bannergroup
+dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 edestad.nl##.bg-grey.text-center:has-text(/advert/i)
 edestad.nl##.mtb-50.pt-50.col-sm-12.col-lg-12.col-md-12.bg-grey:not(:has(div[class$="text-center"]))
 edestad.nl##.w-300x.RM5
@@ -58,7 +59,6 @@ nieuwsmotor.nl##.add-background
 omroepalmere.nl##[id^="media_image"]:not(:has-text(Met dank aan)):not(#media_image-24):not(#media_image-28)
 omroepalmere.nl##.widget_carousel_slider:has-text(Partners)
 omroepeemsdelta.nl,radiozuidrand.be##aside:has-text(/advert/i)
-omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 omroephouten.nl##.sponsor-carousel
 openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
 paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
