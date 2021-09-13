@@ -47,6 +47,7 @@ landenweb.nl##.content > table:has(:scope > tbody:has-text(advert))
 leerzaam.com##p:has(.adsbygoogle)
 linqmedia.nl##.advertentieTitel
 motorfietsblog.nl##.cbcontent
+motorrijdenexpert.nl##div[class*="full-row relative-row"]:has([href]):has([class*="ignore"])
 nieuws.nl###header-banner
 nieuws.nl###footer-banner
 nieuws.nl##.banner
