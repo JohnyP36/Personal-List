@@ -69,6 +69,7 @@ openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
 osuradio.nl##.wdslider
 paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
 radio-minerva.be###topbanner
+radioacacia.nl##table[width="680"]:has(img[src^="sponsoren/"])
 radioreflex.be##aside:has-text(/sponsor/i)
 radiozenders.fm##.banner-rectangle:not(:nth-of-type(3))
 radiozenders.fm##.marqueeItem:has(a[href^="https://partner.bol.com/"])
