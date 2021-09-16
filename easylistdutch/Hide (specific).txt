@@ -123,6 +123,8 @@ waterkant.net##.td-fix-index:has(a[href])
 waldnet.nl##.banner
 waldnet.nl##div.kolom_haad_cntr > div.kolom_haad > div[style="height: 300px;"]
 waldnet.nl##div[style$="0px;"]:has(.adsbygoogle)
+weeronline.nl##div[class^="styled__AdWrapper-"]
+weeronline.nl##div[class^="styled__FooterAdWrapper-"]
 ! 2021-08-04
 !#if env_mobile
 nu.nl##div[data-type="tealium"]
@@ -552,7 +554,6 @@ wanttoknow.nl##.mb-3:has-text(Advert)
 watchfaces.be##[id^="text"]:has(.adsbygoogle)
 watchfaces.be##div.google
 webwereld.nl##.leaderBoardHolder
-weeronline.nl##section[class*="wol-banner-"]
 weerplaza.nl##.hf-widget
 weertdegekste.nl##.banner-right
 weertdegekste.nl##.infeed-outer
