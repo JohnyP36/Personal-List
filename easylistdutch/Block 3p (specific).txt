@@ -1,6 +1,7 @@
 ! 2021-08-
 !||2link.be/images/nobanner.jpg$image,domain=2news.be|2travel.be|2you.be
 ||agfstorage.blob.core.windows.net/banners/$image,domain=agf.nl|groentennieuws.nl|uiennieuws.nl
+||amazonaws.com/zkn/files/*.gif$image,domain=zorgkaartnederland.nl
 ||b-cdn.net/w_/s3-roulettefm/*.$image,domain=roulettefm.nl
 ||b-cdn.net/w_/s3-rtvstichtsevecht/*.$image,domain=rtvstichtsevecht.nl
 ||blob.core.windows.net/*/content/regiovoetbal/*_banner.*$image,domain=regio-voetbal.nl
