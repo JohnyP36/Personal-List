@@ -13,6 +13,7 @@
 ||adworx.nl^$third-party
 ||affilaxy.com^$third-party
 ||affiliatepartners.com^$third-party
+||affiliateprogramma.eu^$third-party
 ||asp.unitedconsumers.com^$third-party
 ||awin.com^$third-party
 ||bannermarkt.nl^$third-party
