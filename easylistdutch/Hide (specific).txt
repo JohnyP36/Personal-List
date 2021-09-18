@@ -23,6 +23,10 @@ camping-frankrijk.nl##div[class^="content-home"]:has([id*="HyperLinkBanner"])
 coastline945fm.nl###partners
 dagbladdewest.com##.swiper-wrapper
 dagbladdewest.com##img[width="300"]
+dagelijksestandaard.nl##.wpb_content_element.vc_separator:nth-of-type(4)
+dagelijksestandaard.nl##.wpInsertInPostAd:has(script[type="text/javascript"])
+dagelijksestandaard.nl##hr:nth-of-type(3)
+dagelijksestandaard.nl,netxxx.nl##hr:nth-of-type(1)
 dolcevia.com,h2owaternetwerk.nl,halstadcentraal.nl,lokaleomroepzeewolde.nl,midvliet.nl,radiolelystad.nl##.bannergroup
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 edestad.nl##.bg-grey.text-center:has-text(/advert/i)
@@ -211,11 +215,6 @@ classic.nl##div.brievenbus
 computable.nl##.sponsored
 crimesite.nl##em:has-text(reclame)
 cumcams.nl##[id^="custom_html"]:has(img[src*="wlresources.com/"])
-dagelijksestandaard.nl##.wpb_content_element.vc_separator:nth-of-type(4)
-dagelijksestandaard.nl##.wpInsertInPostAd:has(script[type="text/javascript"])
-dagelijksestandaard.nl##div.wpb_raw_code > .wpb_wrapper:has(div[style="padding:20px;"])
-dagelijksestandaard.nl##hr:nth-of-type(3)
-dagelijksestandaard.nl,netxxx.nl##hr:nth-of-type(1)
 dating-vinden.be,deperfecte-sexdate.be,deperfecte-sexdate.nl,flirten-vlaanderen.be,geil-neuken.nl,neukengratis.be,neuk-sexcontact.be,sexcontact-xxx.be,sexdate-xxx.be,sexdating4u.be,vrouwsex.be##.well:has(.bannergroup)
 dating-zoeken.nl,hete-sexcontacten.nl,milf-overzicht.nl,sexdating-afspraak.nl,sexdating-gids.be,sexdatinggids.be,vrouwensexdate.nl##.d-lg-block.d-none:has-text(Advert):not(:has(.jcarousel-skin-tango))
 dbsuriname.com,westerwoldeactueel.nl##.g
