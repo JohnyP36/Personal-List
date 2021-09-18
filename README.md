@@ -15,13 +15,11 @@ Special for uBo syntax (and Adguard) is [this list](https://github.com/JohnyP36/
 [This "Persosal" list](https://github.com/JohnyP36/Personal-List/blob/main/Personal%20List.txt) contains the following filterlists:
 
 ## *[EasyList Dutch](https://github.com/JohnyP36/Personal-List/tree/main/easylistdutch)*
-My own updated version of EasyList Dutch. 
-
+My own updated version of EasyList Dutch. <br>
 I made this filter because the EasyList Dutch filter isn't maintained often.
 
-##### IMPORTANT
-Because the current filterlist [EasyDutch](https://github.com/BPower0036/AdBlockFilters/blob/main/easydutch) is now regulary updated I don't update my own list. 
-
+##### IMPORTANT  
+Because the current filterlist [EasyDutch](https://github.com/BPower0036/AdBlockFilters/blob/main/easydutch) is now regulary updated I don't update my own list. <br>
 If you see ads on dutch websites please report it [here](https://github.com/BPower0036/AdBlockFilters/issues).
 
 ## *[My filters](https://github.com/JohnyP36/Personal-List/blob/main/other%20lists/My%20filters.txt)*
