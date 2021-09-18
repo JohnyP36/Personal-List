@@ -1,3 +1,10 @@
+[![Commit rate](https://img.shields.io/github/commit-activity/m/JohnyP36/Personal-List?label=Commits&color=succes&style=plastic)](https://github.com/JohnyP36/Personal-List/commits/master)
+[![Issues](https://img.shields.io/github/issues/JohnyP36/Personal-List?label=Issues&color=red&style=plastic)](https://github.com/JohnyP36/Personal-List/issues)
+[![Issues](https://img.shields.io/github/issues-closed/JohnyP36/Personal-List?color=yellowgreen&label=Issues&style=plastic)](https://github.com/JohnyP36/Personal-List/issues)
+[![License](https://img.shields.io/badge/License-GPLv3-blue.svg?label=License&color=lightgrey&style=social)](https://github.com/JohnyP36/Personal-List/blob/main/LICENSE)
+
+***
+
 # Personal-List
 I made this list for personal use. 
 
