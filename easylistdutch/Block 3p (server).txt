@@ -62,5 +62,6 @@
 ||tradetracker.com^$third-party
 ||verkoopmenu.nl^$third-party
 ||views.affiliate4you.nl^$third-party
+||viadata.store^$third-party
 ||vpscash.nl^$third-party
 ||xpartners.nl^$third-party
