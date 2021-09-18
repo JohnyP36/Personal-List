@@ -113,6 +113,7 @@ stubru.be###reclameblok-wrapper  (https://stubru.be/popnieuws/tomorrowlandwil3fe
 stubru.be##li:has-text(/advert/i)
 televizier.nl##.header-banner
 tijd.be##.c-articleteaser--sponsored
+tpo.nl##h4[class]:has-text(/advert/i)
 twentefm.nl##.bannerzone_728x90:has-text(/advert/i)
 vitesse.nl##div.box-body:has(p > a[title="Vriendenloterij"])
 voetbal-vandaag.nl###sidebar_aanbevelen
