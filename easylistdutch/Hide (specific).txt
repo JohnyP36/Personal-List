@@ -109,7 +109,7 @@ sporza.be##.advertising
 spreekbuis.nl##.widget_media_image
 srnieuws.com##.card-view:has(h5.bold > a[href][target="_blank"])
 srnieuws.com##.centered.card-view:has([id^="taboola"])
-stubru.be###reclameblok-wrapper  (https://stubru.be/popnieuws/tomorrowlandwil3festivalweekendsin2022)
+stubru.be###reclameblok-wrapper
 stubru.be##li:has-text(/advert/i)
 televizier.nl##.header-banner
 tijd.be##.c-articleteaser--sponsored
