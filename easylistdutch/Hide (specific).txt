@@ -9,7 +9,7 @@ amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,in
 apintie.sr###left-inside > div#ads
 apintie.sr###navcol2
 apintie.sr###sidebar > div[style*="width:300px; height:"]:not(:has(img[alt="Apintie iPhone App"]))
-autozine.nl,hetnieuwsvandaag.be,hyvesgames.nl,koopplein.nl,limburger.nl,radioluisterenlive.nl,standaard.be,tripadvisor.be,tripadvisor.nl##.ad
+autozine.nl,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,koopplein.nl,limburger.nl,radioluisterenlive.nl,standaard.be,tripadvisor.be,tripadvisor.nl##.ad
 baarsclassicrock.nl##.widebanner
 basketbal.vlaanderen##.holder--divider-top
 basketball.nl##div[data-component="partner"]
