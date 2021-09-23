@@ -1,5 +1,5 @@
 ! EasyList + EasyPrivacy + Fanboy's Enhanced Tracking List (+ Fanboy's Annoyance) 	-> https://fanboy.co.nz/r/fanboy-ultimate.txt  /  https://fanboy.co.nz/r/fanboy-complete.txt
-!*$csp=upgrade-insecure-requests,domain=~ehubsoft.net
+!*$csp=upgrade-insecure-requests,domain=~ehubsoft.net|~192.168.2.150|~192.168.2.254
 
 !https://www.reddit.com/r/privacytoolsIO/comments/g9hjrd/using_ublock_origin_to_abort_possible_browser/
 *,~hangouts.google.com##+js(nowebrtc)
@@ -14,10 +14,12 @@ fb*$queryprune=/^(fb_action_ids|fb_actions_types|fb_ref|fb_source|fbclid)/i
 $removeparam=/^(dpg_source|dpg_campaign|dpg_medium|dpg_content|dclid|gclid|gclsrc|guccounter|guce_referrer|guce_referrer_sig|yclid|__twitter_impression)=/
 $removeparam=source,domain=googleusercontent.com
 !||google.*/search,~consent.google.com/ml$queryprune=~/^(q|tbm|chips|tbs)/,domain=google.*
-||google.*/search$removeparam=/^(aqs|bih|biw|client|cshid|dpr|ei|gs_lcp|hl|ie|sa|sclient|source|sourceid|uact|vet)=/
+||google.*/search$removeparam=/^(aqs|bih|biw|client|cshid|dpr|ei|gs_lcp|hl|ie|sa|sclient|source|sourceid|uact|vet|ved)=/
 ||google.*^$removeparam=/^(tab)=/
 ||www.google.com/url?$removeparam=ved
 ||youtube.com$queryprune=/(ab_channel|cbr|cbrver|cos|cplatform|delay|feature|kw|tab)/
+@@||youtube.com/subscribe_embed$removeparam
+||blckbx.tv$removeparam=/^(ss_source|ss_campaign_id|ss_email_id|ss_campaign_name|ss_campaign_sent_date)=/
 ||bol.com^$removeparam=Referrer
 ||duckduckgo.com^$removeparam=t
 ||github.com^$removeparam=/^(email_source|email_token)=/
@@ -54,11 +56,13 @@ google.*##div[jscontroller][jsaction]:has([class]:has-text(cookies):has([href*="
 !google.*##body > jsl > .noprint
 !music.youtube.com##.ytmusic-popup-container.style-scope > .ytmusic-popup-container.style-scope
 !translate.google.*,books.google.*##.gb_7
+drive.google.com##[id]:has-text(/gratis/i)
+sites.google.com##div[data-cookie-path][style*="transform"]:has(div):has-text(/site uses cookies/i):has([href*="/cookies/"])
 !youtube.com##iron-overlay-backdrop
 youtube.com##.opened
-!youtube.com###clarify-box > .ytd-watch-flexy.style-scope
+youtube.com###clarify-box > .ytd-watch-flexy.style-scope
 !youtube.com#?#ytd-popup-container > paper-dialog:has(> yt-upsell-dialog-renderer > #dialog > #content > yt-formatted-string > a[href^="https://support.google.com/youtube/?p=sign_in"])
-!www.youtube.com###interstitial > .ytd-masthead.style-scope
+youtube.com###lightbox > #dialog.ytd-consent-bump-v2-lightbox.style-scope
 
 !re-enable scrollbar => ##html:style(overflow: auto !important)  +  ##body:style(overflow: auto !important)
 www.google.*,nsinternational.com##body:style(overflow: auto !important)
@@ -83,8 +87,13 @@ www.google.*,nsinternational.com##html:style(overflow: auto !important)
 ! Cookie Banner e.d.
 chamilo.etf.edu##.cookieUsageValidation
 christenenvoorisrael.nl##.diffuse_cookie-bar__container
-instagram.com##div[class][role="presentation"]:has([role="dialog"] > div[class] > div[class] > div[class] > div[class]:has(h2[class]:has-text(Accept cookies))):has(a[href="/legal/cookies/"])
-instagram.com##article[role="presentation"] > div[class] > div[class] > div[class]:has([aria-label^="Information icon"]):not([role="presentation"])
+freebitco.in##.daily_jackpot_main_container_div
+freebitco.in###free_play_payout_table > div[id^="premium"][id*="membership"]
+gab.com##article[data-id^="gab-ad-status-timeline-injection"]:has-text(/sponsored/i)
+gab.com##div[class^="_UuSG pwK6B _2I3eh _2z1u_ _33UDc"]:has-text(/sponsored/i):has-text(?)
+instagram.com##div[class][role="presentation"]:has([role="dialog"] > div[class] > div[class] > div[class] > div[class]:has(h2[class]:has-text(cookies))):has(a[href="/legal/cookies/"])
+instagram.com#$#body { overflow: visible!important; }
+instagram.com##article[role="presentation"] > div[class] > div[class] > div[class] > div[class]:has([aria-label^="Information icon"]):not(:has([role="presentatoin"]))
 instagram.com##div[style^="height:"] > section[class] > div[class] > div[class]:has([aria-label^="Information icon"])
 marktplaats.nl##div[class*="LoginNudge"]:has-text(/Log hier in/i):has-text(/Inloggen/i)
 !marktplaats.nl##.mp-LoginNudge--animated.mp-LoginNudge
@@ -116,11 +125,6 @@ calorielijst.nl##+js(aopw, clickIE)
 /wp-content/plugins/disable-right-click/*
 /wp-content/plugins/right-click-disable-orignal/*
 
-! Encounter whitelist rules from Adguard Base
-@@||2mdn.net/instream/$badfilter
-@@||hb.improvedigital.com/pbw/prebid/prebid-idhb-v*.min.js$domain=html5.gamedistribution.com,badfilter
-@@||hb.improvedigital.com/pbw/gamedistributionv*.min.js$domain=html5.gamedistribution.com,badfilter
-
 ! Facebook
 ||facebook.com^$domain=~facebook.com
 ||facebook.net^
@@ -132,10 +136,10 @@ calorielijst.nl##+js(aopw, clickIE)
 ###facebook
 ##.fb-share-button
 
-! Rules copied from uBlock (standard) filterlists [22 rules]
+! Rules copied from uBlock (standard) filterlists [20 rules]
 !  uBlock Filters {=> solves problems from other lists}
 !is in use now
-!  uBlock filters - Privacy [13 rules]
+!  uBlock filters - Privacy [12 rules]
 ||adblockanalytics.com^$third-party
 ||addthis.com^$important,3p,domain=~missingkids.com|~missingkids.org|~sainsburys.jobs|~sitecore.com|~amd.com
 ||addthis.com/*/addthis_widget.js$script,redirect=addthis.com/addthis_widget.js,important
@@ -158,7 +162,8 @@ calorielijst.nl##+js(aopw, clickIE)
 */b/ss/*&aqe=$image,redirect=1x1-transparent.gif
 @@||fundingchoicesmessages.google.com^$script,domain=bbc.com
 
-! Rules from Adguard and Adguard Dutch
+
+! Rules from Adguard Spyware
 .demdex.net/id^$redirect=noop.txt,important,subdocument,stylesheet,script,xmlhttprequest,other
 ||analytics.webads.eu^
    !webads.eu^$third-party in Fanboy
@@ -182,6 +187,14 @@ calorielijst.nl##+js(aopw, clickIE)
 ||trackersimulator.org^
 ||youtube.com/player_204?
 
+! Encounter whitelist rules from Adguard Base
+!@@||2mdn.net/instream/$badfilter
+!@@||hb.improvedigital.com/pbw/prebid/prebid-idhb-v*.min.js$domain=html5.gamedistribution.com,badfilter
+!@@||hb.improvedigital.com/pbw/gamedistributionv*.min.js$domain=html5.gamedistribution.com,badfilter
+
 !@@||s_a_f_e..0verflow*$image,domain=browserleaks.com
 !@@||browserleaks.com/*/1.gif?v=$domain=browserleaks.com
 !https://github.com/JohnyP36/Personal-List/blob/main/Personal%20List%20(uBo).txt
+
+!example.com##div:style(--foo: 1/*)
+!example.com##div[bar="*/;background-image: url(https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_3x2.jpg); background-size: cover;}/*"]
