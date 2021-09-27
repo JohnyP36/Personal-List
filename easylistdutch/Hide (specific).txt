@@ -53,6 +53,8 @@ grandprixradio.nl##[id^="custom_html-"]:has([src^="https://partner.bol.com/"])
 handbal.be##.footer-top
 handbalinside.nl##div[id^="handb-"]
 heracles.nl##.footer-sponsors
+iex.nl##.ContentPartner
+iex.nl##.network:has-text(Gesponsorde links)
 indiexl.nl###carousel-indiexl_partners_carousel_widget
 keizerstad.nl##[id^="media_image"]
 klokradio.nl##[class^="panel-grid"]:has-text(/advert/i)
