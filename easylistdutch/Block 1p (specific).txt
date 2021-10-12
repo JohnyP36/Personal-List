@@ -62,7 +62,7 @@
 ||ninefornews.nl/wp-content/a-d-s/*
 ||ninefornews.nl/wp-content/uploads/*/tetralogie300x250.jpg$image
 ||ninefornews.nl/wp-content/uploads/*/*-300x250-*.jpg$image
-||notebookcheck.nl/fileadmin/Sonstiges/am_abv3_$xmlhttprequest
+||notebookcheck.nl/fileadmin/Sonstiges/am_$xmlhttprequest
 ||promootjesite.nl/images/affliateBanner/$image
 ||psv.nl/multimedia/toto_new/index.html$subdocument
 ||psv.nl/upload/*_image*.gif$image
