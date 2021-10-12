@@ -21,6 +21,7 @@
 ||basketbal.vlaanderen/src/*/images/Logo's*$image
 ||basketballbelgium.be/wp-content/uploads/*/970x250*$image
 ||brandweerspotters.nl/modules/banners/
+||buzzbie.nl/buzzbanners/*.js$script,first-party
 ||camping-frankrijk.nl/graphics/*/*600.$image
 ||cdn.shortpixel.ai/client/q_lossy,ret_img,w_*/https://groningerkrant.nl/wp-content/uploads/*/Rijschool-in-Groningen*.$image
 ||ciaotutti.nl/wp-content/uploads/*/camping-delle-rose-isolabona-ligurie-vakantie*.gif$image
