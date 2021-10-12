@@ -20,6 +20,7 @@ basketballbelgium.be##div[class*="partner"]:has([href*="doubleclick.net"]):has([
 bollenstreekomroep.nl,omroepspakenburg.nl##.wpb_wrapper[data-td-block-uid^="tdi_"]:has(.owl-item)
 broadcastmagazine.nl##.Advertisement
 bruzz.be,omroepflevoland.nl,sportuitslagen.org##.ad-container
+buzzbie.nl##.TS_Banner_Spot
 camping-frankrijk.nl##div[class^="content-home"]:has([id*="HyperLinkBanner"])
 coastline945fm.nl###partners
 dagbladdewest.com##.swiper-wrapper
