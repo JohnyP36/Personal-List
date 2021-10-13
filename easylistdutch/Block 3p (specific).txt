@@ -15,6 +15,7 @@
 ||go2cloud.org/aff_ad?*&format=iframe$subdocument,domain=sexoverzicht.nl|sextube.nl
 ||inviteonly.nl/banner/*$image,domain=kutscheetje.nl
 ||jobat.be/extra/trackuityhn/ticker_new.html$domain=nieuwsblad.be
+||media.biertijd.com/galleries/*/banners/$image,third-party
 ||sedproductions.nl/banners/*.gif$image,domain=cumcams.nl|nederlandsewebcambabes.nl
 ||static.qmusic.*/acties/qnl-nu-ad/index.html$subdocument,domain=nu.nl
 ||tools-affil2.com/rtb/index.php$subdocument,domain=beeldbelsex.com
