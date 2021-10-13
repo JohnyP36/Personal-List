@@ -73,6 +73,7 @@ motorrijdenexpert.nl##div[class*="full-row relative-row"]:has([href]):has([class
 nieuws.nl###header-banner
 nieuws.nl###footer-banner
 nieuws.nl##.banner
+nieuws.nl##.nieuws-banner
 nieuwsmotor.nl##.add-background
 ninefornews.nl##.in-house:has(img[width="300"][height="250"])
 ninefornews.nl##.nfn-target[data-advadsredirect]
@@ -247,7 +248,6 @@ direct-sexdate.be##div.card:has(img[src*="/banner"])
 dissident.one##.td-adspot-title
 dolcevia.com##.banner-style
 dominant.be,lesbos.be,pornno.be,pornofilmpjes.be,sextoons.be,tiener-sex.be###video-sidebar-wrap
-dongen.nieuws.nl##.nieuws-banner
 doorbraak.be###top-advertisement-area
 dorpsklanken.online##.ads-mobiel
 dorpsklanken.online##.advertenties
