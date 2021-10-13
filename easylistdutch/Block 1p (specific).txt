@@ -33,8 +33,6 @@
 ||dagbladdewest.com/wp-content/uploads/*/*_300x250px.*$image
 ||dagbladdewest.com/wp-content/uploads/*/*-AD*.jpg$image
 ||dagbladdewest.com/wp-content/uploads*/*728x90px*.jpg$image
-!||darknet.rutor.nl/data/*.gif$image
-!||darknet.rutor.nl/data/ikea.jpg$image
 ||dorpsklanken.online/wp-content/uploads/*/*_300x100*.gif$image
 ||elektronicaforum.nl/banner*$image,first-party
 ||excellentfm.nl/images/aanbieding/$first-party
@@ -50,6 +48,7 @@
 ||gowiththevlo.nl/wp-content/uploads/*/bo_banner_gwtv.jpg$image
 ||gowiththevlo.nl/wp-content/uploads/*/va_banner_gwtv.jpg$image
 ||hetnieuwsvandaag.be/media/cache/rectangle_image/media/image/*$image
+||inzod.nl/wp-content/uploads/*/*/*.gif$image
 ||klokradio.nl/wp-content/uploads/*/adv$image
 ||linqmedia.nl/cwm/fm/userfiles/banner/$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/lelieveld-634-x-80.jpg$image
