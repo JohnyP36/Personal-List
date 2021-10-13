@@ -82,6 +82,7 @@ ninefornews.nl##.widget-top:has-text(/Sponsored/i)
 ninefornews.nl##.widget_text.widget:has(img[width="300"][height="600"])
 ninefornews.nl##[class*="header-content"] [class="gofollow"][href*="/link/"]
 ninefornews.nl##[id^="text-"]:has(.nfn-target[data-advadsredirect])
+noordernieuws.nl##[id^="slideshowwidget"]:has(img[src$=".gif"])
 omroepalmere.nl##[id^="media_image"]:not(:has-text(Met dank aan)):not(#media_image-24):not(#media_image-28)
 omroepalmere.nl##.widget_carousel_slider:has-text(Partners)
 omroepbrabant.nl##div[class^="ad_"]
