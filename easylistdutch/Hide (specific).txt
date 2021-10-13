@@ -60,6 +60,7 @@ heracles.nl##.footer-sponsors
 iex.nl##.ContentPartner
 iex.nl##.network:has-text(Gesponsorde links)
 indiexl.nl###carousel-indiexl_partners_carousel_widget
+inzod.nl##.gofollow
 keizerstad.nl##[id^="media_image"]
 klokradio.nl##[class^="panel-grid"]:has-text(/advert/i)
 landenweb.nl##.content > table:has(:scope > tbody:has-text(advert))
