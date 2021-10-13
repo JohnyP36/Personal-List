@@ -32,6 +32,7 @@ dagelijksestandaard.nl##.wpInsertInPostAd:has(script[type="text/javascript"])
 dagelijksestandaard.nl##hr:nth-of-type(3)
 dagelijksestandaard.nl,netxxx.nl##hr:nth-of-type(1)
 dolcevia.com,h2owaternetwerk.nl,halstadcentraal.nl,lokaleomroepzeewolde.nl,midvliet.nl,radiolelystad.nl##.bannergroup
+drentsnieuws.nl###g-header:has(img[src$=".gif"])
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 edestad.nl##.bg-grey.text-center:has-text(/advert/i)
 edestad.nl##.mtb-50.pt-50.col-sm-12.col-lg-12.col-md-12.bg-grey:not(:has(div[class$="text-center"]))
