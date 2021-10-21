@@ -104,6 +104,7 @@
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
 ||willem-ii.nl/banner/$image
+||wp.com/www.bol.com/*/upload/partnerprogramma/$image
 ||xmissy.nl/*/_customplayers/*/twistys/player01_footer.jpg$image,first-party
 ||zwartewaterfm.nl/images/SponsorenZwarteWaterFM.jpg
 ! 2021-07-29
