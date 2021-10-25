@@ -30,6 +30,7 @@
 ||csmcampagne.consumind.nl^$third-party
 ||daisycon.com^$third-party
 ||datingcash.eu^$third-party
+||dntblckmpls.nl^$third-party
 ||ds1.nl^$third-party
 ||dt51.net^$third-party
 ||dt61.net^$third-party
