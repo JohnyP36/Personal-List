@@ -42,6 +42,7 @@
 ||dagbladdewest.com/wp-content/uploads*/*728x90px*.jpg$image
 ||dorpsklanken.online/wp-content/uploads/*/*_300x100*.gif$image
 ||drentsnieuws.nl/images/banners/$image
+||ekvrouwen.nl/*/uploads/*/bookmaker-cta-$image
 ||elektronicaforum.nl/banner*$image,first-party
 ||excellentfm.nl/images/aanbieding/$first-party
 ||farm-date.com/slides/banner-$image,first-party
