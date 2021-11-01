@@ -1,5 +1,5 @@
 ! 2021-08-
-1twente.nl,bnnvara.nl,hpdetijd.nl,kieskeurig.nl##.advertisement
+1twente.nl,bnnvara.nl,hpdetijd.nl,kieskeurig.nl,ovpro.nl##.advertisement
 a1mediagroep.nl###banners
 aafm.nl##[class^="block"]:has(img[src*="aafm.nl/cms/wp-content/themes/omroepalmelo/img/banners/"])
 agconnect.nl##[id*="partner"][id*="logo"]:has([href^="/partner"]):has(img[src*="partner"])
@@ -96,7 +96,6 @@ omroephouten.nl##.sponsor-carousel
 omroeprsh.nl##[id*="media"]:has(img[width="300"]):not(:has([href*="youtube"]))
 openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
 osuradio.nl##.wdslider
-ovpro.nl##.advertisement
 ovpro.nl##.widget_nlpartners:has(.adv)
 paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
 radio-minerva.be###topbanner
