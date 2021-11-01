@@ -1,5 +1,5 @@
 ! 2021-08-
-1twente.nl,bnnvara.nl,hpdetijd.nl,kieskeurig.nl,ovpro.nl##.advertisement
+1twente.nl,bnnvara.nl,hpdetijd.nl,kieskeurig.nl,ovpro.nl,tubantia.nl##.advertisement
 a1mediagroep.nl###banners
 aafm.nl##[class^="block"]:has(img[src*="aafm.nl/cms/wp-content/themes/omroepalmelo/img/banners/"])
 agconnect.nl##[id*="partner"][id*="logo"]:has([href^="/partner"]):has(img[src*="partner"])
