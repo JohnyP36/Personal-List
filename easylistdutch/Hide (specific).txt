@@ -163,9 +163,9 @@ nudeviste.be,nudevista.nl##.mob_adv
 247spice.com##.slideInLeft.animated:has-text(Advert)
 30plussexdate.nl,ikwilneuken.be,ikwilneuken.net,meidenzoekensex.nl,sexcontactadressen.nl##.nomobile.boxlinks:has(.homebanner)
 402online.com##.bannerblock
-7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be##.dfp-space
-7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be##.page-header__section--spacer
-7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be##.tile:has(:scope >.ankeiler--advertisement)
+7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,tubantia.nl##.dfp-space
+7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,tubantia.nl##.page-header__section--spacer
+7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,tubantia.nl##.tile:has(:scope >.ankeiler--advertisement)
 adultwebmaster.nl##.main-promo-bn-responsive
 afkortingen.nu###banner_rectangle
 afkortingen.nu###banner_right
