@@ -9,6 +9,7 @@
 ||adpepper.nl^$third-party
 ||adquick.nl^$third-party
 ||adscience.nl^$third-party
+||adshim.com^$third-party
 ||adulttradecenter.nl^$third-party
 ||advertising-cdn.dpgmedia.cloud^third-party
 ||adworx.nl^$third-party
