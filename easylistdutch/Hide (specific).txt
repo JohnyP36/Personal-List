@@ -145,6 +145,7 @@ tijd.be##.c-articleteaser--sponsored
 tpo.nl##h4[class]:has-text(/advert/i)
 twentefm.nl##.bannerzone_728x90:has-text(/advert/i)
 ucl-voetbal.nl##[src^="/derden/betcity-"]
+uitzendinggemist.net##.serie_info_adbox
 vitesse.nl##div.box-body:has(p > a[title="Vriendenloterij"])
 voetbal.com##.adbox
 voetbal-vandaag.nl###sidebar_aanbevelen
