@@ -139,6 +139,7 @@ dorpsklanken.online##.ads-mobiel
 dorpsklanken.online##.advertenties
 drentsnieuws.nl###g-header:has(img[src$=".gif"])
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
+duic.nl##.article-excerpt--ad
 dumpert.nl##div[class*="ads_container"][class*="ad_container"]
 dutchitchannel.nl##.banner:has([href*="/bannerclick.html&banner"])
 dutchporntube.nl###sidebar > section[id]:has-text(/Zoeken-Kennismaken en Afspreken/i)
