@@ -1,3 +1,9 @@
+! 2021-11-
+zeelandnet.nl##.bnr-notice
+zeelandnet.nl##.article-bnr-first
+zeelandnet.nl##.as__bottom-banner
+zeelandnet.nl##aside:has([id^="div-gpt-ad"])
+
 ! 2021-08-
 1twente.nl,bnnvara.nl,hpdetijd.nl,kieskeurig.nl,ovpro.nl,tubantia.nl##.advertisement
 a1mediagroep.nl###banners
@@ -597,8 +603,3 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 wildfm.nl##img[width="699"][height="90"]
 wos.nl##.header-right
 xxxdump.nl###reclame-eroads
-zeelandnet.nl##.bnr-notice
-zeelandnet.nl##.article-bnr-first
-zeelandnet.nl##.as__bottom-banner
-zeelandnet.nl##.hero-banner
-zeelandnet.nl##aside:has([id^="div-gpt-ad"])
