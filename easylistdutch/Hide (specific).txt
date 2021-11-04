@@ -89,7 +89,7 @@ bokt.nl###frontpage_mediumrect
 bollenstreekomroep.nl,omroepspakenburg.nl##.wpb_wrapper[data-td-block-uid^="tdi_"]:has(.owl-item)
 brandweerspotters.nl###banners:has-text(Sponsors)
 broadcastmagazine.nl##.Advertisement
-bruzz.be,omroepflevoland.nl,sportuitslagen.org##.ad-container
+bruzz.be,omroepflevoland.nl,sportuitslagen.org,trendalert.nl##.ad-container
 buienradar.be,buienradar.nl###adholderContainerHeader
 buienradar.nl##.uitradar:has(img[src*=".nl/resources//images/promo/"])
 buzzbie.nl##.TS_Banner_Spot
