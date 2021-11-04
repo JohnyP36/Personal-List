@@ -18,6 +18,7 @@
 ||media.biertijd.com/galleries/*/banners/$image,third-party
 ||sedproductions.nl/banners/*$image,third-party
 ||static.qmusic.*/acties/qnl-nu-ad/index.html$subdocument,domain=nu.nl
+||stepstone.be/*?event=widgettool.$third-party
 ||tools-affil2.com/rtb/index.php$subdocument,domain=beeldbelsex.com
 ||widgets.skyscanner.net^$domain=puuropreis.nl
 ||wp.com/www.appletips.nl/wp-content/uploads/amacdeals$image,domain=appletips.nl
