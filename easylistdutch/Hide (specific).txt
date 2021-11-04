@@ -52,6 +52,7 @@ atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,sportid.be,tenniskrant.be,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.leaderboard
 audiobookbay.nl###rsidebar > ul > li > h2:has-text(/ad/i)
 audiobookbay.nl#$#[src="http://audiobookbay.nl/images/dir.gif"]{ width: 100px !important }
+autobahn.eu##div[class*="block"]:has(a[href*="casino"][rel="noopener"]):has-text(/casino/i)
 autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
 autoweek.nl##.advertise
 autowereld.nl###mainbanner
