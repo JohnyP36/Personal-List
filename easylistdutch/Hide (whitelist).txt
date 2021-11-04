@@ -6,7 +6,7 @@ directwonen.nl#@#.top-advert
 gratisaftehalen.nl#@#.ads-image
   japan-webike.nl#@#img[class*="img_ad"][data-src*="sale"]
 marktplaats.nl#@#.adSummary
-modekoninginmaxima.nl##.after-content-ad:not(:has-text(Niets van deze website mag verveelvoudigd))
+modekoninginmaxima.nl#@#.after-content-ad
 paginamarkt.nl#@#.advertentie
 sexverhalen.com##.widget_ads:not(:has-text(/partner/i))
   speurders.nl#@#.ad_header
