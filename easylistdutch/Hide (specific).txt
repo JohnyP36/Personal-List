@@ -26,6 +26,7 @@ broadcastmagazine.nl##.Advertisement
 bruzz.be,omroepflevoland.nl,sportuitslagen.org##.ad-container
 buzzbie.nl##.TS_Banner_Spot
 camping-frankrijk.nl##div[class^="content-home"]:has([id*="HyperLinkBanner"])
+clubbrugge.be##.partners
 coastline945fm.nl###partners
 dagbladdewest.com##.swiper-wrapper
 dagbladdewest.com##img[width="300"]
