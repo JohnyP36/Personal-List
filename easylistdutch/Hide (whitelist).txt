@@ -8,7 +8,7 @@ gratisaftehalen.nl#@#.ads-image
 marktplaats.nl#@#.adSummary
 modekoninginmaxima.nl#@#.after-content-ad
 paginamarkt.nl#@#.advertentie
-sexverhalen.com##.widget_ads:not(:has-text(/partner/i))
+sexverhalen.com##.widget_ads
   speurders.nl#@#.ad_header
   vakantieplaats.nl#@#.feed-ad
   vakantieplaats.nl#@#.topAds
