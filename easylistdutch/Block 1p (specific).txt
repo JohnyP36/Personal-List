@@ -40,6 +40,7 @@
 ||dagbladdewest.com/wp-content/uploads/*/*_300x250px.*$image
 ||dagbladdewest.com/wp-content/uploads/*/*-AD*.jpg$image
 ||dagbladdewest.com/wp-content/uploads*/*728x90px*.jpg$image
+||debestevpn.nl/wp-content/*-banner.
 ||dorpsklanken.online/wp-content/uploads/*/*_300x100*.gif$image
 ||drentsnieuws.nl/images/banners/$image
 ||ekvrouwen.nl/*/uploads/*/bookmaker-cta-$image
