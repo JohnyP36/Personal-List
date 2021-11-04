@@ -6,7 +6,7 @@ focus-wtv.be#@#.sponsored-article
 gratisaftehalen.nl#@#.ads-image
 japan-webike.nl#@#img[class*="img_ad"][data-src*="sale"]
 marktplaats.nl#@#.adSummary
-modekoninginmaxima.nl#@#.after-content-ad:has-text(/Niets van deze website mag verveelvoudigd en/i)
+modekoninginmaxima.nl#@#.after-content-ad
 paginamarkt.nl#@#.advertentie
 sexverhalen.com#@#.widget_ads
   speurders.nl#@#.ad_header
