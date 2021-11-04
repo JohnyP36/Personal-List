@@ -61,6 +61,7 @@
 ||inzod.nl/wp-content/uploads/*/*/*.gif$image
 ||klokradio.nl/wp-content/uploads/*/adv$image
 ||linqmedia.nl/cwm/fm/userfiles/banner/$image
+||live-voetbal.com/wp-content/themes/fed/js/jquery-*.js$script,first-party
 ||oisterwijknieuws.nl/wp-content/uploads/*/lelieveld-634-x-80.jpg$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/MBA-regiobank-*.gif$image
 ||omroeprsh.nl/wp-content/uploads/*/*RSH-300*.gif$image
