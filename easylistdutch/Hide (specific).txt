@@ -1,7 +1,6 @@
 ! 2021-11-
 wanttoknow.nl###right-sidebar > .mb-3:has(img[src*="banner"])
 wanttoknow.nl###right-sidebar > *:has(.mb-3:has-text(Advert))
-wanttoknow.nl##.float-right
 wanttoknow.nl##.mb-3:has-text(Advert)
 watchfaces.be##[id^="text"]:has(.adsbygoogle)
 watchfaces.be##div.google
