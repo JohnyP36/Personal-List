@@ -1,4 +1,23 @@
 ! 2021-11-
+wanttoknow.nl###right-sidebar > .mb-3:has(img[src*="banner"])
+wanttoknow.nl###right-sidebar > *:has(.mb-3:has-text(Advert))
+wanttoknow.nl##.float-right
+wanttoknow.nl##.mb-3:has-text(Advert)
+watchfaces.be##[id^="text"]:has(.adsbygoogle)
+watchfaces.be##div.google
+webwereld.nl##.leaderBoardHolder
+!weerplaza.nl##.hf-widget
+weertdegekste.nl##.banner-right
+weertdegekste.nl##.infeed-outer
+weertdegekste.nl##.infeed-wrap
+westerwoldeactueel.nl##.adr-wrapper
+wielerflits.be,wielerflits.nl###mm_hpa
+wielerflits.be,wielerflits.nl##.affiliate_links
+wielerflits.be,wielerflits.nl##.mm_container
+wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
+wildfm.nl##img[width="699"][height="90"]
+wos.nl##.header-right
+xxxdump.nl###reclame-eroads
 zeelandnet.nl##.bnr-notice
 zeelandnet.nl##.article-bnr-first
 zeelandnet.nl##.as__bottom-banner
@@ -584,22 +603,3 @@ waarzo.nl##.contentbox:has-text(Advertentie)
 waarzo.nl##.smallbox:has-text(Advertentie)
 want.nl##.article__content:style(margin-top: -125px!important;)
 want.nl##.sticky-banner-container
-wanttoknow.nl###right-sidebar > .mb-3:has(img[src*="banner"])
-wanttoknow.nl###right-sidebar > :has(.mb-3:has-text(Advert))
-wanttoknow.nl##.float-right
-wanttoknow.nl##.mb-3:has-text(Advert)
-watchfaces.be##[id^="text"]:has(.adsbygoogle)
-watchfaces.be##div.google
-webwereld.nl##.leaderBoardHolder
-weerplaza.nl##.hf-widget
-weertdegekste.nl##.banner-right
-weertdegekste.nl##.infeed-outer
-weertdegekste.nl##.infeed-wrap
-westerwoldeactueel.nl##.adr-wrapper
-wielerflits.be,wielerflits.nl###mm_hpa
-wielerflits.be,wielerflits.nl##.affiliate_links
-wielerflits.be,wielerflits.nl##.mm_container
-wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
-wildfm.nl##img[width="699"][height="90"]
-wos.nl##.header-right
-xxxdump.nl###reclame-eroads
