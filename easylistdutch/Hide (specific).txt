@@ -1,6 +1,8 @@
 ! 2021-11-
+want.nl##.sticky-banner-container
 wanttoknow.nl###right-sidebar > .mb-3:has(img[src*="banner"])
 wanttoknow.nl###right-sidebar > *:has(.mb-3:has-text(Advert))
+wanttoknow.nl##.float-right
 wanttoknow.nl##.mb-3:has-text(Advert)
 watchfaces.be##[id^="text"]:has(.adsbygoogle)
 watchfaces.be##div.google
@@ -600,5 +602,3 @@ vivatube.com##.mt15.container:has-text(Advert)
 vrouwen-sexdate.be##.moduletable:has-text(Advert)
 waarzo.nl##.contentbox:has-text(Advertentie)
 waarzo.nl##.smallbox:has-text(Advertentie)
-want.nl##.article__content:style(margin-top: -125px!important;)
-want.nl##.sticky-banner-container
