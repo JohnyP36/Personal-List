@@ -97,6 +97,7 @@
 ||tpo.nl/broodplank/TRU*
 ||tube.nederlandseporno.nl/wp-content/uploads/*.gif
 ||twentefm.nl/directcast/custom/rtvnot/playout/commercials/
+||ucl-voetbal.nl/derden/betcity-$image
 ||vbro.be/wp-content/uploads/*/autoonderdelen24_
 ||vitesse.nl/generate/stores/Vitesse.nl/*/VriendenLoterij-banner-website.jpg$image
 ||vlietnieuws.nl/wp-content/plugins/custom-banners/*$script,first-party
