@@ -67,4 +67,5 @@
 ||views.affiliate4you.nl^$third-party
 ||viadata.store^$third-party
 ||vpscash.nl^$third-party
+||webcash.nl^$third-party
 ||xpartners.nl^$third-party
