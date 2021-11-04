@@ -62,6 +62,8 @@ groningsnieuws.nl##.sticky-sidebar > [id^="media_image"]
 h20.gg##[id^="text-"]:has-text(Partners)
 handbal.be##.footer-top
 handbalinside.nl##div[id^="handb-"]
+heracles.nl##.fixed-ads
+heracles.nl##.footer-blocks
 heracles.nl##.footer-sponsors
 hollywoodhuizen.nl##div[class^="post-content description"] > div[class]:has(.adsbygoogle):not([id])
 iex.nl##.ContentPartner
