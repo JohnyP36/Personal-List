@@ -3,6 +3,7 @@
 @@*$generichide,domain=ah.nl|goplay.be|modekoninginmaxima.nl|quickclaims.nl
 cadsite.be,hetverschiltussen.nl,itunestore.nl,jan-smitfan.nl,sxpix.nl,##+js(nobab)
 doorbraak.be,gowiththevlo.nl##+js(abort-on-property-read, advanced_ads_check_adblocker)
+dumpert.nl##+js(setTimeout-defuser, AdBlockerCheck)
 dumpert.nl#@#.ads_box
 fok.nl#@##advertentie
 @@||hb.improvedigital.com/pbw/headerlift.min.js$script,third-party,domain=funnygames.be|funnygames.nl|spele.be|spele.nl
