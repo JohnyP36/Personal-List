@@ -18,6 +18,7 @@
 ||apintie.sr/bannerz/*300x200.*$image
 ||audiobookbay.nl/images/bin.jpg$image,important
 ||audiobookbay.nl/images/fr.jpg$image,important
+||baanwacht.nl/wp-content/uploads/*/*banner*.gif
 ||basketbal.vlaanderen/src/*/images/Logo's*$image
 ||basketballbelgium.be/wp-content/uploads/*/970x250*$image
 ||brandweerspotters.nl/modules/banners/
