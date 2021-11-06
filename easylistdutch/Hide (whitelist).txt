@@ -1,5 +1,5 @@
 ! Uitzonderingen voor EasyList
-ajaxreport.nl,blockchainvandaag.com,casinoreport.nl,cryptobelegging.com,feyenoordreport.nl,formula1report.com,gamblingreport.nl,livestreamvandaag.be,onlinecasinorss.nl,onlinekraslotenrss.nl,onlinepokerrss.nl#@#.top-ads-block
+ajaxreport.nl,blockchainvandaag.com,casinoreport.nl,cryptobelegging.com,feyenoordreport.nl,formula1report.com,gamblingreport.nl,livestreamvandaag.be,onlinecasinorss.nl,onlinekraslotenrss.nl,onlinepokerrss.nl,psvreport.nl#@#.top-ads-block
 audiobookbay.nl#@#[href^="/down-"]
 dagelijksestandaard.nl#@#.wpInsertInPostAd
 directwonen.nl#@#.top-advert
