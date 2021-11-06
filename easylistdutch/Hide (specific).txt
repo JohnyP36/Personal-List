@@ -418,6 +418,8 @@ proximus.be##.col.pix-sidebar
 puuropreis.nl##.banner-column
 qseks.nl###black-studio-tinymce-2:has-text(Advertentie)
 quickclaims.nl##.overlay:has([src^="blob:https://quickclaims.nl/"])
+racexpress.nl##.article-side-block:has(a[href][target="_blank"]):has(img[width="310"][height="200"])
+racexpress.nl##a[href^="http://www.onderdelenstore24.nl/"]
 racingnews365.nl##.branded-countdown__content__partner-wrapper
 racingnews365.nl##.homepage-casino-wrapper
 radio0511.com##.sponsorImg
