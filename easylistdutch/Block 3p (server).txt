@@ -8,6 +8,7 @@
 ||adfactor.nl^$third-party
 ||adpepper.nl^$third-party
 ||adquick.nl^$third-party
+||adrequest.net^$third-party
 ||adscience.nl^$third-party
 ||adshim.com^$third-party
 ||adulttradecenter.nl^$third-party
