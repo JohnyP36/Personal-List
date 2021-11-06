@@ -1,4 +1,5 @@
 ! Uitzonderingen voor EasyList
+ajaxreport.nl#@#.top-ads-block
 audiobookbay.nl#@#[href^="/down-"]
 dagelijksestandaard.nl#@#.wpInsertInPostAd
 directwonen.nl#@#.top-advert
