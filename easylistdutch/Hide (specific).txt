@@ -59,6 +59,7 @@ autowereld.nl###mainbanner
 autozine.nl###asidetop
 autozine.nl,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,koopplein.nl,limburger.nl,radioluisterenlive.nl,standaard.be,tripadvisor.be,tripadvisor.nl##.ad
 azerty.nl##.block.mod_article > div a[href*="ictwaarborg.nl/"]
+baanwacht.nl##.shailan_banner_widget
 baarsclassicrock.nl##.widebanner
 barneveldsekrant.nl##.w-300x.RM5
 barneveldsekrant.nl##[class] > [id="div-gpt-ad-banner"]:has-text(advertentie)
