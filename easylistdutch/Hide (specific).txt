@@ -492,6 +492,8 @@ sexylingerie-winkel.be##.homepage-seo-footer
 shespot.nl##.dw-card-inner:has-text(/advertentie/i)
 shespot.nl##[id^="text"]:has([src^="https://www.shespot.nl/wp-content/uploads/"]):has-text(/advertentie/i)
 slam.nl##.holder-ads
+soccernews.nl###r89-mobile-rectangle-mid
+soccernews.nl###r89-takeover
 softonic.nl##.sam-slot
 speeleiland.nl##.banner-sky
 speeleiland.nl##.leader-below-game
