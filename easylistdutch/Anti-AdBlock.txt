@@ -11,7 +11,8 @@ girlscene.nl##+js(set-constant, adblock, undefined)
 ||goplay.be/js/sourcepoint/msg?v=
 gratisaftehalen.nl##+js(abort-current-inline-script, fuckAdBlock, undefined)
 icttipsandtricks.nl##+js(abort-current-inline-script, String.prototype.charCodeAt, ai_)
-!@@||looopings.nl/ad-blocker.js
+!@@||looopings.nl/wp-banners.js
+!looopings.nl##+js(acis, document.getElementById, .style.display=)
 notebookcheck.nl##+js(abort-current-inline-script, document.getElementById, send)
 nu.nl##+js(set-constant, isAdBlockEnabled, false)
 marokko.nl##+js(set-constant, ads_toegestaan, true)
