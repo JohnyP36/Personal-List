@@ -55,6 +55,7 @@ audiobookbay.nl#$#[src="http://audiobookbay.nl/images/dir.gif"]{ width: 100px !i
 autobahn.eu##li[class*="block"] > div[class*="block mb-3"]:has(a[href][rel="noopener"][target="_blank"])
 autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
 autoweek.nl##.advertise
+autowereld.nl###banner-lister-top
 autowereld.nl###mainbanner
 autozine.nl###asidetop
 autozine.nl,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,koopplein.nl,letsgodigital.org,limburger.nl,radioluisterenlive.nl,standaard.be,tripadvisor.be,tripadvisor.nl,xgn.nl##.ad
