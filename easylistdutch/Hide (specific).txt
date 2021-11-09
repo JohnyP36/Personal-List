@@ -178,7 +178,7 @@ filmtotaal.nl###adf-rectangle
 filmtotaal.nl##.ad-centering
 flaironline.nl##.c-commerical_banner
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
-folderz.nl##.advert
+folderz.nl,intermediair.nl##.advert
 funnygames.be,funnygames.nl,spele.be,spele.nl##.is-billboard
 funnygames.be,funnygames.nl,spele.be,spele.nl##.is-skyscraper
 gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
