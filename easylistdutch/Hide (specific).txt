@@ -246,6 +246,8 @@ jammfm.nl##.vc_row-flex.vc_row[style*="width: 1578px;"]:has(.qt-sponsor)
 jan-magazine.nl##.homepage-marquee
 kanaalxxx.nl##.fpbnr
 keizerstad.nl##[id^="media_image"]
+kekmama.nl##.cts-row-wrapper
+kekmama.nl##[class*="cts-advertorial"]
 kidsweek.nl##.node-advertorial
 kinderspelletjes.be###adRechts
 kinderspelletjes.be,kinderspelletjes.nl##div[style*="width:970px"]:has-text(Reclame)
