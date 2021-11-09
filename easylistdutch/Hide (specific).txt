@@ -547,6 +547,7 @@ tube.nederlandseporno.nl##h3:has-text(Sexdating)
 tube.nederlandseporno.nl##h3:has-text(Webcamsex)
 turkinfo.nl##.img_position_left:has([src*=adsbygoogle])
 turksemedia.nl##.easingslider
+tvblik.nl##.banner-fluid
 tvblik.nl##.header-banner
 tvgids24.nl##.adBoxbig
 twentefm.nl##.bannerzone_728x90:has-text(/advert/i)
