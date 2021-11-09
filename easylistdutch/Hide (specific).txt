@@ -175,6 +175,7 @@ fd.nl##.fd-message-home-header
 feyenoord.nl##.totoOdds
 filmtotaal.nl###adf-rectangle
 filmtotaal.nl##.ad-centering
+flaironline.nl##.c-commerical_banner
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
 folderz.nl##.advert
 funnygames.be,funnygames.nl,spele.be,spele.nl##.is-billboard
