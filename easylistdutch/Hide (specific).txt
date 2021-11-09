@@ -499,6 +499,7 @@ slam.nl##.holder-ads
 soccernews.nl###r89-mobile-rectangle-mid
 soccernews.nl###r89-takeover
 softonic.nl##.sam-slot
+spaargids.be###latest_news_above:has(.sponsored-right-bottom):has([rel="sponsored"])
 speeleiland.nl##.banner-sky
 speeleiland.nl##.leader-below-game
 speeleiland.nl##.row-1-game > :has-text(/advert/i)
