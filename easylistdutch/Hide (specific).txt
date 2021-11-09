@@ -375,7 +375,7 @@ oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
 omroepalmere.nl##.widget_carousel_slider:has-text(Partners)
 omroepalmere.nl##[id^="media_image"]:not(:has-text(Met dank aan)):not(#media_image-24):not(#media_image-28)
 omroepbrabant.nl##div[class^="ad-"]
-omroepbrabant.nl##div[class^="ad_"]
+omroepbrabant.nl,reclamefolder.nl##div[class^="ad_"]
 omroepeemsdelta.nl,radiozuidrand.be##aside:has-text(/advert/i)
 omroephouten.nl##.sponsor-carousel
 omroeppenm.nl,rickfm.nl###advertisement
