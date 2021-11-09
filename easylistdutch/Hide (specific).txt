@@ -222,6 +222,7 @@ handbal.be##.footer-top
 handbalinside.nl##div[id^="handb-"]
 !handbalstartpunt.nl##aside.widget-banner
 hardnieuws.nl##[class*="mb-"]:has([id$="ros-970x250"])
+hardware.info##.overview-item--success
 hardware.info##.sidebar_right_top
 hartvannederland.nl##[data-testid^="banner"]
 hartvannederland.nl##[data-testid^="homepageAfter"]
