@@ -1,6 +1,8 @@
 ! 2021-08-02
 112midden-zeeland.nl##+js(abort-on-property-read, anOptions)
 @@*$generichide,domain=ah.nl|goplay.be|kijk.nl|modekoninginmaxima.nl|quickclaims.nl
+be.hardware.info##^script:has-text(Inject=!)
+be.hardware.info##+js(nostif, .call(null), 10)
 cadsite.be,hetverschiltussen.nl,itunestore.nl,jan-smitfan.nl,sxpix.nl,##+js(nobab)
 doorbraak.be,gowiththevlo.nl##+js(abort-on-property-read, advanced_ads_check_adblocker)
 dumpert.nl##+js(setTimeout-defuser, AdBlockerCheck)
