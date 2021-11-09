@@ -8,9 +8,9 @@
 247spice.com##.slideInLeft.animated:has-text(Advert)
 30plussexdate.nl,ikwilneuken.be,ikwilneuken.net,meidenzoekensex.nl,sexcontactadressen.nl##.nomobile.boxlinks:has(.homebanner)
 402online.com##.bannerblock
-7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,tubantia.nl##.dfp-space
+7sur7.be,ad.nl,bd.nl,bndestem.nldestentor.nl,ed.nl,gelderlander.nl,hln.be,tubantia.nl##.dfp-space
 7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,hln.be##.page-header__section--spacer
-7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,tubantia.nl##.tile:has(:scope >.ankeiler--advertisement)
+7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,tubantia.nl##.tile:has(:scope >.ankeiler--advertisement)
 a1mediagroep.nl,fanclubbarcelona.nl###banners
 aafm.nl##[class^="block"]:has(img[src*="aafm.nl/cms/wp-content/themes/omroepalmelo/img/banners/"])
 adultwebmaster.nl##.main-promo-bn-responsive
