@@ -178,7 +178,7 @@ filmtotaal.nl###adf-rectangle
 filmtotaal.nl##.ad-centering
 flaironline.nl##.c-commerical_banner
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
-folderz.nl,intermediair.nl##.advert
+folderz.nl,intermediair.nl,spel.nl,spelletjes.nl##.advert
 funnygames.be,funnygames.nl,spele.be,spele.nl##.is-billboard
 funnygames.be,funnygames.nl,spele.be,spele.nl##.is-skyscraper
 gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
@@ -504,7 +504,6 @@ spaargids.be###latest_news_above:has(.sponsored-right-bottom):has([rel="sponsore
 speeleiland.nl##.banner-sky
 speeleiland.nl##.leader-below-game
 speeleiland.nl##.row-1-game > :has-text(/advert/i)
-spel.nl,spelletjes.nl##.advert
 spel.nl,spelletjes.nl##.game-page-sidebar
 spelersvrouw.nl##.widget_text.gridlove-box
 sporza.be##.advertising
