@@ -265,8 +265,8 @@ klimaatinfo.nl##[class^="space"]:has(.adsbygoogle)
 klokradio.nl##[class^="panel-grid"]:has-text(/advert/i)
 knhs.nl##.banners-right
 knhs.nl##div.row:has(:scope > section > .cycler:has(img[src*="banner"]))
+koopplein.nl,televizier.nl,tvblik.nl##.header-banner
 koopplein.nl##.ad-item-container
-koopplein.nl##.header-banner
 koopplein.nl##.promobloc-desktop
 koopplein.nl##.promoblocs__banner
 kutscheetje.nl##[id^="text"]:has([src*="banner"])
@@ -531,7 +531,6 @@ telegraaf.nl##.VideoArticlePage__banner
 telegraaf.nl##.VideoPage__banner
 telegraaf.nl##.WebpushOptin__main
 telegraaf.nl##.withBanners
-televizier.nl##.header-banner
 tellows.nl###lb_header
 tijd.be##.ac_paragraph:has(.bb_wrapper)
 tijd.be##.c-articleteaser--sponsored
@@ -548,7 +547,6 @@ tube.nederlandseporno.nl##h3:has-text(Webcamsex)
 turkinfo.nl##.img_position_left:has([src*=adsbygoogle])
 turksemedia.nl##.easingslider
 tvblik.nl##.banner-fluid
-tvblik.nl##.header-banner
 tvgids24.nl##.adBoxbig
 twentefm.nl##.bannerzone_728x90:has-text(/advert/i)
 ucl-voetbal.nl##[src^="/derden/betcity-"]
