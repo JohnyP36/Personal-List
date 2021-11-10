@@ -450,6 +450,7 @@ romagazine.nl##aside > .textwidget [src*="wp.com/romagazine.nl/"][src*="/wp-cont
 rotterdambasketbal.nl##.gdlr-core-pbf-wrapper:has(img[title^="roba_sponosor_"])
 roulettefm.nl,rtvstichtsevecht.nl##body > .content:has-text(/advert/i)
 rtl.be###w-leaderboard
+rtlboulevard.nl##[id*="dfp-rectangle"]
 rtlnieuws.nl###rtln-ad-advertorial
 rtlnieuws.nl##.billboard
 rtvalbrandswaard.com##section:has-text(/steun ons/i)
