@@ -110,6 +110,7 @@
 ||voetbalrotterdam.nl/wp-content/uploads/*/soccerdealbanner*$image
 ||voetbaluitslagen.com/wp-content/uploads/*/bet365-banner-$image
 ||volleyvlaanderen.be/wp-content/uploads/*Banners*_670x80*$image
+||wereldstopcontacten.nl/wp-content/uploads/*/image-aff-*.jpg
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
 ||willem-ii.nl/banner/$image
