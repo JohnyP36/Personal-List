@@ -106,6 +106,7 @@ clubbrugge.be##.partners
 coastline945fm.nl###partners
 computable.nl##.sponsored
 crimesite.nl##em:has-text(reclame)
+culturescope.nl##.widget_sp_image:has([onclick^="javascript:window.open("] > img[width][height])
 cumcams.nl##[id^="custom_html"]:has(img[src*="wlresources.com/"])
 dagbladdewest.com##.swiper-wrapper
 dagbladdewest.com##img[width="300"]
