@@ -15,6 +15,7 @@
 ||advertising-cdn.dpgmedia.cloud^third-party
 ||adworx.nl^$third-party
 ||affilaxy.com^$third-party
+||affiliatable1.b-cdn.net^$third-party
 ||affiliatepartners.com^$third-party
 ||affiliateprogramma.eu^$third-party
 ||asp.unitedconsumers.com^$third-party
