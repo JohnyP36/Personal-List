@@ -518,6 +518,7 @@ starnieuws.com###topstory > div:has-text(Advertentie)
 startlijstjes.nl##.advertentieblock
 startlijstjes.nl##.item:has([class^="item_special"]:has-text(tradetracker.net))
 startpagina.nl##.top-banner
+streamwijzer.be##.widget:has(a[href*=".bn5x.net/"])
 stubru.be###reclameblok-wrapper
 stubru.be##li:has-text(/advert/i)
 synoniemen.net##.promoblok
