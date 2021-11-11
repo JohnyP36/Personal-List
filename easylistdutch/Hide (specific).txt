@@ -203,6 +203,7 @@ golf.be##.header__bottom
 golf.be##.partners-holder
 golf.nl##.c-header__advert-container
 gooieneemlander.nl,noordhollandsdagblad.nl,leidschdagblad.nl###advertorial-destination
+gostreaming.nl##a[rel*="sponsored"]
 grandprixradio.nl##[id^="custom_html-"]:has([src^="https://partner.bol.com/"])
 grandprixradio.nl##[id^="custom_html-"]:has([target="_blank"][rel="noopener"]):not(:has-text(/F1 kalender/i))
 gratiscams.nl###menuinner > ul#menuinner > .cat
