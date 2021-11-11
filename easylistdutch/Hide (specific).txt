@@ -1,5 +1,6 @@
 ! 2021-11-
 112achterhoek-nieuws.nl###sidebar
+123geldzaken.nl##.widget_sponsor
 123video.nl##.page-load-switch
 123video.nl##.stunt-wide
 18plussexdating.nl##.homebanner
