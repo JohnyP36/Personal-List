@@ -14,6 +14,7 @@
 /wp-content/uploads/*/Mijn-Zaak$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
 /wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl
 ||2link.be/banners/
+||a.scholieren.com/v/*$image,first-party
 ||aafm.nl/cms/wp-content/themes/omroepalmelo/img/banners/
 ||a1mediagroep.nl/content/*/company/*/banne*.*?width=290&height=150
 ||apintie.sr/bannerz/*300x200.*$image
