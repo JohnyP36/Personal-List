@@ -475,6 +475,7 @@ schie.nu##div[id*=home]:has-text(/advert/i):has([href])
 scholieren.com##.blockvertorial
 scholieren.com##.min-h-250
 scholieren.com##.min-h-90
+scholieren.com##.searchvertorial
 secretcircle.com##.column:has(.advert)
 seksmet.nl##.et_pb_module:has(.gofollow:has(img[src]))
 seksmet.nl##.et_pb_text:has(div[class] > center > a[href^="https://dt51.net/"])
