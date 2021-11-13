@@ -63,6 +63,7 @@
 ||gowiththevlo.nl/wp-content/uploads/*/va_banner_gwtv.jpg$image
 ||hetnieuwsvandaag.be/media/cache/rectangle_image/media/image/*$image
 ||inzod.nl/wp-content/uploads/*/*/*.gif$image
+||kanaancourant.nl/wp-content/uploads/*/*advertentie*
 ||klokradio.nl/wp-content/uploads/*/adv$image
 ||linqmedia.nl/cwm/fm/userfiles/banner/$image
 ||live-voetbal.com/wp-content/themes/fed/js/jquery-*.js$script,first-party
