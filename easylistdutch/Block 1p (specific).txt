@@ -69,6 +69,8 @@
 ||oisterwijknieuws.nl/wp-content/uploads/*/lelieveld-634-x-80.jpg$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/MBA-regiobank-*.gif$image
 ||omroeprsh.nl/wp-content/uploads/*/*RSH-300*.gif$image
+||onderwijsland.com/files/banners/
+||onderwijsland.com/files/partners/
 ||midvliet.nl/images/advertenties
 ||modekoninginmaxima.nl/sites/default/files/*/vorsten2_170x600.gif$image
 ||motokicx.com/wp-content/uploads/*/BANNER-
