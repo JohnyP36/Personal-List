@@ -102,6 +102,7 @@ camsexbabe.nl##.happy-player-beside
 camsexbabe.nl##.happy-section
 camsexbabe.nl,mijnpornotube.nl,pornosterneuken.nl##.video-sidebar
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
+christmaholic.nl,dbsuriname.com,westerwoldeactueel.nl##.g
 classic.nl##div.brievenbus
 clubbrugge.be##.partners
 coastline945fm.nl###partners
@@ -117,7 +118,6 @@ dagelijksestandaard.nl##hr:nth-of-type(3)
 dagelijksestandaard.nl,netxxx.nl##hr:nth-of-type(1)
 dating-vinden.be,deperfecte-sexdate.be,deperfecte-sexdate.nl,flirten-vlaanderen.be,geil-neuken.nl,neukengratis.be,neuk-sexcontact.be,sexcontact-xxx.be,sexdate-xxx.be,sexdating4u.be,vrouwsex.be##.well:has(.bannergroup)
 dating-zoeken.nl,hete-sexcontacten.nl,milf-overzicht.nl,sexdating-afspraak.nl,sexdating-gids.be,sexdatinggids.be,vrouwensexdate.nl##.d-lg-block.d-none:has-text(Advert):not(:has(.jcarousel-skin-tango))
-dbsuriname.com,westerwoldeactueel.nl##.g
 decibel.nl##.edgtf-carousel-holder
 decibel.nl##img[width="640"][height="180"]
 dekattensite.nl##.nxs-default-p > p:has-text(advert)
