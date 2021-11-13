@@ -69,6 +69,7 @@
 ||live-voetbal.com/wp-content/themes/fed/js/jquery-*.js$script,first-party
 ||oisterwijknieuws.nl/wp-content/uploads/*/lelieveld-634-x-80.jpg$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/MBA-regiobank-*.gif$image
+||omroepalmere.nl/wp-content/uploads/*/*-banner.gif
 ||omroeprsh.nl/wp-content/uploads/*/*RSH-300*.gif$image
 ||onderwijsland.com/files/banners/
 ||onderwijsland.com/files/partners/
