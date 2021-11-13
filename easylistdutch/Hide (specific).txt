@@ -315,6 +315,9 @@ marokko.nl##.ad_inner
 mediacourant.nl##.mc-adv
 meerradio.nl##.grijze-balk:has-text(Advert)
 meerradio.nl##div[id="pristineslider.12"]
+messianieuws.nl##[id^="custom_html-"]:has(a[href][target="_blank"][rel="noopener"])
+messianieuws.nl##[id^="media_image-"]:has(a[href][target="_blank"][rel="noopener"]:has(img[width="300"]))
+messianieuws.nl##[id^="text-"]:has(a[href][target="_blank"][rel="noopener"]):has-text(Sponsors)
 meteovista.be##div[class*="AdWrapper"]
 ml5.nl##[class^="fl-row fl-row-"][data-node]:has(.fl-module-uabb-image-carousel)
 modekoninginmaxima.nl##.adsbygoogle
