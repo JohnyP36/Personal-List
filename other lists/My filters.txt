@@ -1,4 +1,4 @@
-! EasyList + EasyPrivacy + Fanboy's Enhanced Tracking List (+ Fanboy's Annoyance) 	-> https://fanboy.co.nz/r/fanboy-ultimate.txt  /  https://fanboy.co.nz/r/fanboy-complete.txt
+!EasyList + EasyPrivacy + Fanboy's Enhanced Tracking List (+ Fanboy's Annoyance) 	-> https://fanboy.co.nz/r/fanboy-ultimate.txt  /  https://fanboy.co.nz/r/fanboy-complete.txt
 !*$csp=upgrade-insecure-requests,domain=~ehubsoft.net|~192.168.2.150|~192.168.2.254
 
 !https://www.reddit.com/r/privacytoolsIO/comments/g9hjrd/using_ublock_origin_to_abort_possible_browser/
@@ -19,6 +19,7 @@ $removeparam=source,domain=googleusercontent.com
 ||www.google.com/url?$removeparam=ved
 ||youtube.com$queryprune=/(ab_channel|cbr|cbrver|cos|cplatform|delay|feature|kw|tab)/
 @@||youtube.com/subscribe_embed$removeparam
+$removeparam=/^(referrer)=/,domain=ad.nl
 ||blckbx.tv$removeparam=/^(ss_source|ss_campaign_id|ss_email_id|ss_campaign_name|ss_campaign_sent_date)=/
 ||bol.com^$removeparam=Referrer
 ||duckduckgo.com^$removeparam=t
@@ -27,7 +28,7 @@ $removeparam=source,domain=googleusercontent.com
 ||reddit.com^$removeparam=/(deep_link|original_url)/
 ||reddit.com^$removeparam=/^(_branch_match_id|correlation_id|ref_campaign|ref_source)=/
 ||tweakers.net^$removeparam=/^(nb|u)=/
-||twitter.com^$removeparam=/^(cn|ref_url|s)=/
+||twitter.com^$removeparam=/^(cn|ref_url|ref_src|s)=/
 ||volkskrant.nl^$removeparam=/^(referrer)=/
 
 ! Anti-Google Chrome pop-up messagge in Edge
@@ -65,8 +66,8 @@ youtube.com###clarify-box > .ytd-watch-flexy.style-scope
 youtube.com###lightbox > #dialog.ytd-consent-bump-v2-lightbox.style-scope
 
 !re-enable scrollbar => ##html:style(overflow: auto !important)  +  ##body:style(overflow: auto !important)
-www.google.*,nsinternational.com##body:style(overflow: auto !important)
-www.google.*,nsinternational.com##html:style(overflow: auto !important)
+www.google.*,nsinternational.*##body:style(overflow: auto !important)
+www.google.*,nsinternational.*##html:style(overflow: auto !important)
 
 !======= y8.com =======!
 !@@||entitlements.jwplayer.com/*.json
@@ -82,6 +83,7 @@ www.google.*,nsinternational.com##html:style(overflow: auto !important)
 ||geolocation.onetrust.com^
 ||gateway.reddit.com/desktopapi/v1/sidebar_ad$domain=www.reddit.com,important
 @@||gemius.pl/gplayer.js$script,3p,badfilter
+||nrc.nl/paywall-api/$xhr,1p
 @@||taboola.com/*$domain=gloednieuw.nl
 
 ! Cookie Banner e.d.
@@ -89,17 +91,20 @@ chamilo.etf.edu##.cookieUsageValidation
 christenenvoorisrael.nl##.diffuse_cookie-bar__container
 freebitco.in##.daily_jackpot_main_container_div
 freebitco.in###free_play_payout_table > div[id^="premium"][id*="membership"]
-gab.com##article[data-id^="gab-ad-status-timeline-injection"]:has-text(/sponsored/i)
+!gab.com##article[data-id^="gab-ad-status-timeline-injection"]:has-text(/sponsored/i)
+gab.com##article > div > div > [class]:has-text(/Upgrade to GabPRO/i):has(span[class]):has-text(/Please consider supporting/i)
 gab.com##div[class^="_UuSG pwK6B _2I3eh _2z1u_ _33UDc"]:has-text(/sponsored/i):has-text(?)
-instagram.com##div[class][role="presentation"]:has([role="dialog"] > div[class] > div[class] > div[class] > div[class]:has(h2[class]:has-text(cookies))):has(a[href="/legal/cookies/"])
 instagram.com#$#body { overflow: visible!important; }
-instagram.com##article[role="presentation"] > div[class] > div[class] > div[class] > div[class]:has([aria-label^="Information icon"]):not(:has([role="presentatoin"]))
+instagram.com##div[class][role="presentation"]:has([role="dialog"] > div[class] > div[class] > div[class] > div[class]:has(h2[class]:has-text(cookies))):has(a[href="/legal/cookies/"])
+instagram.com##article[role="presentation"] > div[class] > div[class] > div[class] > div[class]:has([aria-label*="I"][aria-label*="n"][aria-label*="f"][aria-label*="o"][aria-label*="r"][aria-label*="m"][aria-label*="a"][aria-label*="t"][aria-label*="i"][aria-label*="c"]):not(:has([role="presentation"]))
+instagram.com##article[role="presentation"] > div[class] > div[class] > div[class] > div[class]:has([aria-label^="Warning icon"]):not(:has([role="presentation"]))
 instagram.com##div[style^="height:"] > section[class] > div[class] > div[class]:has([aria-label^="Information icon"])
 marktplaats.nl##div[class*="LoginNudge"]:has-text(/Log hier in/i):has-text(/Inloggen/i)
 !marktplaats.nl##.mp-LoginNudge--animated.mp-LoginNudge
 marktplaats.nl##div[class] > div[class] > section[class] > div[class] > div[class*="Login"]
 nos.nl###ccm_notification_wrapper
-nsinternational.com##.cookie-notice
+nsinternational.*##.cookie-notice
+nsinternational.*##.t-cookie-overlay-visible.t-cookie-overlay.cookie-overlay
 speedtest.net##.notification-container > div > .notification
 speedtest.net###_evidon-barrier-wrapper
 volkskrant.nl,trouw.nl###LOGIN_BIG_BOTTOM > .tm-body
