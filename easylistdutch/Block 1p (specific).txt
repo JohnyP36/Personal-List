@@ -85,6 +85,7 @@
 ||ninefornews.nl/wp-content/uploads/*/*-300x250-*.jpg$image
 ||noordernieuws.nl/wp-content/uploads/201*/*/*.gif$image
 ||notebookcheck.nl/fileadmin/Sonstiges/am_$xmlhttprequest
+||persinfo.org/assets/images/pictures/ad/
 ||promootjesite.nl/images/affliateBanner/$image
 ||psv.nl/multimedia/toto_new/index.html$subdocument
 ||psv.nl/upload/*_image*.gif$image
