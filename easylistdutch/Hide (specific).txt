@@ -453,6 +453,7 @@ rd.nl##.rdnl__adds
 reformatorischeomroep.nl##.item-banner
 refoweb.nl##.bannercontainer
 regionoordkop.nl##.regio-widget
+regioonline.nl##.td-a-rec
 risallah.com##.zijbalk-rechts > table > tbody:has-text(Advertentie)
 riskcompliance.nl##.widget_itarget_banners
 rkcwaalwijk.nl##.flex.carousel--default.carousel
