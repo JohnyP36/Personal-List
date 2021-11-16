@@ -1,6 +1,6 @@
 ! 2021-08-02
 112midden-zeeland.nl##+js(abort-on-property-read, anOptions)
-@@*$generichide,domain=ah.nl|goplay.be|kijk.nl|modekoninginmaxima.nl|quickclaims.nl
+@@*$generichide,domain=ah.nl|goplay.be|modekoninginmaxima.nl|quickclaims.nl
 be.hardware.info##^script:has-text(Inject=!)
 be.hardware.info##+js(nostif, .call(null), 10)
 cadsite.be,hetverschiltussen.nl,itunestore.nl,jan-smitfan.nl,sxpix.nl,##+js(nobab)
@@ -13,6 +13,7 @@ girlscene.nl##+js(set-constant, adblock, undefined)
 ||goplay.be/js/sourcepoint/msg?v=
 gratisaftehalen.nl##+js(abort-current-inline-script, fuckAdBlock, undefined)
 icttipsandtricks.nl##+js(abort-current-inline-script, String.prototype.charCodeAt, ai_)
+kijk.nl##.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links:style( display: block !important; )
 !@@||looopings.nl/wp-banners.js
 !looopings.nl##+js(acis, document.getElementById, .style.display=)
 notebookcheck.nl##+js(abort-current-inline-script, document.getElementById, send)
@@ -24,3 +25,6 @@ marokko.nl##+js(set-constant, ads_toegestaan, true)
 vtm.be##+js(set-constant, __PLAYER_AD__, true)
 !@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=vtm.be
 webwereld.nl##+js(set-constant, adBlockStatus, false)
+!#if env_mobile
+@@||kijk.nl^$ghide
+!#endif
