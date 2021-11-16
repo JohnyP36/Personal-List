@@ -93,6 +93,7 @@
 ||racexpress.nl/advertising/
 ||radioacacia.nl/sponsoren/
 ||radiovisie.eu/wp-content/banners/*970x250.$image
+||regioonline.nl/wp-content/uploads/*/*-Ads.*
 ||rtvdordrecht.nl/cwm/fm/userfiles/banner/*
 ||rtveen.nl/wp-content/uploads/*-Banner-
 ||rtvlansingerland.nl/wp-content/uploads/*/Zorgvilla.gif
