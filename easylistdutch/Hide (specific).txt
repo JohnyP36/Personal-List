@@ -631,6 +631,7 @@ zeelandnet.nl##.article-bnr-first
 zeelandnet.nl##.as__bottom-banner
 zeelandnet.nl##.bnr-notice
 zeelandnet.nl##aside:has([id^="div-gpt-ad"])
+zoom.nl##div[class^="display-ad_container"]
 zuidenvelder.info##.bg-grey.mb-20:has([advobject])
 
 !#if env_mobile
