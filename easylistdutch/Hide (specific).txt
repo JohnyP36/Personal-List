@@ -107,6 +107,7 @@ classic.nl##div.brievenbus
 classicstogo.nl##.owl-carousel
 clubbrugge.be##.partners
 coastline945fm.nl###partners
+computable.be##.sponsorartikelen
 computable.nl##.sponsored
 crimesite.nl##em:has-text(reclame)
 culturescope.nl##.widget_sp_image:has([onclick^="javascript:window.open("] > img[width][height])
