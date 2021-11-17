@@ -606,6 +606,7 @@ wanttoknow.nl###right-sidebar > *:has(.mb-3:has-text(Advert))
 wanttoknow.nl###right-sidebar > .mb-3:has(img[src*="banner"])
 wanttoknow.nl##.float-right
 wanttoknow.nl##.mb-3:has-text(Advert)
+wasmachines.nl##.rectangle
 watchfaces.be##[id^="text"]:has(.adsbygoogle)
 watchfaces.be##div.google
 waterkant.net##.td-fix-index:has(a[href])
