@@ -181,6 +181,7 @@ filmtotaal.nl##.ad-centering
 flaironline.nl##.c-commerical_banner
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
 folderz.nl,intermediair.nl,spel.nl,spelletjes.nl##.advert
+freesoccer.nl##.container-fluid.site-header
 funnygames.be,funnygames.nl,spele.be,spele.nl##.is-billboard
 funnygames.be,funnygames.nl,spele.be,spele.nl##.is-skyscraper
 gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
