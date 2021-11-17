@@ -13,4 +13,5 @@ sexverhalen.com##.widget_ads
   speurders.nl#@#.ad_header
   vakantieplaats.nl#@#.feed-ad
   vakantieplaats.nl#@#.topAds
+veeteelt.nl#@#.advertorial
 wereldklokken.nl#@#.adsbygoogle
