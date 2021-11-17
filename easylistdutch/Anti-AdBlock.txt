@@ -13,7 +13,6 @@ girlscene.nl##+js(set-constant, adblock, undefined)
 ||goplay.be/js/sourcepoint/msg?v=
 gratisaftehalen.nl##+js(abort-current-inline-script, fuckAdBlock, undefined)
 icttipsandtricks.nl##+js(abort-current-inline-script, String.prototype.charCodeAt, ai_)
-kijk.nl##.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links:style( display: block !important; )
 !@@||looopings.nl/wp-banners.js
 !looopings.nl##+js(acis, document.getElementById, .style.display=)
 notebookcheck.nl##+js(abort-current-inline-script, document.getElementById, send)
