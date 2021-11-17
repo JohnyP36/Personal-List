@@ -202,6 +202,7 @@ gic.nl,kbradio.nl##.banners
 girlpowerradio.nl##[class*="sponsorcarousel"]
 gld.nl,omroepwest.nl,rtvnoord.nl##.groei-ad
 glutenvrij.nl##.Article__inner > .Article__title:has-text(Advert)
+gocar.be##.pub-leaderboard-top
 goedkoopstekeukensduitsland.nl##[id^="text"]:has(a[href^="https://www.goedkoopstekeukensduitsland.nl"][href$="-bnr"])
 goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 golf.be##.header__bottom
