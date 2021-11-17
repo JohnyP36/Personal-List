@@ -68,6 +68,7 @@
 ||kanaancourant.nl/wp-content/uploads/*/*advertentie*
 ||klokradio.nl/wp-content/uploads/*/adv$image
 ||linqmedia.nl/cwm/fm/userfiles/banner/$image
+||linuxmag.nl/wp-content/uploads/*/rectangle*300x300.gif
 ||live-voetbal.com/wp-content/themes/fed/js/jquery-*.js$script,first-party
 ||oisterwijknieuws.nl/wp-content/uploads/*/lelieveld-634-x-80.jpg$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/MBA-regiobank-*.gif$image
