@@ -244,6 +244,8 @@ hotradiohits.nl###tpl_banners
 hyvesgames.nl##.gamereel_featured-ad
 iex.nl##.ContentPartner
 iex.nl##.network:has-text(Gesponsorde links)
+immo.vlan.be###ProvidersBox
+immo.vlan.be###TopCompareBox
 indebuurt.nl##.widget-tabs--partner
 indiexl.nl###carousel-indiexl_partners_carousel_widget
 inmemoriam.be##.o-news__add
