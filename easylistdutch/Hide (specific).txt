@@ -519,6 +519,8 @@ speeleiland.nl##.leader-below-game
 speeleiland.nl##.row-1-game > :has-text(/advert/i)
 spel.nl,spelletjes.nl##.game-page-sidebar
 spelersvrouw.nl##.widget_text.gridlove-box
+sportinnederland.com##.af-main-header-container
+sportinnederland.com##.widget-area:has([id^="custom_html-"]:has(.adsbygoogle))
 sporza.be##.advertising
 spreekbuis.nl##.widget_media_image
 srherald.com##.gsrhera
