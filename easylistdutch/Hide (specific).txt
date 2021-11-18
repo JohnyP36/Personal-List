@@ -160,7 +160,7 @@ edestad.nl##.w-300x.RM5
 eindexamens.nu###leaderboard
 eindtijdklok.org##.wpa
 elegance.nl##div[id^="tdi"] > div[class*="tdi"] > div[class*="tdi"]:has(div[class*="adsbygoogle"])
-elkspel.nl,fiets.nl##.banner-container
+elkspel.nl,fiets.nl,fietsactief.nl##.banner-container
 eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gazetvandaag.be,grandprix.ws,hotstreams.nl,krantvandaag.nl,nieuwsgigant.nl,voetbal-vandaag.nl###topbox
 eromarkt.nl##.headerlinks:has(iframe[src="linkframe.php"])
 eromarkt.nl,erotischemassagemarkt.nl,erotischemodellen.nl,swingersmarkt.nl##.menubanner:has([src^="ads"])
