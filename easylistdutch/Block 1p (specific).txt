@@ -54,6 +54,7 @@
 ||elektronicaforum.nl/banner*$image,first-party
 ||excellentfm.nl/images/aanbieding/$first-party
 ||farm-date.com/slides/banner-$image,first-party
+||fhm500.nl/wp-content/themes/fhm500/img/tabac/*
 ||fiets.nl/app/uploads/*Webbanner-*
 ||flexnieuws.nl/wp-content/uploads/*/Naamloos-*.png$image
 ||gic.nl/uploads/fckconnector/
