@@ -429,6 +429,7 @@ pcmweb.nl##div.block:has([id^="div-gpt-ad"])
 pcmweb.nl##div.block:has-text(Vacatures)
 petities.com###visible_ad_1
 poepsexfilmstube.nl###tracking-url
+pokeren.nl###onetime-popup
 pornokartel.nl##.video-block-happy
 pornokartel.nl##[href*="pornokartel.nl/adverteren"]
 pornolekker.nl##[class^="Scl"]:has([src^="//ads"])
