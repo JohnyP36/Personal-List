@@ -400,6 +400,7 @@ omroeprsh.nl##[id*="media"]:has(img[width="300"]):not(:has([href*="youtube"]))
 omroepwest.nl,omroepzeeland.nl##.adcontainer
 onderwijsland.com##.col-md-16:has([style*="greystripe"])
 onderwijsland.com##div[class="row"] > div[class*="col"]:has([class$="partners"])
+oneworld.nl##.promotion-block
 onlineluisteren.nl##center > div:has(.adsbygoogle)
 online-omzetten.nl##.clearfix.entry > small
 online-omzetten.nl##[style^="margin"]:has(.adsbygoogle)
