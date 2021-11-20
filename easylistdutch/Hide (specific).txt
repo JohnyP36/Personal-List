@@ -129,6 +129,7 @@ dekrantnieuws.nl,destreekkrant.nu##.vc_inner:has([src$="324x484.jpg"])
 dekrantnieuws.nl,destreekkrant.nu##.wpb_wrapper > .a-single
 dekrantvantoen.nl##body:style(margin-top:-20px!important)
 dekrantvantynaarlo.nl###text-2:has-text(Advertentie)
+deliciousmagazine.nl##.elementor-element > .elementor-element-populated:has(.banner-container):not(:has-text(/podcast/i))
 deoudrotterdammer.nl##.advertentie
 deoudrotterdammer.nl##[width="300"][height="600"]
 deperfecte-sexdate.be,neuk-sexcontact.be##.well:has(img[src^="/images/banners"])
