@@ -565,6 +565,7 @@ tellows.nl###lb_header
 tijd.be##.ac_paragraph:has(.bb_wrapper)
 tijd.be##.c-articleteaser--sponsored
 tijd.be##.sticky-article-halfpager
+!topgear.nl##.theme-advertorial
 touretappe.nl##.desktopad
 tpo.nl##h4[class]:has-text(/advert/i)
 transfermarkt.nl##.werbung
