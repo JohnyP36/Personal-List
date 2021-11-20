@@ -64,6 +64,7 @@
 ||static-cdn.spott.ai^$third-party
 ||static-dscn.net^$third-party
 ||system.adquick.nl^$third-party
+||t.bazarow.com^$third-party
 ||teasemedia.nl^$third-party
 ||tradetracker.com^$third-party
 ||verkoopmenu.nl^$third-party
