@@ -10,7 +10,7 @@
 /wp-content/uploads/*.gif$image,domain=2sexcontact.nl|bekijkporno.nl|ero-meiden.nl|geilverlangen.nl|hete-foto.nl|kechtube.com|lekkerewebcams.nl|motokicx.com|onschuldigemeiden.nl|pornokartel.nl|rtvpapendrecht.nl|seksmet.nl|sexmeid.nl
 |shespot.nl|sproeiendekutjes.nl|tube.nederlandseporno.nl|tubelight.nl
 /wp-content/uploads/*-Banner-$domain=vives.nl
-/wp-content/uploads/*/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|baarsclassicrock.nl|decibel.nl|dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl|dordtcentraal.nl|goedkoopstekeukensduitsland.nl|loemedia.nl|luister.nl|maaslandradio.nl|omroepalmere.nl|oogtv.nl|railhobby.nl|regionoordkop.nl|spreekbuis.nl
+/wp-content/uploads/*/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|baarsclassicrock.nl|decibel.nl|dekrantvantynaarlo.nl|deoudrotterdammer.nl|destreekkrant.nu|dekrantnieuws.nl|dordtcentraal.nl|goedkoopstekeukensduitsland.nl|loemedia.nl|luister.nl|maaslandradio.nl|omroepalmere.nl|oogtv.nl|railhobby.nl|regionoordkop.nl|spreekbuis.nl
 /wp-content/uploads/*/*-outline-canvas-*.$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
 /wp-content/uploads/*/Mijn-Zaak$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
 /wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl
@@ -165,7 +165,6 @@
 ||crimesite.nl/inhoud/uploads/*/*.gif$image
 ||dagelijksestandaard.nl/wp-content/uploads/*/PROMO-DDS.$image
 ||dekrantnieuws.nl/wp-content/uploads/*/deurbord-staand*.$image
-||deoudrotterdammer.nl/wp-content/uploads/*/banner*.$image
 ||digitaalburg.com/rn02/wp-content/uploads/*/CornetAnimationA-
 ||digitaalburg.com/rn02/wp-content/uploads/*/MERKX11.png
 ||digitaalburg.com/rn02/wp-content/uploads/*/Roel.jpg
