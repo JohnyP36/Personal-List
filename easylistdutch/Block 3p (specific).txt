@@ -1,4 +1,4 @@
-! 2021-08-
+! 2021-11-
 !||2link.be/images/nobanner.jpg$image,domain=2news.be|2travel.be|2you.be
 ||agfstorage.blob.core.windows.net/banners/$image,domain=agf.nl|groentennieuws.nl|uiennieuws.nl
 ||amazonaws.com/zkn/files/*.gif$image,domain=zorgkaartnederland.nl
@@ -19,6 +19,8 @@
 ||sedproductions.nl/banners/*$image,third-party
 ||static.qmusic.*/acties/qnl-nu-ad/index.html$subdocument,domain=nu.nl
 ||stepstone.be/*?event=widgettool.$third-party
+||storage.googleapis.com/stateless-www-nuus-be/*/*.gif$image,domain=nuus.be
+||storage.googleapis.com/stateless-www-nuus-be/*/*-banner-*$image,domain=nuus.be
 ||tools-affil2.com/rtb/index.php$subdocument,domain=beeldbelsex.com
 ||widgets.skyscanner.net^$domain=puuropreis.nl
 ||wp.com/www.appletips.nl/wp-content/uploads/amacdeals$image,domain=appletips.nl
