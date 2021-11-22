@@ -48,6 +48,7 @@
 ||dagbladdewest.com/wp-content/uploads/*/*-AD*.jpg$image
 ||dagbladdewest.com/wp-content/uploads*/*728x90px*.jpg$image
 ||debestevpn.nl/wp-content/*-banner.
+||despirituelewereld.be/wp-content/uploads/*/DrukZo-Korting-*.jpg
 ||drentsnieuws.nl/images/banners/$image
 ||ekvrouwen.nl/*/uploads/*/bookmaker-cta-$image
 ||elektronicaforum.nl/banner*$image,first-party
