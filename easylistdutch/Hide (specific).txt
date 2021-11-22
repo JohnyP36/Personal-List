@@ -306,6 +306,7 @@ luchtvaartnieuws.nl##.block-title:has-text(Partners van)
 m.radioluisteren.fm###adsense
 maaslandradio.nl##.slides
 maaslandradio.nl##[id^="media_image"]:has-text(Advertentie)
+maaslandradio.nl###header-text-nav-container > .inner-wrap > .clearfix
 made-in.be###leaderboard_row
 mariogames.be##.googleadvidx
 mariogames.be##div.gameinfo:has-text(/sponsored links/i)
