@@ -235,7 +235,6 @@
 ||nieuwsuitnijmegen.nl/gfx/banners/
 ||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,first-party
 ||noordkopcentraal.nl^*/banner_
-||okemedia.nl/wp-content/uploads/*/*banner.jpg
 !||omejoop.be/pop.js
 ||omroeppenm.nl^*/banner/
 ||omroepwest.nl/*/ad.png
