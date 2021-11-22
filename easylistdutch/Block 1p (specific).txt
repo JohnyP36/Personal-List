@@ -9,7 +9,7 @@
 /voicebericht/assets/images/videochat277x$image,domain=beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|sexcamsites.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
 /wp-content/uploads/*.gif$image,domain=2sexcontact.nl|bekijkporno.nl|ciaotutti.nl|dorpsklanken.online|ero-meiden.nl|geilverlangen.nl|hete-foto.nl|kechtube.com|lekkerewebcams.nl|motokicx.com|onschuldigemeiden.nl|pornokartel.nl|rtvpapendrecht.nl|seksmet.nl|sexmeid.nl
 |shespot.nl|sproeiendekutjes.nl|tube.nederlandseporno.nl|tubelight.nl
-/wp-content/uploads/*/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|baarsclassicrock.nl|decibel.nl|dekrantvantynaarlo.nl|deoudrotterdammer.nl|destreekkrant.nu|dekrantnieuws.nl|dordtcentraal.nl|goedkoopstekeukensduitsland.nl|loemedia.nl|luister.nl|maaslandradio.nl|omroepalmere.nl|oogtv.nl|railhobby.nl|regionoordkop.nl|spreekbuis.nl
+/wp-content/uploads/*/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|baarsclassicrock.nl|decibel.nl|dekrantvantynaarlo.nl|deoudrotterdammer.nl|destreekkrant.nu|dekrantnieuws.nl|dordtcentraal.nl|goedkoopstekeukensduitsland.nl|loemedia.nl|luister.nl|maaslandradio.nl|noordkopcentraal.nl|omroepalmere.nl|oogtv.nl|railhobby.nl|regionoordkop.nl|spreekbuis.nl
 /wp-content/uploads/*/*-outline-canvas-*.$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
 /wp-content/uploads/*/Mijn-Zaak$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
 /wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl
@@ -85,6 +85,8 @@
 ||ninefornews.nl/wp-content/uploads/*/tetralogie300x250.jpg$image
 ||ninefornews.nl/wp-content/uploads/*/*-300x250-*.jpg$image
 ||noordernieuws.nl/wp-content/uploads/201*/*/*.gif$image
+||noordkopcentraal.nl/wp-content/uploads/*/*-logo-462x
+||noordkopcentraal.nl/wp-content/uploads/*/Boersen-Logo-*
 ||notebookcheck.nl/fileadmin/Sonstiges/am_$xmlhttprequest
 ||persinfo.org/assets/images/pictures/ad/
 ||promootjesite.nl/images/affliateBanner/$image
@@ -226,7 +228,6 @@
 ||nieuwsonline.nu/header/samsungwatchfaces.webp$image
 ||nieuwsuitnijmegen.nl/gfx/banners/
 ||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,first-party
-||noordkopcentraal.nl^*/banner_
 !||omejoop.be/pop.js
 ||omroeppenm.nl^*/banner/
 ||omroepwest.nl/*/ad.png
