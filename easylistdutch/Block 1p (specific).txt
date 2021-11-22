@@ -80,6 +80,7 @@
 ||modekoninginmaxima.nl/sites/default/files/*/vorsten2_170x600.gif$image
 ||motokicx.com/wp-content/uploads/*/BANNER-
 ||motokicx.com/wp-content/uploads/*/Website-ad-
+||motokicx.com/wp-content/uploads/*Motoshop-*.jpg
 ||nevobo.nl^*/sponsor/$image
 ||nieuwsopbeeld.nl/wp-content/uploads/*/Advertentie*.gif$image
 ||ninefornews.nl/wp-content/a-d-s/*
