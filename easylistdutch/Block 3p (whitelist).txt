@@ -1,6 +1,6 @@
 ! https://github.com/uBlockOrigin/uAssets/issues/7629
 @@||laredoute.com^$image,domain=laredoute.nl
-! 2021-08-
+! 2021-11-
 @@||affilaxy.com/promos/plugnplay/generators/sexklik/php/*$subdocument,domain=genotsplekje.nl
 @@||affilaxy.com/promos/plugnplayresponsive/generators/sexklik/php/plug-play.php$subdocument,domain=sproeiendekutjes.nl
 @@||affilaxy.com/promos/regforms/generators/sexklik/php/register_form.php$domain=geile-sexcontacten.be|sexdating-vrouwen.be|vrouwen-sexdate.be
@@ -9,6 +9,7 @@
 @@||cdn.spotxcdn.com/integration/easi/v1/easi.js$script,domain=www.radioluisteren.fm
 @@||erossite.com/nsfw/i/banner/*$subdocument,domain=eroticdreams.org
 @@||go2.go2cloud.org/aff_ad$popup,domain=tools.vpscash.nl
+@@||hb.improvedigital.com/pbw/headerlift.min.js$script,domain=spelletjes.nl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=sportnieuws.nl
 @@||img.barilliance.net/widget_img2V2.php$image,domain=feyenoord.nl
 @@||js.spotx.tv/ados/v1/106185.js$script,domain=www.radioluisteren.fm
