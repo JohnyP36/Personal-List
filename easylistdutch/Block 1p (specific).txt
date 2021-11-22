@@ -10,7 +10,7 @@
 /wp-content/uploads/*.gif$image,domain=2sexcontact.nl|bekijkporno.nl|ero-meiden.nl|geilverlangen.nl|hete-foto.nl|kechtube.com|lekkerewebcams.nl|motokicx.com|onschuldigemeiden.nl|pornokartel.nl|rtvpapendrecht.nl|seksmet.nl|sexmeid.nl
 |shespot.nl|sproeiendekutjes.nl|tube.nederlandseporno.nl|tubelight.nl
 /wp-content/uploads/*-Banner-$domain=vives.nl
-/wp-content/uploads/*/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|baarsclassicrock.nl|decibel.nl|dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl|dordtcentraal.nl|loemedia.nl|luister.nl|maaslandradio.nl|omroepalmere.nl|oogtv.nl|railhobby.nl|regionoordkop.nl|spreekbuis.nl
+/wp-content/uploads/*/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|baarsclassicrock.nl|decibel.nl|dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl|dordtcentraal.nl|goedkoopstekeukensduitsland.nl|loemedia.nl|luister.nl|maaslandradio.nl|omroepalmere.nl|oogtv.nl|railhobby.nl|regionoordkop.nl|spreekbuis.nl
 /wp-content/uploads/*/*-outline-canvas-*.$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
 /wp-content/uploads/*/Mijn-Zaak$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
 /wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl
@@ -61,6 +61,9 @@
 ||gigantfm.nl/upload/20210730122903794.gif$image
 ||gigantfm.nl/upload/autoonderdelen24_1.png$image
 ||gigantfm.nl/upload/onderdelenshop.gif$image
+||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukencoach-300x250.jpg
+||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keuken-ontwerp-aan-huis.jpg
+||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukenplaats.jpg
 ||golf.be/files/BannerImage/$image
 ||gowiththevlo.nl/wp-content/uploads/*/apeldoorn-antiekmarkten-*.jpg$image
 ||gowiththevlo.nl/wp-content/uploads/*/bo_banner_gwtv.jpg$image
@@ -182,10 +185,6 @@
 ||genemuidenactueel.nl^*banner
 ||glutenvrij.nl/l/library/*banner*.jpg?
 ||glutenvrij.nl/tmp/media/afbeeldingen/*_w720_h720.jpg$image
-||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/I-kook-banner.jpg
-||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukencoach-300x250.jpg
-||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keuken-ontwerp-aan-huis.jpg
-||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukenplaats.jpg
 ||halstadcentraal.nl/images/banners/
 ||handbalstartpunt.nl/content/schoonkapje$image,first-party
 ||handbalstartpunt.nl/images/banner_$image,first-party
