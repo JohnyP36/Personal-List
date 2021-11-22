@@ -393,6 +393,7 @@ nporadio2.nl##.home-module--advertisement
 nu.nl###header > .zone
 nu.nl##a[href*="/advertorial-"]
 nu.nl##div.articlelist[data-section="advertorial-belastingdienst-adverteerder"]
+nuus.be##.widget-area.sidebar:has([data-advadstrackid])
 oisterwijknieuws.nl###left-sidebar
 oisterwijknieuws.nl###right-sidebar
 oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
