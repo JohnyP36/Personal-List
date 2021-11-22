@@ -62,7 +62,7 @@ autoweek.nl##.advertise
 autowereld.nl###banner-lister-top
 autowereld.nl###mainbanner
 autozine.nl###asidetop
-autozine.nl,beleggersbelangen.nl,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,radioluisterenlive.nl,standaard.be,tripadvisor.be,tripadvisor.nl,xgn.nl##.ad
+autozine.nl,beleggersbelangen.nl,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,radioluisterenlive.nl,standaard.be,tellows.nl,tripadvisor.be,tripadvisor.nl,xgn.nl##.ad
 azerty.nl##.block.mod_article > div a[href*="ictwaarborg.nl/"]
 baanwacht.nl##.shailan_banner_widget
 baarsclassicrock.nl##.widebanner
