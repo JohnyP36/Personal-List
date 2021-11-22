@@ -1,4 +1,4 @@
-! 2021-08-
+! 2021-11-
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
 /images/*.gif$image,domain=123video.nl|18plussexdating.nl|30plussexdate.nl|datingsexgids.nl|eroticdate.be|geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukplaza.nl|pornopret.com|privesexgids.nl|sexadvertentiesonline.nl|sexdatingholland.com|sexstartnet.nl|studentesexcontact.nl|tienersexpret.nl|vindsexcontact.nl|vlaanderen-sexdate.be|webcamchicks.net|xxxcontactengids.nl|xxxlivesex.nl|zinineensexdate.com|zinomteneuken.nl
 /images/banners/*$image,domain=deperfecte-sexdate.be|deperfecte-sexdate.nl|neukengratis.be|neuk-sexcontact.be|puurnaturisme.nl|schie.nu|sexcontact-xxx.be|sexdate-xxx.be|sexdating4u.be|shemaledaten.net|visserijnieuws.nl|vrouwsex.be
@@ -38,7 +38,7 @@
 ||ciaotutti.nl/wp-content/uploads/*/camping-delle-rose-isolabona-ligurie-vakantie*.gif$image
 ||ciaotutti.nl/wp-content/uploads/*/ghiacci-vecchi-vakantie-toscane.gif$image
 ||ciaotutti.nl/wp-content/uploads/*/italmania-*reizen-italie*$image
-||ciaotutti.nl/wp-content/uploads/*/koffiecentrale-augustus*$image
+||ciaotutti.nl/wp-content/uploads/*/koffiecentrale-*$image
 ||ciaotutti.nl/wp-content/uploads/*/villa-in-umbria-vakantie*$image
 ||clubbrugge.be^*/partner/$image
 ||coastline945fm.nl/cache/partners/
