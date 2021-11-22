@@ -7,7 +7,7 @@
 /viewfile/*banner/*$domain=fanclubbarcelona.nl,image
 /voicebericht/assets/images/verdien-geld-met-anoniem-thuiswerk.$image,domain=1on1.nl|beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|sexcamsites.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
 /voicebericht/assets/images/videochat277x$image,domain=beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|sexcamsites.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
-/wp-content/uploads/*.gif$image,domain=2sexcontact.nl|bekijkporno.nl|ciaotutti.nl|dorpsklanken.online|ero-meiden.nl|geilverlangen.nl|hete-foto.nl|kechtube.com|lekkerewebcams.nl|motokicx.com|onschuldigemeiden.nl|pornokartel.nl|regionoordkop.nl|rtvpapendrecht.nl|seksmet.nl|sexmeid.nl
+/wp-content/uploads/*.gif$image,domain=2sexcontact.nl|alblasserdamsnieuws.nl|bekijkporno.nl|ciaotutti.nl|dorpsklanken.online|ero-meiden.nl|geilverlangen.nl|hete-foto.nl|kechtube.com|lekkerewebcams.nl|motokicx.com|onschuldigemeiden.nl|pornokartel.nl|regionoordkop.nl|rtvpapendrecht.nl|seksmet.nl|sexmeid.nl
 |shespot.nl|sproeiendekutjes.nl|tube.nederlandseporno.nl|tubelight.nl
 /wp-content/uploads/*/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|baarsclassicrock.nl|decibel.nl|dekrantvantynaarlo.nl|deoudrotterdammer.nl|destreekkrant.nu|dekrantnieuws.nl|dordtcentraal.nl|goedkoopstekeukensduitsland.nl|loemedia.nl|luister.nl|maaslandradio.nl|noordkopcentraal.nl|omroepalmere.nl|oogtv.nl|railhobby.nl|regionoordkop.nl|spreekbuis.nl
 /wp-content/uploads/*/*-outline-canvas-*.$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
@@ -18,6 +18,10 @@
 ||a.scholieren.com/v/*$image,first-party
 ||aafm.nl/cms/wp-content/themes/omroepalmelo/img/banners/
 ||a1mediagroep.nl/content/*/company/*/banne*.*?width=290&height=150
+||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/WK*.$image
+||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/Week-*.png$image
+||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/CJG-Alblasserdam.jpg$image
+||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/Rozendaal.jpg$image
 ||apintie.sr/bannerz/*300x200.*$image
 ||audiobookbay.nl/images/bin.jpg$image,important
 ||audiobookbay.nl/images/fr.jpg$image,important
@@ -139,12 +143,6 @@
 ||402automotive.com/files/*/files/images/*online-banner-$image
 ||402automotive.com/files/*/files/images/banners/*.$image
 ||402automotive.com/files/images/website/banners/*.$image
-||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/WK*.$image
-||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/Week-*.png$image
-||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/Twee-wegen.gif$image
-||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/CJG-Alblasserdam.jpg$image
-||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/Rozendaal.jpg$image
-||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/zonder-herfst.gif$image
 ||am-forum.nl/upload/logo_elektrodump.png
 ||amz01.plzcdn.com/a/
 ||antilliaansdagblad.com/images/*-200x200px*.gif$image
