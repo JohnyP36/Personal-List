@@ -10,7 +10,7 @@
 /wp-content/uploads/*.gif$image,domain=2sexcontact.nl|bekijkporno.nl|ero-meiden.nl|geilverlangen.nl|hete-foto.nl|kechtube.com|lekkerewebcams.nl|onschuldigemeiden.nl|pornokartel.nl|rtvpapendrecht.nl|seksmet.nl|sexmeid.nl
 |shespot.nl|sproeiendekutjes.nl|tube.nederlandseporno.nl|tubelight.nl
 /wp-content/uploads/*-Banner-$domain=rtveen.nl|vives.nl
-/wp-content/uploads/*/*banner$image,domain=baarsclassicrock.nl|dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl|luister.nl|railhobby.nl|rtveen.nl|spreekbuis.nl
+/wp-content/uploads/*/*banner$image,domain=alblasserdamsnieuws.nl|baarsclassicrock.nl|dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl|luister.nl|railhobby.nl|rtveen.nl|spreekbuis.nl
 /wp-content/uploads/*/*-outline-canvas-*.$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
 /wp-content/uploads/*/Mijn-Zaak$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
 /wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl
@@ -137,7 +137,6 @@
 ||402automotive.com/files/*/files/images/*online-banner-$image
 ||402automotive.com/files/*/files/images/banners/*.$image
 ||402automotive.com/files/images/website/banners/*.$image
-||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/*-banner$image
 ||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/WK*.$image
 ||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/Week-*.png$image
 ||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/Twee-wegen.gif$image
