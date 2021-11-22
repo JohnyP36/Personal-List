@@ -136,6 +136,8 @@ deliciousmagazine.nl##.elementor-element > .elementor-element-populated:has(.ban
 deoudrotterdammer.nl##.advertentie
 deoudrotterdammer.nl##[width="300"][height="600"]
 deperfecte-sexdate.be,neuk-sexcontact.be##.well:has(img[src^="/images/banners"])
+despirituelewereld.be##.stream-item-widget:has-text(/advert/i)
+despirituelewereld.be##[href="http://www.info-coronavirus.be"]
 digitaalburg.com##.widget-area-bottom.align-center:has(.adsbygoogle)
 digitaalburg.com##aside[class^="widget widget_text"]
 direct-sexdate.be##div.card:has(img[src*="/banner"])
