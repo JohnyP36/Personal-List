@@ -8,7 +8,7 @@
 /voicebericht/assets/images/verdien-geld-met-anoniem-thuiswerk.$image,domain=1on1.nl|beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|sexcamsites.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
 /voicebericht/assets/images/videochat277x$image,domain=beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|sexcamsites.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
 /wp-content/uploads/*.gif$image,domain=2sexcontact.nl|bekijkporno.nl|ero-meiden.nl|geilverlangen.nl|hete-foto.nl|kechtube.com|lekkerewebcams.nl|onschuldigemeiden.nl|pornokartel.nl|rtvpapendrecht.nl|seksmet.nl|sexmeid.nl
-|shespot.nl|sproeiendekutjes.nl|tube.nederlandseporno.nl
+|shespot.nl|sproeiendekutjes.nl|tube.nederlandseporno.nl|tubelight.nl
 /wp-content/uploads/*-Banner-$domain=rtveen.nl|vives.nl
 /wp-content/uploads/*/*banner$image,domain=baarsclassicrock.nl|dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl|luister.nl|railhobby.nl|rtveen.nl|spreekbuis.nl
 /wp-content/uploads/*/*-outline-canvas-*.$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
@@ -112,7 +112,6 @@
 ||tennisvlaanderen.be/documents/*/21Sponsorblok-$image
 ||tijd.be/ad/
 ||tpo.nl/broodplank/TRU*
-||tubelight.nl/wp-content/uploads/*/*.gif$image
 ||twentefm.nl/directcast/custom/rtvnot/playout/commercials/
 ||ucl-voetbal.nl/derden/betcity-$image
 ||vbro.be/wp-content/uploads/*/autoonderdelen24_
