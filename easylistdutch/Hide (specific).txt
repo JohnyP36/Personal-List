@@ -301,6 +301,7 @@ linqmedia.nl##.advertentieTitel
 live-voetbal.com##.match-bet
 live-voetbal.com##.special-offer
 live-voetbal.com##.top-match
+livios.be##.block-leaderboard
 loemedia.nl###text-17
 loemedia.nl##div.ppb_header.withsmallpadding.one:has(:has-text(Advertentie))
 loemedia.nl##div.ppb_header.withsmallpadding.one:has(:has-text(Banner))
