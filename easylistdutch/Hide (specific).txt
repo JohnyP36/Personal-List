@@ -514,7 +514,7 @@ secretcircle.com##.column:has(.advert)
 seksmet.nl##.et_pb_module:has(.gofollow:has(img[src]))
 seksmet.nl##.et_pb_text:has(div[class] > center > a[href^="https://dt51.net/"])
 seksmet.nl##.et_pb_text:has(div[class] > center > a[href^="https://landing.brazzersnetwork.com/"])
-!seksmet.nl##.et_pb_text:has(div[class] > center > a[href]):not(:has(h3.heading.more))
+seksmet.nl##.et_pb_text:has(div[class] > center > a[href]):not(:has(h3.heading.more))
 seksmet.nl##[href^="https://dt51.net/"]
 seksverhalen.org##header:style(height:100px !important;)
 sexafspraakonline.nl##.d-lg-block.d-none > .card:has-text(Advert)
