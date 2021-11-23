@@ -9,7 +9,7 @@
 ||cloudfront.net/-/media/6-parnerships/$domain=feyenoord.nl
 ||cloudfront.net/banners/$domain=eredivisie.nl
 ||clubxmissy.nl/banners/*$image,domain=biertijd.xxx
-||dating.*.auroraobjects.eu/files/bans/*.gif$image,domain=seksverhalen.nl
+||dating.*.auroraobjects.eu/files/bans/*.gif$image,domain=seksmet.nl|seksverhalen.nl
 ||ent-cdn.com/files/bans/belowvid*40plusengeil$image,domain=vagina.nl
 ||feenstra-internetservices.nl/?_$subdocument,domain=voetbalrotterdam.nl
 ||go2cloud.org/aff_ad?*&format=iframe$subdocument,domain=sexoverzicht.nl|sextube.nl
