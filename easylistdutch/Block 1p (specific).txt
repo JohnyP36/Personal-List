@@ -37,6 +37,7 @@
 ||cdn.nieuws.nl/media/sites/221/20*/*/*/*.gif$image
 ||cdn.nieuws.nl/media/sites/221/20*/*/*/dobbenwooncentrum.jpg$image
 ||cdn.nieuws.nl/media/sites/221/20*/*/*/*-Banner.$image
+||cdn.seksmet.nl/wp-content/uploads/*/all-over-40-handjob$image
 ||cdn.shortpixel.ai/client/q_lossy,ret_img,w_*/https://groningerkrant.nl/wp-content/uploads/*/Rijschool-in-Groningen*.$image
 ||ciaotutti.nl/wp-content/uploads/*/italmania-*reizen-italie*$image
 ||ciaotutti.nl/wp-content/uploads/*/koffiecentrale-*$image
