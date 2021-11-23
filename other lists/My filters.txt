@@ -108,6 +108,7 @@ nsinternational.*##.t-cookie-overlay-visible.t-cookie-overlay.cookie-overlay
 speedtest.net##.notification-container > div > .notification
 speedtest.net###_evidon-barrier-wrapper
 volkskrant.nl,trouw.nl###LOGIN_BIG_BOTTOM > .tm-body
+y8.com##.div-gpt-ad-above:style(margin-bottom: -20px !important;)
 y8.com###policy-validation
 gloednieuw.nl#@##taboola-below-article-thumbnails
 
