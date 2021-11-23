@@ -173,6 +173,7 @@ eromarkt.nl##.headerlinks:has(iframe[src="linkframe.php"])
 eromarkt.nl,erotischemassagemarkt.nl,erotischemodellen.nl,swingersmarkt.nl##.menubanner:has([src^="ads"])
 ero-meiden.nl,geilverlangen.nl##.size-full.attachment-full
 eurocampings.nl##.js-mock-banner
+eurogamer.nl##.homepage-billboard-container
 europa-landbouwmachines.nl##.hidden-print.pub-desktop-a.hidden-xs
 europa-landbouwmachines.nl,mijn-tv-gids.be##.pub
 ewmagazine.nl##.banner-leaderboard
