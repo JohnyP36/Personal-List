@@ -128,7 +128,7 @@
 ||vives.nl/wp-content/uploads/Banner_
 ||vlietnieuws.nl/wp-content/plugins/custom-banners/*$script,first-party
 ||voetbalrotterdam.nl/wp-content/uploads/*/soccerdealbanner*$image
-||voetbaluitslagen.com/wp-content/uploads/*/bet365-banner-$image
+||voetbaluitslagen.com/wp-content/uploads/*/bet*$image
 ||volleyvlaanderen.be/wp-content/uploads/*Banners*_670x80*$image
 ||wereldstopcontacten.nl/wp-content/uploads/*/image-aff-*.jpg
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
