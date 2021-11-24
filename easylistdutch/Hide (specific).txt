@@ -367,6 +367,7 @@ nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
 nieuws.nl###footer-banner
 nieuws.nl###header-banner
 nieuws.nl##.nieuws-banner
+nieuwslog.nl##.wp-block-genesis-blocks-gb-columns:has(a[href*="/go/www.bet365.nl/"])
 nieuwsmotor.nl##.add-background
 nieuwsonline.nu##.clearfix:has(img[src*="/header/"])
 nieuwsuitnijmegen.nl##.banner-box-1
