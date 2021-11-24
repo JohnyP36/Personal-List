@@ -614,6 +614,7 @@ vivatube.com##.mt15.container:has-text(Advert)
 vlietnieuws.nl##.banner_wrapper
 voetbal.com##.adbox
 voetbal4u.com##.widget_text:has(h4):has-text(/crypto/i)
+voetbalcentraal.nl##.blok:has(h3:has-text(Partners))
 voetbalrotterdam.nl##div[style="max-width: 728px; width: 100%; height: 90px;"]
 voetbalrotterdam.nl##div[style="max-width:300px; width:100%; height:250px;"]
 voetbaluitslagen.com##.cta
