@@ -40,15 +40,12 @@ body:
         - label: using a new, unmodified browser profile
           required: false
           
-  - type: textarea
+  - type: input
     attributes:
       label: URL(s) where the issue occurs
       description: At least one URL for a web page where the clearly described issue occurs is **mandatory**. 
         The backticks (`) surrounding the URLs are important, it prevents the URL from being clickable.
-      placeholder: |
-        `example.nl`
-        `xyz.example.nl`
-        `example.com/abc`
+      placeholder: "`example.nl` or `xyz.example.nl` or `example.com/abc`"
     validations:
       required: true
 
@@ -98,14 +95,14 @@ body:
     id: name63
     attributes: 
       label: Browser version
-      placeholder: e.g.  92.0.902.55 (Official build) (64-bits)
-      value: 92.0.902.55 (Official build) (64-bits)
+      placeholder: e.g.  96.0.902.55 (Official build) (64-bits)
+      value: 96.0.902.55 (Official build) (64-bits)
   - type: input
     id: name64
     attributes:
       label: Extension version
-      placeholder: e.g.  1.36.0
-      value: 1.36.2
+      placeholder: e.g.  1.39.0
+      value: 1.39.0
 
   - type: textarea
     attributes: 
