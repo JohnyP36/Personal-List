@@ -43,7 +43,7 @@ body:
       label: URL(s) where the issue occurs
       description: At least one URL for a web page where the clearly described issue occurs is **mandatory**. 
         The backticks (`) surrounding the URLs are important, it prevents the URL from being clickable.
-      placeholder: `example.nl` or `xyz.example.nl` or `example.com/abc`
+      placeholder: "`example.nl` or `xyz.example.nl` or `example.com/abc`"
     validations:
       required: true
 
