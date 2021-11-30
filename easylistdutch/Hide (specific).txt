@@ -94,6 +94,7 @@ biertijd.xxx###sidebarcontainer > h2:not(:has-text(/bierbroeders/i)):not(:has-te
 biflatie.nl##div[class*="elementor-widget-button"]:has-text(Advert)
 blikopnieuws.nl##.ligatus-sidebar-block
 bokt.nl###frontpage_mediumrect
+bollywood.nl##a[href^="https://www.onderdelenshop24.com/"]
 bollenstreekomroep.nl,omroepspakenburg.nl##.wpb_wrapper[data-td-block-uid^="tdi_"]:has(.owl-item)
 brandweerspotters.nl###banners:has-text(Sponsors)
 broadcastmagazine.nl##.Advertisement
