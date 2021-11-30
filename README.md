@@ -15,10 +15,6 @@ Special for uBo syntax (and Adguard) is [this list](https://github.com/JohnyP36/
 My own updated version of EasyList Dutch. <br>
 I made this filter because the EasyList Dutch filter isn't maintained often.
 
-##### IMPORTANT  
-Because the current filterlist [EasyDutch](https://github.com/BPower0036/AdBlockFilters/blob/main/easydutch) is now regulary updated I don't update my own list. <br>
-If you see ads on dutch websites please report it [here](https://github.com/BPower0036/AdBlockFilters/issues).
-
 ---
 
 ### Those list were in the list
@@ -44,3 +40,5 @@ Because the famous Nano filterlists are archieved I copied the most usefull rule
 
 #### *Support*
 ##### If you want to buy me a cup of coffee or want to support me, you can donate via [PayPal](https://www.paypal.com/donate?hosted_button_id=8BBT5V55TGVXW)
+
+###### Read the [`Contributing.md`](https://github.com/JohnyP36/Personal-List/blob/main/.github/CONTRIBUTING.md) for more info
