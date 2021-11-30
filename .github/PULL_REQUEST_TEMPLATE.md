@@ -20,7 +20,7 @@ To avoid being banned, don't constantly re-open or create new (related) issue re
 - [ ] I am running the latest version of uBlock Origin (or Adguard or Adblock Plus, etc.)
 
 ### URL(s) where the issue occurs
-[At least one URL for a web page where the clearly described issue occurs is **mandatory**. The backticks surrounding the URLs is important, it prevents the URL from being clickable. Warn with "NSFW" where applicable.]
+[At least one URL for a web page where the clearly described issue occurs is **mandatory**. The backticks (`) surrounding the URLs is important, it prevents the URL from being clickable. Warn with "NSFW" where applicable.]
 
 ### Describe the issue
 <!-- [Be as clear as possible: nobody can read mind, and nobody is looking at your issue over your shoulder.]  
@@ -35,15 +35,26 @@ If you have multiple screenshots just copy-paste the 3 line below. Please remove
 </details> 
 
 ### Versions
-<!-- delete the "e.g." and put between the "**...**" your own information. Put between the "_..._" the version number of your browser/extension --> 
+<!-- delete the "e.g." and put between the "**" your own information. Put between the "_" the version number of your browser/extension --> 
 | Information             | Value                 |
 | :---                    |         :---:         |
 | ***Browser*** name      | \`e.g. **MS Edge** \` |
-| ***Browser*** version   | \`e.g. _92_\`         | 
+| ***Browser*** version   | \`e.g. _96_\`         | 
 | ***Extension*** name    | \`e.g. **uBlock** \`  |
-| ***Extension*** version | \`e.g. _1.36.2_\`     |
+| ***Extension*** version | \`e.g. _1.39.0_\`     |
+| *Operating System*      | \`e.g. *Windows 10, 21H2* |
 
 ### Notes
 [Add here the result of whatever investigation work you have done: please investigate the issues you report -- this prevents burdening other volunteers. This is especially true for issues arising from settings which are very different from default ones. 
 If you suspect certain filters (this helps spending time to debug it manually).
 If you have a screenshot of the issue or advert, this will help to highlight it.]
+
+#### Settings
+[***If you're using uBlock:*** List all the changes you've made to uBO's default settings here, by copying the information given by uBO under `Support` --> `Troubleshooting Information`]
+<details>
+<summary>Troubleshooting Information / Probleemoplossingsinformatie</summary>
+      
+```yaml
+<!-- Put the copied text here, by replacing this line / Zet hier de gekopieerde tekst neer, door deze regel te overschrijven -->
+```
+</details>
