@@ -59,6 +59,11 @@ body:
     attributes: 
       label: Screenshot(s)
       description: Screenshot(s) for difficult to describe visual issues are **mandatory**.
+    value: |
+      <details>
+      <summary>Screenshot(s)</summary>
+      <!-- drag-and-drop screenshot here -->
+      </details>
     validations: 
       required: false
 
@@ -91,14 +96,21 @@ body:
     id: name63
     attributes: 
       label: Browser version
-      placeholder: e.g.  96.0.902.55 (Official build) (64-bits)
-      value: 96.0.902.55 (Official build) (64-bits)
+      placeholder: e.g.  96.0.1054.34 (Official build) (64-bits)
+      value: 96.0.1054.34 (Official build) (64-bits)
   - type: input
     id: name64
     attributes:
       label: Extension version
       placeholder: e.g.  1.39.0
       value: 1.39.0
+      
+  - type: input
+    attributes: 
+      label: operating system **and version**
+      placeholder: Microsoft 10, 21H2
+    validations: 
+      required: true
 
   - type: textarea
     attributes: 
