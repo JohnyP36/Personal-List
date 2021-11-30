@@ -114,6 +114,16 @@ body:
       required: true
       
   - type: textarea
+    attributes:
+      label: Extension version
+      value: |
+        {{md  content }} 
+        |---|---|
+        | dfdf | ddfdfdfd|
+        | dfd | fdf |
+        
+      
+  - type: textarea
     attributes: 
       label: Settings
       description: |
@@ -124,7 +134,7 @@ body:
         <summary>Troubleshooting Information / Probleemoplossingsinformatie</summary>
         
         ```yaml
-        <!-- Put the copied text here / Zet hier de gekopieerde tekst neer -->
+        <!-- Put the copied text here, by replacing this line / Zet hier de gekopieerde tekst neer, door deze regel te overschrijven -->
         ```
         </details>
     validations:
