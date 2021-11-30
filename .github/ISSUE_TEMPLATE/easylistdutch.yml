@@ -114,16 +114,6 @@ body:
       required: true
       
   - type: textarea
-    attributes:
-      label: Extension version
-      value: |
-        {{md  content }} 
-        |---|---|
-        | dfdf | ddfdfdfd|
-        | dfd | fdf |
-        
-      
-  - type: textarea
     attributes: 
       label: Settings
       description: |
