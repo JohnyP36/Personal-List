@@ -266,6 +266,9 @@ indiexl.nl###carousel-indiexl_partners_carousel_widget
 inmemoriam.be##.o-news__add
 interglot.nl##.pane_results > div:has-text(Ads)
 inzod.nl##.gofollow
+itdaily.be###itdaily-article-sidebar
+itdaily.be###itdaily-article-top
+itdaily.be###itdaily-article-sidebar
 itnijs.frl##.widget > .banner
 jammfm.nl##.owl-carousel:has(.sa_hover_container):has([style*="/banner"])
 jammfm.nl##.vc_row-flex.vc_row[style*="width: 1578px;"]:has(.qt-sponsor)
