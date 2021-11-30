@@ -617,6 +617,7 @@ villamedia.nl##[href^="https://www.anp.nl/start"]
 visserijnieuws.nl##[class^="row advertentie-"]:not([class*="advertentie-1"])
 vitesse.nl##div.box-body:has(p > a[title="Vriendenloterij"])
 vivatube.com##.mt15.container:has-text(Advert)
+vivocyclo.com##div[id*="media"][id*="image"]:has(a[href]):has(img[src*="vivocyclo.com/wp-content/uploads/"])
 vlietnieuws.nl##.banner_wrapper
 voetbal.com##.adbox
 voetbal4u.com##.widget_text:has(h4):has-text(/crypto/i)
