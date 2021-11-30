@@ -612,6 +612,7 @@ vagina.nl##[id$="fish-hooks"]:has-text(Advertenties)
 velt.be##.simpleads:has-text(/sponsor/i)
 veronicainside.nl##div[class^="Component-bannerTopWrapper"]
 veronicainside.nl##div[class^="k-bannerWrapper"]
+veto.be##div[class*="spacer block"]:has([href][id*="advert"])
 video18.nl##.modal
 villamedia.nl##[href^="https://www.anp.nl/start"]
 visserijnieuws.nl##[class^="row advertentie-"]:not([class*="advertentie-1"])
