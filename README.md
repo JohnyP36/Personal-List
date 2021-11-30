@@ -39,6 +39,7 @@ Because the famous Nano filterlists are archieved I copied the most usefull rule
 <br/>
 
 #### *Support*
-##### If you want to buy me a cup of coffee or want to support me, you can donate via [PayPal](https://www.paypal.com/donate?hosted_button_id=8BBT5V55TGVXW)
+**If you want to buy me a cup of coffee or want to support me, you can donate via [PayPal](https://www.paypal.com/donate?hosted_button_id=8BBT5V55TGVXW)**
 
-###### Read the [`Contributing.md`](https://github.com/JohnyP36/Personal-List/blob/main/.github/CONTRIBUTING.md) for more info
+
+###### ➡ Read the [`Contributing.md`](https://github.com/JohnyP36/Personal-List/blob/main/.github/CONTRIBUTING.md) for more info
