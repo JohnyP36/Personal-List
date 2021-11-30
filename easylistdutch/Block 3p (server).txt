@@ -67,6 +67,7 @@
 ||t.bazarow.com^$third-party
 ||teasemedia.nl^$third-party
 ||tradetracker.com^$third-party
+||travelads.be^$third-party
 ||verkoopmenu.nl^$third-party
 ||views.affiliate4you.nl^$third-party
 ||viadata.store^$third-party
