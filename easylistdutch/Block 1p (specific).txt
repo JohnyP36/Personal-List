@@ -83,6 +83,7 @@
 ||omroeprsh.nl/wp-content/uploads/*/*RSH-300*.gif$image
 ||onderwijsland.com/files/banners/
 ||onderwijsland.com/files/partners/
+||menttv.be/wp-content/uploads/*/*.jpg
 ||midvliet.nl/images/advertenties
 ||mo.be/sites/default/files/banners*
 ||modekoninginmaxima.nl/sites/default/files/*/vorsten2_170x600.gif$image
