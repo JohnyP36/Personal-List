@@ -36,7 +36,6 @@ body:
           required: false
         - label: using a new, unmodified browser profile
           required: false
-
           
   - type: input
     attributes:
@@ -59,7 +58,7 @@ body:
     attributes: 
       label: Screenshot(s)
       description: Screenshot(s) for difficult to describe visual issues are **mandatory**.
-    value: |
+    value: 
       <details>
       <summary>Screenshot(s)</summary>
       <!-- drag-and-drop screenshot here -->
@@ -105,7 +104,7 @@ body:
     attributes:
       label: Extension version
       placeholder: e.g.  1.39.0
-      value: v1.39.0
+      value: 1.39.0
     validations: 
       required: true
       
