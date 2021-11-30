@@ -224,6 +224,7 @@ goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 golf.be##.header__bottom
 golf.be##.partners-holder
 golf.nl##.c-header__advert-container
+goodbye.be,sporza.be##.advertising
 gooieneemlander.nl,noordhollandsdagblad.nl,leidschdagblad.nl###advertorial-destination
 gostreaming.nl##a[rel*="sponsored"]
 grandprixradio.nl##[id^="custom_html-"]:has([src^="https://partner.bol.com/"])
@@ -555,7 +556,6 @@ spel.nl,spelletjes.nl##.game-page-sidebar
 spelersvrouw.nl##.widget_text.gridlove-box
 sportinnederland.com##.af-main-header-container
 sportinnederland.com##.widget-area:has([id^="custom_html-"]:has(.adsbygoogle))
-sporza.be##.advertising
 spreekbuis.nl##.widget_media_image
 srherald.com##.gsrhera
 srnieuws.com##.card-view:has(h5.bold > a[href][target="_blank"])
