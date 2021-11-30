@@ -96,7 +96,6 @@ body:
     attributes: 
       label: Browser version
       placeholder: e.g.  96.0.1054.34 (Official build) (64-bits)
-      value: 96.0.1054.34 (Official build) (64-bits)
     validations: 
       required: true
   - type: input
@@ -104,7 +103,6 @@ body:
     attributes:
       label: Extension version
       placeholder: e.g.  1.39.0
-      value: 1.39.0
     validations: 
       required: true
       
@@ -114,6 +112,23 @@ body:
       placeholder: Microsoft 10, 21H2
     validations: 
       required: true
+      
+  - type: textarea
+    attributes: 
+      label: Settings
+      description: |
+        *If you are using uBlock:* List all the changes you've made to uBO's default settings here, by copying the information given by uBO under `Support` --> `Troubleshooting Information`
+        *Als je uBlock gebruikt:* Geef hier een lijst van alle wijzigingen die u heeft aangebracht in de standaardinstellingen van uBO, door de informatie te kopiëren die door uBo is gegeven onder `Ondersteuning` --> `Probleemoplossingsinformatie` 
+      value: |
+        <details>
+        <summary>Troubleshooting Information / Probleemoplossingsinformatie</summary>
+        
+        ```yaml
+        <!-- Put the copied text here / Zet hier de gekopieerde tekst neer -->
+        ```
+        </details>
+    validations:
+      required: false
 
   - type: textarea
     attributes: 
