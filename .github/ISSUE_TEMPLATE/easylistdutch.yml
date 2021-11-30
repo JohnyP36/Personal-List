@@ -98,12 +98,16 @@ body:
       label: Browser version
       placeholder: e.g.  96.0.1054.34 (Official build) (64-bits)
       value: 96.0.1054.34 (Official build) (64-bits)
+    validations: 
+      required: true
   - type: input
     id: name64
     attributes:
       label: Extension version
       placeholder: e.g.  1.39.0
-      value: 1.39.0
+      value: v1.39.0
+    validations: 
+      required: true
       
   - type: input
     attributes: 
