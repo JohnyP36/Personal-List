@@ -142,7 +142,7 @@ body:
       required: false
 
 
-  - type: AWS::DynamoDB::Table
+  - type: table
     Properties:
       BillingMode: PAY_PER_REQUEST
       AttributeDefinitions:
