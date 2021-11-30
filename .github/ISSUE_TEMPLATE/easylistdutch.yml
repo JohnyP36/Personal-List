@@ -76,7 +76,7 @@ body:
         - Firefox
         - Safari
         - Brave
-        - another browser
+        - another browser -- specify under `Browser version`
     validations:
       required: true
   - type: dropdown
@@ -88,7 +88,7 @@ body:
         - uBlock
         - Adguard
         - AdBlock (Plus)
-        - another adblocker
+        - another adblocker -- specify under `Extension version`
     validations: 
       required: true
   - type: input
