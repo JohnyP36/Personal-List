@@ -140,33 +140,3 @@ body:
       placeholder: Write here the result of whatever investigation work you have done
     validations: 
       required: false
-
-
-  - type: table
-    Properties:
-      BillingMode: PAY_PER_REQUEST
-      AttributeDefinitions:
-        - AttributeName: pk
-          AttributeType: S
-        - AttributeName: sk
-          AttributeType: S
-        - AttributeName: gsi1_pk
-          AttributeType: S
-        - AttributeName: gsi1_sk
-          AttributeType: S
-      KeySchema:
-        - AttributeName: pk
-          KeyType: HASH
-        - AttributeName: sk
-          KeyType: RANGE
-      GlobalSecondaryIndexes:
-        - IndexName: GSI1
-          KeySchema:
-            - AttributeName: gsi1_pk
-              KeyType: HASH
-            - AttributeName: gsi1_sk
-              KeyType: RANGE
-          Projection:
-            ProjectionType: ALL
-      StreamSpecification:
-        StreamViewType: NEW_AND_OLD_IMAGES
