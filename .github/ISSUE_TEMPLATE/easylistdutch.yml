@@ -58,7 +58,7 @@ body:
     attributes: 
       label: Screenshot(s)
       description: Screenshot(s) for difficult to describe visual issues are **mandatory**.
-    value: |
+      value: |
        <details>
        <summary>Screenshot(s)</summary>
        <!-- drag-and-drop screenshot here -->
