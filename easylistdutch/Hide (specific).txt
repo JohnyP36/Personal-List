@@ -44,6 +44,7 @@ ans-online.nl##.theiaStickySidebar > .widget:has-text(Advertentie)
 apintie.sr###left-inside > div#ads
 apintie.sr###navcol2
 apintie.sr###sidebar > div[style*="width:300px; height:"]:not(:has(img[alt="Apintie iPhone App"]))
+apparata.nl##.parentgpt
 appletips.nl###singleab
 appletips.nl##.ph_upgreatest
 appletips.nl##[class^="ph_block"]
