@@ -674,6 +674,8 @@ wielerflits.be,wielerflits.nl##li.list-group-item:has(span[class*="badge"]):has-
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 wijlimburg.nl##.sidebar-partners
 wildfm.nl##img[width="699"][height="90"]
+wintersport.nl##.mq-banner > .never-visited:not(:has-text(/reisverzekering/i))
+wintersport.nl##.mq-banner > div[class*="card"]
 wos.nl##.header-right
 xxxdump.nl###reclame-eroads
 zakenreisnieuws.nl##[id^="block-block"]:has([id^="div-gpt-ad"])
