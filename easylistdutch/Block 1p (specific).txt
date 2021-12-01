@@ -26,6 +26,7 @@
 ||apintie.sr/bannerz/*300x200.*$image
 ||audiobookbay.nl/images/bin.jpg$image,important
 ||audiobookbay.nl/images/fr.jpg$image,important
+||autosport.nl/images/banner
 ||basketbal.vlaanderen/src/*/images/Logo's*$image
 ||basketballbelgium.be/wp-content/uploads/*/970x250*$image
 ||brandweerspotters.nl/modules/banners/
