@@ -8,7 +8,8 @@
 /voicebericht/assets/images/verdien-geld-met-anoniem-thuiswerk.$image,domain=1on1.nl|beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|sexcamsites.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
 /voicebericht/assets/images/videochat277x$image,domain=beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|sexcamsites.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
 /wp-content/uploads/*.gif$image,domain=2sexcontact.nl|alblasserdamsnieuws.nl|bekijkporno.nl|ciaotutti.nl|dorpsklanken.online|ero-meiden.nl|geilverlangen.nl|hete-foto.nl|kechtube.com|lekkerewebcams.nl|motokicx.com|onschuldigemeiden.nl|pornokartel.nl|regionoordkop.nl|rtvpapendrecht.nl|seksmet.nl|sexmeid.nl
-|shespot.nl|sproeiendekutjes.nl|tiener-sexverhalen.nl|tube.nederlandseporno.nl|tubelight.nl
+|shespot.nl|sproeiendehttps://www.bloovi.be/artikels/stories/2021/pascal-wuillaume-heel-weinig-ceo-s-doen-aan-introspectie-misschien-omdat-ze-gewoon-niet-durven
+kutjes.nl|tiener-sexverhalen.nl|tube.nederlandseporno.nl|tubelight.nl
 /wp-content/uploads/*/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|baarsclassicrock.nl|decibel.nl|dekrantvantynaarlo.nl|deoudrotterdammer.nl|destreekkrant.nu|dekrantnieuws.nl|dordtcentraal.nl|goedkoopstekeukensduitsland.nl|katholiek.nl|loemedia.nl|luister.nl|maaslandradio.nl|noordkopcentraal.nl|omroepalmere.nl|oogtv.nl|railhobby.nl|regionoordkop.nl|sleutelstad.nl|spreekbuis.nl|streamwijzer.be
 /wp-content/uploads/*/*-outline-canvas-*.$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
 /wp-content/uploads/*/Mijn-Zaak$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
@@ -29,6 +30,7 @@
 ||autosport.nl/images/banner
 ||basketbal.vlaanderen/src/*/images/Logo's*$image
 ||basketballbelgium.be/wp-content/uploads/*/970x250*$image
+||bloovi.be/frontend/files/banners/
 ||brandweerspotters.nl/modules/banners/
 ||buzzbie.nl/buzzbanners/*.js$script,first-party
 ||camping-frankrijk.nl/graphics/*/*600.$image
