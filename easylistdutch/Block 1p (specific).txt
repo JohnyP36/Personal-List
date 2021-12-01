@@ -119,6 +119,7 @@
 ||sexchatlounge.nl/bannerrechts.html$subdocument
 ||shespot.nl/wp-content/uploads/*/womanizer-*.jpg$image
 ||sproeiendekutjes.nl/wp-content/uploads/*/spannende-afspraakjes.webm$media,first-party
+||swpportal.com/upload/squarebanners/
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||tennisvlaanderen.be/documents/*/19Sponsorblok-$image
 ||tennisvlaanderen.be/documents/*/21Sponsorblok-$image
