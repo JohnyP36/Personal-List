@@ -128,6 +128,7 @@
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||tennisvlaanderen.be/documents/*/19Sponsorblok-$image
 ||tennisvlaanderen.be/documents/*/21Sponsorblok-$image
+||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
 ||tpo.nl/broodplank/TRU*
 ||twentefm.nl/directcast/custom/rtvnot/playout/commercials/
