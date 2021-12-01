@@ -374,6 +374,9 @@ modekoninginmaxima.nl##.adsbygoogle
 modekoninginmaxima.nl##.after-content-ad:not(:has-text(/Niets van deze website mag verveelvoudigd en/i))
 modekoninginmaxima.nl##.region-top-advertisement
 morningstar.*###ad_top_page
+motocrossplanet.nl##.artikel-banners
+motocrossplanet.nl##div[class*="banner"]
+motocrossplanet.nl##div[class*="col"]:has-text(/advert/i)
 motorfietsblog.nl##.cbcontent
 motorrijdenexpert.nl##div[class*="full-row relative-row"]:has([href]):has([class*="ignore"])
 !nederland.fm###xbtm > .shadow
