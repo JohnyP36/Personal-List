@@ -18,7 +18,7 @@ adultwebmaster.nl##.main-promo-bn-responsive
 afkortingen.nu###banner_rectangle
 afkortingen.nu###banner_right
 afkortingen.nu###banner_top
-afkortingen.nu,allradio.nl,erotracks.nl,filmladder.nl,klasse.be,nieuws.nl,nrc.nl,sexfotodating.nl,simone.nl,startbewijs.nl,startkabel.nl,startpagina.nl,televizier.nl,telezien.nl,totaaltv.nl,tvgemist.be,tvgids.nl,uiennieuws.nl,unity.nu,waldnet.nl##.banner
+afkortingen.nu,allradio.nl,bpnieuws.nl,erotracks.nl,filmladder.nl,klasse.be,nieuws.nl,nrc.nl,sexfotodating.nl,simone.nl,startbewijs.nl,startkabel.nl,startpagina.nl,televizier.nl,telezien.nl,totaaltv.nl,tvgemist.be,tvgids.nl,uiennieuws.nl,unity.nu,waldnet.nl##.banner
 agconnect.nl##[id*="partner"][id*="logo"]:has([href^="/partner"]):has(img[src*="partner"])
 ajax1.nl##.footer__footer-fat
 ajax1.nl##a[href^="https://www.awin1.com/cread.php?"]
