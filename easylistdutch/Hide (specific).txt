@@ -239,6 +239,8 @@ gratispornofilm.nl##.lazyloaded.block-bordered
 groningerkrant.nl##[href^="https://track.adppg.com/"]
 groningsnieuws.nl##.sticky-sidebar > [id^="media_image"]
 guldencourant.nl##.jeg_midbar:has([class^="ads-wrapper"])
+guruwatch.nl##.Billboard
+guruwatch.nl##.LargeRectangle
 h20.gg##[id^="text-"]:has-text(Partners)
 halstadcentraal.nl##.carouselbanner_left
 halstadcentraal.nl##.respbanners
