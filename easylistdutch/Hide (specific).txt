@@ -82,6 +82,8 @@ bdsmbook.nl###random_banner_widget-2
 beeldbelsex.com##.wp-block-column > center:has([data-src*="banners"])
 beeldbelsex.com##[href^="https://islive.com/"]
 beeldbelsex.com##[href^="https://www.twero.com/nl/"]:has(img[src$=".gif"])
+belegger.nl,eurobench.com##.Billboard-wrapper
+belegger.nl,eurobench.com##.Rectangle-wrapper
 belgie-sexcontact.be##.well:has(img[src])
 bellotube.com###exo
 berekenhet.nl##.bh-ads
@@ -176,8 +178,6 @@ eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gazetvandaag.be,grandprix.ws
 eromarkt.nl##.headerlinks:has(iframe[src="linkframe.php"])
 eromarkt.nl,erotischemassagemarkt.nl,erotischemodellen.nl,swingersmarkt.nl##.menubanner:has([src^="ads"])
 ero-meiden.nl,geilverlangen.nl##.size-full.attachment-full
-eurobench.com##.Billboard-wrapper
-eurobench.com##.Rectangle-wrapper
 eurocampings.nl##.js-mock-banner
 eurogamer.nl##.homepage-billboard-container
 europa-landbouwmachines.nl##.hidden-print.pub-desktop-a.hidden-xs
