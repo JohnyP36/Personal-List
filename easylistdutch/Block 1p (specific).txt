@@ -92,6 +92,8 @@
 ||midvliet.nl/images/advertenties
 ||mo.be/sites/default/files/banners*
 ||modekoninginmaxima.nl/sites/default/files/*/vorsten2_170x600.gif$image
+||motocrossplanet.nl/banner/
+||motocrossplanet.nl/wwwuploads/banners/
 ||motokicx.com/wp-content/uploads/*/BANNER-
 ||motokicx.com/wp-content/uploads/*/Website-ad-
 ||motokicx.com/wp-content/uploads/*Motoshop-*.jpg
