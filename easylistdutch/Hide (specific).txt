@@ -58,6 +58,7 @@ atv.be,robtv.be,tvl.be,tvoost.be##.leaderboardWrap
 audiobookbay.nl###rsidebar > ul > li > h2:has-text(/ad/i)
 audiobookbay.nl#$#[src="http://audiobookbay.nl/images/dir.gif"]{ width: 100px !important }
 autobahn.eu##li[class*="block"] > div[class*="block mb-3"]:has(a[href][rel="noopener"][target="_blank"])
+autoblog.nl##.widget_ab_sidebar
 autoreview.nl###parentgpt
 autoreview.nl##.bottom-bannuring
 autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
