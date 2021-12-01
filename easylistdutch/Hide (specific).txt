@@ -61,6 +61,9 @@ autobahn.eu##li[class*="block"] > div[class*="block mb-3"]:has(a[href][rel="noop
 autoreview.nl###parentgpt
 autoreview.nl##.bottom-bannuring
 autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
+autosport.nl###liggende-banner
+autosport.nl##.active.first:style(margin-top: 0px !important;)
+autosport.nl##.bigbanner
 autoweek.nl##.advertise
 autowereld.nl###banner-lister-top
 autowereld.nl###mainbanner
