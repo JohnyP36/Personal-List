@@ -95,6 +95,7 @@ biernet.nl###BJA3
 biertijd.xxx###sidebarcontainer > h2:not(:has-text(/bierbroeders/i)):not(:has-text(partners))
 biflatie.nl##div[class*="elementor-widget-button"]:has-text(Advert)
 blikopnieuws.nl##.ligatus-sidebar-block
+blikopnieuws.nl##[id^="block-block-"]:has([target="_blank"] > img.media-element)
 bodylifebenelux.nl##.bnrrow
 bokt.nl###frontpage_mediumrect
 bollywood.nl##a[href^="https://www.onderdelenshop24.com/"]
