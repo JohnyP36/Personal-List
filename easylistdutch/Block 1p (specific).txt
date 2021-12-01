@@ -78,6 +78,7 @@ kutjes.nl|tiener-sexverhalen.nl|tube.nederlandseporno.nl|tubelight.nl
 ||gowiththevlo.nl/wp-content/uploads/*/bo_banner_gwtv.jpg$image
 ||gowiththevlo.nl/wp-content/uploads/*/va_banner_gwtv.jpg$image
 ||gratis.nl/wp-content/uploads/*/*/*-gratis.png$image
+||greenkeeper.nl/upload/banners/
 ||hetnieuwsvandaag.be/media/cache/rectangle_image/media/image/*$image
 ||img.iex.nl/uploads/banners/*
 ||inzod.nl/wp-content/uploads/*/*/*.gif$image
