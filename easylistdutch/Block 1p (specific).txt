@@ -103,6 +103,8 @@
 ||noordkopcentraal.nl/wp-content/uploads/*/*-logo-462x
 ||noordkopcentraal.nl/wp-content/uploads/*/Boersen-Logo-*
 ||notebookcheck.nl/fileadmin/Sonstiges/am_$xmlhttprequest
+||persberichten.com/Images/Banners/
+||persberichten.com/Images/marcommit/
 ||persinfo.org/assets/images/pictures/ad/
 ||promootjesite.nl/images/affliateBanner/$image
 ||psv.nl/multimedia/toto_new/index.html$subdocument
