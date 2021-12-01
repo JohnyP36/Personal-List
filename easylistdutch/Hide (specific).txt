@@ -246,6 +246,8 @@ gratisepub.nl##.type-post:has-text(advert)
 gratispittigesexfilms.nl,hetegangbang.nl##.spot-on
 gratispornofilm.nl##.cp-webcam-gallery-container
 gratispornofilm.nl##.lazyloaded.block-bordered
+greenkeeper.nl###lijst_logos
+greenkeeper.nl##.logoblok
 groningerkrant.nl##[href^="https://track.adppg.com/"]
 groningsnieuws.nl##.sticky-sidebar > [id^="media_image"]
 guldencourant.nl##.jeg_midbar:has([class^="ads-wrapper"])
