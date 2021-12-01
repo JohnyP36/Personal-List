@@ -26,7 +26,7 @@ alblasserdamsnieuws.nl##.albla-widget
 alblasserdamsnieuws.nl##.albla-zijkant:has(.adv-link)
 alblasserdamsnieuws.nl##.sidebarbox > .widgettitle:has-text(Banner)
 alkmaarguardians.nl###footer
-alle-tests.nl###advertising
+alle-tests.nl,bloovi.be###advertising
 almere-nieuws.nl###banner-text2
 almere-nieuws.nl###containerx
 almere-nieuws.nl###jeg_sidecontent > .jeg_container:has(.jeg_ad)
