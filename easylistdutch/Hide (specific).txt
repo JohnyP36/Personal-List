@@ -4,7 +4,7 @@
 123video.nl##.page-load-switch
 123video.nl##.stunt-wide
 18plussexdating.nl##.homebanner
-1twente.nl,bnnvara.nl,hpdetijd.nl,kieskeurig.nl,ovpro.nl,tubantia.nl##.advertisement
+1twente.nl,bnnvara.nl,fonkonline.nl,hpdetijd.nl,kieskeurig.nl,ovpro.nl,tubantia.nl##.advertisement
 247spice.com##.elementor-element-2da19501 + .elementor-element-6406e483
 247spice.com##.slideInLeft.animated:has-text(Advert)
 30plussexdate.nl,ikwilneuken.be,ikwilneuken.net,meidenzoekensex.nl,sexcontactadressen.nl##.nomobile.boxlinks:has(.homebanner)
@@ -116,7 +116,7 @@ christmaholic.nl,dbsuriname.com,dewereldmorgen.be,westerwoldeactueel.nl##.g
 classic.nl##div.brievenbus
 classicstogo.nl##.owl-carousel
 clubbrugge.be##.partners
-coastline945fm.nl,elfvoetbal.nl###partners
+coastline945fm.nl,elfvoetbal.nl,fonkonline.nl###partners
 computable.be##.sponsorartikelen
 computable.nl##.sponsored
 crimesite.nl##em:has-text(reclame)
