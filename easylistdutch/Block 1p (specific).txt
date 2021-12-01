@@ -140,6 +140,7 @@
 ||vives.nl/wp-content/uploads/350x*.jpg$image
 ||vives.nl/wp-content/uploads/Banner_
 ||vlietnieuws.nl/wp-content/plugins/custom-banners/*$script,first-party
+||voetbalnederland.nl/img/bravo.gif
 ||voetbalrotterdam.nl/wp-content/uploads/*/soccerdealbanner*$image
 ||voetbaluitslagen.com/wp-content/uploads/*/bet*$image
 ||volleyvlaanderen.be/wp-content/uploads/*Banners*_670x80*$image
