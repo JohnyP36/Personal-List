@@ -1,5 +1,6 @@
 ! 2021-11-
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
+/banners/*$domain=2link.be
 /images/*.gif$image,domain=123video.nl|18plussexdating.nl|30plussexdate.nl|datingsexgids.nl|eroticdate.be|geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukplaza.nl|pornopret.com|privesexgids.nl|sexadvertentiesonline.nl|sexdatingholland.com|sexstartnet.nl|studentesexcontact.nl|tienersexpret.nl|vindsexcontact.nl|vlaanderen-sexdate.be|webcamchicks.net|xxxcontactengids.nl|xxxlivesex.nl|zinineensexdate.com|zinomteneuken.nl
 /images/banners/*$image,domain=abcsuriname.com|deperfecte-sexdate.be|deperfecte-sexdate.nl|drentsnieuws.nl|halstadcentraal.nl|lokaleomroepzeewolde.nl|neukengratis.be|neuk-sexcontact.be|puurnaturisme.nl|racingnews365.nl|risallah.com|schie.nu|sexcontact-xxx.be|sexdate-xxx.be|sexdating4u.be|shemaledaten.net|visserijnieuws.nl|vrouwsex.be
 /images/bdsmsexcontact$image,domain=adulttop50.nl|neukadressen.com|sexadvertentiesonline.nl|sexfotodating.nl|zinineensexdate.com
@@ -15,7 +16,6 @@ kutjes.nl|tiener-sexverhalen.nl|tube.nederlandseporno.nl|tubelight.nl
 /wp-content/uploads/*/Mijn-Zaak$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
 /wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl
 /wp-content/uploads/*rectangle*300*.gif$domain=lflmagazine.nl|linuxmag.nl
-||2link.be/banners/
 ||a.scholieren.com/v/*$image,first-party
 ||a1mediagroep.nl/content/*/company/*/banne*.*?width=290&height=150
 ||aafm.nl/cms/wp-content/themes/omroepalmelo/img/banners/
