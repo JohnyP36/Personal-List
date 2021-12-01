@@ -82,8 +82,8 @@ bdsmbook.nl###random_banner_widget-2
 beeldbelsex.com##.wp-block-column > center:has([data-src*="banners"])
 beeldbelsex.com##[href^="https://islive.com/"]
 beeldbelsex.com##[href^="https://www.twero.com/nl/"]:has(img[src$=".gif"])
-belegger.nl,eurobench.com##.Billboard-wrapper
-belegger.nl,eurobench.com##.Rectangle-wrapper
+belegger.nl,beursonline.nl,eurobench.com##.Billboard-wrapper
+belegger.nl,beursonline.nl,eurobench.com##.Rectangle-wrapper
 belgie-sexcontact.be##.well:has(img[src])
 bellotube.com###exo
 berekenhet.nl##.bh-ads
