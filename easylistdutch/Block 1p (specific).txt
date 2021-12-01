@@ -74,6 +74,7 @@
 ||gowiththevlo.nl/wp-content/uploads/*/va_banner_gwtv.jpg$image
 ||gratis.nl/wp-content/uploads/*/*/*-gratis.png$image
 ||hetnieuwsvandaag.be/media/cache/rectangle_image/media/image/*$image
+||img.iex.nl/uploads/banners/*
 ||inzod.nl/wp-content/uploads/*/*/*.gif$image
 ||kanaancourant.nl/wp-content/uploads/*/*advertentie*
 ||klokradio.nl/wp-content/uploads/*/adv$image
