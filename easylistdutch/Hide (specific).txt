@@ -263,8 +263,12 @@ historiek.net##[id^="custom_html"]:has-text(/Advertentie/i)
 hollywoodhuizen.nl##div[class^="post-content description"] > div[class]:has(.adsbygoogle):not([id])
 hotradiohits.nl###tpl_banners
 hyvesgames.nl##.gamereel_featured-ad
+iex.nl##.billboardwrap
 iex.nl##.ContentPartner
+iex.nl##.js-banner
 iex.nl##.network:has-text(Gesponsorde links)
+iex.nl##.rectanglewrap
+iex.nl##section:has-text(advertentie)
 iexgeld.nl##.LeaderboardContainer
 iexgeld.nl##.Rectangle
 immo.vlan.be###ProvidersBox
