@@ -465,6 +465,7 @@ oops.nl##[src="http://www.oops.nl/banner/bannerindex.html"]
 oops.nl##table[cellspacing="30"]
 oozo.nl##.rcntctr
 openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
+openingstijden.com###adsense_CSA
 openingsurengids.be##.promSB
 opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
 osuradio.nl##.wdslider
