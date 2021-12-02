@@ -10,6 +10,8 @@
 ||cloudfront.net/banners/$domain=eredivisie.nl
 ||clubxmissy.nl/banners/*$image,domain=biertijd.xxx
 ||dating.*.auroraobjects.eu/files/bans/*.gif$image,domain=seksmet.nl|seksverhalen.nl
+||edelmetaal-info.nl/images/$domain=zilverengoudkopen.nl
+||edelmetaal-info.nl/wp-content/uploads/images/$domain=zilverengoudkopen.nl
 ||ent-cdn.com/files/bans/belowvid*40plusengeil$image,domain=vagina.nl
 ||feenstra-internetservices.nl/?_$subdocument,domain=voetbalrotterdam.nl
 ||go2cloud.org/aff_ad?*&format=iframe$subdocument,domain=sexoverzicht.nl|sextube.nl
