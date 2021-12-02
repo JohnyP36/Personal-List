@@ -102,7 +102,7 @@ kutjes.nl|tiener-sexverhalen.nl|tube.nederlandseporno.nl|tubelight.nl
 ||motokicx.com/wp-content/uploads/*Motoshop-*.jpg
 ||nevobo.nl^*/sponsor/$image
 ||ninefornews.nl/wp-content/a-d-s/*
-||ninefornews.nl/wp-content/uploads/*/tetralogie300x250.jpg$image
+||ninefornews.nl/wp-content/uploads/*/tetralogie$image
 ||ninefornews.nl/wp-content/uploads/*/*-300x250-*.jpg$image
 ||noordernieuws.nl/wp-content/uploads/201*/*/*.gif$image
 ||noordkopcentraal.nl/wp-content/uploads/*/*-logo-462x
