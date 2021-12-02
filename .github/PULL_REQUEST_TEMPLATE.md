@@ -28,10 +28,12 @@ To avoid being banned, don't constantly re-open or create new (related) issue re
 
 ### Screenshot(s)
 <!-- [Screenshot(s) for difficult to describe visual issues are **mandatory**. Post links instead of **Inline Images** for Screenshots containing **Adult material**.] -->
-<!-- [Replace %screenshot_url% below with a link to the screenshot of the problem. Also, you can paste image from clipboard instead. It will be automatically loaded.  
+<!-- [Replace `![image](%screenshot_url%)` below with a link to the screenshot of the problem. Also, you can paste image from clipboard instead. It will be automatically loaded.  
 If you have multiple screenshots just copy-paste the 3 line below. Please remove the `x` after screenshot with a number if you uploaded a screenshot.] -->
 <details><summary> screenshot x </summary>
+
 ![image](%screenshot_url%)
+
 </details> 
 
 ### Versions
