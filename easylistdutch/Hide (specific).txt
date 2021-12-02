@@ -175,6 +175,8 @@ dvhn.nl,lc.nl##.main__ad
 dvhn.nl,lc.nl,meppelercourant.nl##.top__ad
 dwtonline.com###banner1
 easyfm.nl###sponsors-carousel
+edelmetaal-info.nl##[id^="text-"]:has(img[src]):has(a[href])
+edelmetaal-info.nl##div[class="portfolio masonry isotope"]
 edestad.nl##.bg-grey.text-center:has-text(/advert/i)
 edestad.nl##.mtb-50.pt-50.col-sm-12.col-lg-12.col-md-12.bg-grey:not(:has(div[class$="text-center"]))
 edestad.nl##.w-300x.RM5
