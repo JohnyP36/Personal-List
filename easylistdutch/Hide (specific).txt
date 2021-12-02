@@ -229,6 +229,8 @@ gezondheid.be###leaderbord
 gezondheid.be##[class^="gz-ads"]
 gfcnieuws.com,historiek.net##div.ai-viewport-1
 gic.nl,kbradio.nl##.banners
+girlpics.nl##.cato_content:not(:has([href]))
+girlpics.nl###cato_top:has-text(/ads/i)
 girlpowerradio.nl##[class*="sponsorcarousel"]
 gld.nl,omroepwest.nl,rtvnoord.nl##.groei-ad
 glutenvrij.nl##.Article__inner > .Article__title:has-text(Advert)
