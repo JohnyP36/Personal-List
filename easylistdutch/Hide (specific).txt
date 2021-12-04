@@ -206,6 +206,7 @@ fhm500.nl##.powered_by_page
 fhm500.nl##.powered_by_profile
 filmtotaal.nl###adf-rectangle
 filmtotaal.nl##.ad-centering
+financialinvestigator.nl##.mpu
 flaironline.nl##.c-commerical_banner
 fleet-mobility.nl##.spotlight
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
