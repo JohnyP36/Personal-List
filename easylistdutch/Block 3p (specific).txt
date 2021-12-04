@@ -18,6 +18,8 @@
 ||inviteonly.nl/banner/*$image,domain=kutscheetje.nl
 ||jobat.be/extra/trackuityhn/ticker_new.html$domain=nieuwsblad.be
 ||media.biertijd.com/galleries/*/banners/$image,third-party
+||media.prdn.nl/retailtrends/images/*banner$domain=retailtrends.nl
+||media.prdn.nl/retailtrends/images/thumbnail_bnr-*$domain=retailtrends.nl
 ||sedproductions.nl/banners/*$image,third-party
 ||sociaaldigitaal.nl/img/Banner-$third-party
 ||static.qmusic.*/acties/qnl-nu-ad/index.html$subdocument,domain=nu.nl
