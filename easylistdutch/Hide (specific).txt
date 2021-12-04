@@ -74,6 +74,7 @@ autozine.nl,beleggersbelangen.nl,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,
 azerty.nl##.block.mod_article > div a[href*="ictwaarborg.nl/"]
 baanwacht.nl##.shailan_banner_widget
 baarsclassicrock.nl##.widebanner
+banknieuws.info##div[class="widget HTML"]
 barneveldsekrant.nl##.w-300x.RM5
 barneveldsekrant.nl##[class] > [id="div-gpt-ad-banner"]:has-text(advertentie)
 barneveldsekrant.nl##div.bg-grey.text-center:has-text(advertentie)
