@@ -210,6 +210,7 @@ flaironline.nl##.c-commerical_banner
 fleet-mobility.nl##.spotlight
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
 folderz.nl,intermediair.nl,spel.nl,spelletjes.nl##.advert
+fondsnieuws.nl##.promo-wrapper
 freesoccer.nl##.container-fluid.site-header
 funnygames.be,funnygames.nl,spele.be,spele.nl##.is-billboard
 funnygames.be,funnygames.nl,spele.be,spele.nl##.is-skyscraper
