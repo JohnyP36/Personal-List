@@ -586,6 +586,7 @@ slam.nl##.holder-ads
 soccernews.nl###r89-mobile-rectangle-mid
 soccernews.nl###r89-takeover
 softonic.nl##.sam-slot
+solarmagazine.nl##.sols
 sozio.nl##.adchannel
 spaargids.be###latest_news_above:has(.sponsored-right-bottom):has([rel="sponsored"])
 speeleiland.nl##.banner-sky
