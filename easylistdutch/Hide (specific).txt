@@ -595,7 +595,7 @@ speeleiland.nl##.leader-below-game
 speeleiland.nl##.row-1-game > :has-text(/advert/i)
 spel.nl,spelletjes.nl##.game-page-sidebar
 spelersvrouw.nl##.widget_text.gridlove-box
-spermatube.be##[id^="text-"]:has(img[src*="hotlinkie.com/"])
+spermatube.be,swingerstube.be##[id^="text-"]:has(img[src*="hotlinkie.com/"])
 sportinnederland.com##.af-main-header-container
 sportinnederland.com##.widget-area:has([id^="custom_html-"]:has(.adsbygoogle))
 spreekbuis.nl##.widget_media_image
