@@ -116,7 +116,7 @@ cabla.nl##.ontwerp_ads
 camping-frankrijk.nl##div[class^="content-home"]:has([id*="HyperLinkBanner"])
 camsexbabe.nl##.d-md-block.d-none.video-sidebar
 camsexbabe.nl##.happy-player-beside
-camsexbabe.nl##.happy-section
+camsexbabe.nl,seks-tube.be##.happy-section
 camsexbabe.nl,mijnpornotube.nl,pornosterneuken.nl,sexdatingtube.be##.video-sidebar
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
 christmaholic.nl,dbsuriname.com,dewereldmorgen.be,westerwoldeactueel.nl##.g
@@ -490,7 +490,7 @@ pcmweb.nl##div.block:has-text(Vacatures)
 petities.com###visible_ad_1
 poepsexfilmstube.nl###tracking-url
 pokeren.nl###onetime-popup
-pornokartel.nl##.video-block-happy
+pornokartel.nl,seks-tube.be##.video-block-happy
 pornokartel.nl##[href*="pornokartel.nl/adverteren"]
 pornolekker.nl##[class^="Scl"]:has([src^="//ads"])
 pornomilf.nl##[id^="custom_html"]:has-text(Hier aanmelden)
