@@ -1,4 +1,4 @@
-! 2021-11-
+! 2021-12-
 !||2link.be/images/nobanner.jpg$image,domain=2news.be|2travel.be|2you.be
 ||agfstorage.blob.core.windows.net/banners/$image,domain=agf.nl|bpnieuws.nl|groentennieuws.nl|uiennieuws.nl
 ||amazonaws.com/zkn/files/*.gif$image,domain=zorgkaartnederland.nl
@@ -18,6 +18,7 @@
 ||go2cloud.org/aff_ad?*&format=iframe$subdocument,domain=sexoverzicht.nl|sextube.nl
 ||inviteonly.nl/banner/*$image,domain=kutscheetje.nl
 ||jobat.be/extra/trackuityhn/ticker_new.html$domain=nieuwsblad.be
+||lustmagazine.nl/mediafiles/*/*_250x250.gif$image,domain=wraaksex.nl
 ||media.biertijd.com/galleries/*/banners/$image,third-party
 ||media.prdn.nl/retailtrends/images/*banner$domain=retailtrends.nl
 ||media.prdn.nl/retailtrends/images/thumbnail_bnr-*$domain=retailtrends.nl
