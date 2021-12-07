@@ -15,7 +15,7 @@ body:
       label: Prerequisites
       description: Check the appropriate boxes before you submit your issue.
       options:
-        - label: This is a **Dutch** domain, so no general websites with Dutch subdomains (e.g. nl.y8.com)
+        - label: This is a **Dutch** domain *(also general websites with Dutch subdomains (e.g. nl.y8.com))*
           required: true
         - label: I performed a [cursory search of the issue tracker](https://github.com/JohnyP36/Personal-List/issues) to avoid opening a duplicate issue
           required: true
