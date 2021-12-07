@@ -1,4 +1,4 @@
-! 2021-11-
+! 2021-12-
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
 /banner/*$domain=retaildetail.be|retaildetail.nl
 /banners/*$domain=2link.be|islive.nl|kavelplatform.nl|metalfan.nl|rtvmaastricht.nl|sexamateurtjes.nl|tradeidee.nl|zilverengoudkopen.nl
@@ -10,7 +10,7 @@
 /voicebericht/assets/images/verdien-geld-met-anoniem-thuiswerk.$image,domain=1on1.nl|beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|sexcamsites.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
 /voicebericht/assets/images/videochat277x$image,domain=beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|sexcamsites.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
 /wp-content/uploads/*.gif$image,domain=2sexcontact.nl|alblasserdamsnieuws.nl|bekijkporno.nl|ciaotutti.nl|dorpsklanken.online|edelmetaal-info.nl|ero-meiden.nl|geilverlangen.nl|hete-foto.nl|kechtube.com|lekkerewebcams.nl|motokicx.com|nieuws.xxx|onschuldigemeiden.nl|pornokartel.nl|regionoordkop.nl|rtvpapendrecht.nl|seksmet.nl|sexmeid.nl
-|shespot.nl|sproeiendekutjes.nl|thekinkyweb.nl|tiener-sexverhalen.nl|tube.nederlandseporno.nl|tubelight.nl
+|shespot.nl|sproeiendekutjes.nl|thekinkyweb.nl|tiener-sexverhalen.nl|tube.nederlandseporno.nl|tubelight.nl|wraaksex.nl
 /wp-content/uploads/*/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|baarsclassicrock.nl|decibel.nl|dekrantvantynaarlo.nl|deoudrotterdammer.nl|destreekkrant.nu|dekrantnieuws.nl|dordtcentraal.nl|goedkoopstekeukensduitsland.nl|katholiek.nl|loemedia.nl|luister.nl|maaslandradio.nl|noordkopcentraal.nl|omroepalmere.nl|oogtv.nl|railhobby.nl|regionoordkop.nl|sleutelstad.nl|spreekbuis.nl|streamwijzer.be|tradeidee.nl
 /wp-content/uploads/*/*-outline-canvas-*.$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
 /wp-content/uploads/*/Mijn-Zaak$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
