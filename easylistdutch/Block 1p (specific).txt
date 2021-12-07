@@ -144,6 +144,7 @@
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
 ||tpo.nl/broodplank/TRU*
+||transport-online.nl/site/includes/uploads/banner-*$image
 ||twentefm.nl/directcast/custom/rtvnot/playout/commercials/
 ||ucl-voetbal.nl/derden/betcity-$image
 ||unitednews.sr/wp-content/plugins/revslider/public/assets/assets/*
