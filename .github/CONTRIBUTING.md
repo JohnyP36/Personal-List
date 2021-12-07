@@ -12,7 +12,7 @@ Old filters which are confirmed to still be required must be moved to the top of
 
 #### Issue number association 
 
-**All** added filters must be associated with a formal issue number or date, example:
+**All** added filters must be associated with a formal issue number or date *(and only I have the right to break this rule)*, example:
 
 ```
 ! https://github.com/JohnyP36/Personal-List/issues/7777 
