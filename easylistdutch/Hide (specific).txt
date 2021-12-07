@@ -1,3 +1,6 @@
+! 2021-12-09 I love to break rules
+/^https\:\/\/executive-people\.nl\/media\/[\d]{6}\/[\d]+\.jpg$/$image
+executive-people.nl##.banner
 ! 2021-11-
 112achterhoek-nieuws.nl###sidebar
 123geldzaken.nl##.widget_sponsor
