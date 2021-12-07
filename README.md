@@ -33,16 +33,11 @@ Because the famous Nano filterlists are archieved I copied the most usefull rule
 ---
 
 ### Subcribe to my filterlists
-- [EasyList Dutch](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/Personal%20List%20(uBo).txt&title=EasylistDutch)
-- [Nano anti-Adblock](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/other%20lists/Nano%20anti-Adblock.txt&title=Nano%20anti-Adblock)
-- [My filters](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/other%20lists/My%20filters.txt&title=My%20filters)
-
-**View and subsrcibe to mirrors (of EasyList Dutch)**<br>
-
-| Mirror 1 | Mirror 2 |
-| :---: | :---: |
-| [View (Combinatronics)](https://www.combinatronics.com/JohnyP36/Personal-List/main/Personal%20List%20(uBo).txt) | [View (Statically)](https://cdn.statically.io/gh/JohnyP36/Personal-List/main/Personal%20List%20(uBo).txt) |
-| [Subscribe (Combinatronics)](https://subscribe.adblockplus.org/?location=https://www.combinatronics.com/JohnyP36/Personal-List/main/Personal%20List%20(uBo).txt&title=EasylistDutch) | [Subscribe (Statically)](https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/JohnyP36/Personal-List/main/Personal%20List%20(uBo).txt&title=EasylistDutch) |
+| *Main* | Mirror 1 | Mirror 2 |
+| :---: | :---: | :---: |
+| 1. **[EasyList Dutch](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/Personal%20List%20(uBo).txt&title=EasylistDutch)** | [Subscribe (Combinatronics)](https://subscribe.adblockplus.org/?location=https://www.combinatronics.com/JohnyP36/Personal-List/main/Personal%20List%20(uBo).txt&title=EasylistDutch) | [Subscribe (Statically)](https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/JohnyP36/Personal-List/main/Personal%20List%20(uBo).txt&title=EasylistDutch) | 
+| 2. **[Nano anti-Adblock](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/other%20lists/Nano%20anti-Adblock.txt&title=Nano%20anti-Adblock)** | |
+| 3. **[My filters](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/other%20lists/My%20filters.txt&title=My%20filters)** | [Subscribe (Combinatronics)](https://subscribe.adblockplus.org/?location=https://www.combinatronics.com/JohnyP36/Personal-List/main/other%20lists/My%20filters.txt&title=Nano%20anti-Adblock) | [Subscribe (Statically)](https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/JohnyP36/Personal-List/main/other%20lists/My%20filters.txt&title=Nano%20anti-Adblock) | 
 
 #### *Support*
 **If you want to buy me a cup of coffee or want to support me, you can donate via [PayPal](https://www.paypal.com/donate?hosted_button_id=8BBT5V55TGVXW)**
