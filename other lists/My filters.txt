@@ -95,9 +95,9 @@ christenenvoorisrael.nl##.diffuse_cookie-bar__container
 freebitco.in##.daily_jackpot_main_container_div
 freebitco.in###deposit_promo_message_regular > .deposit_promo_message_content
 freebitco.in###free_play_payout_table > div[id^="premium"][id*="membership"]
-!gab.com##article[data-id^="gab-ad-status-timeline-injection"]:has-text(/sponsored/i)
-gab.com##article > div > div > [class]:has-text(/Upgrade to GabPRO/i):has(span[class]):has-text(/Please consider supporting/i)
-gab.com##div[class^="_UuSG pwK6B _2I3eh _2z1u_ _33UDc"]:has-text(/sponsored/i):has-text(?)
+!gab.com##article > div > div > [class]:has-text(/Upgrade to GabPRO/i):has(span[class]):has-text(/Please consider supporting/i)
+gab##:not(:matches-path(?:^/home|^/news)) div[class]:has-text(/^Upgrade/i)
+gab##:not(:matches-path(?:^/posts)) div[role="feed"] > a[rel]:contains(Gab)
 instagram.com#$#body { overflow: visible!important; }
 instagram.com##div[class][role="presentation"]:has([role="dialog"] > div[class] > div[class] > div[class] > div[class]:has(h2[class]:has-text(cookies))):has(a[href="/legal/cookies/"])
 instagram.com##article[role="presentation"] > div[class] > div[class] > div[class] > div[class]:has([aria-label*="I"][aria-label*="n"][aria-label*="f"][aria-label*="o"][aria-label*="r"][aria-label*="m"][aria-label*="a"][aria-label*="t"][aria-label*="i"][aria-label*="c"]):not(:has([role="presentation"]))
