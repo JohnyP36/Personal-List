@@ -428,6 +428,7 @@ ninefornews.nl##.widget-top:has-text(/Gesponsorde/i)
 ninefornews.nl##.widget-top:has-text(/Sponsored/i)
 ninefornews.nl##[class*="header-content"] [class="gofollow"][href*="/link/"]
 ninefornews.nl##[id^="text-"]:has(.nfn-target[data-advadsredirect])
+nl.motorsport.com##.ms-hapb
 !nljug.org##div[id*="custom_html"]:has(div[class="widget-top"]):has-text(/partners/i)
 nlsexfilmpjes.com###left_div li:not(:scope > a[target="_blank"])
 nlsexfilmpjes.com###toplist_bodem li:not(:scope > a[target="_blank"])
