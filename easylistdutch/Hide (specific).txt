@@ -578,6 +578,7 @@ sexfun.nl##[href^="https://ads.v1d305.com/redirect/"]
 sexjobs.nl##.banner-wrapper
 sexjobs.nl##div[id^="banner-"]
 sex-kamer.nl##.videoOverAdBig
+sexervaringdelen.com##section[id^="block"]:has([width="300"][height="250"])
 sexpower.nl###pre-footer-banners
 sexpower.nl###top-banner
 sexpunt.nl###top:has(.banner)
