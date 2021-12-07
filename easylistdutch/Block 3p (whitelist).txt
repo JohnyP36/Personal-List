@@ -15,7 +15,7 @@
 @@||img.barilliance.net/widget_img2V2.php$image,domain=feyenoord.nl
 @@||js.spotx.tv/ados/v1/106185.js$script,domain=www.radioluisteren.fm
 @@||lexozfldkklgvc.com/assets/cp/js/webcam_gallery/iframe_handler.js$script,domain=sexmeid.nl
-@@||lexozfldkklgvc.com/cp/webcam_gallery/index.php$subdocument,domain=sexmeid.nl
+@@||lexozfldkklgvc.com/cp/webcam_gallery/index.php$subdocument,domain=sexmeid.nl|sexycamgirls.eu
 @@||media.plista.com^*$image,domain=totaaltv.nl
 @@||nextday.media^$third-party,domain=vi.nl
 @@||plista.com/async$script,domain=totaaltv.nl
