@@ -617,6 +617,7 @@ stubru.be##li:has-text(/advert/i)
 surfplaza.be##td.di1:has(img[src$="/yourad.gif"])
 synoniemen.net##.promoblok
 takecare4.eu###branding > .clearfix
+tcroomburg.nl##.hpitem:has(h3:has-text(Partner))
 techpulse.be##.td-banner-wrap-full
 techzine.nl###lead
 telefoonboek.nl##[class*="organic-"]:has-text(Advertentie)
