@@ -14,7 +14,7 @@ fb*$queryprune=/^(fb_action_ids|fb_actions_types|fb_ref|fb_source|fbclid)/i
 $removeparam=/^(dpg_source|dpg_campaign|dpg_medium|dpg_content|dclid|gclid|gclsrc|guccounter|guce_referrer|guce_referrer_sig|yclid|__twitter_impression)=/
 $removeparam=source,domain=googleusercontent.com
 !||google.*/search,~consent.google.com/ml$queryprune=~/^(q|tbm|chips|tbs)/,domain=google.*
-||google.*/search$removeparam=/^(aqs|bih|biw|client|cshid|dpr|ei|gs_lcp|hl|ie|sa|sclient|source|sourceid|uact|vet|ved)=/
+||google.*/search$removeparam=/^(aqs|bih|biw|client|cshid|dpr|ei|gs_lcp|hl|ie|sa|sclient|source|sourceid|uact|vet|ved)=/,domain=~consent.google.com
 ||google.*^$removeparam=/^(tab)=/
 ||www.google.com/url?$removeparam=ved
 ||youtube.com$queryprune=/(ab_channel|cbr|cbrver|cos|cplatform|delay|feature|kw|tab)/
@@ -39,12 +39,17 @@ youtube.com##ytd-app > ytd-popup-container.ytd-app.style-scope > .ytd-popup-cont
 ||play.google.com/log?$redirect=noop.txt,subdocument,stylesheet,script,xmlhttprequest,other,important
 ||play.google.com/log?format=json$domain=news.google.com,important
 ||youtube.com/api/stats/watchtime?$domain=youtube.com,important
-google.*#@#.commercial-unit-desktop-rhs:not(.mnr-c)
-google.*#@#.commercial-unit-desktop-rhs > div[jscontroller="YD5eo"]
-google.*#@#.cu-container
-google.*#@##center_col > #taw > #tvcap > .cu-container > .commercial-unit-desktop-top
-google.*#@#c-wiz[jsrenderer="YnuqN"] > div > div > .Rn1jbe
-google.*#@#div[jscontroller="U835zd"] + c-wiz[jsrenderer="YnuqN"]
+ google.*#@#.commercial-unit-desktop-rhs:not(.mnr-c)
+ google.*#@#.commercial-unit-desktop-rhs > div[jscontroller="YD5eo"]
+ google.*#@#.cu-container
+ google.*#@#div[jscontroller="U835zd"] + c-wiz[jsrenderer="YnuqN"]
+www.google.*#@#:not(:matches-path(/^/search\?.*tbm=shop|^/shopping/)) *:not([class^="sh-sr__shop-result-group"]) [href^="/aclk"][href$="adurl="]:upward(3)
+www.google.*#@#[href^="https://www.googleadservices.com/pagead/aclk?"][href$="adurl="]:upward(3)
+google.com#@#div[jsdata*="CarouselPLA-"][data-id^="CarouselPLA-"]
+google.*##div[jsdata*="CarouselPLA-"][data-id^="CarouselPLA-"]:not(:has(.Rn1jbe))
+google.com#@#div[data-crl="true"][data-id^="CarouselPLA-"]
+google.*##div[data-crl="true"][data-id^="CarouselPLA-"]:not(:has(.Rn1jbe))
+google.com#@##center_col > #taw > #tvcap > .cu-container > .commercial-unit-desktop-top
 google.*##.USRMqe
   ! Gmail tracking
   /cleardot.gif$image,xhr,redirect=1x1.gif
@@ -53,21 +58,19 @@ google.*##.USRMqe
 www.google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
 google.*##div[class^="gb_"][data-cbh^="consent.google."]
-google.*##div[jscontroller][jsaction]:has([class]:has-text(cookies):has([href*="policies.google.com"]))
-!google.*##body > jsl > .noprint
-!music.youtube.com##.ytmusic-popup-container.style-scope > .ytmusic-popup-container.style-scope
-!translate.google.*,books.google.*##.gb_7
+!google.*##div[jscontroller][jsaction]:has([class]:has-text(cookies):has([href*="policies.google.com"]))
 drive.google.com##[id]:has-text(/gratis/i)
 sites.google.com##div[data-cookie-path][style*="transform"]:has(div):has-text(/site uses cookies/i):has([href*="/cookies/"])
-!youtube.com##iron-overlay-backdrop
 youtube.com##.opened
 youtube.com###clarify-box > .ytd-watch-flexy.style-scope
-!youtube.com#?#ytd-popup-container > paper-dialog:has(> yt-upsell-dialog-renderer > #dialog > #content > yt-formatted-string > a[href^="https://support.google.com/youtube/?p=sign_in"])
 youtube.com###lightbox > #dialog.ytd-consent-bump-v2-lightbox.style-scope
+youtube.com##yt-tooltip-renderer[class$="ytd-popup-container"][position-type]:has(#text:has-text(YouTube)):has(#dismiss-button)
 
 !re-enable scrollbar => ##html:style(overflow: auto !important)  +  ##body:style(overflow: auto !important)
-www.google.*,nsinternational.*##body:style(overflow: auto !important)
-www.google.*,nsinternational.*##html:style(overflow: auto !important)
+nsinternational.*##body:style(overflow: auto !important)
+nsinternational.*##html:style(overflow: auto !important)
+www.google.*##body:style(overflow: visible !important)
+www.google.*##html:style(overflow: visible !important)
 
 !======= y8.com =======!
 !@@||entitlements.jwplayer.com/*.json
