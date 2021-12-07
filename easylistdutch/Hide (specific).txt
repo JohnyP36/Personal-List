@@ -133,6 +133,7 @@ creditexpo.nl##p:has(a[href]):has(img[src*="creditexpo.nl/wp-content/uploads/"][
 crimesite.nl##em:has-text(reclame)
 culturescope.nl##.widget_sp_image:has([onclick^="javascript:window.open("] > img[width][height])
 cumcams.nl##[id^="custom_html"]:has(img[src*="wlresources.com/"])
+dagblad010.nl##.advrow
 dagbladdewest.com##.swiper-wrapper
 dagbladdewest.com##img[width="300"]
 dagelijksestandaard.nl##.wpb_content_element.vc_separator:nth-of-type(4)
