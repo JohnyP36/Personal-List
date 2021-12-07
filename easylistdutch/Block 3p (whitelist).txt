@@ -6,8 +6,8 @@
 @@||affilaxy.com/promos/regforms/generators/sexklik/php/register_form.php$domain=geile-sexcontacten.be|sexdating-vrouwen.be|vrouwen-sexdate.be|vrouwensexdate.nl
 @@||aka.spotxcdn.com/integration/ados/v1/ados.js$script,domain=www.radioluisteren.fm
 @@||aweprt.com/embed/$script,domain=cumcams.nl
-@@||bugleczmoidgxo.com/assets/cp/*/webcam_gallery/*$script,stylesheet,domain=bugleczmoidgxo.com|goedkopewebcamsexs.nl|livesexwebcammeiden.nl|nederlandsewebcamseks.nl
-@@||bugleczmoidgxo.com/cp/webcam_gallery/index.php$domain=bugleczmoidgxo.com|goedkopewebcamsexs.nl|livesexwebcammeiden.nl|nederlandsewebcamseks.nl
+@@||bugleczmoidgxo.com/assets/cp/*/webcam_gallery/*$script,stylesheet,domain=bugleczmoidgxo.com|goedkopewebcamsexs.nl|livesexwebcammeiden.nl|nederlandsewebcamseks.nl|xxxcamlive.nl
+@@||bugleczmoidgxo.com/cp/webcam_gallery/index.php$domain=bugleczmoidgxo.com|goedkopewebcamsexs.nl|livesexwebcammeiden.nl|nederlandsewebcamseks.nl|xxxcamlive.nl
 @@||cdn.spotxcdn.com/integration/easi/v1/easi.js$script,domain=www.radioluisteren.fm
 @@||erossite.com/nsfw/i/banner/*$subdocument,domain=eroticdreams.org
 @@||fwmrm.net/ad/$script,xhr,domain=vtm.be
@@ -33,7 +33,7 @@
 @@||sync.search.spotxchange.com/partner?source=easi$image,domain=www.radioluisteren.fm
 @@||tools.islive.nl/cam*/*.html?$domain=xmissy.nl
 @@||tools.vpscash.nl/datingv3/docs/plug_and_play/islive/*$subdocument,domain=flirtmee.nl|naaktlog.nl
-@@||tools.vpscash.nl/datingv3/docs/plug_and_play/islive/$script,domain=beeldbelsex.com|cumcams.nl|livesexwebcammeiden.nl|nederlandsewebcamseks.nl|seksverhaaltjes.nl|tube.nederlandseporno.nl
+@@||tools.vpscash.nl/datingv3/docs/plug_and_play/islive/$script,domain=beeldbelsex.com|cumcams.nl|livesexwebcammeiden.nl|nederlandsewebcamseks.nl|seksverhaaltjes.nl|tube.nederlandseporno.nl|xxxcamlive.nl
 @@||tools.vpscash.nl/webcams/promo/plug_play_webcams/*$subdocument,domain=beeldbelsex.com
 @@||videoplaza.tv/*/pulse-sdk-html5/*$script,domain=rtl.be
 @@||widgets.spklw.com/v1/data/*$xhr,domain=dagelijksestandaard.nl
