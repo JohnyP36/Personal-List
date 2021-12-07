@@ -7,7 +7,7 @@ To avoid being banned, don't constantly re-open or create new (related) issue re
 ### Prerequisites
 <!-- Check the appropriate boxes before you submit your issue -->
 
-- [ ] This is a **Dutch** domain, so no general websites with Dutch subdomains (e.g. nl.y8.com)
+- [ ] This is a **Dutch** domain *(also general websites with Dutch subdomains (e.g. nl.y8.com)*
 - [ ] I performed a cursory search of the issue tracker to avoid opening a duplicate issue or pull request
     - Your issue may already be reported or someone else already started a pull request.
 - [ ] This is more than **one** issue 
