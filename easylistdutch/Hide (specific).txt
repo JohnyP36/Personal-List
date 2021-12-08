@@ -717,7 +717,7 @@ wijlimburg.nl##.sidebar-partners
 wildfm.nl##img[width="699"][height="90"]
 wintersport.nl##.mq-banner > .never-visited:not(:has-text(/reisverzekering/i))
 wintersport.nl##.mq-banner > div[class*="card"]
-whiskyprijzen.be##.bnr.card
+whiskyprijzen.be,whiskyprijzen.nl##.bnr.card
 wos.nl##.header-right
 xxxdump.nl###reclame-eroads
 zakenreisnieuws.nl##[id^="block-block"]:has([id^="div-gpt-ad"])
