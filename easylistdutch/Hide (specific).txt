@@ -728,6 +728,7 @@ zakenreisnieuws.nl##div[class*="block-block"]:has(.adsbygoogle)
 zeelandnet.nl##.article-bnr-first
 zeelandnet.nl##.as__bottom-banner
 zeelandnet.nl##.bnr-notice
+zeelandnet.nl##.row--bnr-between
 zeelandnet.nl##aside:has([id^="div-gpt-ad"])
 zoom.nl##div[class^="display-ad_container"]
 zuidenvelder.info##.bg-grey.mb-20:has([advobject])
