@@ -96,7 +96,6 @@ freebitco.in##.daily_jackpot_main_container_div
 freebitco.in###deposit_promo_message_regular > .deposit_promo_message_content
 freebitco.in###free_play_payout_table > div[id^="premium"][id*="membership"]
 gab.com##:matches-path(/\/home|\/groups/) span[class]:has-text(/^Upgrade/i):upward(3)
-gab.com##:matches-path(/\/posts/) div[role="feed"] > a[rel]:has(span[class]:has-text(Gab))
 instagram.com#$#body { overflow: visible!important; }
 instagram.com##div[class][role="presentation"]:has([role="dialog"] > div[class] > div[class] > div[class] > div[class]:has(h2[class]:has-text(cookies))):has(a[href="/legal/cookies/"])
 instagram.com##article[role="presentation"] > div[class] > div[class] > div[class] > div[class]:has([aria-label*="I"][aria-label*="n"][aria-label*="f"][aria-label*="o"][aria-label*="r"][aria-label*="m"][aria-label*="a"][aria-label*="t"][aria-label*="i"][aria-label*="c"]):not(:has([role="presentation"]))
