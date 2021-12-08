@@ -5,6 +5,7 @@ dagelijksestandaard.nl#@#.wpInsertInPostAd
 directwonen.nl#@#.top-advert
   focus-wtv.be#@#.sponsored-article
 gratisaftehalen.nl#@#.ads-image
+lesoir.be#@##ultimedia_wrapper
   japan-webike.nl#@#img[class*="img_ad"][data-src*="sale"]
 marktplaats.nl#@#.adSummary
 modekoninginmaxima.nl#@#.after-content-ad
