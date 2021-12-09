@@ -233,6 +233,7 @@ geile-sexverhalen.be##div.well:has-text(/sponser/i)
 geile-sexverhalen.be,geile-sexverhalen.nl###footermiddle > .well:has-text(/advert/i)
 geile-sexverhalen.nl##div.well:has(img[src*="sdcash.nl"])
 geileverhalen.nl##div.author-presentation-container:has([src^="https://go2.go2cloud.org/"])
+geldpedia.nl##[id^="gridlove-module-"]:not(.module-type-posts):not(.module-type-cats)
 gezondheid.be###gz_header:style(margin-top:-120px !important;)
 gezondheid.be###leaderbord
 gezondheid.be##[class^="gz-ads"]
