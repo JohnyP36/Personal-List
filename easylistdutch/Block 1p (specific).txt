@@ -162,6 +162,7 @@
 ||voetbalrotterdam.nl/wp-content/uploads/*/soccerdealbanner*$image
 ||voetbaluitslagen.com/wp-content/uploads/*/bet*$image
 ||volleyvlaanderen.be/wp-content/uploads/*Banners*_670x80*$image
+||vrouwpedia.nl/wp-content/uploads/*/Maxaro-badkamers-tegels.png
 ||waterkant.net/wp-content/*/*/*banner
 ||wereldstopcontacten.nl/wp-content/uploads/*/image-aff-*.jpg
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
