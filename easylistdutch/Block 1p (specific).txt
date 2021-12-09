@@ -95,6 +95,7 @@
 ||onderwijsland.com/files/banners/
 ||onderwijsland.com/files/partners/
 ||palnws.b-cdn.net/wp-content/uploads/*/*/App*ID*
+||manpedia.nl/wp-content/uploads/*/Maxaro-badkamers-tegels.png
 ||menttv.be/wp-content/uploads/*/*.jpg
 ||midvliet.nl/images/advertenties
 ||mo.be/sites/default/files/banners*
