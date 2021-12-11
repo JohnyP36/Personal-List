@@ -4,7 +4,7 @@
 123video.nl##.page-load-switch
 123video.nl##.stunt-wide
 18plussexdating.nl##.homebanner
-1twente.nl,bnnvara.nl,fonkonline.nl,hpdetijd.nl,kieskeurig.nl,ovpro.nl,tubantia.nl##.advertisement
+1twente.nl,bnnvara.nl,fonkonline.nl,hpdetijd.nl,kieskeurig.nl,ovpro.nl,tankpro.nl,tubantia.nl##.advertisement
 247spice.com##.elementor-element-2da19501 + .elementor-element-6406e483
 247spice.com##.slideInLeft.animated:has-text(Advert)
 30plussexdate.nl,ikwilneuken.be,ikwilneuken.net,meidenzoekensex.nl,sexcontactadressen.nl##.nomobile.boxlinks:has(.homebanner)
@@ -623,6 +623,7 @@ surfplaza.be##td.di1:has(img[src$="/yourad.gif"])
 synoniemen.net##.promoblok
 takecare4.eu###branding > .clearfix
 tameteo.nl##div[id*="banner"]:upward(2)
+tankpro.nl##.widget_nlpartners
 tcroomburg.nl##.hpitem:has(h3:has-text(Partner))
 techpulse.be##.td-banner-wrap-full
 techzine.nl###lead
