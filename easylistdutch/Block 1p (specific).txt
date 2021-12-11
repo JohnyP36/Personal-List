@@ -31,6 +31,8 @@
 ||autosport.nl/images/banner
 ||basketbal.vlaanderen/src/*/images/Logo's*$image
 ||basketballbelgium.be/wp-content/uploads/*/970x250*$image
+||belgiancycling.be^*/Logo%27s%20partners/
+||belgiancycling.be/resize.asp?w=120&file=*.gif
 ||bloovi.be/frontend/files/banners/
 ||brandweerspotters.nl/modules/banners/
 ||buzzbie.nl/buzzbanners/*.js$script,first-party
