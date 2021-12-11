@@ -689,6 +689,7 @@ voetbalrotterdam.nl##div[style="max-width: 728px; width: 100%; height: 90px;"]
 voetbalrotterdam.nl##div[style="max-width:300px; width:100%; height:250px;"]
 voetbaluitslagen.com##.cta
 voetbalvandaag.be##.adds
+voetbalvandaag.be##.panel-box:has(a[href^="http://unibet.me/"])
 voetbal-vandaag.nl###sidebar_aanbevelen
 volleybelgium.be##.sponsors
 volleyvlaanderen.be###text-3:has([class^="slider"])
