@@ -149,6 +149,7 @@
 ||transport-online.nl/site/includes/uploads/banner-*$image
 ||twentefm.nl/directcast/custom/rtvnot/playout/commercials/
 ||ucl-voetbal.nl/derden/betcity-$image
+||uecl-voetbal.nl/derden/
 ||unitednews.sr/wp-content/plugins/revslider/public/assets/assets/*
 ||unitednews.sr/wp-content/uploads/*/*/*.gif
 ||vbro.be/wp-content/uploads/*/autoonderdelen24_
