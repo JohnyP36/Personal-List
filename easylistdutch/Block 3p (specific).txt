@@ -23,7 +23,6 @@
 ||media.biertijd.com/galleries/*/banners/$image,third-party
 ||media.prdn.nl/retailtrends/images/*banner$domain=retailtrends.nl
 ||media.prdn.nl/retailtrends/images/thumbnail_bnr-*$domain=retailtrends.nl
-||partner.bol.com/promotion/*/*/partnerProductlink*.js$script,domain=briefjevanjan.nl
 ||sedproductions.nl/banners/*$image,third-party
 ||sociaaldigitaal.nl/img/Banner-$third-party
 ||static.qmusic.*/acties/qnl-nu-ad/index.html$subdocument,domain=nu.nl
