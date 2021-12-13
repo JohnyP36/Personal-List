@@ -189,6 +189,7 @@ edestad.nl##.bg-grey.text-center:has-text(/advert/i)
 edestad.nl##.mtb-50.pt-50.col-sm-12.col-lg-12.col-md-12.bg-grey:not(:has(div[class$="text-center"]))
 edestad.nl##.w-300x.RM5
 eindexamens.nu###leaderboard
+eindtijdklok.org##.widget_block:has(img[src*="/ad"])
 eindtijdklok.org##.wpa
 elegance.nl##div[id^="tdi"] > div[class*="tdi"] > div[class*="tdi"]:has(div[class*="adsbygoogle"])
 elkspel.nl,fiets.nl,fietsactief.nl,knipmode.nl,rootsmagazine.nl,seasons.nl,truckstar.nl,vorsten.nl,zin.nl##.banner-container
