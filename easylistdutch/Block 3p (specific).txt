@@ -12,6 +12,7 @@
 ||dating.*.auroraobjects.eu/files/bans/*.gif$image,domain=seksmet.nl|seksverhalen.nl
 ||edelmetaal-info.nl/images/$domain=zilverengoudkopen.nl
 ||edelmetaal-info.nl/wp-content/uploads/images/$domain=zilverengoudkopen.nl
+||eindtijdchristen.files.wordpress.com/*/ad-$image,domain=eindtijdklok.org
 ||ent-cdn.com/files/bans/belowvid*40plusengeil$image,domain=vagina.nl
 ||feenstra-internetservices.nl/?_$subdocument,domain=voetbalrotterdam.nl
 ||fx.nl/_ext/widget/$third-party
