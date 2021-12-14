@@ -120,7 +120,7 @@ cabla.nl##.ontwerp_ads
 camping-frankrijk.nl##div[class^="content-home"]:has([id*="HyperLinkBanner"])
 camsexbabe.nl##.d-md-block.d-none.video-sidebar
 camsexbabe.nl##.happy-player-beside
-camsexbabe.nl,fucking-tube.com,rapesextube.be,seks-tube.be##.happy-section
+camsexbabe.nl,fucking-tube.com,rapesextube.be,rapetube.be,seks-tube.be##.happy-section
 camsexbabe.nl,mijnpornotube.nl,pornosterneuken.nl,sexbios.net,sexdatingtube.be##.video-sidebar
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
 christmaholic.nl,dbsuriname.com,dewereldmorgen.be,westerwoldeactueel.nl##.g
