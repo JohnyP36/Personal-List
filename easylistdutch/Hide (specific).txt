@@ -286,6 +286,7 @@ hardware.info##.sidebar_right_top
 hartvannederland.nl##[data-testid^="banner"]
 hartvannederland.nl##[data-testid^="homepageAfter"]
 hartvannederland.nl##[data-testid="topBanner"] > [class]
+hdtienersexfilms.nl,poepsexfilmstube.nl,rapetube.eu,tubeseks.be###tracking-url
 heracles.nl##.fixed-ads
 heracles.nl##.footer-blocks
 heracles.nl##.footer-sponsors
@@ -505,7 +506,6 @@ pcmweb.nl##div.block:has([id^="div-gpt-ad"])
 pcmweb.nl##div.block:has-text(Vacatures)
 petities.com###visible_ad_1
 pikanterooieoortjes.nl##.widget_custom_html:has([src^="//aweproto.com/"])
-poepsexfilmstube.nl,rapetube.eu,tubeseks.be###tracking-url
 pokeren.nl###onetime-popup
 pornokartel.nl##[href*="pornokartel.nl/adverteren"]
 pornolekker.nl##[class^="Scl"]:has([src^="//ads"])
