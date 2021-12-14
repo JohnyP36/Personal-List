@@ -229,6 +229,7 @@ gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
 geelfm.be###slider
 geenstijl.nl##.slajeslag
 geenstijl.nl##a[data-ga-event^="link-tip"]
+geenstijl.nl##section[class*="become-premium"]:has(img[src^="https://upload.gscdn.nl/uploads/"][src*="widgets_300x300px"])
 geilefotoverhalen.nl##.widget:has(iframe[src*="/aff_ad?"])
 geile-sexcontacten.be##.card:has([src^="https://www.affilaxy.com/promos//popup/js/pop-under.js"])
 geile-sexcontacten.be##.d-lg-block:has-text(Advert)
