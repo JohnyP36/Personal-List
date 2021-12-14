@@ -248,6 +248,7 @@ girlpics.nl##.cato_content:not(:has([href]))
 girlpics.nl###cato_top:has-text(/ads/i)
 girlpowerradio.nl##[class*="sponsorcarousel"]
 gld.nl,omroepwest.nl,rtvnoord.nl##.groei-ad
+gloednieuw.nl##.vc_raw_html.td_block_wrap.wpb_wrapper
 glutenvrij.nl##.Article__inner > .Article__title:has-text(Advert)
 gocar.be##.pub-leaderboard-top
 goedkoopstekeukensduitsland.nl##[id^="text"]:has(a[href^="https://www.goedkoopstekeukensduitsland.nl"][href$="-bnr"])
