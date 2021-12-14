@@ -505,7 +505,7 @@ pcmweb.nl##div.block:has([id^="div-gpt-ad"])
 pcmweb.nl##div.block:has-text(Vacatures)
 petities.com###visible_ad_1
 pikanterooieoortjes.nl##.widget_custom_html:has([src^="//aweproto.com/"])
-poepsexfilmstube.nl###tracking-url
+poepsexfilmstube.nl,rapetube.eu###tracking-url
 pokeren.nl###onetime-popup
 pornokartel.nl##[href*="pornokartel.nl/adverteren"]
 pornolekker.nl##[class^="Scl"]:has([src^="//ads"])
