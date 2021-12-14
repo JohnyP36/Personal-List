@@ -6,5 +6,6 @@
 @@||rtl.be/videos/player/vp4_webanalytics.js$script,first-party
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||te-les-koop.nl/advertenties.php
+@@||vinatera.be/wp-content/uploads/*_300x600.$image,1p
 @@||zilverengoudkopen.nl/banners/header
 @@||zilverengoudkopen.nl/banners/onder
