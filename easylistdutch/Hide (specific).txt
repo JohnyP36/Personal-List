@@ -90,6 +90,7 @@ bdsmbook.nl###random_banner_widget-2
 beeldbelsex.com##.wp-block-column > center:has([data-src*="banners"])
 beeldbelsex.com##[href^="https://islive.com/"]
 beeldbelsex.com##[href^="https://www.twero.com/nl/"]:has(img[src$=".gif"])
+bejaardensextube.nl,camsexbabe.nl,creampiesex.nl,fucking-tube.com,rapesextube.be,rapetube.be,seks-tube.be##.happy-section
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-wrapper
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
 belgiancycling.be###banner
@@ -120,7 +121,6 @@ cabla.nl##.ontwerp_ads
 camping-frankrijk.nl##div[class^="content-home"]:has([id*="HyperLinkBanner"])
 camsexbabe.nl##.d-md-block.d-none.video-sidebar
 camsexbabe.nl##.happy-player-beside
-camsexbabe.nl,creampiesex.nl,fucking-tube.com,rapesextube.be,rapetube.be,seks-tube.be##.happy-section
 camsexbabe.nl,mijnpornotube.nl,pornosterneuken.nl,sexbios.net,sexdatingtube.be##.video-sidebar
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
 christmaholic.nl,dbsuriname.com,dewereldmorgen.be,westerwoldeactueel.nl##.g
