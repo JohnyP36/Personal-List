@@ -374,6 +374,7 @@ maaslandradio.nl##.slides
 maaslandradio.nl##[id^="media_image"]:has-text(Advertentie)
 maaslandradio.nl###header-text-nav-container > .inner-wrap > .clearfix
 made-in.be###leaderboard_row
+mannenstyle.nl##.widget_execphp
 mariogames.be##.googleadvidx
 mariogames.be##div.gameinfo:has-text(/sponsored links/i)
 marketingtribune.nl###banner-billboard
