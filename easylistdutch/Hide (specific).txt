@@ -260,6 +260,8 @@ golf.be##.header__bottom
 golf.be##.partners-holder
 golf.nl##.c-header__advert-container
 goodbye.be,sporza.be##.advertising
+gooieneembode.nl##div[class]:has( > h4[class*="meest-gelezen"]:has-text(/Uit de krant/i)):has(.krant-onder-web)
+gooieneembode.nl###stickycontents > div[class]:has(a[href][data-source*="banner"])
 gooieneemlander.nl,noordhollandsdagblad.nl,leidschdagblad.nl###advertorial-destination
 gostreaming.nl##a[rel*="sponsored"]
 grandprixradio.nl##[id^="custom_html-"]:has([src^="https://partner.bol.com/"])
