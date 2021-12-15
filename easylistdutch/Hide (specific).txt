@@ -407,6 +407,8 @@ motocrossplanet.nl##div[class*="banner"]
 motocrossplanet.nl##div[class*="col"]:has-text(/advert/i)
 motorfietsblog.nl##.cbcontent
 motorrijdenexpert.nl##div[class*="full-row relative-row"]:has([href]):has([class*="ignore"])
+nailtalk.nl##.ashe-widget
+nailtalk.nl##a[href^="https://partnerprogramma.bol.com/"]
 !nederland.fm###xbtm > .shadow
 !nederland.fm###xttm > .shadow
 nederlandsexdate.nl##.card-header:has-text(Advertentie)
