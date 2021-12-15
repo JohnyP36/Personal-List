@@ -108,6 +108,7 @@ blikopnieuws.nl##.ligatus-sidebar-block
 blikopnieuws.nl##[id^="block-block-"]:has([target="_blank"] > img.media-element)
 bodylifebenelux.nl##.bnrrow
 bokt.nl###frontpage_mediumrect
+bol-an.nl##section[id*="media_image"]:has-text(/sponsors/i)
 bollywood.nl##a[href^="https://www.onderdelenshop24.com/"]
 bollenstreekomroep.nl,omroepspakenburg.nl##.wpb_wrapper[data-td-block-uid^="tdi_"]:has(.owl-item)
 brandweerspotters.nl###banners:has-text(Sponsors)
