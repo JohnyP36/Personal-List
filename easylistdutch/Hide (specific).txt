@@ -179,6 +179,7 @@ dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevec
 duic.nl##.article-excerpt--ad
 dumpert.nl##div[class*="ads_container"][class*="ad_container"]
 dutchitchannel.nl##.banner:has([href*="/bannerclick.html&banner"])
+dutchitchannel.nl##.bannner
 dutchporntube.nl###sidebar > section[id]:has-text(/Zoeken-Kennismaken en Afspreken/i)
 dutchporntube.nl##.entry-header > .button
 dutchporntube.nl##[id^="custom_html"]:has-text(Werelds Beste)
