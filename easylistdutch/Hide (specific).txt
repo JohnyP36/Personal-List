@@ -544,6 +544,8 @@ racingnews365.nl##.homepage-casino-wrapper
 radio0511.com##.sponsorImg
 radio182.nl##section.elementor-element:has(h3:has-text(/mogelijk gemaakt door:/i))
 radioacacia.nl##table[width="680"]:has(img[src^="sponsoren/"])
+radiocontinu.nl##.eskimo-slider-img:upward(5)
+radiocontinu.nl##.eskimo-slider-img:upward(11) + div[class]:has([id^="div-gpt-ad"])
 radioeenhoorn.nl##.module_round_box
 radio-minerva.be###topbanner
 radiomonique.am##.bannerswidget
