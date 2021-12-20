@@ -52,6 +52,7 @@
 ||ciaotutti.nl/wp-content/uploads/*/villa-in-umbria-vakantie*$image
 ||clubbrugge.be^*/partner/$image
 ||coastline945fm.nl/cache/partners/
+||coastlinefm.nl/cache/partners/
 ||commonsensetv.nl/wp-content/uploads/*/ezgif.com-gif-maker*.gif$image
 ||creditexpo.nl/wp-content/uploads/*/*_400x400*.jpg
 ||dagbladdewest.com/wp-content/uploads/*/*_300x250px.*$image
