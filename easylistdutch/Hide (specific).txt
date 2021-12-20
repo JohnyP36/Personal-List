@@ -513,7 +513,7 @@ opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
 osuradio.nl##.wdslider
 ovpro.nl##.widget_nlpartners:has(.adv)
 paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
-palnws.be##div[id*="media][id*="image"]:has-text(/advert/i)
+palnws.be##div[id*="media_image"]:has-text(/advert/i)
 parool.nl,trouw.nl##.ad--section
 pcmweb.nl##.site__sidebar > .block:has(div.banner)
 pcmweb.nl##div.block:has([id^="div-gpt-ad"])
