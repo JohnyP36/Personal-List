@@ -129,7 +129,7 @@ cip.nl##a[href*="/ad/click/"]:not(.podcast-inline a[href])
 classic.nl##div.brievenbus
 classicstogo.nl##.owl-carousel
 clubbrugge.be##.partners
-coastline945fm.nl,elfvoetbal.nl,fonkonline.nl###partners
+coastline945fm.nl,coastlinefm.nl,elfvoetbal.nl,fonkonline.nl###partners
 computable.be##.sponsorartikelen
 computable.nl##.sponsored
 creditexpo.nl##p:has(a[href]):has(img[src*="creditexpo.nl/wp-content/uploads/"][width="300"]))
