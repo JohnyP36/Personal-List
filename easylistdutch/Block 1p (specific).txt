@@ -130,6 +130,7 @@
 ||psv.nl/upload/*SponsorVrouwenGOED-300x75.jpg$image
 ||racexpress.nl/advertising/
 ||radioacacia.nl/sponsoren/
+||radionl.fm^*/Maxiaxi_front.jpg
 ||radionl.fm/wp-content/uploads/*/Maxiaxi_sidebar
 ||radiovisie.eu/wp-content/banners/*970x250.$image
 ||regioonline.nl/wp-content/uploads/*/*-Ads.*
