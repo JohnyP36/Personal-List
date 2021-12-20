@@ -144,6 +144,7 @@
 ||solarmagazine.nl/u/edwin/
 ||sproeiendekutjes.nl/wp-content/uploads/*/erotiek-com-*.gif
 ||sproeiendekutjes.nl/wp-content/uploads/*/spannende-afspraakjes.webm$media,first-party
+||static1.qmusic.medialaancdn.*/*/*_Banner_840x250
 ||swpportal.com/upload/squarebanners/
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||tennisvlaanderen.be/documents/*/19Sponsorblok-$image
