@@ -18,6 +18,7 @@
 @@||js.spotx.tv/ados/v1/106185.js$script,domain=www.radioluisteren.fm
 @@||lexozfldkklgvc.com/assets/cp/js/webcam_gallery/iframe_handler.js$script,domain=sexmeid.nl
 @@||lexozfldkklgvc.com/cp/webcam_gallery/index.php$subdocument,domain=sexmeid.nl|sexycamgirls.eu
+@@||massariuscdn.com/pubs/radionl/radionl_hb_setup.js$script,domain=radio.nl
 @@||media.plista.com^*$image,domain=totaaltv.nl
 @@||nextday.media^$third-party,domain=vi.nl
 @@||plista.com/async$script,domain=totaaltv.nl
