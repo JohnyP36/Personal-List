@@ -12,7 +12,7 @@
 /voicebericht/assets/images/videochat277x$image,domain=beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|sexcamsites.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
 /wp-content/uploads/*.gif$image,domain=2sexcontact.nl|alblasserdamsnieuws.nl|bekijkporno.nl|ciaotutti.nl|dorpsklanken.online|edelmetaal-info.nl|ero-meiden.nl|geilverlangen.nl|hete-foto.nl|kechtube.com|lekkerewebcams.nl|motokicx.com|nieuws.xxx|onschuldigemeiden.nl|pornokartel.nl|regionoordkop.nl|rtvpapendrecht.nl|seksmet.nl|sexmeid.nl
 |shespot.nl|sproeiendekutjes.nl|thekinkyweb.nl|tiener-sexverhalen.nl|tube.nederlandseporno.nl|tubelight.nl|wraaksex.nl
-/wp-content/uploads/*/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|baarsclassicrock.nl|bol-an.nl|decibel.nl|dekrantvantynaarlo.nl|deoudrotterdammer.nl|destreekkrant.nu|dekrantnieuws.nl|dordtcentraal.nl|goedkoopstekeukensduitsland.nl|katholiek.nl|loemedia.nl|luister.nl|maaslandradio.nl|mannennieuws.nl|noordkopcentraal.nl|omroepalmere.nl|oogtv.nl|radiocontinu.nl|railhobby.nl|regionoordkop.nl|sleutelstad.nl|spreekbuis.nl|streamwijzer.be|tradeidee.nl
+/wp-content/uploads/*/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|baarsclassicrock.nl|bol-an.nl|decibel.nl|dekrantvantynaarlo.nl|deoudrotterdammer.nl|destreekkrant.nu|dekrantnieuws.nl|dordtcentraal.nl|goedkoopstekeukensduitsland.nl|katholiek.nl|loemedia.nl|luister.nl|maaslandradio.nl|mannennieuws.nl|noordkopcentraal.nl|omroepalmere.nl|oogtv.nl|radiocontinu.nl|railhobby.nl|regionoordkop.nl|simone.nl|sleutelstad.nl|spreekbuis.nl|streamwijzer.be|tradeidee.nl
 /wp-content/uploads/*/*-outline-canvas-*.$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
 /wp-content/uploads/*/Mijn-Zaak$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
 /wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl
@@ -140,6 +140,9 @@
 ||sexchatlounge.nl/bannerlinks.html$subdocument
 ||sexchatlounge.nl/bannerrechts.html$subdocument
 ||shespot.nl/wp-content/uploads/*/womanizer-*.jpg$image
+||simone.nl/wp-content/uploads/*/*-besteonderdelen.nl-
+||simone.nl/wp-content/uploads/*/*-onderdelenexpert.nl-
+||simone.nl/wp-content/uploads/*/*tijdelijkkkkk.png
 ||sleutelstad.nl/wp-content/uploads/*/*Kerst.gif
 ||sleutelstad.nl/wp-content/uploads/*/Zooma*.jpg
 ||solarmagazine.nl/u/edwin/
@@ -312,8 +315,6 @@
 ||sexcontactadressen.nl/assets/img/*.gif$image
 ||sexervaringendelen.nl/porno/$image
 ||sexverhalen.com/vriendschap/
-||simone.nl/bestanden/afbeelding/*-banner-
-||simone.nl/bestanden/afbeelding/banner/
 ||speurdeals.nl/uploads/banners$image
 ||spike-source.com/wp-admin/admin-ajax.php?action=select&p=onder-filmpje$subdocument
 ||spike-source.com/wp-admin/admin-ajax.php?action=select&p=rechts-menu-onder$subdocument
