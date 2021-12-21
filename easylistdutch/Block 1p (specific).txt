@@ -120,6 +120,7 @@
 ||noordkopcentraal.nl/wp-content/uploads/*/*-logo-462x
 ||noordkopcentraal.nl/wp-content/uploads/*/Boersen-Logo-*
 ||notebookcheck.nl/fileadmin/Sonstiges/am_$xmlhttprequest
+||nzbindex.nl/img/i/$image,first-party
 ||persberichten.com/Images/Banners/
 ||persberichten.com/Images/marcommit/
 ||persinfo.org/assets/images/pictures/ad/
