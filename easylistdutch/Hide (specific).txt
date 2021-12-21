@@ -1,4 +1,4 @@
-! 2021-11-
+! 2021-12-
 112achterhoek-nieuws.nl###sidebar
 123geldzaken.nl##.widget_sponsor
 123video.nl##.page-load-switch
@@ -478,6 +478,7 @@ nu.nl##a[href*="/advertorial-"]
 nu.nl##div.articlelist[data-section="advertorial-belastingdienst-adverteerder"]
 nu.nl##aside#h1
 nuus.be##.widget-area.sidebar:has([data-advadstrackid])
+nzbindex.nl##.inner:has(a[href])
 oisterwijknieuws.nl###left-sidebar
 oisterwijknieuws.nl###right-sidebar
 oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
