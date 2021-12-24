@@ -73,6 +73,9 @@
 ||fhm500.nl/wp-content/themes/fhm500/img/tabac/*
 ||fiets.nl/app/uploads/*Webbanner-*
 ||flexnieuws.nl/wp-content/uploads/*/Naamloos-*.png$image
+!||floranews.com/img/banner/
+||floranews.com/img/banner/Palletcentrale
+||floranews.com/img/banner/Topbanner-
 ||fonkonline.nl/adds/
 ||gic.nl/uploads/fckconnector/
 ||gigantfm.nl/upload/20170420110645812.jpg$image
