@@ -306,6 +306,8 @@ hetkrantje-online.nl##.adUnderArticle
 historiek.net###before-header
 historiek.net##.code-block:has-text(advertentie)
 historiek.net##[id^="custom_html"]:has-text(/Advertentie/i)
+hoekschnieuws.nl##.widget[class^="td_block_template"]:has-text(/Advert/i)
+hoekschnieuws.nl##body > center:has(a[href]:has(img))
 hollywoodhuizen.nl##div[class^="post-content description"] > div[class]:has(.adsbygoogle):not([id])
 hotradiohits.nl###tpl_banners
 hyvesgames.nl##.gamereel_featured-ad
