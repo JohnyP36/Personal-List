@@ -227,6 +227,8 @@ filmtotaal.nl##.ad-centering
 financialinvestigator.nl##.mpu
 flaironline.nl##.c-commerical_banner
 fleet-mobility.nl##.spotlight
+floranews.com##td[align="center"]:has(> hr):has([href^="/banner"])
+floranews.com##td[rowspan="2"][width="590"]:has(a[href^="/banner"])
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
 folderz.nl,intermediair.nl,spel.nl,spelletjes.nl##.advert
 fondsnieuws.nl##.promo-wrapper
