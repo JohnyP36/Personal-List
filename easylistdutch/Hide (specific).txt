@@ -218,6 +218,8 @@ fcutrecht.nl##.has-toto-banners.container > .columns
 fcutrecht.nl##.is-uppercase.is-3:has-text(/interessante deals/i)
 fd.nl##.fd-message-home-header
 feyenoord.nl##.totoOdds
+feyenoordpings.nl##.bn__wrapper
+feyenoordpings.nl##.footer__partners
 fhm500.nl##.powered_by_page
 fhm500.nl##.powered_by_profile
 filmtotaal.nl###adf-rectangle
