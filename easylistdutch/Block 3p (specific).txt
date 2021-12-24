@@ -5,6 +5,7 @@
 ||b-cdn.net/w_/s3-roulettefm/*.$image,domain=roulettefm.nl
 ||b-cdn.net/w_/s3-rtvstichtsevecht/*.$image,domain=rtvstichtsevecht.nl
 ||blob.core.windows.net/*/content/regiovoetbal/*_banner.*$image,domain=regio-voetbal.nl
+||bnmedia.jentcdn.net/media/*/shared/*/fm/*/1*_*.png$domain=feyenoordpings.nl
 ||cdn.agf.nl/nieuws/gif-jpg/*.gif$image,domain=groentennieuws.nl|uiennieuws.nl
 ||cdn.shopsuite.com/js/layer.js$script,domain=franska.nl
 ||cloudfront.net/-/media/6-parnerships/$domain=feyenoord.nl
