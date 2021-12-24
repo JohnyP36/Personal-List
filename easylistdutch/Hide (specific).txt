@@ -185,6 +185,7 @@ dutchitchannel.nl##.bannner
 dutchporntube.nl###sidebar > section[id]:has-text(/Zoeken-Kennismaken en Afspreken/i)
 dutchporntube.nl##.entry-header > .button
 dutchporntube.nl##[id^="custom_html"]:has-text(Werelds Beste)
+duurzaamnieuws.nl##.adv-link
 dvhn.nl,lc.nl##.main__ad
 dvhn.nl,lc.nl,meppelercourant.nl##.top__ad
 dwtonline.com###banner1
