@@ -12,7 +12,7 @@
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,goedgevoel.be,hln.be,pzc.nl,tubantia.nl##.dfp-space
 7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,hln.be##.page-header__section--spacer
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(:scope >.ankeiler--advertisement)
-a1mediagroep.nl,fanclubbarcelona.nl###banners
+a1mediagroep.nl,coc.nl,fanclubbarcelona.nl###banners
 aafm.nl##[class^="block"]:has(img[src*="aafm.nl/cms/wp-content/themes/omroepalmelo/img/banners/"])
 adultwebmaster.nl##.main-promo-bn-responsive
 afkortingen.nu###banner_rectangle
