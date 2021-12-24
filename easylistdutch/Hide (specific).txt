@@ -104,6 +104,7 @@ biernet.nl###ban_blok
 biernet.nl###BJA3
 biertijd.xxx###sidebarcontainer > h2:not(:has-text(/bierbroeders/i)):not(:has-text(partners))
 biflatie.nl##div[class*="elementor-widget-button"]:has-text(Advert)
+bitcoinmagazine.nl##div[style="height:52px;"]
 blikopnieuws.nl##.ligatus-sidebar-block
 blikopnieuws.nl##[id^="block-block-"]:has([target="_blank"] > img.media-element)
 bodylifebenelux.nl##.bnrrow
