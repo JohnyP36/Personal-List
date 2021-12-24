@@ -55,6 +55,7 @@
 ||coastlinefm.nl/cache/partners/
 ||commonsensetv.nl/wp-content/uploads/*/ezgif.com-gif-maker*.gif$image
 ||creditexpo.nl/wp-content/uploads/*/*_400x400*.jpg
+||curacao.nu/wp-content/uploads/*/*620x120*.gif
 ||dagbladdewest.com/wp-content/uploads/*/*_300x250px.*$image
 ||dagbladdewest.com/wp-content/uploads/*/*-AD*.jpg$image
 ||dagbladdewest.com/wp-content/uploads*/*728x90px*.jpg$image
