@@ -135,6 +135,7 @@ computable.be##.sponsorartikelen
 computable.nl##.sponsored
 creditexpo.nl##p:has(a[href]):has(img[src*="creditexpo.nl/wp-content/uploads/"][width="300"]))
 crimesite.nl##em:has-text(reclame)
+cryptosjop.nl##[id^="custom_html-"]:has(.bitvavo-widget)
 culturescope.nl##.widget_sp_image:has([onclick^="javascript:window.open("] > img[width][height])
 cumcams.nl##[id^="custom_html"]:has(img[src*="wlresources.com/"])
 dagblad010.nl##.advrow
