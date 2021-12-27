@@ -241,6 +241,10 @@ fucking-tube.com,pornokartel.nl,seks-tube.be##.video-block-happy
 funnygames.be,funnygames.nl,spele.be,spele.nl##.is-billboard
 funnygames.be,funnygames.nl,spele.be,spele.nl##.is-skyscraper
 gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
+gaynews.nl##.telefoon_verberg
+gaynews.nl##[id^="abri"]
+gaynews.nl##[class^="va"]:has([class*="banner"])
+gaynews.nl##a[href^="/_global/_cp.php?"]
 geelfm.be###slider
 geenstijl.nl##.slajeslag
 geenstijl.nl##a[data-ga-event^="link-tip"]
