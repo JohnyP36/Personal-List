@@ -181,6 +181,8 @@ drentsnieuws.nl###g-header:has(img[src$=".gif"])
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 duic.nl##.article-excerpt--ad
 dumpert.nl##div[class*="ads_container"][class*="ad_container"]
+dutchcryptotalk.com##[id^="media_image"]:has([href*="/bitvavo"])
+dutchcryptotalk.com##div[id^="dutch-"]:has(a[href^="https://bitvavo.com/"])
 dutchitchannel.nl##.banner:has([href*="/bannerclick.html&banner"])
 dutchitchannel.nl##.bannner
 dutchporntube.nl###sidebar > section[id]:has-text(/Zoeken-Kennismaken en Afspreken/i)
