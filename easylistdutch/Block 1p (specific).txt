@@ -64,6 +64,7 @@
 ||denachtvlinders.nl/wp-content/uploads/*/*/bol*.gif
 ||despirituelewereld.be/wp-content/uploads/*/DrukZo-Korting-*.jpg
 ||dewereldmorgen.be/wp-content/banners/*
+||dutchcryptotalk.com/wp-content/uploads/*/bitvavo
 ||dutchitchannel.nl/6*?field=Binary1$image
 ||duurzaamnieuws.nl/wp-content/uploads/*/meewind*
 ||edelmetaal-info.nl/cdfund-*.html
