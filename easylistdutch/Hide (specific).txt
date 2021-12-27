@@ -335,6 +335,7 @@ itdaily.be###itdaily-article-top
 itdaily.be###itdaily-article-sidebar
 itdaily.be###itdaily-footer
 itnijs.frl##.widget > .banner
+itwm.nl##[id^="tdi_"].tdc-row:has-text(Casino)
 jammfm.nl##.owl-carousel:has(.sa_hover_container):has([style*="/banner"])
 jammfm.nl##.vc_row-flex.vc_row[style*="width: 1578px;"]:has(.qt-sponsor)
 jan-magazine.nl##.homepage-marquee
