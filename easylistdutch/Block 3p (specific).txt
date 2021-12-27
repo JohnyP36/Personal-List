@@ -12,6 +12,7 @@
 ||cloudfront.net/-/media/6-parnerships/$domain=feyenoord.nl
 ||cloudfront.net/banners/$domain=eredivisie.nl
 ||clubxmissy.nl/banners/*$image,domain=biertijd.xxx
+||cryptoprijzen.com/cryptoprijzen-widget/$domain=cryptobenelux.com
 ||dating.*.auroraobjects.eu/files/bans/*.gif$image,domain=seksmet.nl|seksverhalen.nl
 ||edelmetaal-info.nl/images/$domain=zilverengoudkopen.nl
 ||edelmetaal-info.nl/wp-content/uploads/images/$domain=zilverengoudkopen.nl
