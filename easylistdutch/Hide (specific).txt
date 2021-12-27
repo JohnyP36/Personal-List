@@ -417,6 +417,7 @@ marokko.nl###ad-rec-btf
 marokko.nl##.ad_between
 marokko.nl##.ad_inner
 mediacourant.nl##.mc-adv
+meerdangewenst.nl##[class*="footer-section"]:has(.sponsoren)
 meerradio.nl##.grijze-balk:has-text(Advert)
 meerradio.nl##div[id="pristineslider.12"]
 menttv.be##.cta-container
