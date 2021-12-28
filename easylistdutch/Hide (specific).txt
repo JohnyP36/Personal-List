@@ -577,6 +577,7 @@ radiozenders.fm##.marqueeItem:has(a[href^="https://partner.bol.com/"])
 rd.nl##.codalt-container
 rd.nl##.infotainment:has(a[href^="/advert"])
 rd.nl##.rdnl__adds
+redbot.frl###content .container:has(.twelvecol:has-text(partners))
 reformatorischeomroep.nl##.item-banner
 refoweb.nl##.bannercontainer
 regionoordkop.nl##.regio-widget
