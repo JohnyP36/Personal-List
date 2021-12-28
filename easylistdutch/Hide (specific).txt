@@ -228,6 +228,7 @@ feyenoordpings.nl##.bn__wrapper
 feyenoordpings.nl##.footer__partners
 fhm500.nl##.powered_by_page
 fhm500.nl##.powered_by_profile
+fierljeppenwinsum.frl##.gdlr-sidebar:has-text(sponsoren)
 filmtotaal.nl###adf-rectangle
 filmtotaal.nl##.ad-centering
 financialinvestigator.nl##.mpu
