@@ -10,7 +10,6 @@
 @@||bugleczmoidgxo.com/cp/webcam_gallery/index.php$domain=bugleczmoidgxo.com|camsexgirls.nl|cumcamsgirls.nl|goedkopewebcamsexs.nl|gratiscamsexchat.nl|livesexwebcammeiden.nl|meidenvoorthuisontvangst.nl|nederlandsewebcamseks.nl|nlwebcambabes.nl|webcamxxxlive.nl|xxxcamlive.nl
 @@||cdn.spotxcdn.com/integration/easi/v1/easi.js$script,domain=www.radioluisteren.fm
 @@||erossite.com/nsfw/i/banner/*$subdocument,domain=eroticdreams.org
-@@||fwmrm.net/ad/$script,xhr,domain=vtm.be
 @@||go2.go2cloud.org/aff_ad$popup,domain=tools.vpscash.nl
 @@||hb.improvedigital.com/pbw/headerlift.min.js$script,domain=spelletjes.nl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=sportnieuws.nl
