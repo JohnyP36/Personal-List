@@ -130,6 +130,7 @@
 ||noordkopcentraal.nl/wp-content/uploads/*/Boersen-Logo-*
 ||notebookcheck.nl/fileadmin/Sonstiges/am_$xmlhttprequest
 ||nzbindex.nl/img/i/$image,first-party
+||peoplesphere.be/img/logo/financemanagement.png$image
 ||persberichten.com/Images/Banners/
 ||persberichten.com/Images/marcommit/
 ||persinfo.org/assets/images/pictures/ad/
