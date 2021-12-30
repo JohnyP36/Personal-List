@@ -239,6 +239,7 @@ floranews.com##td[rowspan="2"][width="590"]:has(a[href^="/banner"])
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
 folderz.nl,intermediair.nl,spel.nl,spelletjes.nl##.advert
 fondsnieuws.nl##.promo-wrapper
+forum.scholieren.com###posts .thead:has-text(/advert/i)
 freesoccer.nl##.container-fluid.site-header
 franska.nl###shopsuiteApplication
 fucking-tube.com,pornokartel.nl,seks-tube.be##.video-block-happy
