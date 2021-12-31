@@ -34,6 +34,7 @@
 @@||prtawe.com/embed/tbplyr/*$script,domain=camsexbabe.nl
 @@||pt.protoawe.com/embed/tbplyr/*$script,domain=lekkerewebcams.nl|gratispornofilm.nl|teen-sex.nl
 @@||ptwmstc.com/*/tube-player/script/*$script,domain=pt.potwm.com
+@@||quantcast.mgr.consensu.org/tcfv2/cmp2.js$script,domain=clint.be
 @@||search.spotxchange.com/js/spotx.js$script,domain=www.radioluisteren.fm
 @@||securepubads.g.doubleclick.net/gpt/pubads_$script,domain=allestoringen.*
 @@||sync.search.spotxchange.com/partner?source=easi$image,domain=www.radioluisteren.fm
