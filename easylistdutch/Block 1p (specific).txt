@@ -63,6 +63,7 @@
 ||debestevpn.nl/wp-content/*-banner.
 ||denachtvlinders.nl/wp-content/uploads/*/*/bol*.gif
 ||despirituelewereld.be/wp-content/uploads/*/DrukZo-Korting-*.jpg
+||detelefoongids.nl/img/youvia-banner/banner
 ||dewereldmorgen.be/wp-content/banners/*
 ||dutchcryptotalk.com/wp-content/uploads/*/bitvavo
 ||dutchitchannel.nl/6*?field=Binary1$image
