@@ -145,6 +145,7 @@
 ||radionl.fm/wp-content/uploads/*/Maxiaxi_sidebar
 ||radiovisie.eu/wp-content/banners/*970x250.$image
 ||regioonline.nl/wp-content/uploads/*/*-Ads.*
+||reliwiki.nl/images/*banner
 ||rtvdordrecht.nl/cwm/fm/userfiles/banner/*
 ||rtvlansingerland.nl/wp-content/uploads/*/Zorgvilla.gif
 ||seks.com/img/*.gif$image
