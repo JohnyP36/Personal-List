@@ -1,4 +1,4 @@
-! 2021-12-
+! 2021/2022
 112achterhoek-nieuws.nl###sidebar
 123geldzaken.nl##.widget_sponsor
 123video.nl##.page-load-switch
@@ -352,6 +352,8 @@ itwm.nl##[id^="tdi_"].tdc-row:has-text(Casino)
 jammfm.nl##.owl-carousel:has(.sa_hover_container):has([style*="/banner"])
 jammfm.nl##.vc_row-flex.vc_row[style*="width: 1578px;"]:has(.qt-sponsor)
 jan-magazine.nl##.homepage-marquee
+janvissersweer.nl##[id^="custom_html-"]:has([src^="https://pagead2.googlesyndication.com/"])
+janvissersweer.nl##.post:has-text(Sponsor)
 kanaalxxx.nl##.fpbnr
 keizerstad.nl##[id^="media_image"]
 kekmama.nl##.cts-row-wrapper
