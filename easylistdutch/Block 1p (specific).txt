@@ -1,4 +1,4 @@
-! 2021-12-
+! 2021/2022
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
 /^https\:\/\/executive-people\.nl\/media\/\d{6}\/\d+\.jpg$/$image
 /banner/*$domain=hoekschnieuws.nl|retaildetail.be|retaildetail.nl
@@ -173,6 +173,9 @@
 ||tijd.be/ad/
 ||tpo.nl/broodplank/TRU*
 ||transport-online.nl/site/includes/uploads/banner-*$image
+||truck1.be/st2/banners/$subdocument
+||truck1-nl.be/st2/banners/$subdocument
+||truck1.nl/st2/banners/$subdocument
 ||twentefm.nl/directcast/custom/rtvnot/playout/commercials/
 ||ucl-voetbal.nl/derden/betcity-$image
 ||uecl-voetbal.nl/derden/
