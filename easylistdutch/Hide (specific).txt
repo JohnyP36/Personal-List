@@ -631,14 +631,15 @@ seksmet.nl##.et_pb_text:has(div[class] > center > a[href^="https://landing.brazz
 seksmet.nl##.et_pb_text:has(div[class] > center > a[href]):not(:has(h3.heading.more))
 seksmet.nl##[href^="https://dt51.net/"]
 seksverhalen.org##header:style(height:100px !important;)
+sex-kamer.nl##.videoOverAdBig
 sexafspraakonline.nl##.d-lg-block.d-none > .card:has-text(Advert)
 sexcam-mokkels.nl,tellows.nl##.entry-content > div
 sexdating-vrouwen.be##.moduletable:has-text(/Advertentie/i):not(#aside > :has(iframe[data-src*="affilaxy.com"])):not(:has-text(/vrouwen/i))
+sexervaringdelen.com##center > center:has(iframe[width="900"][height="250"])
+sexervaringdelen.com##section[id^="block"]:has([width="300"][height="250"])
 sexfun.nl##[href^="https://ads.v1d305.com/redirect/"]
 sexjobs.nl##.banner-wrapper
 sexjobs.nl##div[id^="banner-"]
-sex-kamer.nl##.videoOverAdBig
-sexervaringdelen.com##section[id^="block"]:has([width="300"][height="250"])
 sexpower.nl###pre-footer-banners
 sexpower.nl###top-banner
 sexpunt.nl###top:has(.banner)
