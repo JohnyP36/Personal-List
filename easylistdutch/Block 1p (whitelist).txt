@@ -1,11 +1,11 @@
 @@/images/volgende.gif$image,1p,domain=privesexgids.nl|sexdatingholland.com|studentesexcontact.nl|tienersexpret.nl|zinomteneuken.nl
 @@||dekrantvantoen.nl/resources/*/images/*_336x120.$image
-@@||girlpics.nl/images/ads_$image,1p
+@@||girlpics.nl/images/ads_$image,first-party
 @@||naaktkrant.nl/media/*/*-gifs-*.gif$image,first-party
 @@||privesexgids.nl/images/webcamsex.gif$image
 @@||rtl.be/videos/player/vp4_webanalytics.js$script,first-party
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||te-les-koop.nl/advertenties.php
-@@||vinatera.be/wp-content/uploads/*_300x600.$image,1p
+@@||vinatera.be/wp-content/uploads/*_300x600.$image,first-party
 @@||zilverengoudkopen.nl/banners/header
 @@||zilverengoudkopen.nl/banners/onder
