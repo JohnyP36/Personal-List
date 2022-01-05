@@ -1,6 +1,6 @@
 ! 2022 
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=dailybuzz.nl|sportnieuws.nl
-@@||massariuscdn.com/pubs/*/*_hb_setup.js$script,domain=dailybuzz.nl|radio.nl
+@@||massariuscdn.com/pubs/*/*_hb_setup.js$script,domain=dailybuzz.nl|radio.nl|welingelichtekringen.nl
 ! 2021-12-29 https://github.com/uBlockOrigin/uAssets/issues/11039
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=dagelijksekost.een.be
 @@||shared.mediahuis.be/ka-ching/prebid.js$script,domain=dagelijksekost.een.be
