@@ -5,7 +5,6 @@ bokt.nl#@#.node-ad
  !audiobookbay.nl#@#[href^="/down-"]
 dagelijksestandaard.nl#@#.wpInsertInPostAd
 directwonen.nl#@#.top-advert
-  focus-wtv.be#@#.sponsored-article
 gratisaftehalen.nl#@#.ads-image
 lesoir.be#@##ultimedia_wrapper
 marktplaats.nl#@#.adSummary
