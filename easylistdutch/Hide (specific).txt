@@ -1,7 +1,7 @@
 ! 2022
 ajaxreport.nl##[id^="text"][class$="sidebar-widget"]:has-text(/casino/i):not(:has(div[class="widget-title"]))
-ajaxreport.nl##.widget_links
-ajaxreport.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="voetbalwedden.net"][target="_blank"])
+ajaxreport.nl,feyenoordreport.nl##.widget_links
+ajaxreport.nl,feyenoordreport.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="voetbalwedden.net"][target="_blank"])
 ! 2021
 112achterhoek-nieuws.nl###sidebar
 123geldzaken.nl##.widget_sponsor
