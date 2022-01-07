@@ -15,7 +15,7 @@ paginamarkt.nl#@#.advertentie
 sexervaringdelen.com#@#.footer-ad
 sexverhalen.com#@#.widget_ads
   speurders.nl#@#.ad_header
-  vakantieplaats.nl#@#.feed-ad
-  vakantieplaats.nl#@#.topAds
+vakantieplaats.nl#@#.feed-ad
+vakantieplaats.nl#@#.topAds
 veeteelt.nl#@#.advertorial
 wereldklokken.nl#@#.adsbygoogle
