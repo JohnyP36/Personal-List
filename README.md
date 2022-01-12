@@ -13,7 +13,8 @@ Special for uBo syntax (and Adguard) is [this list](https://github.com/JohnyP36/
 
 ## *[EasyList Dutch](https://github.com/JohnyP36/Personal-List/tree/main/easylistdutch)*
 My own updated version of EasyList Dutch. <br>
-I made this filter because the EasyList Dutch filter isn't maintained often.
+I made this filter because the EasyList Dutch filter isn't maintained often. <br>
+**And more important: EasyList doesn't allow anti-adblock rules. *See [EasyListDutch/issue#30](https://github.com/easylist/easylistdutch/issues/30) and [EasyListDutch/pr#11issuecomment](https://github.com/easylist/easylistdutch/pull/11#issuecomment-818864565)***
 
 ---
 
