@@ -98,7 +98,6 @@
 ||greenkeeper.nl/upload/banners/
 ||hetnieuwsvandaag.be/media/cache/rectangle_image/media/image/*$image
 ||img.iex.nl/uploads/banners/*
-||inzod.nl/wp-content/uploads/*/*/*.gif$image
 ||kanaancourant.nl/wp-content/uploads/*/*advertentie*
 ||klokradio.nl/wp-content/uploads/*/adv$image
 ||linqmedia.nl/cwm/fm/userfiles/banner/$image
