@@ -352,7 +352,6 @@ indiexl.nl###carousel-indiexl_partners_carousel_widget
 inmemoriam.be##.o-news__add
 intikkertje.nl##.vc_cta3-container
 interglot.nl##.pane_results > div:has-text(Ads)
-inzod.nl##.gofollow
 itdaily.be###itdaily-article-sidebar
 itdaily.be###itdaily-article-top
 itdaily.be###itdaily-article-sidebar
