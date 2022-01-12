@@ -1,4 +1,6 @@
-! 2021/2022
+! 2022
+||newspower.nu/wp-content/uploads/*/*/*.gif$image
+! 2021
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
 /^https\:\/\/executive-people\.nl\/media\/\d{6}\/\d+\.jpg$/$image
 /banner/*$domain=hoekschnieuws.nl|retaildetail.be|retaildetail.nl
