@@ -1,4 +1,5 @@
 ! 2022
+||frontline.digital/wp-content/uploads/*/*MM_500x500_IAB.$image
 ||newspower.nu/wp-content/uploads/*/*/*.gif$image
 ! 2021
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
