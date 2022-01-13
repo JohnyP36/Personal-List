@@ -10,6 +10,9 @@ crypto-insiders.nl##article.format-standard:has([id^="div-gpt-ad"])
 frontline.digital##[id^="block-"]:has(a[href^="https://clk.tradedoubler.com/click"])
 newspower.nu##aside[class^="td_block"]:has-text(/advert/i):has(.gofollow)
 onlinecasinorss.nl,onlinekraslotenrss.nl,voetbalsnafu.nl,voetbalweddenrss.nl##[class$="sidebar-widget"]:has(p > a[href*="casino"]):not(:has(div[class="widget-title"]))
+rtlnieuws.nl###rtln-ad-advertorial
+rtlnieuws.nl##.billboard
+rtlnieuws.nl##div[class$=_with_ad__ad]
 voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="eredivisiewedden.nl"][target="_blank"])
 ! 2021
 112achterhoek-nieuws.nl###sidebar
@@ -610,8 +613,6 @@ rotterdambasketbal.nl##.gdlr-core-pbf-wrapper:has(img[title^="roba_sponosor_"])
 roulettefm.nl,rtvstichtsevecht.nl##body > .content:has-text(/advert/i)
 rtl.be###w-leaderboard
 rtlboulevard.nl##[id*="dfp-rectangle"]
-rtlnieuws.nl###rtln-ad-advertorial
-rtlnieuws.nl##.billboard
 rtvalbrandswaard.com##section:has-text(/steun ons/i)
 rtvdordrecht.nl##.bannerContainer
 rtvdrenthe.nl###recommendations-above-ad
