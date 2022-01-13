@@ -1,6 +1,5 @@
 ||adverteren.rd.nl^
 ||advertising-module.api.dpgmedia.cloud^
-||bnr.agf.nl^
 ||content1.pcmweb.nl^
 ||content2.nrc.nl^
 ||mooieplaatjes.bierdopje.com^
