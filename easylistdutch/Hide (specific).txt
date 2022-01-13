@@ -200,7 +200,6 @@ dolcevia.com,h2owaternetwerk.nl,halstadcentraal.nl,lokaleomroepzeewolde.nl,midvl
 dominant.be,lesbos.be,pornno.be,pornofilmpjes.be,sextoons.be,tiener-sex.be###video-sidebar-wrap
 doorbraak.be###top-advertisement-area
 dorpsklanken.online##.ads-mobiel
-dorpsklanken.online##.advertenties
 drentsnieuws.nl###g-header:has(img[src$=".gif"])
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 duic.nl##.article-excerpt--ad
