@@ -142,7 +142,6 @@ buienradar.nl##.uitradar:has(img[src*=".nl/resources//images/promo/"])
 buzzbie.nl##.TS_Banner_Spot
 cabla.nl##.ontwerp_ads
 camping-frankrijk.nl##div[class^="content-home"]:has([id*="HyperLinkBanner"])
-camsexbabe.nl##.d-md-block.d-none.video-sidebar
 camsexbabe.nl##.happy-player-beside
 camsexbabe.nl,mijnpornotube.nl,pornosterneuken.nl,sexbios.net,sexdatingtube.be##.video-sidebar
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
