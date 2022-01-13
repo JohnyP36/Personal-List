@@ -4,7 +4,7 @@ labels: question
 body:
   - type: checkboxes
     attributes:
-      label: Prerequisites / Vereisten
+      label: Prerequisites
       options:
         - label: I performed a cursory search of the issue tracker to avoid opening a duplicate issue
           required: true
