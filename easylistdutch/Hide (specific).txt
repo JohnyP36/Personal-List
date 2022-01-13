@@ -378,7 +378,6 @@ keizerstad.nl##[id^="media_image"]
 kekmama.nl##.cts-row-wrapper
 kekmama.nl##[class*="cts-advertorial"]
 kidsweek.nl##.node-advertorial
-kinderspelletjes.be###adRechts
 kinderspelletjes.be,kinderspelletjes.nl##div[style*="width:970px"]:has-text(Reclame)
 kinderspelletjes.be,kinderspelletjes.nl##div[style^="width:336px;height:290px"]:has-text(Reclame)
 kinderspelletjes.nl###adBoven
