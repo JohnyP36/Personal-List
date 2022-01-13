@@ -364,7 +364,6 @@ intikkertje.nl##.vc_cta3-container
 interglot.nl##.pane_results > div:has-text(Ads)
 itdaily.be###itdaily-article-sidebar
 itdaily.be###itdaily-article-top
-itdaily.be###itdaily-article-sidebar
 itdaily.be###itdaily-footer
 itnijs.frl##.widget > .banner
 itwm.nl##[id^="tdi_"].tdc-row:has-text(Casino)
