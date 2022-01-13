@@ -45,3 +45,5 @@ Because the famous Nano filterlists are archieved I copied the most usefull rule
 
 
 ###### ➡ Read the [`Contributing.md`](https://github.com/JohnyP36/Personal-List/blob/main/.github/CONTRIBUTING.md) for more info
+
+##### For question see [here](https://github.com/JohnyP36/Personal-List/issues/new?assignees=&labels=question&template=questions.yml)
