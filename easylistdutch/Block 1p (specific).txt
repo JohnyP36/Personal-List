@@ -1,6 +1,7 @@
 ! 2022
 ||frontline.digital/wp-content/uploads/*/*MM_500x500_IAB.$image
 ||newspower.nu/wp-content/uploads/*/*/*.gif$image
+||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xmlhttprequest
 ! 2021
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
 /^https\:\/\/executive-people\.nl\/media\/\d{6}\/\d+\.jpg$/$image
@@ -131,7 +132,6 @@
 ||noordernieuws.nl/wp-content/uploads/201*/*/*.gif$image
 ||noordkopcentraal.nl/wp-content/uploads/*/*-logo-462x
 ||noordkopcentraal.nl/wp-content/uploads/*/Boersen-Logo-*
-||notebookcheck.nl/fileadmin/Sonstiges/am_$xmlhttprequest
 ||nzbindex.nl/img/i/$image,first-party
 ||peoplesphere.be/img/logo/financemanagement.png$image
 ||persberichten.com/Images/Banners/
