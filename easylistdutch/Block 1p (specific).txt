@@ -176,7 +176,7 @@
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
 ||tpo.nl/broodplank/TRU*
-||transport-online.nl/site/includes/uploads/banner-*$image
+||transport-online.nl/site/includes/uploads/banner-
 ||truck1.be/st2/banners/$subdocument
 ||truck1-nl.be/st2/banners/$subdocument
 ||truck1.nl/st2/banners/$subdocument
@@ -351,7 +351,6 @@
 ||tienersexpret.nl/images/eroshop$image
 ||tienersexpret.nl/images/kinkysex$image
 ||touretappe.nl/images/xtra/
-||transport-online.nl/site/includes/uploads/banner-
 ||turksemedia.nl/logos/*.
 ||unity.nu/media/*/BANNERS/
 ||video18.nl/img/banners/$image
