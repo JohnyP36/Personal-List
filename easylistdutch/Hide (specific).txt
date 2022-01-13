@@ -4,6 +4,10 @@ ajaxreport.nl,psvreport.nl##[id^="text"][class$="sidebar-widget"]:has-text(/casi
 ajaxreport.nl,feyenoordreport.nl,livestreamvandaag.be,onlinekraslotenrss.nl,onlinepokerrss.nl,psvreport.nl,sportweddenrss.nl,voetbalsnafu.nl##.widget_links
 ajaxreport.nl,feyenoordreport.nl,psvreport.nl,voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="voetbalwedden.net"][target="_blank"])
 antilliaansdagblad.com##.bannergroup
+appletips.nl##.ph_upgreatest
+appletips.nl###bolcontainer
+appletips.nl##[class^="ph_block"]
+appletips.nl##a[href^="/adverteren-"]
 belgischecasinos.be,newspower.nu##.gofollow
 cip.nl##a[href*="/ad/click/"]:not(.podcast-inline a[href]):not(:has-text(/vacatures/i)):not(:has-text(/gesponsord/i))
 cip.nl##div[class]:has-text(/vakanties/i):upward(2) + div [id^="vacation-carousel"]
@@ -68,10 +72,6 @@ apintie.sr###left-inside > div#ads
 apintie.sr###navcol2
 apintie.sr###sidebar > div[style*="width:300px; height:"]:not(:has(img[alt="Apintie iPhone App"]))
 apparata.nl##.parentgpt
-appletips.nl###singleab
-appletips.nl##.ph_upgreatest
-appletips.nl##[class^="ph_block"]
-appletips.nl##a[href^="/adverteren-"]
 arenalokaal.nl##.header_banner
 asex.nl###adblk1
 asex.nl###bottum_ad
