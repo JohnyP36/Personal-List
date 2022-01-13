@@ -1,3 +1,4 @@
+!kinderspelletjes.be###adRechts
 ###adRechts
 ###adsense_artikel_4
 ###advertentie
@@ -11,7 +12,9 @@
 ###rightbanner_adbest
 ###sidereclame
 ##.adstekst
+!deoudrotterdammer.nl##.advertentie
 ##.advertentie
+!dorpsklanken.online##.advertenties
 ##.advertenties
 ##.banner_advert6blok
 ##.banner_advertentie_footer
