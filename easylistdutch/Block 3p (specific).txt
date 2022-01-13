@@ -65,7 +65,6 @@
 ||i3.wp.com/www.appletips.nl/wp-content/uploads/cnmx.*$image,domain=appletips.nl
 ||images.islive.nl/snapshot/*/200x150$image,domain=nederlandsextube.nl
 ||media-totaal.nl/*com_adagency*adagencyAds$script,domain=dekrantnieuws.nl|destreekkrant.nu|dekrantvantynaarlo.nl
-||pornokartel.nl/wp-admin*&campaigns=*&banners*$script,third-party
 ||powerconnect.be^*/poweractie.jpg$third-party
 ||statics.*.nl/js/advertising-$script,domain=ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
 ||t.whalehunter.cash/tiny/*$image,domain=kinkymedia.nl
