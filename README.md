@@ -19,7 +19,7 @@ I made this filter because the EasyList Dutch filter isn't maintained often. <br
 ---
 
 ### Those list were in the list
-Because I want other people also use this list, they are no longer included:
+Because I want other people also use this list, they are **no longer included**:
 #### *[My filters](https://github.com/JohnyP36/Personal-List/blob/main/other%20lists/My%20filters.txt)*
 Different kind of rules  
  - Rules copied from Adguard Spyware and Adguard Spyware (Dutch)  
