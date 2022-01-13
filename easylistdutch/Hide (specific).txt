@@ -11,6 +11,7 @@ appletips.nl##a[href^="/adverteren-"]
 belgischecasinos.be,newspower.nu##.gofollow
 cip.nl##a[href*="/ad/click/"]:not(.podcast-inline a[href]):not(:has-text(/vacatures/i)):not(:has-text(/gesponsord/i))
 cip.nl##div[class]:has-text(/vakanties/i):upward(2) + div [id^="vacation-carousel"]
+creditexpo.nl##p:has(a[href]:has(img[src*="creditexpo.nl/wp-content/uploads/"][width="300"]))
 crypto-insiders.nl##article.format-standard:has([id^="div-gpt-ad"])
 frontline.digital##[id^="block-"]:has(a[href^="https://clk.tradedoubler.com/click"])
 kledingmaten.nl##[id^="text-"]:has-text(/advert/i)
@@ -152,7 +153,6 @@ clubbrugge.be##.partners
 coastline945fm.nl,coastlinefm.nl,elfvoetbal.nl,fonkonline.nl###partners
 computable.be##.sponsorartikelen
 computable.nl##.sponsored
-creditexpo.nl##p:has(a[href]):has(img[src*="creditexpo.nl/wp-content/uploads/"][width="300"])
 crimesite.nl##em:has-text(reclame)
 cryptobenelux.com##.jet-parallax-section.elementor-section:has(img[src*="banner"])
 cryptobenelux.com##section[class*="has_eae_slider elementor-section elementor-top-section elementor-element"][data-settings*="sticky"][data-settings*="top"]
