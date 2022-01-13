@@ -1,4 +1,6 @@
 ! 2022
+||antilliaansdagblad.com/images/*200x200px*.$image
+||antilliaansdagblad.com/images/banners/
 ||frontline.digital/wp-content/uploads/*/*MM_500x500_IAB.$image
 ||newspower.nu/wp-content/uploads/*/*/*.gif$image
 ||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xmlhttprequest
@@ -221,8 +223,6 @@
 ||402automotive.com/files/images/website/banners/*.$image
 ||am-forum.nl/upload/logo_elektrodump.png
 ||amz01.plzcdn.com/a/
-||antilliaansdagblad.com/images/*-200x200px*.gif$image
-||antilliaansdagblad.com/images/banners/
 ||beeldbelsex.com/wp-content/uploads/*/bellenafspreken.$image
 ||belgie-sexcontact.be/images/banners/$image
 ||biernet.nl/bja/$subdocument
