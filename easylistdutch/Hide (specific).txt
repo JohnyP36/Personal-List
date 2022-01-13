@@ -10,6 +10,7 @@ cip.nl##div[class]:has-text(/vakanties/i):upward(2) + div [id^="vacation-carouse
 crypto-insiders.nl##article.format-standard:has([id^="div-gpt-ad"])
 frontline.digital##[id^="block-"]:has(a[href^="https://clk.tradedoubler.com/click"])
 newspower.nu##aside[class^="td_block"]:has-text(/advert/i):has(.gofollow)
+nd.nl#?#.text-center:-abp-contains(advert)
 nnp.nl##div[class^="p-4"]:has([class*="gray"]):has(a[data-source^="banner"])
 onlinecasinorss.nl,onlinekraslotenrss.nl,voetbalsnafu.nl,voetbalweddenrss.nl##[class$="sidebar-widget"]:has(p > a[href*="casino"]):not(:has(div[class="widget-title"]))
 rtlnieuws.nl###rtln-ad-advertorial
