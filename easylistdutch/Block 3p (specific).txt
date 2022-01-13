@@ -59,9 +59,6 @@
 ||dutchitchannel.nl/media/6*/*.jpg$third-party
 ||dutchleader.nl/php/banex/$third-party
 ||enviedeplus.be^*_banner_$third-party
-||i0.wp.com/www.appletips.nl/wp-content/uploads/incharge$image,domain=appletips.nl
-||i0.wp.com/www.appletips.nl/wp-content/uploads/luvago$image,domain=appletips.nl
-||i2.wp.com/www.appletips.nl/wp-content/uploads/nordvpn$image,domain=appletips.nl
 ||images.islive.nl/snapshot/*/200x150$image,domain=nederlandsextube.nl
 ||media-totaal.nl/*com_adagency*adagencyAds$script,domain=dekrantnieuws.nl|destreekkrant.nu|dekrantvantynaarlo.nl
 ||powerconnect.be^*/poweractie.jpg$third-party
