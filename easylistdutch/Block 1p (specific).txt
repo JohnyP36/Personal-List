@@ -4,6 +4,8 @@
 ||frontline.digital/wp-content/uploads/*/*MM_500x500_IAB.$image
 ||newspower.nu/wp-content/uploads/*/*/*.gif$image
 ||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xmlhttprequest
+||zwaremetalen.com/wp-content/uploads/*/*-skyscraper-
+||zwartewaterfm.nl/images/SponsorenZwarteWaterFM.jpg
 ! 2021
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
 /^https\:\/\/executive-people\.nl\/media\/\d{6}\/\d+\.jpg$/$image
@@ -209,9 +211,6 @@
 ||wp.com/www.regionoordkop.nl/wp-content/uploads/*/Costa.jpg
 ||wp.com/www.thekinkyweb.nl/wp-content/uploads/*/*Banner$image
 ||xmissy.nl/*/_customplayers/*/twistys/player01_footer.jpg$image,first-party
-||zwaremetalen.com/wp-content/uploads/*/*-AD-
-||zwaremetalen.com/wp-content/uploads/*/*-skyscraper-
-||zwartewaterfm.nl/images/SponsorenZwarteWaterFM.jpg
 ! 2021-07-29
 ||123video.nl^*/300x100_
 ||18plussexdating.nl/images/18plussexdating.$image
