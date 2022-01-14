@@ -261,7 +261,6 @@
 ||wp.com/www.thekinkyweb.nl/wp-content/uploads/*/*Banner$image
 ||xmissy.nl/*/_customplayers/*/twistys/player01_footer.jpg$image,first-party
 ! 2021-07-29
-||kinkydatingnederland.nl/banner$image
 ||knhs.nl/imagegen.ashx?image=/media/1*&width=360&constrain=true$image
 ||knhs.nl/imagegen.ashx?image=/media/1*/*banner-*&width=550&constrain=true$image
 ||kookboekennieuws.nl/wp-content/uploads/*/*-banners-*.
@@ -270,7 +269,6 @@
 ||maaslandradio.nl/wp-content/uploads/*/Hekwerkland.
 ||media.prdn.nl/retailtrends/images/*.gif
 ||meidenzoekensex.nl/assets/img/shemaledate$image
-||milfdatingnederland.nl/banner$image
 ||mmcdn.nl/tags/
 ||mygaydate.nl/banner$image
 ||naaktkrant.nl/media/*/*.gif$image,first-party
