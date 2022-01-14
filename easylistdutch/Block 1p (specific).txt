@@ -4,6 +4,8 @@
 ||frontline.digital/wp-content/uploads/*/*MM_500x500_IAB.$image
 ||newspower.nu/wp-content/uploads/*/*/*.gif$image
 ||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xmlhttprequest
+||tube.nederlandseporno.nl/wp-content/uploads/islive.gif
+||tube.nederlandseporno.nl/wp-content/uploads/neukertjes.gif
 ! 2021
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
 /^https\:\/\/executive-people\.nl\/media\/\d{6}\/\d+\.jpg$/$image
