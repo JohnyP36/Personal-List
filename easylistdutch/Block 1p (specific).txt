@@ -46,6 +46,8 @@
 ||ishotmyself.nl/include/*/promo/footer/
 ||itnijs.frl/wp-content/uploads/*/*/bannerItNijs
 ||kilroynews.net^*banner
+||kinkymedia.nl/wp-content/plugins/wp-ad-guru/*$script,first-party
+||kinkymedia.nl/wp-content/uploads/*vierkant*$image
 ||newspower.nu/wp-content/uploads/*/*/*.gif$image
 ||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xmlhttprequest
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*/RO*?zoom=*&w=665
@@ -260,8 +262,6 @@
 ||xmissy.nl/*/_customplayers/*/twistys/player01_footer.jpg$image,first-party
 ! 2021-07-29
 ||kinkydatingnederland.nl/banner$image
-||kinkymedia.nl/wp-content/plugins/wp-ad-guru/*$script,first-party
-||kinkymedia.nl/wp-content/uploads/vierkant*$image
 ||knhs.nl/imagegen.ashx?image=/media/1*&width=360&constrain=true$image
 ||knhs.nl/imagegen.ashx?image=/media/1*/*banner-*&width=550&constrain=true$image
 ||kookboekennieuws.nl/wp-content/uploads/*/*-banners-*.
