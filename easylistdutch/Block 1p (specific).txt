@@ -15,6 +15,14 @@
 ||biernet.nl/bja/$subdocument
 ||biernet.nl/images/extra-bja_camp-bnr/$image
 ||biernet.nl/site/widgets/huidig_aanbieding.php
+||bol.com/nl/upload/banners/
+||bol.com/nl/upload/partnerprogramma/*.jpg
+||cdn.ster.nl/banners^
+||chatmetvreemden.be/static/html/
+||chatmetvreemden.nl/static/html/
+||christelijknieuws.nl/upload/modules/banner/
+||crimesite.nl/inhoud/uploads/*/*.gif$image
+||dagelijksestandaard.nl/wp-content/uploads/*/PROMO-DDS.$image
 ||digitaalburg.com/rn02/wp-content/uploads/*/Roel.jpg
 ||digitaalburg.com/rn02/wp-content/uploads/*/uitwaard21.jpg
 ||digitaalburg.com/rn02/wp-content/uploads/*/Vacature-
@@ -231,14 +239,6 @@
 ||wp.com/www.thekinkyweb.nl/wp-content/uploads/*/*Banner$image
 ||xmissy.nl/*/_customplayers/*/twistys/player01_footer.jpg$image,first-party
 ! 2021-07-29
-||bol.com/nl/upload/banners/
-||bol.com/nl/upload/partnerprogramma/*.jpg
-||cdn.ster.nl/banners^
-||chatmetvreemden.be/static/html/
-||chatmetvreemden.nl/static/html/
-||christelijknieuws.nl/upload/modules/banner/
-||crimesite.nl/inhoud/uploads/*/*.gif$image
-||dagelijksestandaard.nl/wp-content/uploads/*/PROMO-DDS.$image
 ||dolcevia.com^*/Banners/
 ||dutchleader.nl/php/popex/
 ||dutchporner.com/wp-content/uploads/*/*Account-Promo$image
