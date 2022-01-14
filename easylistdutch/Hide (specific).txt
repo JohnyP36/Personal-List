@@ -24,6 +24,7 @@ frontline.digital##[id^="block-"]:has(a[href^="https://clk.tradedoubler.com/clic
 !handbalstartpunt.nl##aside.widget-banner
 handbalstartpunt.nl##aside > div[class]:has(>.adsbygoogle)
 handbalstartpunt.nl##p:has(img[src*="Logo"])
+kilroynews.net##table:has(a[href="http://www.waffen-jansen.de"])
 kledingmaten.nl##[id^="text-"]:has-text(/advert/i)
 kledingmaten.nl##aside[id^="custom"]:has(script[src*="cookie"])
 newspower.nu##aside[class^="td_block"]:has-text(/advert/i):has(.gofollow)
