@@ -15,6 +15,11 @@
 ||biernet.nl/bja/$subdocument
 ||biernet.nl/images/extra-bja_camp-bnr/$image
 ||biernet.nl/site/widgets/huidig_aanbieding.php
+||digitaalburg.com/rn02/wp-content/uploads/*/Roel.jpg
+||digitaalburg.com/rn02/wp-content/uploads/*/uitwaard21.jpg
+||digitaalburg.com/rn02/wp-content/uploads/*/Vacature-
+||digitaalburg.com/rn02/wp-content/uploads/*/verti*
+||digitaalburg.com/rn02/wp-content/uploads/*/webbanner-
 ||frontline.digital/wp-content/uploads/*/*MM_500x500_IAB.$image
 ||newspower.nu/wp-content/uploads/*/*/*.gif$image
 ||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xmlhttprequest
@@ -234,13 +239,6 @@
 ||christelijknieuws.nl/upload/modules/banner/
 ||crimesite.nl/inhoud/uploads/*/*.gif$image
 ||dagelijksestandaard.nl/wp-content/uploads/*/PROMO-DDS.$image
-||digitaalburg.com/rn02/wp-content/uploads/*/CornetAnimationA-
-||digitaalburg.com/rn02/wp-content/uploads/*/MERKX11.png
-||digitaalburg.com/rn02/wp-content/uploads/*/Roel.jpg
-||digitaalburg.com/rn02/wp-content/uploads/*/uitwaard21.jpg
-||digitaalburg.com/rn02/wp-content/uploads/*/Vacature-
-||digitaalburg.com/rn02/wp-content/uploads/*/vertiadvies_
-||digitaalburg.com/rn02/wp-content/uploads/*/webbanner-
 ||dolcevia.com^*/Banners/
 ||dutchleader.nl/php/popex/
 ||dutchporner.com/wp-content/uploads/*/*Account-Promo$image
