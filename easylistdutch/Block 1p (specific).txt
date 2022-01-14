@@ -1,6 +1,9 @@
 ! 2022
 ||antilliaansdagblad.com/images/*200x200px*.$image
 ||antilliaansdagblad.com/images/banners/
+||biernet.nl/bja/$subdocument
+||biernet.nl/images/extra-bja_camp-bnr/$image
+||biernet.nl/site/widgets/huidig_aanbieding.php
 ||frontline.digital/wp-content/uploads/*/*MM_500x500_IAB.$image
 ||newspower.nu/wp-content/uploads/*/*/*.gif$image
 ||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xmlhttprequest
@@ -223,9 +226,6 @@
 ||amz01.plzcdn.com/a/
 ||beeldbelsex.com/wp-content/uploads/*/bellenafspreken.$image
 ||belgie-sexcontact.be/images/banners/$image
-||biernet.nl/bja/$subdocument
-||biernet.nl/images/extra-bja_camp-bnr/$image
-||biernet.nl/site/widgets/rand-shop-items$subdocument
 ||bodemvondstenwereld.nl/images/banners/
 ||bol.com/nl/upload/banners/
 ||bol.com/nl/upload/partnerprogramma/*.jpg
