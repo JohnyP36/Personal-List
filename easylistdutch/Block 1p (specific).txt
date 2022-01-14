@@ -234,7 +234,6 @@
 ||christelijknieuws.nl/upload/modules/banner/
 ||crimesite.nl/inhoud/uploads/*/*.gif$image
 ||dagelijksestandaard.nl/wp-content/uploads/*/PROMO-DDS.$image
-||dekrantnieuws.nl/wp-content/uploads/*/deurbord-staand*.$image
 ||digitaalburg.com/rn02/wp-content/uploads/*/CornetAnimationA-
 ||digitaalburg.com/rn02/wp-content/uploads/*/MERKX11.png
 ||digitaalburg.com/rn02/wp-content/uploads/*/Roel.jpg
