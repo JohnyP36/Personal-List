@@ -66,7 +66,7 @@
 ||dutchitchannel.nl/media/6*/*.jpg$third-party
 ||dutchleader.nl/php/banex/$third-party
 ||enviedeplus.be^*_banner_$third-party
-||images.islive.nl/snapshot/*/200x150$image,domain=nederlandsextube.nl
+!||images.islive.nl/snapshot/*/200x150$image,domain=nederlandsextube.nl
 ||media-totaal.nl/*com_adagency*adagencyAds$script,domain=dekrantnieuws.nl|destreekkrant.nu|dekrantvantynaarlo.nl
 ||powerconnect.be^*/poweractie.jpg$third-party
 ||statics.*.nl/js/advertising-$script,domain=ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
