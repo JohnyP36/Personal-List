@@ -29,6 +29,8 @@
 ||digitaalburg.com/rn02/wp-content/uploads/*/verti*
 ||digitaalburg.com/rn02/wp-content/uploads/*/webbanner-
 ||frontline.digital/wp-content/uploads/*/*MM_500x500_IAB.$image
+||handbalstartpunt.nl/content/schoonkapje$image,first-party
+||handbalstartpunt.nl/images/banner_$image,first-party
 ||newspower.nu/wp-content/uploads/*/*/*.gif$image
 ||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xmlhttprequest
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*/RO*?zoom=*&w=665
@@ -250,9 +252,6 @@
 ||gadgetsentrends.nl/imagestore/banners/
 ||glutenvrij.nl/l/library/*banner*.jpg?
 ||glutenvrij.nl/tmp/media/afbeeldingen/*_w720_h720.jpg$image
-||handbalstartpunt.nl/content/schoonkapje$image,first-party
-||handbalstartpunt.nl/images/banner_$image,first-party
-||handbalstartpunt.nl/images/mizuno-small.jpg
 ||hotdatingvlaanderen.be/banner$image
 ||hotradiohits.nl/image/picture/*_banner.
 ||htforum.nl/yabbse/*-banner2.gif
