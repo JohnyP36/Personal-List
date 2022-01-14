@@ -65,6 +65,7 @@ youtube.com##.opened
 youtube.com###clarify-box > .ytd-watch-flexy.style-scope
 youtube.com###lightbox > #dialog.ytd-consent-bump-v2-lightbox.style-scope
 youtube.com##yt-tooltip-renderer[class$="ytd-popup-container"][position-type]:has(#text:has-text(YouTube)):has(#dismiss-button)
+www.youtube.com#@#merch-shelf
 
 !re-enable scrollbar => ##html:style(overflow: auto !important)  +  ##body:style(overflow: auto !important)
 nsinternational.*##body:style(overflow: auto !important)
@@ -93,7 +94,6 @@ www.google.*##html:style(overflow: visible !important)
 chamilo.etf.edu##.cookieUsageValidation
 christenenvoorisrael.nl##.diffuse_cookie-bar__container
 freebitco.in##.daily_jackpot_main_container_div
-freebitco.in###deposit_promo_message_regular > .deposit_promo_message_content
 freebitco.in###free_play_payout_table > div[id^="premium"][id*="membership"]
 gab.com##:matches-path(/\/home|\/groups/) span[class]:has-text(/^Upgrade/i):upward(3)
 instagram.com#$#body { overflow: visible!important; }
@@ -111,8 +111,8 @@ nsinternational.*##.t-cookie-overlay-visible.t-cookie-overlay.cookie-overlay
 speedtest.net##.notification-container > div > .notification
 speedtest.net###_evidon-barrier-wrapper
 tweakers.net##.notificationsContainer:has-text(/cookies op tweakers/i):style(display: none !important;)
-volkskrant.nl,trouw.nl###LOGIN_BIG_BOTTOM > .tm-body
-y8.com##.div-gpt-ad-above:style(margin-bottom: -20px !important;)
+volkskrant.nl,trouw.nl##article[id*="LOGIN_BIG_BOTTOM"] > div[class*="tm-body"]
+y8.com##.div-gpt-ad-above:style(position: absolute !important; left: -5000px !important;)
 y8.com###policy-validation
 gloednieuw.nl#@##taboola-below-article-thumbnails
 
@@ -170,9 +170,7 @@ theorieexamen.nl##div[id="app"]:style(user-select: auto !important;)
 !in Fanboy Complete ------------------------------------- !/googleanalytics.js$3p
 !in Fanboy Complete ------------------------------------- !-google-analytics/$3p
 !  uBlock filters - Unbreak
-*/b/ss/*&aqe=$image,redirect=1x1-transparent.gif
-@@||fundingchoicesmessages.google.com^$script,domain=bbc.com
-
+!is in use now
 
 ! Rules from Adguard Spyware
 .demdex.net/id^$redirect=noop.txt,important,subdocument,stylesheet,script,xmlhttprequest,other
@@ -186,9 +184,9 @@ theorieexamen.nl##div[id="app"]:style(user-select: auto !important;)
 ||eviltracker.net^
 ||jwpltx.com^$third-party
 ||p.typekit.net^$third-party
-||perr.h-cdn.com^
+!||perr.h-cdn.com^ --> ||perr.h-cdn.com^ in EasyPrivacy
    !||perr.h-cdn.com^$third-party in Fanboy
-||pixel.quantserve.com^
+!||pixel.quantserve.com^ --> ||quantserve.com^ in EasyPrivacy
    !||quantserve.com/pixel; + ||quantserve.com/pixel/$third-party in Fanboy
 ||play.googleapis.com/log|
 ||play.googleapis.com/play/log^
@@ -197,11 +195,6 @@ theorieexamen.nl##div[id="app"]:style(user-select: auto !important;)
 ||qualtrics.com^$third-party
 ||trackersimulator.org^
 ||youtube.com/player_204?
-
-! Encounter whitelist rules from Adguard Base
-!@@||2mdn.net/instream/$badfilter
-!@@||hb.improvedigital.com/pbw/prebid/prebid-idhb-v*.min.js$domain=html5.gamedistribution.com,badfilter
-!@@||hb.improvedigital.com/pbw/gamedistributionv*.min.js$domain=html5.gamedistribution.com,badfilter
 
 !@@||s_a_f_e..0verflow*$image,domain=browserleaks.com
 !@@||browserleaks.com/*/1.gif?v=$domain=browserleaks.com
