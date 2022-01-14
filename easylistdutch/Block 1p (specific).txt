@@ -31,6 +31,9 @@
 ||frontline.digital/wp-content/uploads/*/*MM_500x500_IAB.$image
 ||newspower.nu/wp-content/uploads/*/*/*.gif$image
 ||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xmlhttprequest
+||wp.com/romagazine.nl/*/wp-content/uploads/*/*/RO*?zoom=*&w=665
+||wp.com/romagazine.nl/*/wp-content/uploads/*/*.gif*w=665$image
+||wp.com/romagazine.nl/*/wp-content/uploads/*/*.jpg?w=665$image
 ||zwaremetalen.com/wp-content/uploads/*/*-skyscraper-
 ||zwartewaterfm.nl/images/SponsorenZwarteWaterFM.jpg
 ! 2021
@@ -353,7 +356,4 @@
 ||wanttoknow.nl^*Banner
 ||webcamsexplaza.com/bannerwsp.$image
 ||wildfm.nl/wp-content/uploads/*/thumbnail_image002.png
-||wp.com/romagazine.nl/*/wp-content/uploads/*/enschede*?w=665$image
-||wp.com/romagazine.nl/*/wp-content/uploads/*/*.gif*w=665$image
-||wp.com/romagazine.nl/*/wp-content/uploads/*/*.jpg?w=665$image
 ||xingo.nl/bannermanagement/
