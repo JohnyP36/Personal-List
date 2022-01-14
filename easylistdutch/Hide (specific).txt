@@ -19,6 +19,7 @@ creditexpo.nl##p:has(a[href]:has(img[src*="creditexpo.nl/wp-content/uploads/"][w
 crypto-insiders.nl##article.format-standard:has([id^="div-gpt-ad"])
 duurzaam-actueel.nl##[class*="bd-block"]:has(a[href]):has(img[src*="wp-content/uploads/"])
 duurzaam-actueel.nl##header + section:has([class*="logo-showcase-slider"])
+forum.spaarinformatie.nl##table:has-text(/advert/i)
 frontline.digital##[id^="block-"]:has(a[href^="https://clk.tradedoubler.com/click"])
 kledingmaten.nl##[id^="text-"]:has-text(/advert/i)
 kledingmaten.nl##aside[id^="custom"]:has(script[src*="cookie"])
