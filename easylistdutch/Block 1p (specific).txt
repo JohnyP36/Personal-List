@@ -1,6 +1,17 @@
 ! 2022
+||123video.nl^*/300x100_
+||18plussexdating.nl/images/18plussexdating.$image
+||18plussexdating.nl/images/twero.$image
+||402automotive.com/files/*/files/images/*/*/enibanner.$image
+||402automotive.com/files/*/files/images/*online-banner-$image
+||402automotive.com/files/*/files/images/banners/*.$image
+||402automotive.com/files/images/website/banners/*.$image
+||am-forum.nl/upload/logo_elektrodump.png
+||amz01.plzcdn.com/a/
 ||antilliaansdagblad.com/images/*200x200px*.$image
 ||antilliaansdagblad.com/images/banners/
+||beeldbelsex.com/wp-content/uploads/*/bellenafspreken.$image
+||belgie-sexcontact.be/images/banners/$image
 ||biernet.nl/bja/$subdocument
 ||biernet.nl/images/extra-bja_camp-bnr/$image
 ||biernet.nl/site/widgets/huidig_aanbieding.php
@@ -215,17 +226,6 @@
 ||wp.com/www.thekinkyweb.nl/wp-content/uploads/*/*Banner$image
 ||xmissy.nl/*/_customplayers/*/twistys/player01_footer.jpg$image,first-party
 ! 2021-07-29
-||123video.nl^*/300x100_
-||18plussexdating.nl/images/18plussexdating.$image
-||18plussexdating.nl/images/twero.$image
-||402automotive.com/files/*/files/images/*/*/enibanner.$image
-||402automotive.com/files/*/files/images/*online-banner-$image
-||402automotive.com/files/*/files/images/banners/*.$image
-||402automotive.com/files/images/website/banners/*.$image
-||am-forum.nl/upload/logo_elektrodump.png
-||amz01.plzcdn.com/a/
-||beeldbelsex.com/wp-content/uploads/*/bellenafspreken.$image
-||belgie-sexcontact.be/images/banners/$image
 ||bodemvondstenwereld.nl/images/banners/
 ||bol.com/nl/upload/banners/
 ||bol.com/nl/upload/partnerprogramma/*.jpg
