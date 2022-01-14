@@ -17,6 +17,8 @@ cip.nl##a[href*="/ad/click/"]:not(.podcast-inline a[href]):not(:has-text(/vacatu
 cip.nl##div[class]:has-text(/vakanties/i):upward(2) + div [id^="vacation-carousel"]
 creditexpo.nl##p:has(a[href]:has(img[src*="creditexpo.nl/wp-content/uploads/"][width="300"]))
 crypto-insiders.nl##article.format-standard:has([id^="div-gpt-ad"])
+duurzaam-actueel.nl##[class*="bd-block"]:has(a[href]):has(img[src*="wp-content/uploads/"])
+duurzaam-actueel.nl##header + section:has([class*="logo-showcase-slider"])
 frontline.digital##[id^="block-"]:has(a[href^="https://clk.tradedoubler.com/click"])
 kledingmaten.nl##[id^="text-"]:has-text(/advert/i)
 kledingmaten.nl##aside[id^="custom"]:has(script[src*="cookie"])
