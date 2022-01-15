@@ -270,8 +270,6 @@
 ||wp.com/www.thekinkyweb.nl/wp-content/uploads/*/*Banner$image
 ||xmissy.nl/*/_customplayers/*/twistys/player01_footer.jpg$image,first-party
 ! 2021-07-29
-||media.prdn.nl/retailtrends/images/*.gif
-||mmcdn.nl/tags/
 ||naaktkrant.nl/media/*/*.gif$image,first-party
 ||nederlandsextube.nl/images/amateurwebcams$image
 ||nederlandsextube.nl/images/sextubewebcams$image
