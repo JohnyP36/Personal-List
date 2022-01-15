@@ -57,6 +57,7 @@
 ||meidenzoekensex.nl/assets/img/shemaledate$image
 ||naaktkrant.nl/media/*/*.gif$image,first-party
 ||newspower.nu/wp-content/uploads/*/*/*.gif$image
+||nieuwsonline.nu/header/*advertentie.$image
 ||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xmlhttprequest
 ||mygaydate.nl/images/shemales.gif
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*/RO*?zoom=*&w=665
@@ -276,8 +277,6 @@
 ||nederlandsextube.nl/images/stijlvolsexybanner$image
 ||nederlandsextube.nl/images/webned$image
 ||neukcontacten.info/images/pikant.$image
-||nieuwsonline.nu/header/*advertentie.$image
-||nieuwsonline.nu/header/samsungwatchfaces.webp$image
 ||nieuwsuitnijmegen.nl/gfx/banners/
 ||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,first-party
 !||omejoop.be/pop.js
