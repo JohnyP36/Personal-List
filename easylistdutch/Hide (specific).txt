@@ -32,6 +32,8 @@ kinkymedia.nl##[id^="adguru-zone-widget"]
 kinkymedia.nl##aside > div[id^="media_image"]:has(a[href]):not(:has(a[href*="kinkymedia.nl"]))
 kledingmaten.nl##[id^="text-"]:has-text(/advert/i)
 kledingmaten.nl##aside[id^="custom"]:has(script[src*="cookie"])
+netonline.be##.text_12_jobs_only
+netonline.be##.tekstboldwit td:has-text(/advert/i)
 newspower.nu##aside[class^="td_block"]:has-text(/advert/i):has(.gofollow)
 mygaydate.nl##.rand:has([href^="https://www.shemalecontactnederland.nl/"])
 nd.nl#?#.text-center:-abp-contains(advert)
@@ -482,7 +484,6 @@ nedporno.com##.publ1s-b0ttom
 nedporno.com##.text-center:has-text(/Reclame/i)
 nedporno.com##[class^="r1ght-pl4yer"]:has([src*="ads"])
 negerinnensexdating.eu##[class="rand nomobile"]:has(a[href*="net69.nl/genre"])
-netonline.be##.text_12_jobs_only
 netxxx.nl##.widget:has(img[src])
 niburu.co##.sponsers
 nieuwnieuws.nl##.article-page__bumper
