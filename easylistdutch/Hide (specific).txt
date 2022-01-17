@@ -17,6 +17,7 @@ cip.nl##a[href*="/ad/click/"]:not(.podcast-inline a[href]):not(:has-text(/vacatu
 cip.nl##div[class]:has-text(/vakanties/i):upward(2) + div [id^="vacation-carousel"]
 creditexpo.nl##p:has(a[href]:has(img[src*="creditexpo.nl/wp-content/uploads/"][width="300"]))
 crypto-insiders.nl##article.format-standard:has([id^="div-gpt-ad"])
+dagelijksekost.een.be##.dish-sponsors
 duurzaam-actueel.nl##[class*="bd-block"]:has(a[href]):has(img[src*="wp-content/uploads/"])
 duurzaam-actueel.nl##header + section:has([class*="logo-showcase-slider"])
 forum.spaarinformatie.nl##table:has-text(/advert/i)
