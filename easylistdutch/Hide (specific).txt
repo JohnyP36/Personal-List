@@ -48,6 +48,8 @@ rtlnieuws.nl##div[class$=_with_ad__ad]
 tube.nederlandseporno.nl##[id^="custom_html"]:has-text(/Polder Webcamsex|Sex contact/)
 tube.nederlandseporno.nl##h3:has-text(/Sexdating|Webcamsex/)
 voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="eredivisiewedden.nl"][target="_blank"])
+wereldklokken.nl##.adsbygoogle:style(visibility: collapse !important;)
+wereldklokken.nl##.klokken:style(transform: translateX(-180px ) !important;)
 ! 2021
 112achterhoek-nieuws.nl###sidebar
 123geldzaken.nl##.widget_sponsor
