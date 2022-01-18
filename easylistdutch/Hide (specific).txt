@@ -20,8 +20,8 @@ crypto-insiders.nl##article.format-standard:has([id^="div-gpt-ad"])
 dagelijksekost.een.be##.dish-sponsors
 duurzaam-actueel.nl##[class*="bd-block"]:has(a[href]):has(img[src*="wp-content/uploads/"])
 duurzaam-actueel.nl##header + section:has([class*="logo-showcase-slider"])
-feestdagen-nl.nl##aside:has(.adsbygoogle)
-feestdagen-nl.nl##div[class]:has(>.adsbygoogle):upward(1)
+feestdagen-be.be,feestdagen-nl.nl##aside:has(.adsbygoogle)
+feestdagen-be.be,feestdagen-nl.nl##div[class]:has(>.adsbygoogle):upward(1)
 forum.spaarinformatie.nl##table:has-text(/advert/i)
 frontline.digital##[id^="block-"]:has(a[href^="https://clk.tradedoubler.com/click"])
 !handbalstartpunt.nl##aside.widget-banner
