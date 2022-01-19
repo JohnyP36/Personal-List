@@ -32,6 +32,7 @@ kalender-365.nl###dish-top-desktop
 kilroynews.net##table:has(a[href="http://www.waffen-jansen.de"])
 kinkymedia.nl##.adguru-ad-banner
 kinkymedia.nl##.adguru-zone-wrap
+kinkymedia.nl##.carousel-frame:has([id*="adguru_slider"])
 kinkymedia.nl##.footer-widget-container:has(.size-full.aligncenter):has(img[src$="gif"])
 kinkymedia.nl##[id^="adguru-zone-widget"]
 kinkymedia.nl##aside > div[id^="media_image"]:has(a[href]):not(:has(a[href*="kinkymedia.nl"]))
