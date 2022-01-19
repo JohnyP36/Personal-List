@@ -53,6 +53,8 @@ tube.nederlandseporno.nl##h3:has-text(/Sexdating|Webcamsex/)
 voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="eredivisiewedden.nl"][target="_blank"])
 wereldklokken.nl##.adsbygoogle:style(visibility: collapse !important;)
 wereldklokken.nl##.klokken:style(transform: translateX(-180px ) !important;)
+wettelijke-feestdagen.nl##.advertentieBanner
+wettelijke-feestdagen.nl###reclame
 ! 2021
 112achterhoek-nieuws.nl###sidebar
 123geldzaken.nl##.widget_sponsor
