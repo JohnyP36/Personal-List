@@ -48,6 +48,8 @@
 ||kilroynews.net^*banner
 ||kinkymedia.nl/wp-content/plugins/wp-ad-guru/*$script,first-party
 ||kinkymedia.nl/wp-content/uploads/*vierkant*$image
+||klapjes.nl/hoomezaz/*/*970x90$image
+||klapjes.nl/hoomezaz/*/*.gif
 ||knhs.nl/imagegen.ashx?image=/media/1*&width=360&constrain=true$image
 ||knhs.nl/imagegen.ashx?image=/media/1*/*banner-*&width=550&constrain=true$image
   ||kookboekennieuws.nl/wp-content/uploads/*/*-banners-*.
