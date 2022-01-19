@@ -1,4 +1,5 @@
 ! 2022
+1001erotiekverhalen.nl##[href^="https://t.adating.link/"]:upward(2)
 actueel-nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
 ajaxreport.nl,psvreport.nl##[id^="text"][class$="sidebar-widget"]:has-text(/casino/i):not(:has(div[class="widget-title"]))
 ajaxreport.nl,feyenoordreport.nl,livestreamvandaag.be,onlinekraslotenrss.nl,onlinepokerrss.nl,psvreport.nl,sportweddenrss.nl,voetbalsnafu.nl##.widget_links
