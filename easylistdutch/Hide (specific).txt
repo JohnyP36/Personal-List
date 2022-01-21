@@ -30,8 +30,8 @@ frontline.digital##[id^="block-"]:has(a[href^="https://clk.tradedoubler.com/clic
 handbalstartpunt.nl##aside > div[class]:has(>.adsbygoogle)
 handbalstartpunt.nl##p:has(img[src*="Logo"])
 kalender-365.nl###dish-top-desktop
-hartvannederland.nl,shownieuws.nl##[data-testid^="banner"]
-hartvannederland.nl,shownieuws.nl##div[class*="-bannerWrapper-"]
+hartvannederland.nl,shownieuws.nl,vivandaag.nl##[data-testid^="banner"]
+hartvannederland.nl,shownieuws.nl,vivandaag.nl##div[class*="-bannerWrapper-"]
 kilroynews.net##table:has(a[href="http://www.waffen-jansen.de"])
 kinkymedia.nl##.adguru-ad-banner
 kinkymedia.nl##.adguru-zone-wrap
