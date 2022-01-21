@@ -5,7 +5,7 @@
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Januari 15, 2022 10:35 UTC
+! Last modified: Januari 21, 2022 11:28 UTC
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
