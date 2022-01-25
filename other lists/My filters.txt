@@ -212,3 +212,4 @@ reddit.com##+js(no-xhr-if, method:POST url:/^https:\/\/www\.reddit\.com$/)
 !@@||s_a_f_e..0verflow*$image,domain=browserleaks.com
 !@@||browserleaks.com/*/1.gif?v=$domain=browserleaks.com
 !https://github.com/JohnyP36/Personal-List/blob/main/Personal%20List%20(uBo).txt
+!*,~acounts.google.*,~youtube.com,~googlevideo.com,~bol.com,~freebitco.in,~gab.com,~instagram.com,~y8.com##+js(cookie-remover)
