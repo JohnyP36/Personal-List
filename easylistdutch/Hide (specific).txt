@@ -29,6 +29,7 @@ frontline.digital##[id^="block-"]:has(a[href^="https://clk.tradedoubler.com/clic
 !handbalstartpunt.nl##aside.widget-banner
 handbalstartpunt.nl##aside > div[class]:has(>.adsbygoogle)
 handbalstartpunt.nl##p:has(img[src*="Logo"])
+helpmij.nl##[id^="navbar_notice"]:has(.adsbygoogle)
 kalender-365.nl###dish-top-desktop
 hartvannederland.nl,shownieuws.nl,vivandaag.nl##[data-testid^="banner"]
 hartvannederland.nl,shownieuws.nl,vivandaag.nl##div[class*="-bannerWrapper-"]
