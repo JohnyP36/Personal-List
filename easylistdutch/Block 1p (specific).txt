@@ -245,7 +245,6 @@
 ||tennisvlaanderen.be/documents/*/21Sponsorblok-$image
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
-||tpo.nl/broodplank/TRU*
 ||transport-online.nl/site/includes/uploads/banner-
 ||truck1.be/st2/banners/$subdocument
 ||truck1-nl.be/st2/banners/$subdocument
