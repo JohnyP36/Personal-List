@@ -58,6 +58,8 @@ onlinecasinorss.nl,onlinekraslotenrss.nl,voetbalsnafu.nl,voetbalweddenrss.nl##[c
 rtlnieuws.nl###rtln-ad-advertorial
 rtlnieuws.nl##.billboard
 rtlnieuws.nl##div[class$=_with_ad__ad]
+tpo.nl##[id$="top-ad"]
+tpo.nl##[id$="halfpage"]
 tube.nederlandseporno.nl##[id^="custom_html"]:has-text(/Polder Webcamsex|Sex contact/)
 tube.nederlandseporno.nl##h3:has-text(/Sexdating|Webcamsex/)
 voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="eredivisiewedden.nl"][target="_blank"])
@@ -744,7 +746,6 @@ tijd.be##.c-articleteaser--sponsored
 tijd.be##.sticky-article-halfpager
 !topgear.nl##.theme-advertorial
 touretappe.nl##.desktopad
-tpo.nl##h4[class]:has-text(/advert/i)
 transfermarkt.nl##.werbung
 transport-online.nl##.widget:has(.advertisement-new:not(:has(a[href$="/adverteerdersinformatie/"])))
 treinreiziger.nl##div[class*="ads-adsense-"]
