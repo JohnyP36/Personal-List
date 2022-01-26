@@ -67,6 +67,7 @@
 ||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xmlhttprequest
 ||newspower.nu/wp-content/uploads/*/*/*.gif$image
 ||mygaydate.nl/images/shemales.gif
+||tpo.nl/wp-content/themes/*/tpo-banner$image
 ||wettelijke-feestdagen.nl/Images/advertentie$image
 ||wettelijke-feestdagen.nl/Images/banner$image
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*/RO*?zoom=*&w=665
