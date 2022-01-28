@@ -45,15 +45,20 @@ klapjes.nl##div[class*="Sidebar"] > [class]:has-text(webcamsex)
 klapjes.nl##div[class*="Sidebar"] img[src*="/hoomezaz"][src*=".gif"]:upward(3)
 kledingmaten.nl##[id^="text-"]:has-text(/advert/i)
 kledingmaten.nl##aside[id^="custom"]:has(script[src*="cookie"])
+mygaydate.nl##.rand:has([href^="https://www.shemalecontactnederland.nl/"])
 netonline.be##.text_12_jobs_only
 netonline.be##.tekstboldwit td:has-text(/advert/i)
 newspower.nu##aside[class^="td_block"]:has-text(/advert/i):has(.gofollow)
 nieuwsonline.nu##.clearfix:has(img[src*="/header/"])
 nieuwsonline.nu##.split-images-news-section:has(.section-title:has-text(/Advert/i))
 nieuwsonline.nu##.widget-title:has-text(/Advert|AD/):upward(1):not(:has-text(/gratis video ad bij het plaatsen van een advert/i))
-mygaydate.nl##.rand:has([href^="https://www.shemalecontactnederland.nl/"])
 nd.nl#?#.text-center:-abp-contains(advert)
 nnp.nl##div[class^="p-4"]:has([class*="gray"]):has(a[data-source^="banner"])
+nu.nl###header > .zone
+nu.nl##[class="zone clearfix"][data-zone$="bottom"]:has([id^="ad"])
+nu.nl##a[href*="/advertorial-"]
+nu.nl##div.articlelist[data-section="advertorial-belastingdienst-adverteerder"]
+nu.nl##aside#h1
 onlinecasinorss.nl,onlinekraslotenrss.nl,voetbalsnafu.nl,voetbalweddenrss.nl##[class$="sidebar-widget"]:has(p > a[href*="casino"]):not(:has(div[class="widget-title"]))
 rtlnieuws.nl###rtln-ad-advertorial
 rtlnieuws.nl##.billboard
@@ -544,10 +549,6 @@ notebookcheck.nl##.amaz_el
 nporadio1.nl##[class^="sc-1o7zata"]:has-text(advert):has([id^="adid"]):has(script[src*="/adcdn."])
 nporadio1.nl##section[class]:has-text(advert):has([id^="adid"]):has(script[src*="/adcdn."])
 nporadio2.nl##.home-module--advertisement
-nu.nl###header > .zone
-nu.nl##a[href*="/advertorial-"]
-nu.nl##div.articlelist[data-section="advertorial-belastingdienst-adverteerder"]
-nu.nl##aside#h1
 nuus.be##.widget-area.sidebar:has([data-advadstrackid])
 nzbindex.nl##.inner:has(a[href])
 oisterwijknieuws.nl###left-sidebar
