@@ -1,3 +1,5 @@
+! 2022
+autoweek.nl##+js(set-constant, isAdBlockActive, false)
 ! 2021-12-29 https://github.com/uBlockOrigin/uAssets/issues/11038  // These rules are not really anti-adblok, but just a set of rules I want to keep together.
 @@||videoplayer.persgroep.be/*/ad_smartads_.js$xhr,domain=vtm.be
 ||medialaancdn.be/vtm_od/prerolls/$media,domain=vtm.be,redirect=noopmp3-0.1s
