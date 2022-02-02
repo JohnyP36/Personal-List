@@ -345,4 +345,4 @@
 ||wanttoknow.nl^*Banner
 ||webcamsexplaza.com/bannerwsp.$image
 ||wildfm.nl/wp-content/uploads/*/thumbnail_image002.png
-||xingo.nl/bannermanagement/
+
