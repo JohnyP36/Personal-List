@@ -68,6 +68,8 @@
 ||newspower.nu/wp-content/uploads/*/*/*.gif$image
 ||mygaydate.nl/images/shemales.gif
 ||tpo.nl/wp-content/themes/*/tpo-banner$image
+||webcamsexplaza.com/bannerwsp.$image
+||webcamsexplaza.com/images/shemaledating.gif
 ||wettelijke-feestdagen.nl/Images/advertentie$image
 ||wettelijke-feestdagen.nl/Images/banner$image
 ||wildfm.nl/wp-content/uploads/*/thumbnail_image002.png
@@ -344,4 +346,3 @@
 ||voetbalnieuws.be/*/images/website-takeover/*$image,first-party
 ||waarzo.nl/imagestore/banners/
 ||wanttoknow.nl^*Banner
-||webcamsexplaza.com/bannerwsp.$image
