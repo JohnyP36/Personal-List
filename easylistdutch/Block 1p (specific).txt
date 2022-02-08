@@ -68,6 +68,8 @@
 ||newspower.nu/wp-content/uploads/*/*/*.gif$image
 ||mygaydate.nl/images/shemales.gif
 ||tpo.nl/wp-content/themes/*/tpo-banner$image
+||waarzo.nl/imagestore/banners/
+||waarzo.nl/imagestore/site-banners/
 ||webcamsexplaza.com/bannerwsp.$image
 ||webcamsexplaza.com/images/shemaledating.gif
 ||wettelijke-feestdagen.nl/Images/advertentie$image
@@ -344,5 +346,4 @@
 ||video18.nl/img/banners/$image
 ||voetbalkrant.com/images/pub/
 ||voetbalnieuws.be/*/images/website-takeover/*$image,first-party
-||waarzo.nl/imagestore/banners/
 ||wanttoknow.nl^*Banner
