@@ -67,6 +67,8 @@
 ||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xmlhttprequest
 ||newspower.nu/wp-content/uploads/*/*/*.gif$image
 ||mygaydate.nl/images/shemales.gif
+||startlinken.nl/images/banner-$image,first-party
+||startlinken.nl/javascript/BannerRotation*$script,first-party
 ||tpo.nl/wp-content/themes/*/tpo-banner$image
 ||waarzo.nl/imagestore/banners/
 ||waarzo.nl/imagestore/site-banners/
