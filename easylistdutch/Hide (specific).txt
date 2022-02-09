@@ -748,6 +748,7 @@ telegraaf.nl##.VideoArticlePage__banner
 telegraaf.nl##.VideoPage__banner
 telegraaf.nl##.WebpushOptin__main
 telegraaf.nl##.withBanners
+telegraaf.nl##.withBanners + .ComponentRotation
 tellows.nl###lb_header
 thekinkyweb.nl##[id^="text-"]:has-text(Partners)
 tiener-sexverhalen.nl##aside[id^="block"]:has(img[src*="/wp-content/uploads/"][src$=".gif"])
