@@ -56,6 +56,7 @@ nieuwsonline.nu##.split-images-news-section:has(.section-title:has-text(/Advert/
 nieuwsonline.nu##.widget-title:has-text(/Advert|AD/):upward(1):not(:has-text(/gratis video ad bij het plaatsen van een advert/i))
 nd.nl#?#.text-center:-abp-contains(advert)
 nnp.nl##div[class^="p-4"]:has([class*="gray"]):has(a[data-source^="banner"])
+nu.nl##.articlelist.block:has-text(Folder \(Adverteerders\)) .listA
 nu.nl###header > .zone
 nu.nl##[class="zone clearfix"][data-zone$="bottom"]:has([id^="ad"])
 nu.nl##a[href*="/advertorial-"]
