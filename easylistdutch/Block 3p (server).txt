@@ -51,6 +51,7 @@
 ||nextday.media^$third-party
 ||nonstoppartner.net^$third-party
 ||online-banners.nl^$third-party
+||optoutadvertising.com^$third-party
 ||partner.bol.com^$third-party
 ||partnerclicks.nl^$third-party
 ||partnerprogramma.bol.com^$third-party
