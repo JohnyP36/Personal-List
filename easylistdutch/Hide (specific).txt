@@ -210,7 +210,7 @@ coastline945fm.nl,coastlinefm.nl,elfvoetbal.nl,fonkonline.nl###partners
 computable.be##.sponsorartikelen
 computable.nl##.sponsored
 crimesite.nl##em:has-text(reclame)
-cryptobenelux.com##.jet-parallax-section.elementor-section:has(img[src*="banner"])
+cryptobenelux.com##.elementor-element iframe[data-ezsrc*="Bitcoin_Kopen"]
 cryptobenelux.com##section[class*="has_eae_slider elementor-section elementor-top-section elementor-element"][data-settings*="sticky"][data-settings*="top"]
 cryptosjop.nl##[id^="custom_html-"]:has(.bitvavo-widget)
 culturescope.nl##.widget_sp_image:has([onclick^="javascript:window.open("] > img[width][height])
