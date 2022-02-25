@@ -71,6 +71,9 @@ rtlnieuws.nl##div[class$=_with_ad__ad]
 spidersolitairespelen.nl##.spel_b1
 spidersolitairespelen.nl##.spel_b2
 startlinken.nl##td[class]:has(a[href*="robohost.nl/clients/aff.php"]):upward(2)
+studylibnl.com##.above-content
+studylibnl.com##.below-content
+studylibnl.com##.sidebar-top-content
 tpo.nl##[id$="top-ad"]
 tpo.nl##[id$="halfpage"]
 tpo.nl##div.ads-contain
