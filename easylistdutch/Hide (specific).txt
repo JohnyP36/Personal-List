@@ -63,6 +63,8 @@ nu.nl##a[href*="/advertorial-"]
 nu.nl##div.articlelist[data-section="advertorial-belastingdienst-adverteerder"]
 nu.nl##aside#h1
 onlinecasinorss.nl,onlinekraslotenrss.nl,voetbalsnafu.nl,voetbalweddenrss.nl##[class$="sidebar-widget"]:has(p > a[href*="casino"]):not(:has(div[class="widget-title"]))
+racesport.nl##.hthb-notification
+racesport.nl##.rs_sponsorbanners_widget:upward(1)
 rtlnieuws.nl###rtln-ad-advertorial
 rtlnieuws.nl##.billboard
 rtlnieuws.nl##div[class$=_with_ad__ad]
