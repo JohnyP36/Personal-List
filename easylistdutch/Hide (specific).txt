@@ -27,6 +27,7 @@ feestdagen-be.be,feestdagen-nl.nl##div[class]:has(>.adsbygoogle):upward(1)
 feestdagen-nederland.nl###ad-top-desktop
 forum.spaarinformatie.nl##table:has-text(/advert/i)
 frontline.digital##[id^="block-"]:has(a[href^="https://clk.tradedoubler.com/click"])
+funda.nl##.home-billboard
 !handbalstartpunt.nl##aside.widget-banner
 handbalstartpunt.nl##aside > div[class]:has(>.adsbygoogle)
 handbalstartpunt.nl##p:has(img[src*="Logo"])
