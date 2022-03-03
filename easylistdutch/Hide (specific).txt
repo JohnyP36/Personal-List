@@ -35,6 +35,7 @@ helpmij.nl##[id^="navbar_notice"]:has(.adsbygoogle)
 kalender-365.nl###dish-top-desktop
 hartvannederland.nl,shownieuws.nl,vivandaag.nl##[data-testid^="banner"]
 hartvannederland.nl,shownieuws.nl,vivandaag.nl##div[class*="-bannerWrapper-"]
+jaap.nl##div[id^="property_ad_"]
 kilroynews.net##table:has(a[href="http://www.waffen-jansen.de"])
 kinkymedia.nl##.adguru-ad-banner
 kinkymedia.nl##.adguru-zone-wrap
