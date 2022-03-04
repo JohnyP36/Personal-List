@@ -59,6 +59,7 @@ nieuwsonline.nu##.widget-title:has-text(/Advert|AD/):upward(1):not(:has-text(/gr
 nd.nl#?#.text-center:-abp-contains(advert)
 nnp.nl##div[class^="p-4"]:has([class*="gray"]):has(a[data-source^="banner"])
 nu.nl##.articlelist.block:has-text(Folder \(Adverteerders\)) .listA
+nu.nl##.temptation__aside
 nu.nl###header > .zone
 nu.nl##[class="zone clearfix"][data-zone$="bottom"]:has([id^="ad"])
 nu.nl##a[href*="/advertorial-"]
