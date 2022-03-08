@@ -50,13 +50,17 @@ kledingmaten.nl##[id^="text-"]:has-text(/advert/i)
 kledingmaten.nl##aside[id^="custom"]:has(script[src*="cookie"])
 minecrafttoplist.nl##.fancy-wrap
 mygaydate.nl##.rand:has([href^="https://www.shemalecontactnederland.nl/"])
+nd.nl#?#.text-center:-abp-contains(advert)
 netonline.be##.text_12_jobs_only
 netonline.be##.tekstboldwit td:has-text(/advert/i)
 newspower.nu##aside[class^="td_block"]:has-text(/advert/i):has(.gofollow)
 nieuwsonline.nu##.clearfix:has(img[src*="/header/"])
 nieuwsonline.nu##.split-images-news-section:has(.section-title:has-text(/Advert/i))
 nieuwsonline.nu##.widget-title:has-text(/Advert|AD/):upward(1):not(:has-text(/gratis video ad bij het plaatsen van een advert/i))
-nd.nl#?#.text-center:-abp-contains(advert)
+ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
+ninefornews.nl##.mag-box:has(img[width="728"][height="90"])
+ninefornews.nl##div[class^="mag-box"] + #adskeeper
+ninefornews.nl##div[class*="header-container"] a[class="gofollow"][href*="link"]
 nnp.nl##div[class^="p-4"]:has([class*="gray"]):has(a[data-source^="banner"])
 nu.nl##.articlelist.block:has-text(Folder \(Adverteerders\)) .listA
 nu.nl##.temptation__aside
@@ -539,14 +543,6 @@ nieuwsfiets.nu##.wpb_raw_html[class*="us_custom_"]:has(.wpb_wrapper)
 nieuwslog.nl##.wp-block-genesis-blocks-gb-columns:has(a[href*="/go/www.bet365.nl/"])
 nieuwsmotor.nl##.add-background
 nieuwsuitnijmegen.nl##.banner-box-1
-ninefornews.nl##.in-house:has(img[width="300"][height="250"])
-ninefornews.nl##.nfn-target[data-advadsredirect]
-ninefornews.nl##.sticky-element-placeholder
-ninefornews.nl##.widget_text.widget:has(img[width="300"][height="600"])
-ninefornews.nl##.widget-top:has-text(/Gesponsorde/i) 
-ninefornews.nl##.widget-top:has-text(/Sponsored/i)
-ninefornews.nl##[class*="header-content"] [class="gofollow"][href*="/link/"]
-ninefornews.nl##[id^="text-"]:has(.nfn-target[data-advadsredirect])
 nl.motorsport.com##.ms-hapb
 !nljug.org##div[id*="custom_html"]:has(div[class="widget-top"]):has-text(/partners/i)
 nlsexfilmpjes.com###left_div li:not(:scope > a[target="_blank"])
