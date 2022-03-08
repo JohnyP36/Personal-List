@@ -206,7 +206,6 @@
 ||nevobo.nl^*/sponsor/$image
 ||nieuwsopbeeld.nl/wp-content/uploads/*/Advertentie-
 ||ninefornews.nl/wp-content/a-d-s/*
-||ninefornews.nl/wp-content/uploads/*/tetralogie$image
 ||ninefornews.nl/wp-content/uploads/*/*-300x250-*.jpg$image
 ||ninefornews.nl/wp-content/uploads/*/banner-set-*.png$image
 ||noordernieuws.nl/wp-content/uploads/201*/*/*.gif$image
