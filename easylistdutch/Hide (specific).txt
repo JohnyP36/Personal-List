@@ -49,6 +49,7 @@ klapjes.nl##div[class*="Sidebar"] > [class]:has-text(webcamsex)
 klapjes.nl##div[class*="Sidebar"] img[src*="/hoomezaz"][src*=".gif"]:upward(3)
 kledingmaten.nl##[id^="text-"]:has-text(/advert/i)
 kledingmaten.nl##aside[id^="custom"]:has(script[src*="cookie"])
+lonelyplanet.nl##div[id*="adf-billboard"]
 minecrafttoplist.nl##.fancy-wrap
 mygaydate.nl##.rand:has([href^="https://www.shemalecontactnederland.nl/"])
 nd.nl#?#.text-center:-abp-contains(advert)
