@@ -59,6 +59,7 @@ nieuwsonline.nu##.split-images-news-section:has(.section-title:has-text(/Advert/
 nieuwsonline.nu##.widget-title:has-text(/Advert|AD/):upward(1):not(:has-text(/gratis video ad bij het plaatsen van een advert/i))
 ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
 ninefornews.nl##.mag-box:has(img[width="728"][height="90"])
+ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3)
 ninefornews.nl##div[class^="mag-box"] + #adskeeper
 ninefornews.nl##div[class*="header-container"] a[class="gofollow"][href*="link"]
 nnp.nl##div[class^="p-4"]:has([class*="gray"]):has(a[data-source^="banner"])
