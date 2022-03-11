@@ -18,6 +18,7 @@
 ||bol.com/nl/upload/banners/
 ||bol.com/nl/upload/partnerprogramma/*.jpg
 ||cdn.ster.nl/banners^
+||cdn.wegdamnieuws.nl/wp-content/uploads/*/*Banner
 ||chatmetvreemden.be/static/html/
 ||chatmetvreemden.nl/static/html/
 ||christelijknieuws.nl/upload/modules/banner/
