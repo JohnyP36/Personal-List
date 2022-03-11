@@ -63,6 +63,7 @@ newspower.nu##aside[class^="td_block"]:has-text(/advert/i):has(.gofollow)
 nieuwsonline.nu##.clearfix:has(img[src*="/header/"])
 nieuwsonline.nu##.split-images-news-section:has(.section-title:has-text(/Advert/i))
 nieuwsonline.nu##.widget-title:has-text(/Advert|AD/):upward(1):not(:has-text(/gratis video ad bij het plaatsen van een advert/i))
+nieuwsuitdelden.nl##.gesponsord_blokje
 ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
 ninefornews.nl##.mag-box:has(img[width="728"][height="90"])
 ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3)
