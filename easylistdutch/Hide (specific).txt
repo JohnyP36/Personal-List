@@ -52,6 +52,7 @@ kledingmaten.nl##aside[id^="custom"]:has(script[src*="cookie"])
 lonelyplanet.nl##div[id*="adf-billboard"]
 maarkelsnieuws.nl##.banner-secondary-sidebar:not(:has(img[src*="weerbanner"]))
 maarkelsnieuws.nl##.banner-widget
+maarkelsnieuws.nl##.in-slider-ad
 maarkelsnieuws.nl##.sidebar-slider-bg > .banners-weekad
 minecrafttoplist.nl##.fancy-wrap
 mygaydate.nl##.rand:has([href^="https://www.shemalecontactnederland.nl/"])
