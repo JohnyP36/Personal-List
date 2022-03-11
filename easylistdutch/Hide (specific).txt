@@ -96,6 +96,7 @@ tube.nederlandseporno.nl##[id^="custom_html"]:has-text(/Polder Webcamsex|Sex con
 tube.nederlandseporno.nl##h3:has-text(/Sexdating|Webcamsex/)
 tvgids.nl##.square-item:has( > .banner)
 voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="eredivisiewedden.nl"][target="_blank"])
+wegdamnieuws.nl##.mk-sponsorlink
 wereldklokken.nl##.adsbygoogle:style(visibility: collapse !important;)
 wereldklokken.nl##.klokken:style(transform: translateX(-180px ) !important;)
 wettelijke-feestdagen.nl##.advertentieBanner
@@ -145,7 +146,7 @@ androidplanet.nl,iphoned.nl##.aa-top-dog
 androidplanet.nl,iphoned.nl##.widget_offers
 androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
 androidplanet.nl,iphoned.nl##header[data-name="featured-header"]
-androidworld.nl,cinenews.be,handbal.nl,indeleiderstrui.nl,openrotterdam.nl,webmastersunited.com##.ads
+androidworld.nl,cinenews.be,handbal.nl,indeleiderstrui.nl,openrotterdam.nl,webmastersunited.com,wegdamnieuws.nl##.ads
 ans-online.nl##.theiaStickySidebar > .widget:has-text(Advertentie)
 apintie.sr###left-inside > div#ads
 apintie.sr###navcol2
