@@ -7,6 +7,7 @@
 @@||lexozfldkklgvc.com/assets/cp/js/webcam_gallery/iframe_handler.js$script,domain=sexervaringdelen.com
 @@||lexozfldkklgvc.com/cp/webcam_gallery/index.php$subdocument,domain=sexervaringdelen.com
 @@||massariuscdn.com/pubs/*/*_hb_setup.js$script,domain=dailybuzz.nl|radio.nl|welingelichtekringen.nl
+@@||weerstation-markelo.nl/weer/banners/weerbanner$domain=maarkelsnieuws.nl
 ! 2021-12-29 https://github.com/uBlockOrigin/uAssets/issues/11039
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=dagelijksekost.een.be
 @@||shared.mediahuis.be/ka-ching/prebid.js$script,domain=dagelijksekost.een.be
