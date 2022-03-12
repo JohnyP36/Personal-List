@@ -83,6 +83,7 @@ racesport.nl##.rs_sponsorbanners_widget:upward(1)
 rtlnieuws.nl###rtln-ad-advertorial
 rtlnieuws.nl##.billboard
 rtlnieuws.nl##div[class$=_with_ad__ad]
+sexpret.com##.nomobile:has(img[src^="/images/"])
 spidersolitairespelen.nl##.spel_b1
 spidersolitairespelen.nl##.spel_b2
 startlinken.nl##td[class]:has(a[href*="robohost.nl/clients/aff.php"]):upward(2)
