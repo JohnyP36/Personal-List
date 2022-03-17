@@ -96,6 +96,7 @@ tpo.nl##div.ads-contain
 tube.nederlandseporno.nl##[id^="custom_html"]:has-text(/Polder Webcamsex|Sex contact/)
 tube.nederlandseporno.nl##h3:has-text(/Sexdating|Webcamsex/)
 tvgids.nl##.square-item:has( > .banner)
+vi.nl##.betting-provider-row
 voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="eredivisiewedden.nl"][target="_blank"])
 wegdamnieuws.nl##.mk-sponsorlink
 wereldklokken.nl##.adsbygoogle:style(visibility: collapse !important;)
