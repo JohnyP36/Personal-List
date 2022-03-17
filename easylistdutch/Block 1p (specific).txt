@@ -152,7 +152,6 @@
 ||dewereldmorgen.be/wp-content/banners/*
 ||dutchcryptotalk.com/wp-content/uploads/*/bitvavo
 ||dutchitchannel.nl/6*?field=Binary1$image
-||duurzaamnieuws.nl/wp-content/uploads/*/meewind*
 ||edelmetaal-info.nl/cdfund-*.html
 ||edelmetaal-info.nl/wp-content/uploads/*/cd-fund
 ||ekvrouwen.nl/*/uploads/*/bookmaker-cta-$image
