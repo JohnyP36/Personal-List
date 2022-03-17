@@ -515,6 +515,7 @@ marktplaats.nl,2dehands.be##.mp-Page-element > .mp-Listings + div:not([class]):n
 marktplaats.nl,2dehands.be##.premium-content
 marktplaats.nl,2dehands.be##.vip-banner-top-sticky-container
 marktplaats.nl,2dehands.be##ul.mp-Listings > li.mp-Listing:has(:scope > .mp-Listing-coverLink > .mp-Listing-group > .mp-Listing-group--price-date-feature > span.mp-Listing-priority > span:has-text(/^Topadvertentie$/))
+marktplaats.nl##.right-banner-root-container
 marokko.nl###ad-rec-btf
 marokko.nl##.ad_between
 marokko.nl##.ad_inner
