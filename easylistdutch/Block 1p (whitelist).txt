@@ -1,6 +1,7 @@
 @@/images/volgende.gif$image,1p,domain=privesexgids.nl|sexdatingholland.com|sexpret.com|studentesexcontact.nl|tienersexpret.nl|zinomteneuken.nl
 @@||dekrantvantoen.nl/resources/*/images/*_336x120.$image
 @@||girlpics.nl/images/ads_$image,first-party
+@@||linda.nl/api/v1/pages/advertorial/*$first-party
 @@||naaktkrant.nl/media/*/*-gifs-*.gif$image,first-party
 @@||privesexgids.nl/images/webcamsex.gif$image
 @@||rtl.be/videos/player/vp4_webanalytics.js$script,first-party
