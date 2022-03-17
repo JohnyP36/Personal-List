@@ -78,6 +78,7 @@ nu.nl##a[href*="/advertorial-"]
 nu.nl##div.articlelist[data-section="advertorial-belastingdienst-adverteerder"]
 nu.nl##aside#h1
 onlinecasinorss.nl,onlinekraslotenrss.nl,voetbalsnafu.nl,voetbalweddenrss.nl##[class$="sidebar-widget"]:has(p > a[href*="casino"]):not(:has(div[class="widget-title"]))
+podcastluisteren.nl,zeelandnet.nl##.bnr
 racesport.nl##.hthb-notification
 racesport.nl##.rs_sponsorbanners_widget:upward(1)
 rtlnieuws.nl###rtln-ad-advertorial
@@ -853,7 +854,6 @@ zakenreisnieuws.nl###block-views-banner_carousel-block
 zakenreisnieuws.nl##div[class*="block-block"]:has(.adsbygoogle)
 zeelandnet.nl##.article-bnr-first
 zeelandnet.nl##.as__bottom-banner
-zeelandnet.nl##.bnr-notice
 zeelandnet.nl##.row--bnr-between
 zeelandnet.nl##aside:has([id^="div-gpt-ad"])
 zoom.nl##div[class^="display-ad_container"]
