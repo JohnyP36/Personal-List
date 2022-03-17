@@ -6,6 +6,7 @@
 @@||privesexgids.nl/images/webcamsex.gif$image
 @@||rtl.be/videos/player/vp4_webanalytics.js$script,first-party
 @@||showmodeluitverkoop.nl/upload/advertentie/
+@@||sliedrecht24.nl/wp-content/uploads/*/Banner-300x250*.jpg$image,first-party
 @@||te-les-koop.nl/advertenties.php
 @@||vinatera.be/wp-content/uploads/*_300x600.$image,first-party
 @@||zilverengoudkopen.nl/banners/header
