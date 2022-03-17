@@ -24,6 +24,10 @@ crypto-insiders.nl##article.format-standard:has([id^="div-gpt-ad"])
 dagelijksekost.een.be##.dish-sponsors
 duurzaam-actueel.nl##[class*="bd-block"]:has(a[href]):has(img[src*="wp-content/uploads/"])
 duurzaam-actueel.nl##header + section:has([class*="logo-showcase-slider"])
+duurzaamnieuws.nl##.adv-link
+duurzaamnieuws.nl##[class^="av_textblock"]:has-text(/advert/i)
+duurzaamnieuws.nl##aside section[class$="widget_text"]:has-text(wordt mede mogelijk gemaakt door)
+duurzaamnieuws.nl##section[class^="avia_codeblock"]:has-text(wordt mede mogelijk gemaakt door)
 feestdagen-be.be,feestdagen-nl.nl##aside:has(.adsbygoogle)
 feestdagen-be.be,feestdagen-nl.nl##div[class]:has(>.adsbygoogle):upward(1)
 feestdagen-nederland.nl###ad-top-desktop
@@ -292,7 +296,6 @@ dutchitchannel.nl##.bannner
 dutchporntube.nl###sidebar > section[id]:has-text(/Zoeken-Kennismaken en Afspreken/i)
 dutchporntube.nl##.entry-header > .button
 dutchporntube.nl##[id^="custom_html"]:has-text(Werelds Beste)
-duurzaamnieuws.nl##.adv-link
 dvhn.nl,lc.nl##.main__ad
 dvhn.nl,lc.nl,meppelercourant.nl##.top__ad
 dwtonline.com###banner1
