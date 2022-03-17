@@ -92,6 +92,8 @@ rtlnieuws.nl##div[class$=_with_ad__ad]
 sexpret.com,zinineensexdate.com##.nomobile:has(img[src^="/images/"])
 spidersolitairespelen.nl##.spel_b1
 spidersolitairespelen.nl##.spel_b2
+spreekbuis.nl##.widget_media_image:not(:has(img[src*="vierkant-spreekbuis"]))
+spreekbuis.nl##.widget_spreekbuis_partners
 startlinken.nl##td[class]:has(a[href*="robohost.nl/clients/aff.php"]):upward(2)
 studylibnl.com##.above-content
 studylibnl.com##.below-content
@@ -738,7 +740,6 @@ spelletje.nl##.adv
 spermatube.be,swingerstube.be,xxx-tube.be##[id^="text-"]:has(img[src*="hotlinkie.com/"])
 sportinnederland.com##.af-main-header-container
 sportinnederland.com##.widget-area:has([id^="custom_html-"]:has(.adsbygoogle))
-spreekbuis.nl##.widget_media_image
 srherald.com##.gsrhera
 srnieuws.com##.card-view:has(h5.bold > a[href][target="_blank"])
 srnieuws.com##.centered.card-view:has([id^="taboola"])
