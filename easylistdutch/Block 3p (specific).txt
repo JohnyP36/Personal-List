@@ -8,6 +8,7 @@
 ||mmcdn.nl/tags/
 ||nexclic.com/pics/image*.gif$domain=dutchleader.nl
 ||sdk.privacy-center.org^$script,domain=goplay.be
+||strafrechtadvocaten.nl/media/banner/$third-party
 ||xingo.nl/bannermanagement/
 ! 2021-12-
 !||2link.be/images/nobanner.jpg$image,domain=2news.be|2travel.be|2you.be
