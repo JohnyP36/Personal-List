@@ -34,6 +34,9 @@ feestdagen-nederland.nl###ad-top-desktop
 forum.spaarinformatie.nl##table:has-text(/advert/i)
 frontline.digital##[id^="block-"]:has(a[href^="https://clk.tradedoubler.com/click"])
 funda.nl##.home-billboard
+geenstijl.nl##.article-premium-promotion-block
+geenstijl.nl##.slajeslag
+geenstijl.nl##a[data-ga-event^="link-tip"]
 !handbalstartpunt.nl##aside.widget-banner
 handbalstartpunt.nl##aside > div[class]:has(>.adsbygoogle)
 handbalstartpunt.nl##p:has(img[src*="Logo"])
@@ -357,9 +360,6 @@ gaynews.nl##[id^="abri"]
 gaynews.nl##[class^="va"]:has([class*="banner"])
 gaynews.nl##a[href^="/_global/_cp.php?"]
 geelfm.be###slider
-geenstijl.nl##.slajeslag
-geenstijl.nl##a[data-ga-event^="link-tip"]
-geenstijl.nl##section[class*="become-premium"]:has(img[src^="https://upload.gscdn.nl/uploads/"][src*="widgets_300x300px"])
 geilefotoverhalen.nl##.widget:has(iframe[src*="/aff_ad?"])
 geile-sexcontacten.be##.card:has([src^="https://www.affilaxy.com/promos//popup/js/pop-under.js"])
 geile-sexcontacten.be##.d-lg-block:has-text(Advert)
