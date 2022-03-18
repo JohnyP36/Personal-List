@@ -2,7 +2,7 @@
 @@||aweprt.com/embed/$script,domain=cumcams.nl|sexervaringdelen.com
 @@||cdn.ebayclassifieds.net/bff/static/*/MyAds.$domain=2dehands.be|marktplaats.nl
 @@||google.com/adsense/domains/caf.js$script,third-party,domain=ww5.meetplaza.be
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=dailybuzz.nl|sportnieuws.nl
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=dailybuzz.nl|skoften.net|sportnieuws.nl
 @@||img.sedoparking.com/templates/bg/arrows-curved.png$image,third-party,domain=meetplaza.be
 @@||lexozfldkklgvc.com/assets/cp/js/webcam_gallery/iframe_handler.js$script,domain=sexervaringdelen.com
 @@||lexozfldkklgvc.com/cp/webcam_gallery/index.php$subdocument,domain=sexervaringdelen.com
