@@ -16,6 +16,7 @@ besteproduct.nl##[id^="ad-block"]
 biernet.nl###BJA2
 biernet.nl###BJA3
 biernet.nl##div[id^="banTop"]:has([class*="ad-wrapper"])
+biflatie.nl##.elementor-image:has(img[src*="banner"])
 binnenlandsbestuur.nl##aside div[class="c-teaser"]:not(:has(a[href*="binnenlandsbestuur.nl"]))
 cip.nl##a[href*="/ad/click/"]:not(.podcast-inline a[href]):not(:has-text(/vacatures/i)):not(:has-text(/gesponsord/i))
 cip.nl##div[class]:has-text(/vakanties/i):upward(2) + div [id^="vacation-carousel"]
