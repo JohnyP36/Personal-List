@@ -11,6 +11,8 @@ appletips.nl###bolcontainer
 appletips.nl##[class^="ph_block"]
 appletips.nl##a[href^="/adverteren-"]
 autoweek.nl##.advertisement
+barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class] > [id="div-gpt-ad-banner"]
+barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center:has-text(/advert|Regiotreffers/)
 belgischecasinos.be,newspower.nu##.gofollow
 besteproduct.nl##[id^="ad-block"]
 biernet.nl###BJA2
@@ -201,10 +203,6 @@ azerty.nl##.block.mod_article > div a[href*="ictwaarborg.nl/"]
 baanwacht.nl##.shailan_banner_widget
 baarsclassicrock.nl##.widebanner
 banknieuws.info##div[class="widget HTML"]
-barneveldsekrant.nl##.w-300x.RM5
-barneveldsekrant.nl##[class] > [id="div-gpt-ad-banner"]:has-text(advertentie)
-barneveldsekrant.nl##div.bg-grey.text-center:has-text(advertentie)
-barneveldsekrant.nl##div.bg-grey.text-center:has-text(Regiotreffers)
 basketbal.vlaanderen##.holder--divider-top
 basketball.nl##div[data-component="partner"]
 basketballbelgium.be###sidebar-top-content > .widget-area:has(img[width="970"][height="250"])
@@ -316,7 +314,6 @@ dwtonline.com###banner1
 easyfm.nl###sponsors-carousel
 edelmetaal-info.nl##[id^="text-"]:has(img[src]):has(a[href])
 edelmetaal-info.nl##div[class="portfolio masonry isotope"]
-edestad.nl##.bg-grey.text-center:has-text(/advert/i)
 edestad.nl##.mtb-50.pt-50.col-sm-12.col-lg-12.col-md-12.bg-grey:not(:has(div[class$="text-center"]))
 edestad.nl##.w-300x.RM5
 eindexamens.nu###leaderboard
