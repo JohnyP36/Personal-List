@@ -68,6 +68,8 @@
 ||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xmlhttprequest
 ||newspower.nu/wp-content/uploads/*/*/*.gif$image
 ||mygaydate.nl/images/shemales.gif
+||pen.nl/wp-content/uploads/*/banner*$image
+||pen.nl/wp-content/uploads/*/*adv$image
 ||racesport.nl/wp-content/uploads/*/TK_Kickoff.jpg$image
 ||startlinken.nl/images/banner-$image,first-party
 ||startlinken.nl/javascript/BannerRotation*$script,first-party
