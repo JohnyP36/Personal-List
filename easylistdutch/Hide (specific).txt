@@ -53,6 +53,8 @@ kinkymedia.nl##.carousel-frame:has([id*="adguru_slider"])
 kinkymedia.nl##.footer-widget-container:has(.size-full.aligncenter):has(img[src$="gif"])
 kinkymedia.nl##[id^="adguru-zone-widget"]
 kinkymedia.nl##aside > div[id^="media_image"]:has(a[href]):not(:has(a[href*="kinkymedia.nl"]))
+historiek.net,mariabode.nl##[id^="custom_html"]:has-text(/advert/i)
+historiek.net##div[id^="ai_widget"]:has-text(/advert/i)
 klapjes.nl##a[href*="/adverteren"]:upward(2)
 klapjes.nl##div[class*="Sidebar"] > [class]:has-text(webcamsex)
 klapjes.nl##div[class*="Sidebar"] img[src*="/hoomezaz"][src*=".gif"]:upward(3)
@@ -66,7 +68,6 @@ maarkelsnieuws.nl##.sidebar-slider-bg > .banners-weekad
 maaslandradio.nl##.slides
 maaslandradio.nl,mariabode.nl##[id^="media_image"]:has-text(/advert/i)
 maaslandradio.nl###header-text-nav-container > .inner-wrap > .clearfix
-mariabode.nl##[id^="custom_html"]:has-text(/advert/i)
 minecrafttoplist.nl##.fancy-wrap
 mygaydate.nl##.rand:has([href^="https://www.shemalecontactnederland.nl/"])
 nd.nl#?#.text-center:-abp-contains(advert)
@@ -427,9 +428,6 @@ heracles.nl##.fixed-ads
 heracles.nl##.footer-blocks
 heracles.nl##.footer-sponsors
 hetkrantje-online.nl##.adUnderArticle
-historiek.net###before-header
-historiek.net##.code-block:has-text(advertentie)
-historiek.net##[id^="custom_html"]:has-text(/Advertentie/i)
 hoekschnieuws.nl##.widget[class^="td_block_template"]:has-text(/Advert/i)
 hoekschnieuws.nl##body > center:has(a[href]:has(img))
 hollywoodhuizen.nl##div[class^="post-content description"] > div[class]:has(.adsbygoogle):not([id])
