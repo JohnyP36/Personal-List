@@ -66,6 +66,7 @@ maarkelsnieuws.nl##.sidebar-slider-bg > .banners-weekad
 maaslandradio.nl##.slides
 maaslandradio.nl,mariabode.nl##[id^="media_image"]:has-text(/advert/i)
 maaslandradio.nl###header-text-nav-container > .inner-wrap > .clearfix
+mariabode.nl##[id^="custom_html"]:has-text(/advert/i)
 minecrafttoplist.nl##.fancy-wrap
 mygaydate.nl##.rand:has([href^="https://www.shemalecontactnederland.nl/"])
 nd.nl#?#.text-center:-abp-contains(advert)
