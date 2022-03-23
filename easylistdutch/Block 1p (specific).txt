@@ -6,6 +6,7 @@
 ||402automotive.com/files/*/files/images/*online-banner-$image
 ||402automotive.com/files/*/files/images/banners/*.$image
 ||402automotive.com/files/images/website/banners/*.$image
+||alphens.nl/resize/upload/*/*banner
 ||am-forum.nl/upload/logo_elektrodump.png
 ||amz01.plzcdn.com/a/
 ||antilliaansdagblad.com/images/*200x200px*.$image
