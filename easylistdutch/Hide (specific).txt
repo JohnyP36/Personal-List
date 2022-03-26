@@ -49,6 +49,7 @@ hvzeeland.nl##.affiliates
 kalender-365.nl###dish-top-desktop
 hartvannederland.nl,shownieuws.nl,vivandaag.nl##[data-testid^="banner"]
 hartvannederland.nl,shownieuws.nl,vivandaag.nl##div[class*="-bannerWrapper-"]
+headliner.nl###flex_left:has([id="div-gpt-ad"])
 historiek.net,mariabode.nl##[id^="custom_html"]:has-text(/advert/i)
 historiek.net##div[id^="ai_widget"]:has-text(/advert/i)
 jaap.nl##div[id^="property_ad_"]
