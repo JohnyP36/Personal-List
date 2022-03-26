@@ -45,6 +45,7 @@
 ||htforum.nl/yabbse/*-banner2.gif
 ||htforum.nl/yabbse/banners/
 ||htforum.nl/yabbse/topframe_v3.php
+||images.headliner.nl/img/campaigns$image
 ||ishotmyself.nl/include/*/promo/footer/
 ||itnijs.frl/wp-content/uploads/*/*/bannerItNijs
 ||kilroynews.net^*banner
