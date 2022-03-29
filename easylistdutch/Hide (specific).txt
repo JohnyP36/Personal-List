@@ -108,6 +108,7 @@ rtlnieuws.nl###rtln-ad-advertorial
 rtlnieuws.nl##.billboard
 rtlnieuws.nl##div[class$=_with_ad__ad]
 sexpret.com,zinineensexdate.com##.nomobile:has(img[src^="/images/"])
+skoften.net##.promoted
 spidersolitairespelen.nl##.spel_b1
 spidersolitairespelen.nl##.spel_b2
 spreekbuis.nl##.widget_media_image:not(:has(img[src*="vierkant-spreekbuis"]))
