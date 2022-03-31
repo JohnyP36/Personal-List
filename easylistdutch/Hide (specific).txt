@@ -10,7 +10,7 @@ appletips.nl##.ph_upgreatest
 appletips.nl###bolcontainer
 appletips.nl##[class^="ph_block"]
 appletips.nl##a[href^="/adverteren-"]
-automobielmanagement.nl,carwashpro.nl,infrasite.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl##.widget_nlpartners
+automobielmanagement.nl,carwashpro.nl,infrasite.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl##.widget_nlpartners
 autoweek.nl##.advertisement
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class] > [id="div-gpt-ad-banner"]
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center:has-text(/advert|Regiotreffers/)
@@ -765,7 +765,6 @@ surfplaza.be##td.di1:has(img[src$="/yourad.gif"])
 synoniemen.net##.promoblok
 takecare4.eu###branding > .clearfix
 tameteo.nl##div[id*="banner"]:upward(2)
-tankpro.nl##.widget_nlpartners
 tcroomburg.nl##.hpitem:has(h3:has-text(Partner))
 techpulse.be##.td-banner-wrap-full
 techzine.nl###lead
