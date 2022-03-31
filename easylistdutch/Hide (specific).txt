@@ -10,7 +10,7 @@ appletips.nl##.ph_upgreatest
 appletips.nl###bolcontainer
 appletips.nl##[class^="ph_block"]
 appletips.nl##a[href^="/adverteren-"]
-automobielmanagement.nl,carwashpro.nl##.widget_nlpartners
+automobielmanagement.nl,carwashpro.nl,infrasite.nl##.widget_nlpartners
 autoweek.nl##.advertisement
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class] > [id="div-gpt-ad-banner"]
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center:has-text(/advert|Regiotreffers/)
