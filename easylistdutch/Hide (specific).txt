@@ -124,6 +124,8 @@ tpo.nl##div.ads-contain
 tube.nederlandseporno.nl##[id^="custom_html"]:has-text(/Polder Webcamsex|Sex contact/)
 tube.nederlandseporno.nl##h3:has-text(/Sexdating|Webcamsex/)
 tvgids.nl##.square-item:has( > .banner)
+vandaaginside.nl##div[class^="a-bannerWrapper-"]
+vandaaginside.nl##div[class^="Component-bannerTopWrapper-"]
 vi.nl##.betting-provider-row
 vi.nl##li[class*="highlights"]:has(div[class*="articles-list"][class*="item--highlight"]:has(span[class]:has-text(/advert/i)))
 voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="eredivisiewedden.nl"][target="_blank"])
