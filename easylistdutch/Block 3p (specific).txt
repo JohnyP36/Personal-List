@@ -8,7 +8,7 @@
 ||mmcdn.nl/tags/
 ||nexclic.com/pics/image*.gif$domain=dutchleader.nl
 ||sdk.privacy-center.org^$script,domain=goplay.be
-||static.promedia.nl/logos/$image,domain=automobielmanagement.nl|carwashpro.nl|infrasite.nl|ovpro.nl|rijschoolpro.nl
+||static.promedia.nl/logos/$image,domain=automobielmanagement.nl|carwashpro.nl|infrasite.nl|ovpro.nl|rijschoolpro.nl|spoorpro.nl
 ||strafrechtadvocaten.nl/media/banner/$third-party
 ||xingo.nl/bannermanagement/
 ! 2021-12-
