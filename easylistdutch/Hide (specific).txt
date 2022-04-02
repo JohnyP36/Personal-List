@@ -112,6 +112,8 @@ rtlnieuws.nl###rtln-ad-advertorial
 rtlnieuws.nl##.billboard
 rtlnieuws.nl##div[class$=_with_ad__ad]
 schuttevaer.nl##.widget_minisites
+scheepvaartkrant.nl###block-leaderboard
+scheepvaartkrant.nl###block-topbannersidebar
 sexpret.com,zinineensexdate.com##.nomobile:has(img[src^="/images/"])
 skoften.net##.promoted
 spidersolitairespelen.nl##.spel_b1
