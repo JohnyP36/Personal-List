@@ -77,6 +77,7 @@
 ||startlinken.nl/images/banner-$image,first-party
 ||startlinken.nl/javascript/BannerRotation*$script,first-party
 ||tpo.nl/wp-content/themes/*/tpo-banner$image
+||vlootschouw.nl/wp-content/uploads/*/bottom-banner*
 ||waarzo.nl/imagestore/banners/
 ||waarzo.nl/imagestore/site-banners/
 ||webcamsexplaza.com/bannerwsp.$image
