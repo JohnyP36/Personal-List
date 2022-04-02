@@ -21,6 +21,7 @@ biernet.nl###BJA3
 biernet.nl##div[id^="banTop"]:has([class*="ad-wrapper"])
 biflatie.nl##.elementor-image:has(img[src*="banner"])
 binnenlandsbestuur.nl##aside div[class="c-teaser"]:not(:has(a[href*="binnenlandsbestuur.nl"]))
+binnenvaartkrant.nl,christmaholic.nl,curacao.nu,dbsuriname.com,dewereldmorgen.be,westerwoldeactueel.nl##.g
 cip.nl##a[href*="/ad/click/"]:not(.podcast-inline a[href]):not(:has-text(/vacatures/i)):not(:has-text(/gesponsord/i))
 cip.nl##div[class]:has-text(/vakanties/i):upward(2) + div [id^="vacation-carousel"]
 creditexpo.nl##p:has(a[href]:has(img[src*="creditexpo.nl/wp-content/uploads/"][width="300"]))
@@ -261,7 +262,6 @@ camping-frankrijk.nl##div[class^="content-home"]:has([id*="HyperLinkBanner"])
 camsexbabe.nl##.happy-player-beside
 camsexbabe.nl,mijnpornotube.nl,pornosterneuken.nl,sexbios.net,sexdatingtube.be##.video-sidebar
 chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
-christmaholic.nl,curacao.nu,dbsuriname.com,dewereldmorgen.be,westerwoldeactueel.nl##.g
 classic.nl##div.brievenbus
 classicstogo.nl##.owl-carousel
 clubbrugge.be##.partners
