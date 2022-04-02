@@ -130,6 +130,8 @@ vandaaginside.nl##div[class^="a-bannerWrapper-"]
 vandaaginside.nl##div[class^="Component-bannerTopWrapper-"]
 vi.nl##.betting-provider-row
 vi.nl##li[class*="highlights"]:has(div[class*="articles-list"][class*="item--highlight"]:has(span[class]:has-text(/advert/i)))
+vlootschouw.nl##[id*="miw_widget"]:has(div[class]:has(a[href*="leverancier"]))
+vlootschouw.nl##[id*="miw_widget"] a[target$="blank"][href]:not(a[href*="mailto"])
 voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="eredivisiewedden.nl"][target="_blank"])
 wegdamnieuws.nl##.mk-sponsorlink
 wereldklokken.nl##.adsbygoogle:style(visibility: collapse !important;)
