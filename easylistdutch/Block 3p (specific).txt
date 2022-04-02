@@ -10,6 +10,7 @@
 ||sdk.privacy-center.org^$script,domain=goplay.be
 ||static.promedia.nl/logos/$image,domain=automobielmanagement.nl|carwashpro.nl|infrasite.nl|ovpro.nl|rijschoolpro.nl|spoorpro.nl|tankpro.nl|taxipro.nl|verkeersnet.nl
 ||strafrechtadvocaten.nl/media/banner/$third-party
+||tools-affil2.com/rtb/index.php$domain=1001erotiekverhalen.nl
 ||xingo.nl/bannermanagement/
 ! 2021-12-
 !||2link.be/images/nobanner.jpg$image,domain=2news.be|2travel.be|2you.be
