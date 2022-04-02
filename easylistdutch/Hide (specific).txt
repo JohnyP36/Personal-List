@@ -77,6 +77,9 @@ maaslandradio.nl##.slides
 maaslandradio.nl,mariabode.nl,palnws.be##[id^="media_image"]:has-text(/advert/i)
 maaslandradio.nl###header-text-nav-container > .inner-wrap > .clearfix
 minecrafttoplist.nl##.fancy-wrap
+mr-online.nl##.elementor-widget-container:has(div[class*="bnr"])
+mr-online.nl##.elementor-widget-wrap > *:has-text(/advert/i):has(div[class*="bnr"])
+mr-online.nl##.type_partner-profielpartner
 mygaydate.nl##.rand:has([href^="https://www.shemalecontactnederland.nl/"])
 nd.nl#?#.text-center:-abp-contains(advert)
 netonline.be##.text_12_jobs_only
