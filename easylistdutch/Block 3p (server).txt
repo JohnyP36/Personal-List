@@ -30,6 +30,7 @@
 ||chainadvertising.eu^$third-party
 ||cleafs.nl^$third-party
 ||conversive.nl^$third-party
+||crnsgngrpj.nl^$third-party
 ||csmcampagne.consumind.nl^$third-party
 ||daisycon.com^$third-party
 ||datingcash.eu^$third-party
