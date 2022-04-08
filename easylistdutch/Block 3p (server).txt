@@ -50,6 +50,7 @@
 ||mt67.net^$third-party
 ||netdirect.nl^$third-party
 ||nextday.media^$third-party
+||nojazz.eu^$third-party
 ||nonstoppartner.net^$third-party
 ||online-banners.nl^$third-party
 ||optoutadvertising.com^$third-party
