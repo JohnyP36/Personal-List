@@ -9,6 +9,9 @@ gratisaftehalen.nl#@#.ads-image
 japan-webike.*#@#.img_ad
 lesoir.be#@##ultimedia_wrapper
 marktplaats.nl#@#.adSummary
+mechanisatiemarkt.nl#@#.advert-container
+mechanisatiemarkt.nl#@#.advert-title
+mechanisatiemarkt.nl#@#.advertiser
 modekoninginmaxima.nl#@#.after-content-ad
 paginamarkt.nl#@#.advertentie
 sexervaringdelen.com#@#.footer-ad
