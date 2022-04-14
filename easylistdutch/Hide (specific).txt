@@ -12,7 +12,7 @@ appletips.nl###bolcontainer
 appletips.nl##[class^="ph_block"]
 appletips.nl##a[href^="/adverteren-"]
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
-autoweek.nl##.advertisement
+autoweek.nl,fonkmagazine.nl##.advertisement
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class] > [id="div-gpt-ad-banner"]
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center:has-text(/advert|Regiotreffers/)
 belgischecasinos.be,newspower.nu##.gofollow
@@ -268,7 +268,7 @@ chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
 classic.nl##div.brievenbus
 classicstogo.nl##.owl-carousel
 clubbrugge.be##.partners
-coastline945fm.nl,coastlinefm.nl,elfvoetbal.nl,fonkonline.nl###partners
+coastline945fm.nl,coastlinefm.nl,elfvoetbal.nl,fonkmagazine.nl,fonkonline.nl###partners
 computable.be##.sponsorartikelen
 computable.nl##.sponsored
 crimesite.nl##em:has-text(reclame)
