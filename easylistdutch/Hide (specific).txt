@@ -136,6 +136,7 @@ tube.nederlandseporno.nl##h3:has-text(/Sexdating|Webcamsex/)
 tvgids.nl##.square-item:has( > .banner)
 vandaaginside.nl##div[class^="a-bannerWrapper-"]
 vandaaginside.nl##div[class^="Component-bannerTopWrapper-"]
+veronicasuperguide.nl##div[id][class^="css"]
 vi.nl##.betting-provider-row
 vi.nl##li[class*="highlights"]:has(div[class*="articles-list"][class*="item--highlight"]:has(span[class]:has-text(/advert/i)))
 vlootschouw.nl##[id*="miw_widget"]:has(div[class]:has(a[href*="leverancier"]))
