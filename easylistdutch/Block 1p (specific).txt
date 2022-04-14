@@ -35,6 +35,7 @@
 ||farmaline.be/assets/banners/
 ||fcupdate.nl/js/adslot.js
 ||flirtmee.nl/img/160x70_sponsor-
+||fonkmagazine.nl/adds/
 ||forum.spaarinformatie.nl/si-info.html
 ||frontline.digital/wp-content/uploads/*/*MM_500x500_IAB.$image
 ||glutenvrij.nl/l/library/*banner*.jpg?
