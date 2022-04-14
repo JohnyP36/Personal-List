@@ -38,6 +38,7 @@ farmaline.be##.c-scroll-list:has(img[src*="farmaline.be/assets/banners/"])
 feestdagen-be.be,feestdagen-nl.nl##aside:has(.adsbygoogle)
 feestdagen-be.be,feestdagen-nl.nl##div[class]:has(>.adsbygoogle):upward(1)
 feestdagen-nederland.nl###ad-top-desktop
+finance.nl##div[style^="width:300px; height:250px;"]:has([id*="google"])
 forum.spaarinformatie.nl##table:has-text(/advert/i)
 frontline.digital##[id^="block-"]:has(a[href^="https://clk.tradedoubler.com/click"])
 funda.nl##.home-billboard
