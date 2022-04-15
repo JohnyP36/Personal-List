@@ -51,7 +51,6 @@ handbalstartpunt.nl##p:has(img[src*="Logo"])
 !hbvl.be##.widget:has(.article-teaser)
 helpmij.nl##[id^="navbar_notice"]:has(.adsbygoogle)
 hvzeeland.nl##.affiliates
-kalender-365.nl###dish-top-desktop
 hardnieuws.nl##[class*="mb-"]:has([id$="ros-970x250"])
 hardnieuws.nl##[id*="ros-300x600"]:upward(1)
 hartvannederland.nl,shownieuws.nl,vivandaag.nl##[data-testid^="banner"]
@@ -60,6 +59,8 @@ headliner.nl###flex_left:has([id="div-gpt-ad"])
 historiek.net,mariabode.nl##[id^="custom_html"]:has-text(/advert/i)
 historiek.net##div[id^="ai_widget"]:has-text(/advert/i)
 jaap.nl##div[id^="property_ad_"]
+kalender-365.nl###dish-top-desktop
+kieskeurig.nl##div[id*="gpt-ad"]
 kilroynews.net##table:has(a[href="http://www.waffen-jansen.de"])
 kinkymedia.nl##.adguru-ad-banner
 kinkymedia.nl##.adguru-zone-wrap
