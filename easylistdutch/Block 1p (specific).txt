@@ -20,6 +20,7 @@
 ||biernet.nl/site/widgets/huidig_aanbieding.php
 ||bol.com/nl/upload/banners/
 ||bol.com/nl/upload/partnerprogramma/*.jpg
+||camjam.nl*/assets/images/233x257*.gif
 ||cdn.ster.nl/banners^
 ||cdn.wegdamnieuws.nl/wp-content/uploads/*/*Banner
 ||chatmetvreemden.be/static/html/
