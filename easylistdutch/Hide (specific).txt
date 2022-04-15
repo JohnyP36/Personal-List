@@ -270,7 +270,7 @@ chatmetvreemden.be,chatmetvreemden.nl##.trackerclick
 classic.nl##div.brievenbus
 classicstogo.nl##.owl-carousel
 clubbrugge.be##.partners
-coastline945fm.nl,coastlinefm.nl,elfvoetbal.nl,fonkmagazine.nl,fonkonline.nl###partners
+coastline945fm.nl,coastlinefm.nl,elfvoetbal.nl,fonkmagazine.nl###partners
 computable.be##.sponsorartikelen
 computable.nl##.sponsored
 crimesite.nl##em:has-text(reclame)
