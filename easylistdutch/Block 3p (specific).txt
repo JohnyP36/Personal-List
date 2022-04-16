@@ -1,5 +1,6 @@
 ! 2022
 /banner$image,domain=kinkydatingnederland.nl|milfdatingnederland.nl|mygaydate.nl
+||cdn.topescort.com/static/bn/$image,domain=sexguide.nl
 ||gadgetsentrends.nl/imagestore/banners/
 ||huisvrouwenvoorsex.nl/banner*.gif$image
 ||ikwilneuken.*/assets/img/*.gif$image
