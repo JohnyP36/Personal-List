@@ -3,6 +3,8 @@ autoweek.nl##+js(set-constant, isAdBlockActive, false)
 @@*&ad$xhr,domain=kijk.nl
 @@||ads-talpa.adhese.com/json/$xhr,domain=kijk.nl
 *$image,domain=kijk.nl,redirect-rule=1x1.gif
+meerdangewenst.nl##[class*="footer-section"]:has(.sponsoren):style(visibility: hidden !important)
+meerdangewenst.nl##.tg-container:has-text(/sponsors/i):style(margin-top: -175px; !important)
 radiowereld.nl##+js(no-setInterval-if, adb)
 ! 2021-12-29 https://github.com/uBlockOrigin/uAssets/issues/11038  // These rules are not really anti-adblok, but just a set of rules I want to keep together.
 @@||videoplayer.persgroep.be/*/ad_smartads_.js$xhr,domain=vtm.be
