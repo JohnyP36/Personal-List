@@ -123,6 +123,7 @@ scheepvaartkrant.nl###block-topbannersidebar
 sexguide.nl##.topBanners
 sexpret.com,zinineensexdate.com##.nomobile:has(img[src^="/images/"])
 skoften.net##.promoted
+skoften.net##.promoted-entry-in-content
 spidersolitairespelen.nl##.spel_b1
 spidersolitairespelen.nl##.spel_b2
 spreekbuis.nl##.widget_media_image:not(:has(img[src*="vierkant-spreekbuis"]))
