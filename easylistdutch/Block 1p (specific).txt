@@ -27,6 +27,7 @@
 ||chatmetvreemden.nl/static/html/
 ||christelijknieuws.nl/upload/modules/banner/
 ||crimesite.nl/inhoud/uploads/*/*.gif$image
+||dagelijksestandaard.nl/wp-content/uploads/*/DDS-banner.$image
 ||dagelijksestandaard.nl/wp-content/uploads/*/PROMO-DDS.$image
 ||digitaalburg.com/rn02/wp-content/uploads/*/Roel.jpg
 ||digitaalburg.com/rn02/wp-content/uploads/*/uitwaard21.jpg
