@@ -11,6 +11,8 @@
 ||alphens.nl/resize/upload/*/*banner
 ||am-forum.nl/upload/logo_elektrodump.png
 ||amz01.plzcdn.com/a/
+||anoniem-surfen.nl/wp-content/uploads/*/aff3-*.png$image
+||anoniem-surfen.nl/wp-content/uploads/*/Flavour-balls.gif$image
 ||antilliaansdagblad.com/images/*200x200px*.$image
 ||antilliaansdagblad.com/images/banners/
 ||beeldbelsex.com/wp-content/uploads/*/bellenafspreken.$image
