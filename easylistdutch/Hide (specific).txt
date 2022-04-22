@@ -7,6 +7,8 @@ afkortingen.nu,allradio.nl,bpnieuws.nl,erotracks.nl,filmladder.nl,gezondheidsnet
 ajaxreport.nl,psvreport.nl##[id^="text"][class$="sidebar-widget"]:has-text(/casino/i):not(:has(div[class="widget-title"]))
 ajaxreport.nl,feyenoordreport.nl,livestreamvandaag.be,onlinekraslotenrss.nl,onlinepokerrss.nl,psvreport.nl,sportweddenrss.nl,voetbalsnafu.nl##.widget_links
 ajaxreport.nl,feyenoordreport.nl,psvreport.nl,voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="voetbalwedden.net"][target="_blank"])
+anoniem-surfen.nl##.footer-widget-1
+anoniem-surfen.nl##.header-widget-region
 antilliaansdagblad.com##.bannergroup
 appletips.nl##.ph_upgreatest
 appletips.nl###bolcontainer
