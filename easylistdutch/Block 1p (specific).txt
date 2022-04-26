@@ -355,6 +355,5 @@
 ||turksemedia.nl/logos/*.
 ||unity.nu/media/*/BANNERS/
 ||video18.nl/img/banners/$image
-||voetbalkrant.com/images/pub/
 ||voetbalnieuws.be/*/images/website-takeover/*$image,first-party
 ||wanttoknow.nl^*Banner
