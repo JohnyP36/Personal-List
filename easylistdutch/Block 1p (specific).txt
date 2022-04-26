@@ -328,7 +328,6 @@
 ||poldertube.nl/banners/*/small_banner
 ||popinstituut.nl/wp-content/uploads/2014/02/Huren.nl
 ||pornoexpert.nl/img/950x250_*.gif$image
-||pornopower.nl/wp-content/uploads/*/bdsm_seksspeeltjesland$image
 ||profielactueel.nl/content/modules/catalog/4/*.gif$image
 ||racingnews365.nl/images/logos/partners/*/$image,first-party
 ||radioeenhoorn.nl/images/Maxaro-badkamers-tegels.png
