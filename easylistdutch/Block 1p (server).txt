@@ -3,3 +3,4 @@
 ||content1.pcmweb.nl^
 ||content2.nrc.nl^
 ||mooieplaatjes.bierdopje.com^
+||kechtube.com^$popunder
