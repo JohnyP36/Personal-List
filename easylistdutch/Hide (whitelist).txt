@@ -16,6 +16,7 @@ modekoninginmaxima.nl#@#.after-content-ad
 paginamarkt.nl#@#.advertentie
 sexervaringdelen.com#@#.footer-ad
 sexverhalen.com#@#.widget_ads
+speurdeals.nl#@#.ad_description
 vakantieplaats.nl#@#.feed-ad
 vakantieplaats.nl#@#.topAds
 veeteelt.nl#@#.advertorial
