@@ -75,6 +75,7 @@
 ||nederlandsextube.nl/images/webned$image
 ||neukcontacten.info/images/pikant.$image
 ||nieuwsonline.nu/header/*advertentie.$image
+||nieuwsuitnijmegen.nl/uploads/banners/
 ||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xmlhttprequest
 ||newspower.nu/wp-content/uploads/*/*/*.gif$image
 ||mygaydate.nl/images/shemales.gif
@@ -301,7 +302,6 @@
 ||wp.com/www.thekinkyweb.nl/wp-content/uploads/*/*Banner$image
 ||xmissy.nl/*/_customplayers/*/twistys/player01_footer.jpg$image,first-party
 ! 2021-07-29
-||nieuwsuitnijmegen.nl/gfx/banners/
 ||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,first-party
 !||omejoop.be/pop.js
 ||omroeppenm.nl^*/banner/
