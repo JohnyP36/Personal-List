@@ -100,6 +100,8 @@ nieuwsonline.nu##.clearfix:has(img[src*="/header/"])
 nieuwsonline.nu##.split-images-news-section:has(.section-title:has-text(/Advert/i))
 nieuwsonline.nu##.widget-title:has-text(/Advert|AD/):upward(1):not(:has-text(/gratis video ad bij het plaatsen van een advert/i))
 nieuwsuitdelden.nl##.gesponsord_blokje
+nieuwsuitnijmegen.nl##.js-banner-slider
+nieuwsuitnijmegen.nl##.text-left:has-text(/advert/i)
 ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
 ninefornews.nl##.mag-box:has(img[width="728"][height="90"])
 ninefornews.nl##[id*="block"]:has([class^="mag-box-container"] > *:has(div[class="featured_caption"]):has(.gofollow))
@@ -588,7 +590,6 @@ nieuwsfiets.nu##.ult-content-box-container
 nieuwsfiets.nu##.wpb_raw_html[class*="us_custom_"]:has(.wpb_wrapper)
 nieuwslog.nl##.wp-block-genesis-blocks-gb-columns:has(a[href*="/go/www.bet365.nl/"])
 nieuwsmotor.nl##.add-background
-nieuwsuitnijmegen.nl##.banner-box-1
 nl.motorsport.com##.ms-hapb
 !nljug.org##div[id*="custom_html"]:has(div[class="widget-top"]):has-text(/partners/i)
 nlsexfilmpjes.com###left_div li:not(:scope > a[target="_blank"])
