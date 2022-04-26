@@ -120,6 +120,7 @@ pen.nl##.widget_sp_image-image-link:not(a[href*="www.pen.nl"]):upward(1)
 podcastluisteren.nl,zeelandnet.nl##.bnr
 racesport.nl##.hthb-notification
 racesport.nl##.rs_sponsorbanners_widget:upward(1)
+reformatorischeomroep.nl##section:has(.item-banner)
 rtlnieuws.nl###rtln-ad-advertorial
 rtlnieuws.nl##.billboard
 rtlnieuws.nl##div[class$=_with_ad__ad]
@@ -688,7 +689,6 @@ rd.nl##.codalt-container
 rd.nl##.infotainment:has(a[href^="/advert"])
 rd.nl##.rdnl__adds
 redbot.frl###content .container:has(.twelvecol:has-text(partners))
-reformatorischeomroep.nl##.item-banner
 refoweb.nl##.bannercontainer
 regionoordkop.nl##.regio-widget
 regioonline.nl##.td-a-rec
