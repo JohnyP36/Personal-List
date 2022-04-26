@@ -79,6 +79,7 @@
 ||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xmlhttprequest
 ||newspower.nu/wp-content/uploads/*/*/*.gif$image
 ||mygaydate.nl/images/shemales.gif
+||onderwegonline.nl/app/uploads/*/Banner$image
 ||pen.nl/wp-content/uploads/*/banner*$image
 ||pen.nl/wp-content/uploads/*/*adv$image
 ||racesport.nl/wp-content/uploads/*/TK_Kickoff.jpg$image
@@ -305,7 +306,6 @@
 ||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,first-party
 !||omejoop.be/pop.js
 ||omroeppenm.nl^*/banner/
-||onderwegonline.nl/wp-content/uploads/*/Onderweg-336x280.png$image
 ||ontdek-amerika.nl/marketing/bartsbanner.gif
 ||oogtv.nl/wp-content/banners/
 ||oops.nl/banner/$subdocument
