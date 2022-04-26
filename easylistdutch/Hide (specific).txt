@@ -63,6 +63,8 @@ headliner.nl###flex_left:has([id="div-gpt-ad"])
 historiek.net,mariabode.nl##[id^="custom_html"]:has-text(/advert/i)
 historiek.net##div[id^="ai_widget"]:has-text(/advert/i)
 jaap.nl##div[id^="property_ad_"]
+jammfm.nl##.owl-carousel:has(.sa_hover_container):has([style*="/banner"])
+jammfm.nl##div[class*="wrapper"]:has([class^="qt-slickslider"]:has(.qt-sponsor))
 kalender-365.nl###dish-top-desktop
 kieskeurig.nl##div[id*="gpt-ad"]
 kilroynews.net##table:has(a[href="http://www.waffen-jansen.de"])
@@ -480,8 +482,6 @@ itdaily.be###itdaily-article-top
 itdaily.be###itdaily-footer
 itnijs.frl##.widget > .banner
 itwm.nl##[id^="tdi_"].tdc-row:has-text(Casino)
-jammfm.nl##.owl-carousel:has(.sa_hover_container):has([style*="/banner"])
-jammfm.nl##.vc_row-flex.vc_row[style*="width: 1578px;"]:has(.qt-sponsor)
 jan-magazine.nl##.homepage-marquee
 janvissersweer.nl##[id^="custom_html-"]:has([src^="https://pagead2.googlesyndication.com/"])
 janvissersweer.nl##.post:has-text(Sponsor)
