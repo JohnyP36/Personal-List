@@ -68,7 +68,7 @@ sites.google.com##div[data-cookie-path][style*="transform"]:has(div):has-text(/s
 youtube.com##.opened
 youtube.com###clarify-box > .ytd-watch-flexy.style-scope
 youtube.com###lightbox > #dialog.ytd-consent-bump-v2-lightbox.style-scope
-www.youtube.com###info > * [id^="top-level-buttons"] .ytd-toggle-button-renderer [id="text"]:not(:has-text(/\d/))
+www.youtube.com###info > * [id^="top-level-buttons"] [class*="button-renderer"] [id="text"]:has-text(/like|leuk|share|delen|clip/i)
 www.youtube.com##yt-tooltip-renderer[class$="ytd-popup-container"][position-type]:has(#text:has-text(YouTube)):has(#dismiss-button)
 www.youtube.com#@#merch-shelf
 
