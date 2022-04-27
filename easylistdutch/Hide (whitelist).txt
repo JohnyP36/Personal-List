@@ -5,6 +5,7 @@ bokt.nl#@#.node-ad
  !audiobookbay.nl#@#[href^="/down-"]
 dagelijksestandaard.nl#@#.wpInsertInPostAd
 directwonen.nl#@#.top-advert
+frontpage.fok.nl#@#.advertentie
 gratisaftehalen.nl#@#.ads-image
 japan-webike.*#@#.img_ad
 lesoir.be#@##ultimedia_wrapper
