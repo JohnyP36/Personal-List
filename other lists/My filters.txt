@@ -1,3 +1,4 @@
+!/dashboard.html#settings.html --> RGB(49, 42, 101) OR RGB(240, 185, 36)
 !EasyList + EasyPrivacy + Fanboy's Enhanced Tracking List (+ Fanboy's Annoyance) 	-> https://fanboy.co.nz/r/fanboy-ultimate.txt  /  https://fanboy.co.nz/r/fanboy-complete.txt
 !*$csp=upgrade-insecure-requests,domain=~ehubsoft.net|~192.168.2.150|~192.168.2.254
 
@@ -53,6 +54,7 @@ google.com#@##center_col > #taw > #tvcap > .cu-container > .commercial-unit-desk
 google.*##.USRMqe
 www.google.*##div.section-cardbox:has-text(/Covid-19 info/i):matches-path(/maps/)
 www.youtube.com###panels > [target-id$="panel-structured-description"]
+!:style(overscroll-behavior: none; !important)
   ! Gmail tracking
   /cleardot.gif$image,xhr,redirect=1x1.gif
 
@@ -66,7 +68,8 @@ sites.google.com##div[data-cookie-path][style*="transform"]:has(div):has-text(/s
 youtube.com##.opened
 youtube.com###clarify-box > .ytd-watch-flexy.style-scope
 youtube.com###lightbox > #dialog.ytd-consent-bump-v2-lightbox.style-scope
-youtube.com##yt-tooltip-renderer[class$="ytd-popup-container"][position-type]:has(#text:has-text(YouTube)):has(#dismiss-button)
+www.youtube.com###info > * [id^="top-level-buttons"] .ytd-toggle-button-renderer [id="text"]:not(:has-text(/\d/))
+www.youtube.com##yt-tooltip-renderer[class$="ytd-popup-container"][position-type]:has(#text:has-text(YouTube)):has(#dismiss-button)
 www.youtube.com#@#merch-shelf
 
 !re-enable scrollbar => ##html:style(overflow: auto !important)  +  ##body:style(overflow: auto !important)
@@ -105,6 +108,7 @@ instagram.com##article[role="presentation"] > div[class] > div[class] > div[clas
 instagram.com##article[role="presentation"] > div[class] > div[class] > div[class] > div[class]:has([aria-label^="Warning icon"]):not(:has([role="presentation"]))
 instagram.com##div[class]:has(> button[class] [aria-label="Warning icon"])
 instagram.com##div[style^="height:"] > section[class] > div[class] > div[class]:has([aria-label^="Information icon"])
+instagram.com##main > section > div[class] > div[class] div[data-bloks-name$="Flexbox"] > span:has-text(/add your birthday/i):upward(4)
 marktplaats.nl##div[class*="LoginNudge"]:has-text(/Log hier in/i):has-text(/Inloggen/i)
 !marktplaats.nl##.mp-LoginNudge--animated.mp-LoginNudge
 marktplaats.nl##div[class] > div[class] > section[class] > div[class] > div[class*="Login"]
@@ -215,3 +219,4 @@ reddit.com##+js(no-xhr-if, method:POST url:/^https:\/\/www\.reddit\.com$/)
 !@@||browserleaks.com/*/1.gif?v=$domain=browserleaks.com
 !https://github.com/JohnyP36/Personal-List/blob/main/Personal%20List%20(uBo).txt
 !*,~acounts.google.*,~google.*,~youtube.com,~googlevideo.com,~bol.com,~freebitco.in,~gab.com,~instagram.com,~y8.com##+js(cookie-remover)
+!@@||dev.visualwebsiteoptimizer.com/*cookie-consent$script,domain=eva.eo.nl
