@@ -3,8 +3,10 @@
 ||content1.pcmweb.nl^
 ||content1.pu.nl^
 ||content1.wasmachines.nl^
+||content1.zoom.nl^
 ||content2.nrc.nl^
 ||content2.pu.nl^
 ||content2.wasmachines.nl^
+||content2.zoom.nl^
 ||mooieplaatjes.bierdopje.com^
 ||kechtube.com^$popunder
