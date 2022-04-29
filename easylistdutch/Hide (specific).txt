@@ -172,6 +172,7 @@ wettelijke-feestdagen.nl###reclame
 wildfm.nl##[class*="avia-image-container"]:has(a[href])
 wildfm.nl##[id*="after_section"] > .container:has([class*="av-content"])
 wildfm.nl##img[width="699"][height="90"]
+xgn.nl##.bs
 yourlittleblackbook.me##.simple-image > [href^="https://www.nsinternational.com/traintracker/"]
 yourlittleblackbook.me##[id*="banner"]
 ! 2021
