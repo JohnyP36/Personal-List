@@ -45,6 +45,7 @@ feestdagen-be.be,feestdagen-nl.nl##div[class]:has(>.adsbygoogle):upward(1)
 feestdagen-nederland.nl###ad-top-desktop
 finance.nl##div[style^="width:300px; height:250px;"]:has([id*="google"])
 forum.spaarinformatie.nl##table:has-text(/advert/i)
+fotografie.nl​##.section-partners
 frontline.digital##[id^="block-"]:has(a[href^="https://clk.tradedoubler.com/click"])
 funda.nl##.home-billboard
 geenstijl.nl##.article-premium-promotion-block
