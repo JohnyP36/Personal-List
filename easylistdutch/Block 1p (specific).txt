@@ -153,6 +153,7 @@
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*/RO*?zoom=*&w=665
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*.gif*w=665$image
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*.jpg?w=665$image
+||zoekhulp.nl/img/bnr-
 ||zwaremetalen.com/wp-content/uploads/*/*-skyscraper-
 ||zwartewaterfm.nl/images/SponsorenZwarteWaterFM.jpg
 ! 2021
