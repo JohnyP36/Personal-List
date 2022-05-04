@@ -153,6 +153,7 @@ tpo.nl##[id*="r89"][id$="home"]
 tpo.nl##[id$="top-ad"]
 tpo.nl##[id$="halfpage"]
 tpo.nl##div.ads-contain
+trappers.nl,volleybelgium.be##.sponsors
 tube.nederlandseporno.nl##[id^="custom_html"]:has-text(/Polder Webcamsex|Sex contact/)
 tube.nederlandseporno.nl##h3:has-text(/Sexdating|Webcamsex/)
 tvgids.nl##.square-item:has( > .banner)
@@ -851,7 +852,6 @@ voetbaluitslagen.com##.cta
 voetbalvandaag.be##.adds
 voetbalvandaag.be##.panel-box:has(a[href^="http://unibet.me/"])
 voetbal-vandaag.nl###sidebar_aanbevelen
-volleybelgium.be##.sponsors
 volleyvlaanderen.be###text-3:has([class^="slider"])
 voorburgsdagblad.nl##.advrow
 vrouwen-sexdate.be##.moduletable:has-text(Advert)
