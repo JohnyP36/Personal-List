@@ -155,6 +155,7 @@ studylibnl.com##.above-content
 studylibnl.com##.below-content
 studylibnl.com##.sidebar-top-content
 thatsgaming.nl##[id^="menu-item"]:has-text(/gokken|casino/i)
+totoknvbbeker.nl##.SponsorBlock
 tpo.nl##[id*="r89"][id$="home"]
 tpo.nl##[id$="top-ad"]
 tpo.nl##[id$="halfpage"]
