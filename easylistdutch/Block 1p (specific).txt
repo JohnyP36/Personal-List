@@ -83,6 +83,7 @@
 !||omejoop.be/pop.js
 !||omroeppenm.nl^*/banner/
 ||onderwegonline.nl/app/uploads/*/Banner$image
+||onsoranje.nl/sites/*/images/sponsorlogos/
 ||ontdek-amerika.nl/marketing/bartsbanner.gif
 ||oogtv.nl/wp-content/banners/
 ||oops.nl/banner/$subdocument
