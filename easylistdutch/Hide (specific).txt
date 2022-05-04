@@ -175,6 +175,7 @@ vlootschouw.nl##[id*="miw_widget"] a[target$="blank"][href]:not(a[href*="mailto"
 voetbalkrant.com###imu:has(div[class*="ad--rectangle"])
 voetbalnieuws.be##[id$="takeover"]
 voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="eredivisiewedden.nl"][target="_blank"])
+weerstationleeuwarden.nl##.cookieconsent-optin-marketing
 wegdamnieuws.nl##.mk-sponsorlink
 wereldklokken.nl##.adsbygoogle:style(visibility: collapse !important;)
 wereldklokken.nl##.klokken:style(transform: translateX(-180px ) !important;)
