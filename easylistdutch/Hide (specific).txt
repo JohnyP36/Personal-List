@@ -18,6 +18,7 @@ appletips.nl##a[href^="/adverteren-"]
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class] > [id="div-gpt-ad-banner"]
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center:has-text(/advert|Regiotreffers/)
+belgiancycling.be,zoekhulp.nl###banner
 belgischecasinos.be,newspower.nu##.gofollow
 besteproduct.nl##[id^="ad-block"]
 biernet.nl###BJA2
@@ -274,7 +275,6 @@ beeldbelsex.com##[href^="https://www.twero.com/nl/"]:has(img[src$=".gif"])
 bejaardensextube.nl,camsexbabe.nl,creampiesex.nl,fucking-tube.com,rapesextube.be,rapetube.be,seks-tube.be##.happy-section
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-wrapper
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
-belgiancycling.be###banner
 belgie-sexcontact.be##.well:has(img[src])
 bellotube.com###exo
 berekenhet.nl##.bh-ads
