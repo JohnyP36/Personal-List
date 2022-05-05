@@ -68,6 +68,7 @@ headliner.nl###flex_left:has([id="div-gpt-ad"])
 historiek.net,mariabode.nl##[id^="custom_html"]:has-text(/advert/i)
 historiek.net##div[id^="ai_widget"]:has-text(/advert/i)
 hyc.be##div[class*="slider"]:has([class*="sliderwidget"])
+ijshockeynederland.nl##div[class^="column col"]:has(img[src*="/uploads/ads"])
 jaap.nl##div[id^="property_ad_"]
 jammfm.nl##.owl-carousel:has(.sa_hover_container):has([style*="/banner"])
 jammfm.nl##div[class*="wrapper"]:has([class^="qt-slickslider"]:has(.qt-sponsor))
