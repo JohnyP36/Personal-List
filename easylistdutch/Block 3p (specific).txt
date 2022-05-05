@@ -4,6 +4,7 @@
 ||gadgetsentrends.nl/imagestore/banners/
 ||huisvrouwenvoorsex.nl/banner*.gif$image
 ||ikwilneuken.*/assets/img/*.gif$image
+||imagekit.io/ijnl*/uploads/other/*?tr=w-20$image,domain=ijshockeynederland.nl
 ||infotalia.com/worktalia_promo_
 ||media.prdn.nl/retailtrends/images/*.gif
 ||mmcdn.nl/tags/
