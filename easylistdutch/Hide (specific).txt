@@ -114,7 +114,7 @@ nieuwsuitnijmegen.nl##.js-banner-slider
 nieuwsuitnijmegen.nl##.text-left:has-text(/advert/i)
 ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
 ninefornews.nl##.mag-box:has(img[width="728"][height="90"])
-ninefornews.nl##[id*="block"]:has([class^="mag-box-container"] > *:has(div[class="featured_caption"]):has(.gofollow))
+ninefornews.nl##[id*="block"]:has([class^="mag-box-container"] > *:has(div[class="featured_caption"]))
 ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3)
 ninefornews.nl##div[class^="mag-box"] + #adskeeper
 ninefornews.nl##div[class*="header-container"] a[class="gofollow"][href*="link"]
