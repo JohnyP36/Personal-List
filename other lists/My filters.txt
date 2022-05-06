@@ -70,6 +70,7 @@ youtube.com###clarify-box > .ytd-watch-flexy.style-scope
 youtube.com###lightbox > #dialog.ytd-consent-bump-v2-lightbox.style-scope
 www.youtube.com###info > * [id^="top-level-buttons"] [class*="button-renderer"] [id="text"]:not(:has-text(/\d/))
 www.youtube.com##yt-tooltip-renderer[class$="ytd-popup-container"][position-type]:has(#text:has-text(YouTube)):has(#dismiss-button)
+www.youtube.com##div[id*="info-panel"]:has(div[id="content"]):has(div[class^="disclaimer-container"]):matches-path(/shorts)
 www.youtube.com#@#merch-shelf
 
 !re-enable scrollbar => ##html:style(overflow: auto !important)  +  ##body:style(overflow: auto !important)
