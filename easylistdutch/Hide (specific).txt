@@ -193,6 +193,7 @@ wildfm.nl##img[width="699"][height="90"]
 xgn.nl##.bs
 yourlittleblackbook.me##.simple-image > [href^="https://www.nsinternational.com/traintracker/"]
 yourlittleblackbook.me##[id*="banner"]
+zita.be##[id^="custom_html-"]:has-text(Ad)
 ! 2021
 112achterhoek-nieuws.nl###sidebar
 123geldzaken.nl##.widget_sponsor
