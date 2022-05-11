@@ -32,6 +32,7 @@ cip.nl##a[href*="/ad/click/"]:not(.podcast-inline a[href]):not(:has-text(/vacatu
 cip.nl##div[class]:has-text(/vakanties/i):upward(2) + div [id^="vacation-carousel"]
 creditexpo.nl##p:has(a[href]:has(img[src*="creditexpo.nl/wp-content/uploads/"][width="300"]))
 crypto-insiders.nl##article.format-standard:has([id^="div-gpt-ad"])
+crypto-insiders.nl##div[class^="intercom-app"] > iframe[title*="banner"]
 cryptoclan.nl,cryptonieuws.nl##div[data-elementor-type="popup"]
 dagelijksekost.een.be##.dish-sponsors
 dagelijksestandaard.nl###TOP_ARTICLE
