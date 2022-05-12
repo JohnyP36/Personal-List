@@ -165,7 +165,7 @@ thatsgaming.nl##[id^="menu-item"]:has-text(/gokken|casino/i)
 tijd.be##.ac_paragraph:has(.bb_wrapper)
 tijd.be##.c-articleteaser--sponsored
 tijd.be##.sticky-article-halfpager
-tijd.be##[class^="o-hpgrid__row"]:has-text(/Gesponsorde inhoud/i)
+tijd.be##[class*="rowcontainer"]:has(div[class*="ad"]):has-text(/Gesponsorde inhoud/i)
 totoknvbbeker.nl##.SponsorBlock
 tpo.nl##[id*="r89"][id$="home"]
 tpo.nl##[id$="top-ad"]
