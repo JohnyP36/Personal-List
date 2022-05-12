@@ -162,6 +162,10 @@ studylibnl.com##.above-content
 studylibnl.com##.below-content
 studylibnl.com##.sidebar-top-content
 thatsgaming.nl##[id^="menu-item"]:has-text(/gokken|casino/i)
+tijd.be##.ac_paragraph:has(.bb_wrapper)
+tijd.be##.c-articleteaser--sponsored
+tijd.be##.sticky-article-halfpager
+tijd.be##[class^="o-hpgrid__row"]:has-text(/Gesponsorde inhoud/i)
 totoknvbbeker.nl##.SponsorBlock
 tpo.nl##[id*="r89"][id$="home"]
 tpo.nl##[id$="top-ad"]
@@ -826,9 +830,6 @@ telegraaf.nl##.withBanners + .ComponentRotation
 tellows.nl###lb_header
 thekinkyweb.nl##[id^="text-"]:has-text(Partners)
 tiener-sexverhalen.nl##aside[id^="block"]:has(img[src*="/wp-content/uploads/"][src$=".gif"])
-tijd.be##.ac_paragraph:has(.bb_wrapper)
-tijd.be##.c-articleteaser--sponsored
-tijd.be##.sticky-article-halfpager
 !topgear.nl##.theme-advertorial
 touretappe.nl##.desktopad
 transfermarkt.nl##.werbung
