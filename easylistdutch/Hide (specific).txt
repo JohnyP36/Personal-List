@@ -161,6 +161,9 @@ startlinken.nl##td[class]:has(a[href*="robohost.nl/clients/aff.php"]):upward(2)
 studylibnl.com##.above-content
 studylibnl.com##.below-content
 studylibnl.com##.sidebar-top-content
+techradar.com###taboola-below-article-thumbnails
+techradar.com##.dfp-leaderboard-container
+techradar.com##[class$="ad-unit"]
 thatsgaming.nl##[id^="menu-item"]:has-text(/gokken|casino/i)
 tijd.be##.ac_paragraph:has(.bb_wrapper)
 tijd.be##.c-articleteaser--sponsored
