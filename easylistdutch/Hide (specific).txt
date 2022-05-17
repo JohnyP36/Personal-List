@@ -64,7 +64,7 @@ hvzeeland.nl##.affiliates
 hardnieuws.nl##[class*="mb-"]:has([id$="ros-970x250"])
 hardnieuws.nl##[id*="ros-300x600"]:upward(1)
 hartvannederland.nl,shownieuws.nl,vivandaag.nl##[data-testid^="banner"]
-hartvannederland.nl,shownieuws.nl,vivandaag.nl##div[class*="-bannerWrapper-"]
+hartvannederland.nl,shownieuws.nl,vandaaginside.nl,vivandaag.nl##div[class*="-bannerWrapper-"]
 headliner.nl###flex_left:has([id="div-gpt-ad"])
 historiek.net,mariabode.nl##[id^="custom_html"]:has-text(/advert/i)
 historiek.net##div[id^="ai_widget"]:has-text(/advert/i)
@@ -178,9 +178,7 @@ trappers.nl,volleybelgium.be##.sponsors
 tube.nederlandseporno.nl##[id^="custom_html"]:has-text(/Polder Webcamsex|Sex contact/)
 tube.nederlandseporno.nl##h3:has-text(/Sexdating|Webcamsex/)
 tvgids.nl##.square-item:has( > .banner)
-vandaaginside.nl##div[class^="a-bannerWrapper-"]
 vandaaginside.nl##div[class^="Component-bannerTopWrapper-"]
-vandaaginside.nl##div[class*="bannerWrapper"]
 veronicasuperguide.nl##div[id][class^="css"]
 vi.nl##.betting-provider-row
 vi.nl##li[class*="highlights"]:has(div[class*="articles-list"][class*="item--highlight"]:has(span[class]:has-text(/advert/i)))
