@@ -1,5 +1,8 @@
 ! 2022
 autoweek.nl##+js(set-constant, isAdBlockActive, false)
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect-rule=noopjs,domain=goplay.be
+@@||sdk.privacy-center.org^$script,domain=goplay.be
+@@||pubads.g.doubleclick.net/gampad/ads?*&output=vast&$domain=goplay.be
 @@*&ad$xhr,domain=kijk.nl
 @@||ads-talpa.adhese.com/json/$xhr,domain=kijk.nl
 *$image,domain=kijk.nl,redirect-rule=1x1.gif
