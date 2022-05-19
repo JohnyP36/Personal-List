@@ -51,3 +51,4 @@ So `A: mediamarkt.nl fix #7`. The issue itself will contains all the details.
 - *[Wiki - Static filer Syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#scriptinject)* 
 - *[Wiki - Scriptlets (+js)](https://github.com/gorhill/uBlock/wiki/Resources-Library#defuser-scriptlets)*
 - *[Regular Expressions (RegEx) syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet)*
+- *[SyntaxMeaningsThatAreActuallyHumanReadable](https://github.com/DandelionSprout/adfilt/blob/master/Wiki/SyntaxMeaningsThatAreActuallyHumanReadable.md)*
