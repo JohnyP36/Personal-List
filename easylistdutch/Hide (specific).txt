@@ -133,6 +133,8 @@ nu.nl##a[href*="/advertorial-"]
 nu.nl##div.articlelist[data-section="advertorial-belastingdienst-adverteerder"]
 nu.nl##aside#h1
 nummerzoeker.com##a[href^="/out/"]
+omrekenen.org##.widget:has-text(/Gesponsoord/i)
+omrekenen.org##a[href^="https://www.onlinebingokaart.nl/"]
 onlinecasinorss.nl,onlinekraslotenrss.nl,voetbalsnafu.nl,voetbalweddenrss.nl##[class$="sidebar-widget"]:has(p > a[href*="casino"]):not(:has(div[class="widget-title"]))
 onsoranje.nl##.SponsorBar
 pen.nl##.rclm_row:has-text(advert)
