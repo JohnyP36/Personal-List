@@ -15,6 +15,8 @@ appletips.nl##.ph_upgreatest
 appletips.nl###bolcontainer
 appletips.nl##[class^="ph_block"]
 appletips.nl##a[href^="/adverteren-"]
+autoblog.nl##.widget:has-text(/links/i)
+autoblog.nl##.widget_ab_sidebar
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class] > [id="div-gpt-ad-banner"]
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center:has-text(/advert|Regiotreffers/)
@@ -258,7 +260,6 @@ atv.be,robtv.be,tvl.be,tvoost.be##.leaderboardWrap
 audiobookbay.nl###rsidebar > ul > li > h2:has-text(/ad/i)
 audiobookbay.nl#$#[src="http://audiobookbay.nl/images/dir.gif"]{ width: 100px !important }
 autobahn.eu##li[class*="block"] > div[class*="block mb-3"]:has(a[href][rel="noopener"][target="_blank"])
-autoblog.nl##.widget_ab_sidebar
 autoreview.nl###parentgpt
 autoreview.nl##.bottom-bannuring
 autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
