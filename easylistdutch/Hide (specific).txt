@@ -51,6 +51,7 @@ fcupdate.nl##.bet365
 feestdagen-be.be,feestdagen-nl.nl##aside:has(.adsbygoogle)
 feestdagen-be.be,feestdagen-nl.nl##div[class]:has(>.adsbygoogle):upward(1)
 feestdagen-nederland.nl###ad-top-desktop
+feijenoordnieuws.nl##li > div[class$="left"]:has-text(/gokkasten|online casino|casino|sportwedden/i)
 finance.nl##div[style^="width:300px; height:250px;"]:has([id*="google"])
 forum.spaarinformatie.nl##table:has-text(/advert/i)
 fotografie.nl​##.section-partners
