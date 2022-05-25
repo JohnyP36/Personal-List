@@ -1,6 +1,6 @@
 !/dashboard.html#settings.html --> RGB(49, 42, 101) OR RGB(240, 185, 36)
 !EasyList + EasyPrivacy + Fanboy's Enhanced Tracking List (+ Fanboy's Annoyance) 	-> https://fanboy.co.nz/r/fanboy-ultimate.txt  /  https://fanboy.co.nz/r/fanboy-complete.txt
-!*$csp=upgrade-insecure-requests,domain=~ehubsoft.net|~192.168.2.150|~192.168.2.254
+!*$csp=upgrade-insecure-requests,domain=~ehubsoft.net|~|~
 
 !https://www.reddit.com/r/privacytoolsIO/comments/g9hjrd/using_ublock_origin_to_abort_possible_browser/
 *,~hangouts.google.com,~hcaptcha.com,~freebitco.in##+js(nowebrtc)
@@ -53,12 +53,13 @@ google.*##div[data-crl="true"][data-id^="CarouselPLA-"]:not(:has(.Rn1jbe))
 google.com#@##center_col > #taw > #tvcap > .cu-container > .commercial-unit-desktop-top
 google.*##.USRMqe
 www.google.*##div.section-cardbox:has-text(/Covid-19 info/i):matches-path(/maps/)
-!www.youtube.com###panels > [target-id$="panel-structured-description"]
-youtube.com###clarify-box
+www.youtube.com##ytd-thumbnail.ytd-video-renderer:matches-path(/results?search_query):style(max-width: 250px !important;)
+www.youtube.com###clarify-box
 !www.youtube.com##div[id*="info-panel"]:has(div[id="content"]):has(div[class^="disclaimer-container"]):matches-path(/shorts)
  www.youtube.com##ytd-shorts .disclaimer-container:upward(#info-panel)
 www.youtube.com###info > * [id^="top-level-buttons"] [class*="button-renderer"] [id="text"]:not(:has-text(/\d/))
 www.youtube.com##.ytd-watch-metadata > .top-level-buttons #text:not(:has-text(/[\d]/))
+!www.youtube.com###panels > [target-id$="panel-structured-description"]
 www.youtube.com#@##merch-shelf
 www.youtube.com#@#.ytd-merch-shelf-renderer
 !:style(overscroll-behavior: none; !important)
