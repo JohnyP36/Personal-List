@@ -53,7 +53,14 @@ google.*##div[data-crl="true"][data-id^="CarouselPLA-"]:not(:has(.Rn1jbe))
 google.com#@##center_col > #taw > #tvcap > .cu-container > .commercial-unit-desktop-top
 google.*##.USRMqe
 www.google.*##div.section-cardbox:has-text(/Covid-19 info/i):matches-path(/maps/)
-www.youtube.com###panels > [target-id$="panel-structured-description"]
+!www.youtube.com###panels > [target-id$="panel-structured-description"]
+youtube.com###clarify-box
+!www.youtube.com##div[id*="info-panel"]:has(div[id="content"]):has(div[class^="disclaimer-container"]):matches-path(/shorts)
+ www.youtube.com##ytd-shorts .disclaimer-container:upward(#info-panel)
+www.youtube.com###info > * [id^="top-level-buttons"] [class*="button-renderer"] [id="text"]:not(:has-text(/\d/))
+www.youtube.com##.ytd-watch-metadata > .top-level-buttons #text:not(:has-text(/[\d]/))
+www.youtube.com#@##merch-shelf
+www.youtube.com#@#.ytd-merch-shelf-renderer
 !:style(overscroll-behavior: none; !important)
   ! Gmail tracking
   /cleardot.gif$image,xhr,redirect=1x1.gif
@@ -66,12 +73,8 @@ google.*##div[class^="gb_"][data-cbh^="consent.google."]
 drive.google.com##[id]:has-text(/gratis/i)
 sites.google.com##div[data-cookie-path][style*="transform"]:has(div):has-text(/site uses cookies/i):has([href*="/cookies/"])
 youtube.com##.opened
-youtube.com###clarify-box > .ytd-watch-flexy.style-scope
 youtube.com###lightbox > #dialog.ytd-consent-bump-v2-lightbox.style-scope
-www.youtube.com###info > * [id^="top-level-buttons"] [class*="button-renderer"] [id="text"]:not(:has-text(/\d/))
 www.youtube.com##yt-tooltip-renderer[class$="ytd-popup-container"][position-type]:has(#text:has-text(YouTube)):has(#dismiss-button)
-www.youtube.com##div[id*="info-panel"]:has(div[id="content"]):has(div[class^="disclaimer-container"]):matches-path(/shorts)
-www.youtube.com#@#merch-shelf
 
 !re-enable scrollbar => ##html:style(overflow: auto !important)  +  ##body:style(overflow: auto !important)
 nsinternational.*##body:style(overflow: auto !important)
@@ -103,15 +106,17 @@ freebitco.in##.daily_jackpot_main_container_div
 freebitco.in###free_play_payout_table > div[id^="premium"][id*="membership"]
 gab.com##:matches-path(/\/home|\/groups/) span[class]:has-text(/^Upgrade/i):upward(3)
 gab.com##aside a[href*="shop.dissenter.com/product/"]:has(img):upward(1)
+github.com###dashboard div[aria-labelledby="feed-original"] [class*="details"]:has-text(/pushed to xvello|/letsblockit/i):upward(.push)
 instagram.com#$#body { overflow: visible!important; }
 instagram.com##div[class][role="presentation"]:has([role="dialog"] > div[class] > div[class] > div[class] > div[class]:has(h2[class]:has-text(cookies))):has(a[href="/legal/cookies/"])
-instagram.com##article[role="presentation"] > div[class] > div[class] > div[class] > div[class]:has([aria-label*="I"][aria-label*="n"][aria-label*="f"][aria-label*="o"][aria-label*="r"][aria-label*="m"][aria-label*="a"][aria-label*="t"][aria-label*="i"][aria-label*="c"]):not(:has([role="presentation"]))
-instagram.com##article[role="presentation"] > div[class] > div[class] > div[class] > div[class]:has([aria-label^="Warning icon"]):not(:has([role="presentation"]))
-instagram.com##div[class]:has(> button[class] [aria-label="Warning icon"])
-instagram.com##div[style^="height:"] > section[class] > div[class] > div[class]:has([aria-label^="Information icon"])
-instagram.com##main > section > div[class] > div[class] div[data-bloks-name$="Flexbox"] > span:has-text(/add your birthday/i):upward(4)
+!instagram.com##article[role="presentation"] > div[class] > div[class] > div[class] > div[class]:has([aria-label*="I"][aria-label*="n"][aria-label*="f"][aria-label*="o"][aria-label*="r"][aria-label*="m"][aria-label*="a"][aria-label*="t"][aria-label*="i"][aria-label*="c"]):not(:has([role="presentation"]))
+!instagram.com##article[role="presentation"] > div[class] > div[class] > div[class] > div[class]:has([aria-label^="Warning icon"]):not(:has([role="presentation"]))
+!instagram.com##div[class]:has(> button[class] [aria-label="Warning icon"])
+!instagram.com##div[style^="height:"] > section[class] > div[class] > div[class]:has([aria-label^="Information icon"])
+!instagram.com##main > section > div[class] > div[class] div[data-bloks-name$="Flexbox"] > span:has-text(/add your birthday/i):upward(4)
+instagram.com##main > section > div[style]:has-text(/About|Help/i):style(left:950px !important;)
+instagram.com##main > section > :not(div[style^="left:"]):style(max-width: 600px !important;)
 marktplaats.nl##div[class*="LoginNudge"]:has-text(/Log hier in/i):has-text(/Inloggen/i)
-!marktplaats.nl##.mp-LoginNudge--animated.mp-LoginNudge
 marktplaats.nl##div[class] > div[class] > section[class] > div[class] > div[class*="Login"]
 nos.nl###ccm_notification_wrapper
 nsinternational.*##.cookie-notice
@@ -128,7 +133,7 @@ gloednieuw.nl#@##taboola-below-article-thumbnails
 !!-----ALGEMEEN-----!!
 ||doubleclick.net/instream/ad_status.js$script,redirect=doubleclick.net/instream/ad_status.js
 calorielijst.nl##+js(aopw, clickIE)
-theorieexamen.nl##div[id="app"]:style(user-select: auto !important;)
+theorieexamen.nl##div[id="app"]:style(user-select: text !important;)
 -copy-paste-blocker/
 /copy_text.js
 /disable-right-click-
