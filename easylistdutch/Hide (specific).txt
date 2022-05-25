@@ -105,6 +105,7 @@ minecrafttoplist.nl##.fancy-wrap
 mr-online.nl##.elementor-widget-container:has(div[class*="bnr"])
 mr-online.nl##.elementor-widget-wrap > *:has-text(/advert/i):has(div[class*="bnr"])
 mr-online.nl##.type_partner-profielpartner
+musicmeter.nl##.external
 mygaydate.nl##.rand:has([href^="https://www.shemalecontactnederland.nl/"])
 nd.nl#?#.text-center:-abp-contains(advert)
 netonline.be##.text_12_jobs_only
