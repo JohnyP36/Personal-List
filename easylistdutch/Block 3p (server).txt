@@ -22,6 +22,7 @@
 ||awin.com^$third-party
 ||bannermarkt.nl^$third-party
 ||banners.vip.nl^$third-party
+||believe-the-hype.be^$third-party
 ||bnpparibasmarkets.nl/widget/$third-party
 ||botndm.nl^$third-party
 ||bva-auctions.com^$domain=telegraaf.nl
