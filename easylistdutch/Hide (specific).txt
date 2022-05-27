@@ -108,6 +108,7 @@ maarkelsnieuws.nl##.sidebar-slider-bg > .banners-weekad
 maaslandradio.nl##.slides
 maaslandradio.nl,mariabode.nl,palnws.be##[id^="media_image"]:has-text(/advert/i)
 maaslandradio.nl###header-text-nav-container > .inner-wrap > .clearfix
+mandelnieuws.be##div[class*="blocksponsors"]
 minecrafttoplist.nl##.fancy-wrap
 mnm.be,stubru.be###reclameblok-wrapper
 mnm.be##div[class^="grid-item"]:has(div:has-text(/advert/i))
