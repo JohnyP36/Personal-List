@@ -62,6 +62,7 @@ funda.nl##.home-billboard
 geenstijl.nl##.article-premium-promotion-block
 geenstijl.nl##.slajeslag
 geenstijl.nl##a[data-ga-event^="link-tip"]
+goldfm.be###sponsors-carousel
 gpfans.com##.leaderboardbg
 gpfans.com##a[href^="https://casinoscout.nl/"]
 !handbalstartpunt.nl##aside.widget-banner
