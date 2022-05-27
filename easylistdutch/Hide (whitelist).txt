@@ -22,3 +22,4 @@ vakantieplaats.nl#@#.feed-ad
 vakantieplaats.nl#@#.topAds
 veeteelt.nl#@#.advertorial
 wereldklokken.nl#@#.adsbygoogle
+wereldreizigers.nl#@#.gridlove-ad
