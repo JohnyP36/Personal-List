@@ -45,6 +45,7 @@ duurzaamnieuws.nl##.adv-link
 duurzaamnieuws.nl##[class^="av_textblock"]:has-text(/advert/i)
 duurzaamnieuws.nl##aside section[class$="widget_text"]:has-text(wordt mede mogelijk gemaakt door)
 duurzaamnieuws.nl##section[class^="avia_codeblock"]:has-text(wordt mede mogelijk gemaakt door)
+easyfm.nl,goldfm.be###sponsors-carousel
 !ewmagazine.nl##.widgets > .la-items:has(a[href$="/partners"])
 farmaline.be##.c-scroll-list:has(img[src*="farmaline.be/assets/banners/"])
 fcupdate.nl##.bet365
@@ -62,7 +63,6 @@ funda.nl##.home-billboard
 geenstijl.nl##.article-premium-promotion-block
 geenstijl.nl##.slajeslag
 geenstijl.nl##a[data-ga-event^="link-tip"]
-goldfm.be###sponsors-carousel
 gpfans.com##.leaderboardbg
 gpfans.com##a[href^="https://casinoscout.nl/"]
 !handbalstartpunt.nl##aside.widget-banner
@@ -394,7 +394,6 @@ dutchporntube.nl##[id^="custom_html"]:has-text(Werelds Beste)
 dvhn.nl,lc.nl##.main__ad
 dvhn.nl,lc.nl,meppelercourant.nl##.top__ad
 dwtonline.com###banner1
-easyfm.nl###sponsors-carousel
 edelmetaal-info.nl##[id^="text-"]:has(img[src]):has(a[href])
 edelmetaal-info.nl##div[class="portfolio masonry isotope"]
 edestad.nl##.mtb-50.pt-50.col-sm-12.col-lg-12.col-md-12.bg-grey:not(:has(div[class$="text-center"]))
