@@ -153,6 +153,7 @@ proshop.nl##.site-home-banner
 proshop.nl##.site-top-banner
 racesport.nl##.hthb-notification
 racesport.nl##.rs_sponsorbanners_widget:upward(1)
+radioviainternet.be##.banner-size-leaderbord
 reformatorischeomroep.nl##section:has(.item-banner)
 rtlnieuws.nl###rtln-ad-advertorial
 rtlnieuws.nl##.billboard
