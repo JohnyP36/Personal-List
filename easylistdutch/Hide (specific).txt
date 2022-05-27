@@ -52,9 +52,11 @@ feestdagen-be.be,feestdagen-nl.nl##aside:has(.adsbygoogle)
 feestdagen-be.be,feestdagen-nl.nl##div[class]:has(>.adsbygoogle):upward(1)
 feestdagen-nederland.nl###ad-top-desktop
 feijenoordnieuws.nl##li > div[class$="left"]:has-text(/gokkasten|online casino|casino|sportwedden/i)
+feyenoordpings.nl,twentefans.nl##.bn__wrapper
+feyenoordpings.nl,twentefans.nl##.footer__partners
 finance.nl##div[style^="width:300px; height:250px;"]:has([id*="google"])
 forum.spaarinformatie.nl##table:has-text(/advert/i)
-fotografie.nl​##.section-partners
+fotografie.nl##.section-partners
 frontline.digital##[id^="block-"]:has(a[href^="https://clk.tradedoubler.com/click"])
 funda.nl##.home-billboard
 geenstijl.nl##.article-premium-promotion-block
@@ -414,8 +416,6 @@ fcutrecht.nl##.has-toto-banners.container > .columns
 fcutrecht.nl##.is-uppercase.is-3:has-text(/interessante deals/i)
 fd.nl##.fd-message-home-header
 feyenoord.nl##.totoOdds
-feyenoordpings.nl##.bn__wrapper
-feyenoordpings.nl##.footer__partners
 fhm500.nl##.powered_by_page
 fhm500.nl##.powered_by_profile
 fierljeppenwinsum.frl##.gdlr-sidebar:has-text(sponsoren)
