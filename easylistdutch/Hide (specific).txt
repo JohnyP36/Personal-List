@@ -108,6 +108,8 @@ maaslandradio.nl##.slides
 maaslandradio.nl,mariabode.nl,palnws.be##[id^="media_image"]:has-text(/advert/i)
 maaslandradio.nl###header-text-nav-container > .inner-wrap > .clearfix
 minecrafttoplist.nl##.fancy-wrap
+mnm.be,stubru.be###reclameblok-wrapper
+mnm.be##div[class^="grid-item"]:has(div:has-text(/advert/i))
 mr-online.nl##.elementor-widget-container:has(div[class*="bnr"])
 mr-online.nl##.elementor-widget-wrap > *:has-text(/advert/i):has(div[class*="bnr"])
 mr-online.nl##.type_partner-profielpartner
@@ -173,6 +175,7 @@ spidersolitairespelen.nl##.spel_b2
 spreekbuis.nl##.widget_media_image:not(:has(img[src*="vierkant-spreekbuis"]))
 spreekbuis.nl##.widget_spreekbuis_partners
 startlinken.nl##td[class]:has(a[href*="robohost.nl/clients/aff.php"]):upward(2)
+stubru.be##li:has-text(/advert/i)
 studylibnl.com##.above-content
 studylibnl.com##.below-content
 studylibnl.com##.sidebar-top-content
@@ -819,8 +822,6 @@ startlijstjes.nl##.advertentieblock
 startlijstjes.nl##.item:has([class^="item_special"]:has-text(tradetracker.net))
 startpagina.nl##.top-banner
 streamwijzer.be##.widget:has(a[href*=".bn5x.net/"])
-stubru.be###reclameblok-wrapper
-stubru.be##li:has-text(/advert/i)
 surfplaza.be##td.di1:has(img[src$="/yourad.gif"])
 synoniemen.net##.promoblok
 takecare4.eu###branding > .clearfix
