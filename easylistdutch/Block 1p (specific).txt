@@ -67,6 +67,7 @@
 ||landenweb.nl/imgBoeking/$image
 ||maaslandradio.nl/wp-content/uploads/*/autodoc.
 ||maaslandradio.nl/wp-content/uploads/*/Hekwerkland.
+||mandelnieuws.be^*/Sponsors/
 ||meidenzoekensex.nl/assets/img/shemaledate$image
 ||naaktkrant.nl/media/*/*.gif$image,first-party
 ||nederlandsextube.nl/images/amateurwebcams$image
