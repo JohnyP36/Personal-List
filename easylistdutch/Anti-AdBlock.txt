@@ -15,6 +15,7 @@ meerdangewenst.nl##[class*="footer-section"] > *:style(display: none !important;
 radiowereld.nl##+js(no-setInterval-if, adb)
 ! vandaaginside.nl
 @@||static.kijk.nl/prebid/ad.gif$xhr,first-party,domain=embed.kijk.nl
+@@||fwmrm.net/crossdomain.xml$xhr,domain=embed.viaplay.com,racingnews365.nl
 ! 2021-12-29 https://github.com/uBlockOrigin/uAssets/issues/11038  // These rules are not really anti-adblok, but just a set of rules I want to keep together.
 @@||videoplayer.persgroep.be/*/ad_smartads_.js$xhr,domain=vtm.be
 ||medialaancdn.be/vtm_od/prerolls/$media,domain=vtm.be,redirect=noopmp3-0.1s
