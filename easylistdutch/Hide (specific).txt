@@ -109,6 +109,7 @@ maaslandradio.nl##.slides
 maaslandradio.nl,mariabode.nl,palnws.be##[id^="media_image"]:has-text(/advert/i)
 maaslandradio.nl###header-text-nav-container > .inner-wrap > .clearfix
 mandelnieuws.be##div[class*="blocksponsors"]
+mediamarkt.nl##div[class^="AdWrapper"] + div[class^="SkeletonWrapper"]
 minecrafttoplist.nl##.fancy-wrap
 mnm.be,stubru.be###reclameblok-wrapper
 mnm.be##div[class^="grid-item"]:has(div:has-text(/advert/i))
