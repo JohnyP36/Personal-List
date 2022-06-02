@@ -1,4 +1,5 @@
 ||a2.tijd.be^
+||ab.tweakers.nl^
 ||adverteren.rd.nl^
 ||advertising-module.api.dpgmedia.cloud^
 ||content1.pcmweb.nl^
