@@ -158,6 +158,7 @@ proshop.nl##.site-home-banner
 proshop.nl##.site-top-banner
 racesport.nl##.hthb-notification
 racesport.nl##.rs_sponsorbanners_widget:upward(1)
+radionl.fm##.desktop_mobile:not(a[href*="radionl.fm"])
 radioviainternet.be##.banner-size-leaderbord
 rbsradio.be##.qt-sponsors
 reformatorischeomroep.nl##section:has(.item-banner)
@@ -735,7 +736,6 @@ radiocontinu.nl##.eskimo-slider-img:upward(5)
 radiocontinu.nl##.eskimo-slider-img:upward(11) + div[class]:has([id^="div-gpt-ad"])
 radioeenhoorn.nl##.module_round_box
 radiomonique.am##.bannerswidget
-radionl.fm##[class*="widget"]:has(a[href]):has([src*="/wp-content/uploads/"][src*="Maxiaxi"])
 radiopros.be##.inside-left-sidebar
 radioreflex.be##aside:has-text(/sponsor/i)
 radiozenders.fm##.banner-rectangle:not(:nth-of-type(3))
