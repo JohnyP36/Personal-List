@@ -18,6 +18,8 @@ appletips.nl##a[href^="/adverteren-"]
 autoblog.nl##.widget:has-text(/links/i)
 autoblog.nl##.widget_ab_sidebar
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
+autoweek.nl##.advertise
+autoweek.nl##.tile-category:has-text(/advert/i):upward(.aw-tile)
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class] > [id="div-gpt-ad-banner"]
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center:has-text(/advert|Regiotreffers/)
 belgiancycling.be,zoekhulp.nl###banner
@@ -291,7 +293,6 @@ autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
 autosport.nl###liggende-banner
 autosport.nl##.active.first:style(margin-top: 0px !important;)
 autosport.nl##.bigbanner
-autoweek.nl##.advertise
 autowereld.nl###banner-lister-top
 autowereld.nl###mainbanner
 autozine.nl###asidetop
