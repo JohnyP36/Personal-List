@@ -8,7 +8,7 @@ goplay.be##+js(no-fetch-if, pubads.g.doubleclick.net/gampad/ads)
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=goplay.be
 @@||pubads.g.doubleclick.net/gampad/ads?*&output=vast&$domain=goplay.be
 !#endif
-@@||iphoned.nl/wp-content/*/scripts/adgear.js$script,domain=iphoned.nl,first-party
+iphoned.nl##+js(abort-current-script, adgear.js-js)
 @@*&ad$xhr,domain=kijk.nl
 @@||ads-talpa.adhese.com/json/$xhr,domain=kijk.nl
 *$image,domain=kijk.nl,redirect-rule=1x1.gif
