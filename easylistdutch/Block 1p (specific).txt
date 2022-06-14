@@ -111,6 +111,7 @@
 ||pornoexpert.nl/img/950x250_*.gif$image
 ||profielactueel.nl/content/modules/catalog/4/*.gif$image
 ||proshop.nl/Images/*Top-Banner
+||qassa.nl/images/*/wallpaper$image
 ||racesport.nl/wp-content/uploads/*/TK_Kickoff.jpg$image
 ||racingnews365.nl/images/logos/partners/*/$image,first-party
 ||radioeenhoorn.nl/images/Maxaro-badkamers-tegels.png
