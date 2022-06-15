@@ -9,6 +9,7 @@ frontpage.fok.nl#@#.advertentie
 gratisaftehalen.nl#@#.ads-image
 japan-webike.*#@#.img_ad
 lesoir.be#@##ultimedia_wrapper
+marktnet.nl#@#.ad-description
 marktplaats.nl#@#.adSummary
 mechanisatiemarkt.nl#@#.advert-container
 mechanisatiemarkt.nl#@#.advert-title
