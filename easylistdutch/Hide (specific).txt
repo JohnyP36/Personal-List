@@ -114,6 +114,7 @@ maaslandradio.nl###header-text-nav-container > .inner-wrap > .clearfix
 mandelnieuws.be##div[class*="blocksponsors"]
 mediamarkt.nl##div[class^="AdWrapper"] + div[class^="SkeletonWrapper"]
 mijnserie.nl,nailtalk.nl##a[href^="https://partnerprogramma.bol.com/"]
+mijnserie.nl,trappers.nl,volleybelgium.be##.sponsors
 minecrafttoplist.nl##.fancy-wrap
 mnm.be,stubru.be###reclameblok-wrapper
 mnm.be##div[class^="grid-item"]:has(div:has-text(/advert/i))
@@ -202,7 +203,6 @@ tpo.nl##[id*="r89"][id$="home"]
 tpo.nl##[id$="top-ad"]
 tpo.nl##[id$="halfpage"]
 tpo.nl##div.ads-contain
-trappers.nl,volleybelgium.be##.sponsors
 tube.nederlandseporno.nl##[id^="custom_html"]:has-text(/Polder Webcamsex|Sex contact/)
 tube.nederlandseporno.nl##h3:has-text(/Sexdating|Webcamsex/)
 tvgids.nl##.square-item:has( > .banner)
