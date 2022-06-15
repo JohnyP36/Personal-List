@@ -113,6 +113,7 @@ maaslandradio.nl,mariabode.nl,palnws.be##[id^="media_image"]:has-text(/advert/i)
 maaslandradio.nl###header-text-nav-container > .inner-wrap > .clearfix
 mandelnieuws.be##div[class*="blocksponsors"]
 mediamarkt.nl##div[class^="AdWrapper"] + div[class^="SkeletonWrapper"]
+mijnserie.nl,nailtalk.nl##a[href^="https://partnerprogramma.bol.com/"]
 minecrafttoplist.nl##.fancy-wrap
 mnm.be,stubru.be###reclameblok-wrapper
 mnm.be##div[class^="grid-item"]:has(div:has-text(/advert/i))
@@ -121,6 +122,7 @@ mr-online.nl##.elementor-widget-wrap > *:has-text(/advert/i):has(div[class*="bnr
 mr-online.nl##.type_partner-profielpartner
 musicmeter.nl##.external
 mygaydate.nl##.rand:has([href^="https://www.shemalecontactnederland.nl/"])
+nailtalk.nl##.ashe-widget
 nd.nl#?#.text-center:-abp-contains(advert)
 netonline.be##.text_12_jobs_only
 netonline.be##.tekstboldwit td:has-text(/advert/i)
@@ -622,8 +624,6 @@ motocrossplanet.nl##div[class*="banner"]
 motocrossplanet.nl##div[class*="col"]:has-text(/advert/i)
 motorfietsblog.nl##.cbcontent
 motorrijdenexpert.nl##div[class*="full-row relative-row"]:has([href]):has([class*="ignore"])
-nailtalk.nl##.ashe-widget
-nailtalk.nl##a[href^="https://partnerprogramma.bol.com/"]
 !nederland.fm###xbtm > .shadow
 !nederland.fm###xttm > .shadow
 nederlandsexdate.nl##.card-header:has-text(Advertentie)
