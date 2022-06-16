@@ -67,7 +67,7 @@ geenstijl.nl##.article-premium-promotion-block
 geenstijl.nl##.slajeslag
 geenstijl.nl##a[data-ga-event^="link-tip"]
 gpfans.com##.leaderboardbg
-gpfans.com##a[href^="https://casinoscout.nl/"]
+gpfans.com,playboy.nl##a[href^="https://casinoscout.nl/"]
 guidinc.nl##.promotion_link
 !handbalstartpunt.nl##aside.widget-banner
 handbalstartpunt.nl##aside > div[class]:has(>.adsbygoogle)
