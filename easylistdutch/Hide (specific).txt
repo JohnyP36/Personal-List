@@ -8,7 +8,7 @@ ajaxreport.nl,psvreport.nl##[id^="text"][class$="sidebar-widget"]:has-text(/casi
 ajaxreport.nl,feyenoordreport.nl,livestreamvandaag.be,onlinekraslotenrss.nl,onlinepokerrss.nl,psvreport.nl,sportweddenrss.nl,voetbalsnafu.nl##.widget_links
 ajaxreport.nl,feyenoordreport.nl,psvreport.nl,voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="voetbalwedden.net"][target="_blank"])
 amsterdamtigers.com##.sponsorbanner
-androidworld.nl##.sda
+androidworld.nl,f1maximaal.nl##.sda
 anoniem-surfen.nl##.footer-widget-1
 anoniem-surfen.nl##.header-widget-region
 antilliaansdagblad.com##.bannergroup
