@@ -42,6 +42,8 @@ cryptoclan.nl,cryptonieuws.nl##div[data-elementor-type="popup"]
 dagelijksekost.een.be##.dish-sponsors
 dagelijksestandaard.nl###TOP_ARTICLE
 dagelijksestandaard.nl##nav + div[style^="height:52px"]
+dartsactueel.nl##.elementor-widget-container:has-text(/powered by/i)
+dartsactueel.nl##.elementor-widget-container:has(.elementor-image:has(a[href$="dartshopmn.nl"]))
 duurzaam-actueel.nl##[class*="bd-block"]:has(a[href]):has(img[src*="wp-content/uploads/"])
 duurzaam-actueel.nl##header + section:has([class*="logo-showcase-slider"])
 duurzaamnieuws.nl##.adv-link
