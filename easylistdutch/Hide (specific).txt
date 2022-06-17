@@ -282,7 +282,7 @@ androidplanet.nl,iphoned.nl##.aa-top-dog
 androidplanet.nl,iphoned.nl##.widget_offers
 androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
 androidplanet.nl,iphoned.nl##header[data-name="featured-header"]
-androidworld.nl,cinenews.be,handbal.nl,indeleiderstrui.nl,openrotterdam.nl,webmastersunited.com,wegdamnieuws.nl##.ads
+androidworld.nl,cinenews.be,handbal.nl,openrotterdam.nl,webmastersunited.com,wegdamnieuws.nl##.ads
 ans-online.nl##.theiaStickySidebar > .widget:has-text(Advertentie)
 apintie.sr###left-inside > div#ads
 apintie.sr###navcol2
