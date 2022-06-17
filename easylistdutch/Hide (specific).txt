@@ -49,7 +49,7 @@ dartfreakz.nl##.wpb_wrapper .textwidget > p + .g-14.g
 dartfreakz.nl##.wpb_wrapper a[href*="dartswarehouse.nl"]
 dartfreakz.nl##aside[class^="td_block"]:has-text(/partners/i)
 dartsactueel.nl##.elementor-widget-container:has-text(/powered by/i)
-dartsactueel.nl##.elementor-widget-container:has(.elementor-image:has(a[href$="dartshopmn.nl"]))
+dartsactueel.nl##.elementor-widget-container:has(a[href$="dartshopmn.nl"] > img)
 duurzaam-actueel.nl##[class*="bd-block"]:has(a[href]):has(img[src*="wp-content/uploads/"])
 duurzaam-actueel.nl##header + section:has([class*="logo-showcase-slider"])
 duurzaamnieuws.nl##.adv-link
