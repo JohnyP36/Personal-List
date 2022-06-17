@@ -31,7 +31,7 @@ biernet.nl###BJA3
 biernet.nl##div[id^="banTop"]:has([class*="ad-wrapper"])
 biflatie.nl##.elementor-image:has(img[src*="banner"])
 binnenlandsbestuur.nl##aside div[class="c-teaser"]:not(:has(a[href*="binnenlandsbestuur.nl"]))
-binnenvaartkrant.nl,christmaholic.nl,curacao.nu,dbsuriname.com,dewereldmorgen.be,regioinbedrijf.nl,westerwoldeactueel.nl##.g
+binnenvaartkrant.nl,christmaholic.nl,curacao.nu,dartfreakz.nl,dbsuriname.com,dewereldmorgen.be,regioinbedrijf.nl,westerwoldeactueel.nl##.g
 businessinsider.nl##.ll_partnerexpert
 cip.nl##a[href*="/ad/click/"]:not(.podcast-inline a[href]):not(:has-text(/vacatures/i)):not(:has-text(/gesponsord/i))
 cip.nl##div[class]:has-text(/vakanties/i):upward(2) + div [id^="vacation-carousel"]
@@ -45,7 +45,6 @@ dagelijksestandaard.nl##nav + div[style^="height:52px"]
 dartfreakz.nl##.a-single:has(a[href*="casino"])
 dartfreakz.nl##.soliloquy-wrapper:not(:has(a[href*="dartfreakz.nl"]))
 dartfreakz.nl##.textwidget:has(a[href*="casino"]):not(:has(a[href*="darts-tv.com"]))
-dartfreakz.nl##.wpb_wrapper .textwidget > p + .g-14.g
 dartfreakz.nl##.wpb_wrapper a[href*="dartswarehouse.nl"]
 dartfreakz.nl##aside[class^="td_block"]:has-text(/partners/i)
 dartsactueel.nl##.elementor-widget-container:has-text(/powered by/i)
