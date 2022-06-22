@@ -160,6 +160,10 @@ ninefornews.nl##div[class^="mag-box"] + #adskeeper
 ninefornews.nl##div[class*="header-container"] a[class="gofollow"][href*="link"]
 nnieuws.be##.content > .box:has(#partner-slider)
 nnp.nl##div[class^="p-4"]:has([class*="gray"]):has(a[data-source^="banner"])
+noordkopcentraal.nl##.bannerListWidget
+noordkopcentraal.nl##.ewic-slider-pro-widget
+noordkopcentraal.nl##.headbanner
+noordkopcentraal.nl##.widgettitle:has-text(Advert)
 nu.nl##.articlelist.block:has-text(Folder \(Adverteerders\)) .listA
 nu.nl##.temptation__aside
 nu.nl###header > .zone
@@ -679,10 +683,6 @@ nnieuws.be##.banner-silver
 nnieuws.be##.region-banner-diamond
 nnieuws.be##.view-vw-banners.view
 noordernieuws.nl##[id^="slideshowwidget"]:has(img[src$=".gif"])
-noordkopcentraal.nl##.ewic-slider-pro-widget
-noordkopcentraal.nl##.headbanner
-noordkopcentraal.nl##div[id^="media_image-"].widget_media_image > a[href] > img[width="462"]
-noordkopcentraal.nl##div[id^="media_image-"].widget_media_image > .widgettitle:has-text(Advertenties)
 nos.nl##.ster-banner
 nos.nl##.teletekst__banner
 notebookcheck.nl##.amaz_el
