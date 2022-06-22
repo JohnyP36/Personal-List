@@ -206,7 +206,7 @@ stubru.be##li:has-text(/advert/i)
 studylibnl.com##.above-content
 studylibnl.com##.below-content
 studylibnl.com##.sidebar-top-content
-techradar.com###article-body > aside[class^="hawk-nest"]:has-text(/de beste/i):has(a[href*="tc.tradetracker.net"])
+techradar.com###article-body > aside.hawk-nest:has([class^="hawk-affiliate"])
 techradar.com###taboola-below-article-thumbnails
 techradar.com##.dfp-leaderboard-container
 techradar.com##[class$="ad-unit"]
