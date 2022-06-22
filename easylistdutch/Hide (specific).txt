@@ -257,6 +257,12 @@ wereldklokken.nl##.klokken:style(transform: translateX(-180px ) !important;)
 wettelijke-feestdagen.nl##.advertentieBanner
 wettelijke-feestdagen.nl###reclame
 whiskyprijzen.be,whiskyprijzen.nl,whiskyprix.be##.bnr.card
+wielerflits.be,wielerflits.nl###mm_hpa
+wielerflits.be,wielerflits.nl##.affiliate_links
+wielerflits.be,wielerflits.nl##.mm_container
+wielerflits.be,wielerflits.nl##.row [class^="widget"]:has(.mm_container)
+wielerflits.be,wielerflits.nl##div[id*="mm_leaderboard"]
+wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 wildfm.nl##[class*="avia-image-container"]:has(a[href])
 wildfm.nl##[id*="after_section"] > .container:has([class*="av-content"])
 wildfm.nl##img[width="699"][height="90"]
@@ -953,12 +959,6 @@ weertdegekste.nl##.banner-right
 weertdegekste.nl##.infeed-outer
 weertdegekste.nl##.infeed-wrap
 westerwoldeactueel.nl##.adr-wrapper
-wielerflits.be,wielerflits.nl###mm_hpa
-wielerflits.be,wielerflits.nl##.affiliate_links
-wielerflits.be,wielerflits.nl##.mm_container
-wielerflits.be,wielerflits.nl##div[id*="mm_leaderboard"]
-wielerflits.be,wielerflits.nl##li.list-group-item:has(span[class*="badge"]):has-text(/ad/i):not(:has(a[href*="wielerflits.nl"]))
-wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 
 !#if env_mobile
 nu.nl##div[data-type="tealium"]
