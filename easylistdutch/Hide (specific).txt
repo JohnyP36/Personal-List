@@ -99,6 +99,8 @@ ijshockeynederland.nl##div[class^="column col"]:has(img[src*="/uploads/ads"])
 indignatie.nl##[id^="custom_html"]:has([src^="https://pagead2.googlesyndication.com/"])
 infinance.nl##.slickcarousel
 infinance.nl##.widget:has-text(links)
+investmentofficer.nl##.region-banner
+investmentofficer.nl##[id*="dfptaghomeadvertorial"]:upward(.views-rows > .row > .col)
 jaap.nl##div[id^="property_ad_"]
 jammfm.nl##.owl-carousel:has(.sa_hover_container):has([style*="/banner"])
 jammfm.nl##div[class*="wrapper"]:has([class^="qt-slickslider"]:has(.qt-sponsor))
@@ -466,7 +468,6 @@ floranews.com##td[align="center"]:has(> hr):has([href^="/banner"])
 floranews.com##td[rowspan="2"][width="590"]:has(a[href^="/banner"])
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
 folderz.nl,intermediair.nl,spel.nl,spelletjes.nl##.advert
-fondsnieuws.nl##.promo-wrapper
 forum.scholieren.com###posts .thead:has-text(/advert/i)
 freesoccer.nl##.container-fluid.site-header
 franska.nl###shopsuiteApplication
