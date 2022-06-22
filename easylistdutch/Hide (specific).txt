@@ -256,13 +256,18 @@ wereldklokken.nl##.adsbygoogle:style(visibility: collapse !important;)
 wereldklokken.nl##.klokken:style(transform: translateX(-180px ) !important;)
 wettelijke-feestdagen.nl##.advertentieBanner
 wettelijke-feestdagen.nl###reclame
+whiskyprijzen.be,whiskyprijzen.nl,whiskyprix.be##.bnr.card
 wildfm.nl##[class*="avia-image-container"]:has(a[href])
 wildfm.nl##[id*="after_section"] > .container:has([class*="av-content"])
 wildfm.nl##img[width="699"][height="90"]
+wintersport.nl##.mq-banner > .never-visited:not(:has-text(/reisverzekering/i))
+wintersport.nl##.mq-banner > div[class*="card"]
 wkdarts.nl##.vcex-module:has-text(/advert/i)
 wkdarts.nl##[href="https://www.loketkansspel.nl/"]
+wos.nl##.header-right
 wradio.be##.c-advertiser-logos
 xgn.nl##.bs
+xxxdump.nl###reclame-eroads
 yourlittleblackbook.me##.simple-image > [href^="https://www.nsinternational.com/traintracker/"]
 yourlittleblackbook.me##[id*="banner"]
 zakenreisnieuws.nl##[id^="block-block"]:has([id^="div-gpt-ad"])
@@ -954,12 +959,6 @@ wielerflits.be,wielerflits.nl##.mm_container
 wielerflits.be,wielerflits.nl##div[id*="mm_leaderboard"]
 wielerflits.be,wielerflits.nl##li.list-group-item:has(span[class*="badge"]):has-text(/ad/i):not(:has(a[href*="wielerflits.nl"]))
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
-wijlimburg.nl##.sidebar-partners
-wintersport.nl##.mq-banner > .never-visited:not(:has-text(/reisverzekering/i))
-wintersport.nl##.mq-banner > div[class*="card"]
-whiskyprijzen.be,whiskyprijzen.nl,whiskyprix.be##.bnr.card
-wos.nl##.header-right
-xxxdump.nl###reclame-eroads
 
 !#if env_mobile
 nu.nl##div[data-type="tealium"]
