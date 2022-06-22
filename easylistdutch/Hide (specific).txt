@@ -265,6 +265,9 @@ wradio.be##.c-advertiser-logos
 xgn.nl##.bs
 yourlittleblackbook.me##.simple-image > [href^="https://www.nsinternational.com/traintracker/"]
 yourlittleblackbook.me##[id*="banner"]
+zakenreisnieuws.nl##[id^="block-block"]:has([id^="div-gpt-ad"])
+zakenreisnieuws.nl##div[class*="block-block"]:has(.adsbygoogle)
+zakenreisnieuws.nl##div[style*="padding:10px"]:has(div[id^="div-gpt-ad"])
 zeelandnet.nl##.article-bnr-first
 zeelandnet.nl##.as__bottom-banner
 zeelandnet.nl##.row--bnr-between
@@ -957,9 +960,6 @@ wintersport.nl##.mq-banner > div[class*="card"]
 whiskyprijzen.be,whiskyprijzen.nl,whiskyprix.be##.bnr.card
 wos.nl##.header-right
 xxxdump.nl###reclame-eroads
-zakenreisnieuws.nl##[id^="block-block"]:has([id^="div-gpt-ad"])
-zakenreisnieuws.nl###block-views-banner_carousel-block
-zakenreisnieuws.nl##div[class*="block-block"]:has(.adsbygoogle)
 
 !#if env_mobile
 nu.nl##div[data-type="tealium"]
