@@ -155,6 +155,7 @@ ninefornews.nl##[id*="block"]:has([class^="mag-box-container"] > *:has(div[class
 ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3)
 ninefornews.nl##div[class^="mag-box"] + #adskeeper
 ninefornews.nl##div[class*="header-container"] a[class="gofollow"][href*="link"]
+nnieuws.be##.content > .box:has(#partner-slider)
 nnp.nl##div[class^="p-4"]:has([class*="gray"]):has(a[data-source^="banner"])
 nu.nl##.articlelist.block:has-text(Folder \(Adverteerders\)) .listA
 nu.nl##.temptation__aside
