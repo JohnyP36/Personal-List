@@ -22,7 +22,8 @@ automobielmanagement.nl,carwashpro.nl,infrasite.nl,ovpro.nl,rijschoolpro.nl,spoo
 autoweek.nl##.advertise
 autoweek.nl##.tile-category:has-text(/advert/i):upward(.aw-tile)
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class] > [id="div-gpt-ad-banner"]
-barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center:has-text(/advert|Regiotreffers/)
+barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center:has-text(advert)
+barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center[advobject]:upward(2)
 belgiancycling.be,zoekhulp.nl###banner
 belgischecasinos.be,newspower.nu##.gofollow
 besteproduct.nl##[id^="ad-block"]
