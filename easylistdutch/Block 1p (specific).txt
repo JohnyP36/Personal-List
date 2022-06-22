@@ -21,7 +21,7 @@
 ||biernet.nl/images/extra-bja_camp-bnr/$image
 ||biernet.nl/site/widgets/huidig_aanbieding.php
 ||bol.com/nl/upload/banners/
-||bol.com/nl/upload/partnerprogramma/*.jpg
+||bol.com/nl/upload/partnerprogramma/$image
 ||camjam.nl*/assets/images/233x257*.gif
 ||cdn.ster.nl/banners^
 ||cdn.wegdamnieuws.nl/wp-content/uploads/*/*Banner
