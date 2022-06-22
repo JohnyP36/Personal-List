@@ -265,7 +265,13 @@ wradio.be##.c-advertiser-logos
 xgn.nl##.bs
 yourlittleblackbook.me##.simple-image > [href^="https://www.nsinternational.com/traintracker/"]
 yourlittleblackbook.me##[id*="banner"]
+zeelandnet.nl##.article-bnr-first
+zeelandnet.nl##.as__bottom-banner
+zeelandnet.nl##.row--bnr-between
+zeelandnet.nl##aside:has([id^="div-gpt-ad"])
 zita.be##[id^="custom_html-"]:has-text(Ad)
+zoom.nl##div[class^="display-ad_container"]
+!zuidenvelder.info##.bg-grey.mb-20:has([advobject])
 ! 2021
 112achterhoek-nieuws.nl###sidebar
 123geldzaken.nl##.widget_sponsor
@@ -954,12 +960,6 @@ xxxdump.nl###reclame-eroads
 zakenreisnieuws.nl##[id^="block-block"]:has([id^="div-gpt-ad"])
 zakenreisnieuws.nl###block-views-banner_carousel-block
 zakenreisnieuws.nl##div[class*="block-block"]:has(.adsbygoogle)
-zeelandnet.nl##.article-bnr-first
-zeelandnet.nl##.as__bottom-banner
-zeelandnet.nl##.row--bnr-between
-zeelandnet.nl##aside:has([id^="div-gpt-ad"])
-zoom.nl##div[class^="display-ad_container"]
-zuidenvelder.info##.bg-grey.mb-20:has([advobject])
 
 !#if env_mobile
 nu.nl##div[data-type="tealium"]
