@@ -15,6 +15,7 @@
 ||static.promedia.nl/logos/$image,domain=automobielmanagement.nl|carwashpro.nl|infrasite.nl|ovpro.nl|rijschoolpro.nl|spoorpro.nl|tankpro.nl|taxipro.nl|verkeersnet.nl
 ||strafrechtadvocaten.nl/media/banner/$third-party
 ||tools-affil2.com/rtb/index.php$domain=1001erotiekverhalen.nl
+||upload.gscdn.nl/uploads/*_Kansino_Feed$image,domain=geenstijl.nl
 ||xingo.nl/bannermanagement/
 ! 2021-12-
 !||2link.be/images/nobanner.jpg$image,domain=2news.be|2travel.be|2you.be
@@ -54,7 +55,6 @@
 ||storage.googleapis.com/stateless-www-nuus-be/*/*.gif$image,domain=nuus.be
 ||storage.googleapis.com/stateless-www-nuus-be/*/*-banner-*$image,domain=nuus.be
 ||tools-affil2.com/rtb/index.php$subdocument,domain=beeldbelsex.com
-||upload.gscdn.nl/uploads/*_Batavia_widgets*$domain=geenstijl.nl
 ||widgets.skyscanner.net^$domain=puuropreis.nl
 ||wp.com/www.appletips.nl/wp-content/uploads/amacdeals$image,domain=appletips.nl
 ||wp.com/www.appletips.nl/wp-content/uploads/cnmx$image,domain=appletips.nl
