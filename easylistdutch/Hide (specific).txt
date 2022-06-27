@@ -8,6 +8,7 @@
 aafm.nl,aavisie.nl##.block:has-text(Advertentie)
 actueel-nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
 afkortingen.nu,allradio.nl,bpnieuws.nl,erotracks.nl,filmladder.nl,gezondheidsnet.nl,klasse.be,nieuweoogst.nl,nieuws.nl,nrc.nl,nu.nl,retaildetail.be,retaildetail.nl,sexfotodating.nl,startbewijs.nl,startkabel.nl,startpagina.nl,televizier.nl,telezien.nl,totaaltv.nl,truck1.be,truck1-nl.be,truck1.nl,tvgemist.be,tvgids.nl,uiennieuws.nl,unity.nu,voetbalnieuws.be,waldnet.nl##.banner
+agriline.be##.sales-cat-context
 ajaxreport.nl,psvreport.nl##[id^="text"][class$="sidebar-widget"]:has-text(/casino/i):not(:has(div[class="widget-title"]))
 ajaxreport.nl,feyenoordreport.nl,livestreamvandaag.be,onlinekraslotenrss.nl,onlinepokerrss.nl,psvreport.nl,sportweddenrss.nl,voetbalsnafu.nl##.widget_links
 ajaxreport.nl,feyenoordreport.nl,psvreport.nl,voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="voetbalwedden.net"][target="_blank"])
