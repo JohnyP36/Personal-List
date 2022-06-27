@@ -40,6 +40,7 @@ bdsmleven.nl,dsdating.nl##[class*="random_banner"]
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-wrapper
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
 belegger.nl##.plusbtn
+beleggersbelangen.nl##.promo
 belgiancycling.be,zoekhulp.nl###banner
 belgischecasinos.be,newspower.nu##.gofollow
 besteproduct.nl##[id^="ad-block"]
