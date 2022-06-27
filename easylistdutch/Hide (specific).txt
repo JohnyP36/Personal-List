@@ -39,11 +39,13 @@ barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.t
 bdsmleven.nl,dsdating.nl##[class*="random_banner"]
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-wrapper
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
-belegger.nl##.plusbtn
+belegger.nl,beursgorilla.nl##article[class*="plus"]:contains(plus500)
 beleggersbelangen.nl##.promo
 belgiancycling.be,zoekhulp.nl###banner
 belgischecasinos.be,newspower.nu##.gofollow
 besteproduct.nl##[id^="ad-block"]
+beursgorilla.nl##.js--billboard.ut--billboard
+beursgorilla.nl##.js--rect.ut--rectangle
 biernet.nl###BJA2
 biernet.nl###BJA3
 biernet.nl##div[id^="banTop"]:has([class*="ad-wrapper"])
@@ -382,8 +384,6 @@ bejaardensextube.nl,camsexbabe.nl,creampiesex.nl,fucking-tube.com,rapesextube.be
 belgie-sexcontact.be##.well:has(img[src])
 bellotube.com###exo
 berekenhet.nl##.bh-ads
-beursgorilla.nl##.js--billboard.ut--billboard
-beursgorilla.nl##.js--rect.ut--rectangle
 bierdopje.com##div[class=block]:has-text(/advert/i)
 biertijd.xxx###sidebarcontainer > h2:not(:has-text(/bierbroeders/i)):not(:has-text(partners))
 biflatie.nl##div[class*="elementor-widget-button"]:has-text(Advert)
