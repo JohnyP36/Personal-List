@@ -1,4 +1,5 @@
 ! 2022
+/wp-content/*/img/banners/*$image,domain=aafm.nl|aavisie.nl
 ||123video.nl^*/300x100_
 ||18plussexdating.nl/images/18plussexdating.$image
 ||18plussexdating.nl/images/twero.$image
@@ -179,7 +180,6 @@
 /wp-content/uploads/*rectangle*300*.gif$domain=lflmagazine.nl|linuxmag.nl
 ||a.scholieren.com/v/*$image,first-party
 ||a1mediagroep.nl/content/*/company/*/banne*.*?width=290&height=150
-||aafm.nl/cms/wp-content/themes/omroepalmelo/img/banners/
 ||abcsuriname.com/templates/abc/assets/gfx/header_banner$image
 ||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/WK*.$image
 ||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/Week-*.png$image
