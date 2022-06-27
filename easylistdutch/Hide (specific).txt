@@ -17,6 +17,9 @@ appletips.nl##.ph_upgreatest
 appletips.nl###bolcontainer
 appletips.nl##[class^="ph_block"]
 appletips.nl##a[href^="/adverteren-"]
+arenalokaal.nl##.content-start .items-center > .items-center:has([advobject]):upward(1)
+arenalokaal.nl##.header_banner
+arenalokaal.nl##[advobject]:upward(.bg-gray-100):has-text(/Uit de krant/i)
 autoblog.nl##.widget:has-text(/links/i)
 autoblog.nl##.widget_ab_sidebar
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
@@ -335,7 +338,6 @@ apintie.sr###left-inside > div#ads
 apintie.sr###navcol2
 apintie.sr###sidebar > div[style*="width:300px; height:"]:not(:has(img[alt="Apintie iPhone App"]))
 apparata.nl##.parentgpt
-arenalokaal.nl##.header_banner
 asex.nl###adblk1
 asex.nl###bottum_ad
 assercourant.nl##div[class^="col-sm-"]:has(.ad-item)
