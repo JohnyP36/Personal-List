@@ -56,9 +56,7 @@
 ||storage.googleapis.com/stateless-www-nuus-be/*/*-banner-*$image,domain=nuus.be
 ||tools-affil2.com/rtb/index.php$subdocument,domain=beeldbelsex.com
 ||widgets.skyscanner.net^$domain=puuropreis.nl
-||wp.com/www.appletips.nl/wp-content/uploads/amacdeals$image,domain=appletips.nl
-||wp.com/www.appletips.nl/wp-content/uploads/cnmx$image,domain=appletips.nl
-||wp.com/www.appletips.nl/wp-content/uploads/upgreatest1$image,domain=appletips.nl
+||wp.com/www.appletips.nl/wp-content/uploads/Handyman-inCharge6.gif$image,domain=appletips.nl
 ||xmissy.nl/admnfiles1809/*/freechatbanner_$image,domain=biertijd.xxx
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
 ! 22-07-2021 https://github.com/BPower0036/AdBlockFilters/commit/c11105cced861d9edbf33e87aae4ceb7967c765d#diff-fc048d7e10fe1949b116223817a5fe2092d99d04ba533eb3c09e8b79c8723bef
