@@ -1,4 +1,5 @@
 ! 2022
+/wp-content/*/scripts/adgear.js$script,first-party,domain=androidplanet.nl|iphoned.nl
 autoweek.nl##+js(set-constant, isAdBlockActive, false)
 goplay.be##+js(no-fetch-if, pubads.g.doubleclick.net/gampad/ads)
 ||goplay.be/js/sourcepoint/msg?v=
@@ -8,7 +9,6 @@ goplay.be##+js(no-fetch-if, pubads.g.doubleclick.net/gampad/ads)
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=goplay.be
 @@||pubads.g.doubleclick.net/gampad/ads?*&output=vast&$domain=goplay.be
 !#endif
-@@||iphoned.nl/wp-content/*/scripts/adgear.js$script,first-party
 @@*&ad$xhr,domain=kijk.nl
 @@||ads-talpa.adhese.com/json/$xhr,domain=kijk.nl
 *$image,domain=kijk.nl,redirect-rule=1x1.gif
