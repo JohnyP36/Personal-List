@@ -37,6 +37,9 @@ barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[clas
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center:has-text(advert)
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center[advobject]:upward(2)
 bdsmleven.nl,dsdating.nl##[class*="random_banner"]
+belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-wrapper
+belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
+belegger.nl##.plusbtn
 belgiancycling.be,zoekhulp.nl###banner
 belgischecasinos.be,newspower.nu##.gofollow
 besteproduct.nl##[id^="ad-block"]
@@ -375,8 +378,6 @@ beeldbelsex.com##.wp-block-column > center:has([data-src*="banners"])
 beeldbelsex.com##[href^="https://islive.com/"]
 beeldbelsex.com##[href^="https://www.twero.com/nl/"]:has(img[src$=".gif"])
 bejaardensextube.nl,camsexbabe.nl,creampiesex.nl,fucking-tube.com,rapesextube.be,rapetube.be,seks-tube.be##.happy-section
-belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-wrapper
-belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
 belgie-sexcontact.be##.well:has(img[src])
 bellotube.com###exo
 berekenhet.nl##.bh-ads
