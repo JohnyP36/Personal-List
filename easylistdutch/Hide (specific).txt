@@ -1,6 +1,7 @@
 ! 2022
 1001erotiekverhalen.nl##[href^="https://t.adating.link/"]:upward(2)
 1001erotiekverhalen.nl##aside[id^="block"]:has([src*="tools-affil2.com/rtb/index.php"])
+123geldzaken.nl##[class*="widget_sponsor"]
 1twente.nl, autoweek.nl,bnnvara.nl,camjam.nl,elektormagazine.nl,fonkmagazine.nl,hpdetijd.nl,kieskeurig.nl,ovpro.nl,tankpro.nl,tubantia.nl,zijaanzij.nl##.advertisement
 247spice.com##.elementor-widget-heading:has-text(/Partners|Advert/)
 247spice.com##.elementor-widget-heading:has-text(/Partners|Advert/) + section
@@ -296,7 +297,6 @@ zoom.nl##div[class^="display-ad_container"]
 !zuidenvelder.info##.bg-grey.mb-20:has([advobject])
 ! 2021
 112achterhoek-nieuws.nl###sidebar
-123geldzaken.nl##.widget_sponsor
 123video.nl##.page-load-switch
 123video.nl##.stunt-wide
 18plussexdating.nl##.homebanner
