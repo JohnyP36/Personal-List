@@ -36,7 +36,7 @@ autozine.nl##.ad300x1050
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class] > [id="div-gpt-ad-banner"]
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center:has-text(advert)
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center[advobject]:upward(2)
-bdsmleven.nl##[class*="random_banner"]
+bdsmleven.nl,dsdating.nl##[class*="random_banner"]
 belgiancycling.be,zoekhulp.nl###banner
 belgischecasinos.be,newspower.nu##.gofollow
 besteproduct.nl##[id^="ad-block"]
@@ -68,6 +68,7 @@ dartsactueel.nl##.elementor-widget-container:has(a[href$="dartshopmn.nl"] > img)
 deoudrotterdammer.nl##[class$="advertentie"] + div:has([id^="deoud-"])
 ditjesendatjes.nl##.c-partners
 ditjesendatjes.nl##div[class^="article-page__sidebar"] a[href]:not(a[href*="ditjesendatjes.nl"]):not(a[href="#"]):has(img[src])
+dsdating.nl##[href^="https://mt67.net/"]:upward(.elementor-section)
 duurzaam-actueel.nl##[class*="bd-block"]:has(a[href]):has(img[src*="wp-content/uploads/"])
 duurzaam-actueel.nl##header + section:has([class*="logo-showcase-slider"])
 duurzaamnieuws.nl##.adv-link
