@@ -2,6 +2,7 @@
 1001erotiekverhalen.nl##[href^="https://t.adating.link/"]:upward(2)
 1001erotiekverhalen.nl##aside[id^="block"]:has([src*="tools-affil2.com/rtb/index.php"])
 1twente.nl, autoweek.nl,bnnvara.nl,camjam.nl,elektormagazine.nl,fonkmagazine.nl,hpdetijd.nl,kieskeurig.nl,ovpro.nl,tankpro.nl,tubantia.nl,zijaanzij.nl##.advertisement
+aafm.nl,aavisie.nl##.block:has-text(Advertentie)
 actueel-nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
 afkortingen.nu,allradio.nl,bpnieuws.nl,erotracks.nl,filmladder.nl,gezondheidsnet.nl,klasse.be,nieuweoogst.nl,nieuws.nl,nrc.nl,nu.nl,retaildetail.be,retaildetail.nl,sexfotodating.nl,startbewijs.nl,startkabel.nl,startpagina.nl,televizier.nl,telezien.nl,totaaltv.nl,truck1.be,truck1-nl.be,truck1.nl,tvgemist.be,tvgids.nl,uiennieuws.nl,unity.nu,voetbalnieuws.be,waldnet.nl##.banner
 ajaxreport.nl,psvreport.nl##[id^="text"][class$="sidebar-widget"]:has-text(/casino/i):not(:has(div[class="widget-title"]))
@@ -302,7 +303,6 @@ zoom.nl##div[class^="display-ad_container"]
 7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,hln.be##.page-header__section--spacer
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(:scope >.ankeiler--advertisement)
 a1mediagroep.nl,coc.nl,fanclubbarcelona.nl###banners
-aafm.nl##[class^="block"]:has(img[src*="aafm.nl/cms/wp-content/themes/omroepalmelo/img/banners/"])
 adultwebmaster.nl##.main-promo-bn-responsive
 afkortingen.nu###banner_rectangle
 afkortingen.nu###banner_right
