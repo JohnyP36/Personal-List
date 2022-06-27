@@ -49,7 +49,7 @@ beursgorilla.nl##.js--billboard.ut--billboard
 beursgorilla.nl##.js--rect.ut--rectangle
 biernet.nl###BJA2
 biernet.nl###BJA3
-biernet.nl##div[id^="banTop"]:has([class*="ad-wrapper"])
+biernet.nl###banTop
 biflatie.nl##.elementor-image:has(img[src*="banner"])
 binnenlandsbestuur.nl##aside div[class="c-teaser"]:not(:has(a[href*="binnenlandsbestuur.nl"]))
 binnenvaartkrant.nl,christmaholic.nl,curacao.nu,dartfreakz.nl,dbsuriname.com,dewereldmorgen.be,regioinbedrijf.nl,westerwoldeactueel.nl##.g
