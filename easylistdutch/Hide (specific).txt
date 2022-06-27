@@ -118,6 +118,12 @@ headliner.nl###flex_left:has([id="div-gpt-ad"])
 historiek.net,mariabode.nl##[id^="custom_html"]:has-text(/advert/i)
 historiek.net##div[id^="ai_widget"]:has-text(/advert/i)
 hyc.be##div[class*="slider"]:has([class*="sliderwidget"])
+iex.nl##.ContentPartner
+iex.nl##.js-banner
+iex.nl##.network:has-text(Gesponsorde links)
+iex.nl##.rectanglewrap
+iex.nl##[class^="billboardwrap"]
+iex.nl##section:has-text(advertentie)
 ijshockeynederland.nl##.adswiper:upward(1)
 ijshockeynederland.nl##div[class^="column col"]:has(img[src*="/uploads/ads"])
 indignatie.nl##[id^="custom_html"]:has([src^="https://pagead2.googlesyndication.com/"])
@@ -580,12 +586,6 @@ hoekschnieuws.nl##body > center:has(a[href]:has(img))
 hollywoodhuizen.nl##div[class^="post-content description"] > div[class]:has(.adsbygoogle):not([id])
 hotradiohits.nl###tpl_banners
 hyvesgames.nl##.gamereel_featured-ad
-iex.nl##.billboardwrap
-iex.nl##.ContentPartner
-iex.nl##.js-banner
-iex.nl##.network:has-text(Gesponsorde links)
-iex.nl##.rectanglewrap
-iex.nl##section:has-text(advertentie)
 iexgeld.nl##.LeaderboardContainer
 iexgeld.nl##.Rectangle
 immo.vlan.be###ProvidersBox
