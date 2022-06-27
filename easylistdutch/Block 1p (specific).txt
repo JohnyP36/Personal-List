@@ -1,6 +1,6 @@
 ! 2022
 !/banner/*$domain=retaildetail.be|retaildetail.nl
-/banners/*$domain=2link.be|402automotive.com|islive.nl|kavelplatform.nl|maarkelsnieuws.nl|metalfan.nl|netonline.be|tradeidee.nl|zilverengoudkopen.nl|rtvmaastricht.nl|sexamateurtjes.nl
+/banners/*$domain=2link.be|402automotive.com|elektormagazine.nl|islive.nl|kavelplatform.nl|maarkelsnieuws.nl|metalfan.nl|netonline.be|tradeidee.nl|zilverengoudkopen.nl|rtvmaastricht.nl|sexamateurtjes.nl
 /wp-content/*/img/banners/*$image,domain=aafm.nl|aavisie.nl
 /wp-content/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|baarsclassicrock.nl|bdsmleven.nl|biflatie.nl|bol-an.nl|cryptobenelux.com|dartfreakz.nl|decibel.nl|dekrantvantynaarlo.nl|deoudrotterdammer.nl|destreekkrant.nu|dekrantnieuws.nl|dordtcentraal.nl|dsdating.nl
 |duurzaam-actueel.nl|genemuidenactueel.nl|goedkoopstekeukensduitsland.nl|hoekschnieuws.nl|katholiek.nl|loemedia.nl|luister.nl|maaslandradio.nl|mannennieuws.nl|noordkopcentraal.nl|omroepalmere.nl|oogtv.nl|radiocontinu.nl|railhobby.nl|regionoordkop.nl|simone.nl|sleutelstad.nl|spreekbuis.nl|streamwijzer.be|tradeidee.nl
@@ -230,7 +230,6 @@
 ||edelmetaal-info.nl/cdfund-*.html
 ||edelmetaal-info.nl/wp-content/uploads/*/cd-fund
 ||ekvrouwen.nl/*/uploads/*/bookmaker-cta-$image
-||elektormagazine.nl/assets/upload/banners/*
 ||elektronicaforum.nl/banner*$image,first-party
 ||excellentfm.nl/images/aanbieding/$first-party
 ||farm-date.com/slides/banner-$image,first-party
