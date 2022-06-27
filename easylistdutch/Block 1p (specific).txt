@@ -2,8 +2,7 @@
 !/banner/*$domain=retaildetail.be|retaildetail.nl
 /banners/*$domain=2link.be|402automotive.com|elektormagazine.nl|iex.nl|islive.nl|kavelplatform.nl|maarkelsnieuws.nl|metalfan.nl|netonline.be|tradeidee.nl|zilverengoudkopen.nl|rtvmaastricht.nl|sexamateurtjes.nl
 /wp-content/*/img/banners/*$image,domain=aafm.nl|aavisie.nl
-/wp-content/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|baarsclassicrock.nl|bdsmleven.nl|biflatie.nl|bol-an.nl|cryptobenelux.com|dartfreakz.nl|decibel.nl|dekrantvantynaarlo.nl|deoudrotterdammer.nl|destreekkrant.nu|dekrantnieuws.nl|dordtcentraal.nl|dsdating.nl
-|duurzaam-actueel.nl|genemuidenactueel.nl|goedkoopstekeukensduitsland.nl|hoekschnieuws.nl|katholiek.nl|loemedia.nl|luister.nl|maaslandradio.nl|mannennieuws.nl|noordkopcentraal.nl|omroepalmere.nl|oogtv.nl|radiocontinu.nl|railhobby.nl|regionoordkop.nl|simone.nl|sleutelstad.nl|spreekbuis.nl|streamwijzer.be|tradeidee.nl
+/wp-content/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|baarsclassicrock.nl|bdsmleven.nl|biflatie.nl|bol-an.nl|cryptobenelux.com|dartfreakz.nl|decibel.nl|dekrantvantynaarlo.nl|deoudrotterdammer.nl|destreekkrant.nu|dekrantnieuws.nl|dordtcentraal.nl|dsdating.nl|duurzaam-actueel.nl|genemuidenactueel.nl|goedkoopstekeukensduitsland.nl|hoekschnieuws.nl|katholiek.nl|loemedia.nl|luister.nl|maaslandradio.nl|mannennieuws.nl|noordkopcentraal.nl|omroepalmere.nl|oogtv.nl|radiocontinu.nl|radiovisie.eu|railhobby.nl|regionoordkop.nl|simone.nl|sleutelstad.nl|spreekbuis.nl|streamwijzer.be|tradeidee.nl
 ||123video.nl^*/300x100_
 ||18plussexdating.nl/images/18plussexdating.$image
 ||18plussexdating.nl/images/twero.$image
@@ -298,7 +297,6 @@
 ||radioacacia.nl/sponsoren/
 ||radionl.fm^*/Maxiaxi_front.jpg
 ||radionl.fm/wp-content/uploads/*/Maxiaxi_sidebar
-||radiovisie.eu/wp-content/banners/*970x250.$image
 ||regioonline.nl/wp-content/uploads/*/*-Ads.*
 ||reliwiki.nl/images/*banner
 ||rtvdordrecht.nl/cwm/fm/userfiles/banner/*
