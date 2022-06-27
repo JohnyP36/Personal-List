@@ -2,6 +2,8 @@
 1001erotiekverhalen.nl##[href^="https://t.adating.link/"]:upward(2)
 1001erotiekverhalen.nl##aside[id^="block"]:has([src*="tools-affil2.com/rtb/index.php"])
 1twente.nl, autoweek.nl,bnnvara.nl,camjam.nl,elektormagazine.nl,fonkmagazine.nl,hpdetijd.nl,kieskeurig.nl,ovpro.nl,tankpro.nl,tubantia.nl,zijaanzij.nl##.advertisement
+247spice.com##.elementor-widget-heading:has-text(/Partners|Advert/)
+247spice.com##.elementor-widget-heading:has-text(/Partners|Advert/) + section
 aafm.nl,aavisie.nl##.block:has-text(Advertentie)
 actueel-nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
 afkortingen.nu,allradio.nl,bpnieuws.nl,erotracks.nl,filmladder.nl,gezondheidsnet.nl,klasse.be,nieuweoogst.nl,nieuws.nl,nrc.nl,nu.nl,retaildetail.be,retaildetail.nl,sexfotodating.nl,startbewijs.nl,startkabel.nl,startpagina.nl,televizier.nl,telezien.nl,totaaltv.nl,truck1.be,truck1-nl.be,truck1.nl,tvgemist.be,tvgids.nl,uiennieuws.nl,unity.nu,voetbalnieuws.be,waldnet.nl##.banner
@@ -298,8 +300,6 @@ zoom.nl##div[class^="display-ad_container"]
 123video.nl##.page-load-switch
 123video.nl##.stunt-wide
 18plussexdating.nl##.homebanner
-247spice.com##.elementor-element-2da19501 + .elementor-element-6406e483
-247spice.com##.slideInLeft.animated:has-text(Advert)
 30plussexdate.nl,ikwilneuken.be,ikwilneuken.net,meidenzoekensex.nl,sexcontactadressen.nl##.nomobile.boxlinks:has(.homebanner)
 402online.com##.bannerblock
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,goedgevoel.be,hln.be,pzc.nl,tubantia.nl##.dfp-space
