@@ -6,6 +6,7 @@
 ||ikwilneuken.*/assets/img/*.gif$image
 ||imagekit.io/ijnl*/uploads/other/*?tr=w-20$image,domain=ijshockeynederland.nl
 ||infotalia.com/worktalia_promo_
+||madmoney.eu/promotools/banners/
 ||media.prdn.nl/retailtrends/images/*.gif
 ||mmcdn.nl/tags/
 ||nexclic.com/pics/image*.gif$domain=dutchleader.nl
