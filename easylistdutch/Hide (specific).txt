@@ -116,7 +116,7 @@ flair.nl##.c-commerical_banner
 fleet-mobility.nl##.spotlight:has-text(Partners)
 forum.spaarinformatie.nl##table:has-text(/advert/i)
 fotografie.nl##.section-partners
-frontline.digital##[id^="block-"]:has(a[href^="https://clk.tradedoubler.com/click"])
+frontline.digital##p:has-text(,):not(:has-text(/[a-z]|[0-9]/i))
 funda.nl##.home-billboard
 geenstijl.nl##.article-premium-promotion-block
 geenstijl.nl##.slajeslag
