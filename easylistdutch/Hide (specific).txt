@@ -93,6 +93,7 @@ easyfm.nl,rbsradio.be##.qt-sponsors
 edelmetaal-info.nl##section:has(.masonry-item:not(:has(a[href*="edelmetaal-info.nl"])))
 edelmetaal-info.nl##.figure-image[data-links=""]:not(a[href*="edelmetaal-info.nl"])
 edelmetaal-info.nl##div[class^=" element-short"] a[onclick*="outgoing"]:has(img[width="180"]):not(:has([href*="edelmetaal-info.nl"]))
+elegance.nl##div[class^="vc_row"]:has(.wpb_wrapper .adsbygoogle):not(:has([href]))
 erotischemassages.com,poldertube.nl##.happy-footer
 !ewmagazine.nl##.widgets > .la-items:has(a[href$="/partners"])
 farmaline.be##.c-scroll-list:has(img[src*="farmaline.be/assets/banners/"])
@@ -489,7 +490,6 @@ edestad.nl##.w-300x.RM5
 eindexamens.nu###leaderboard
 eindtijdklok.org##.widget_block:has(img[src*="/ad"])
 eindtijdklok.org##.wpa
-elegance.nl##div[id^="tdi"] > div[class*="tdi"] > div[class*="tdi"]:has(div[class*="adsbygoogle"])
 elkspel.nl,fiets.nl,fietsactief.nl,knipmode.nl,rootsmagazine.nl,seasons.nl,truckstar.nl,vorsten.nl,zin.nl##.banner-container
 eoswetenschap.eu##.l-banner
 eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gazetvandaag.be,grandprix.ws,hotstreams.nl,krantvandaag.nl,nieuwsgigant.nl,voetbal-vandaag.nl###topbox
