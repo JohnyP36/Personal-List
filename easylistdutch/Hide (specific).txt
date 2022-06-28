@@ -79,6 +79,8 @@ dekrantvantynaarlo.nl##div[class^="module-etads"]
 deoudrotterdammer.nl##[class$="advertentie"] + div:has([id^="deoud-"])
 ditjesendatjes.nl##.c-partners
 ditjesendatjes.nl##div[class^="article-page__sidebar"] a[href]:not(a[href*="ditjesendatjes.nl"]):not(a[href="#"]):has(img[src])
+dolcevia.com##.affiliatelink
+dolcevia.com##.bookingaff:upward(.card)
 drentsnieuws.nl##.shadow:has(#bannerCarousel)
 dsdating.nl##[href^="https://mt67.net/"]:upward(.elementor-section)
 duurzaam-actueel.nl##[class*="bd-block"]:has(a[href]):has(img[src*="wp-content/uploads/"])
@@ -462,7 +464,6 @@ digitaalburg.com##.widget-area-bottom.align-center:has(.adsbygoogle)
 digitaalburg.com##aside[class^="widget widget_text"]
 direct-sexdate.be##div.card:has(img[src*="/banner"])
 dissident.one##.td-adspot-title
-dolcevia.com##.banner-style
 dolcevia.com,h2owaternetwerk.nl,halstadcentraal.nl,lokaleomroepzeewolde.nl,midvliet.nl,radiolelystad.nl##.bannergroup
 dominant.be,lesbos.be,pornno.be,pornofilmpjes.be,sextoons.be,tiener-sex.be###video-sidebar-wrap
 doorbraak.be###top-advertisement-area
