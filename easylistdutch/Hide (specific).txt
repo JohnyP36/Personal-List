@@ -109,7 +109,7 @@ feestdagen-be.be,feestdagen-nl.nl##aside:has(.adsbygoogle)
 feestdagen-be.be,feestdagen-nl.nl##div[class]:has(>.adsbygoogle):upward(1)
 feestdagen-nederland.nl###ad-top-desktop
 feijenoordnieuws.nl##li:has(div[class$="left"]:has-text(/gokkasten|online casino|casino|sportwedden/i):not(:has(a[href^="https://feijenoordnieuws.nl/"])))
-feyenoordpings.nl,twentefans.nl##.bn__wrapper
+feyenoordpings.nl,twentefans.nl,voetbalverslaafd.nl##.bn__wrapper
 feyenoordpings.nl,twentefans.nl##.footer__partners
 finance.nl##div[style^="width:300px; height:250px;"]:has([id*="google"])
 flair.nl##.c-commerical_banner
