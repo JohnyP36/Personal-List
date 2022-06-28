@@ -98,7 +98,7 @@ emerce.nl##.m-banner-wrapper
 emerce.nl##.widget_text:has(a[href^="https://partner.bol.com/"])
 erotischemassages.com,poldertube.nl##.happy-footer
 eurogamer.nl##.desktop_mpu
-europa-landbouwmachines.nl##.pt-3.height-90:has([id^="div-gpt-ad"])
+europa-bouwmachines.nl,europa-heftruck.nl,europa-landbouwmachines.nl,europa-vrachtwagens.nl##.pt-3.height-90:has([id^="div-gpt-ad"])
 !ewmagazine.nl##.widgets > .la-items:has(a[href$="/partners"])
 farmaline.be##.c-scroll-list:has(img[src*="farmaline.be/assets/banners/"])
 fcupdate.nl##.bet365
