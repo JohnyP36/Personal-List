@@ -10,7 +10,7 @@ actueel-nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
 afkortingen.nu,allradio.nl,bpnieuws.nl,broadcastmagazine.nl,creditexpo.nl,erotracks.nl,filmladder.nl,gezondheidsnet.nl,klasse.be,nieuweoogst.nl,nieuws.nl,nrc.nl,nu.nl,retaildetail.be,retaildetail.nl,sexfotodating.nl,startbewijs.nl,startkabel.nl,startpagina.nl,televizier.nl,telezien.nl,totaaltv.nl,truck1.be,truck1-nl.be,truck1.nl,tvgemist.be,tvgids.nl,uiennieuws.nl,unity.nu,voetbalnieuws.be,waldnet.nl##.banner
 agriline.be,agriline.nl,autoline.be,autoline.nl,machineryline.be,machineryline.nl##.sales-cat-context
 ajaxreport.nl,psvreport.nl##[id^="text"][class$="sidebar-widget"]:has-text(/casino/i):not(:has(div[class="widget-title"]))
-ajaxreport.nl,feyenoordreport.nl,livestreamvandaag.be,onlinekraslotenrss.nl,onlinepokerrss.nl,psvreport.nl,sportweddenrss.nl,voetbalsnafu.nl##.widget_links
+ajaxreport.nl,feyenoordreport.nl,livolleyvlaanvestreamvandaag.be,onlinekraslotenrss.nl,onlinepokerrss.nl,psvreport.nl,sportweddenrss.nl,voetbalsnafu.nl##.widget_links
 ajaxreport.nl,feyenoordreport.nl,psvreport.nl,voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="voetbalwedden.net"][target="_blank"])
 amsterdamtigers.com##.sponsorbanner
 androidworld.nl,dartsnieuws.com,f1maximaal.nl,indeleiderstrui.nl##.sda
@@ -959,7 +959,6 @@ voetbaluitslagen.com##.cta
 voetbalvandaag.be##.adds
 voetbalvandaag.be##.panel-box:has(a[href^="http://unibet.me/"])
 voetbal-vandaag.nl###sidebar_aanbevelen
-volleyvlaanderen.be###text-3:has([class^="slider"])
 voorburgsdagblad.nl##.advrow
 vrouwen-sexdate.be##.moduletable:has-text(Advert)
 waarzo.nl##.contentbox:has-text(Advertentie)
