@@ -79,6 +79,7 @@ dekrantvantynaarlo.nl##div[class^="module-etads"]
 deoudrotterdammer.nl##[class$="advertentie"] + div:has([id^="deoud-"])
 ditjesendatjes.nl##.c-partners
 ditjesendatjes.nl##div[class^="article-page__sidebar"] a[href]:not(a[href*="ditjesendatjes.nl"]):not(a[href="#"]):has(img[src])
+drentsnieuws.nl##.shadow:has(#bannerCarousel)
 dsdating.nl##[href^="https://mt67.net/"]:upward(.elementor-section)
 duurzaam-actueel.nl##[class*="bd-block"]:has(a[href]):has(img[src*="wp-content/uploads/"])
 duurzaam-actueel.nl##header + section:has([class*="logo-showcase-slider"])
@@ -466,7 +467,6 @@ dolcevia.com,h2owaternetwerk.nl,halstadcentraal.nl,lokaleomroepzeewolde.nl,midvl
 dominant.be,lesbos.be,pornno.be,pornofilmpjes.be,sextoons.be,tiener-sex.be###video-sidebar-wrap
 doorbraak.be###top-advertisement-area
 dorpsklanken.online##.ads-mobiel
-drentsnieuws.nl###g-header:has(img[src$=".gif"])
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 duic.nl##.article-excerpt--ad
 dumpert.nl##div[class*="ads_container"][class*="ad_container"]
