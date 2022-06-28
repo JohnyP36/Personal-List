@@ -63,6 +63,7 @@ creditexpo.nl##p:has(a[href]:has(img[src*="creditexpo.nl/wp-content/uploads/"][w
 crypto-insiders.nl##article.format-standard:has([id^="div-gpt-ad"])
 crypto-insiders.nl##div[class^="intercom-app"] > iframe[title*="banner"]
 cryptoclan.nl,cryptonieuws.nl##div[data-elementor-type="popup"]
+dagbladdewest.com##.elementor-widget-slides:has(.swiper-wrapper)
 dagelijksekost.een.be##.dish-sponsors
 dagelijksestandaard.nl###TOP_ARTICLE
 dagelijksestandaard.nl##nav + div[style^="height:52px"]
@@ -434,8 +435,6 @@ cryptosjop.nl##[id^="custom_html-"]:has(.bitvavo-widget)
 culturescope.nl##.widget_sp_image:has([onclick^="javascript:window.open("] > img[width][height])
 cumcams.nl##[id^="custom_html"]:has(img[src*="wlresources.com/"])
 dagblad010.nl##.advrow
-dagbladdewest.com##.swiper-wrapper
-dagbladdewest.com##img[width="300"]
 dansendeberen.be##.inhype-bb-block-header
 dating-vinden.be,deperfecte-sexdate.be,deperfecte-sexdate.nl,flirten-vlaanderen.be,geil-neuken.nl,neukengratis.be,neuk-sexcontact.be,sexcontact-xxx.be,sexdate-xxx.be,sexdating4u.be,vrouwsex.be##.well:has(.bannergroup)
 dating-zoeken.nl,hete-sexcontacten.nl,milf-overzicht.nl,sexdating-afspraak.nl,sexdating-gids.be,sexdatinggids.be,vrouwensexdate.nl##.d-lg-block.d-none:has-text(Advert):not(:has(.jcarousel-skin-tango))
