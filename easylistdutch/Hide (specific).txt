@@ -86,7 +86,7 @@ duurzaamnieuws.nl##.adv-link
 duurzaamnieuws.nl##[class^="av_textblock"]:has-text(/advert/i)
 duurzaamnieuws.nl##aside section[class$="widget_text"]:has-text(wordt mede mogelijk gemaakt door)
 duurzaamnieuws.nl##section[class^="avia_codeblock"]:has-text(wordt mede mogelijk gemaakt door)
-easyfm.nl,goldfm.be###sponsors-carousel
+easyfm.nl,rbsradio.be##.qt-sponsors
 erotischemassages.com,poldertube.nl##.happy-footer
 !ewmagazine.nl##.widgets > .la-items:has(a[href$="/partners"])
 farmaline.be##.c-scroll-list:has(img[src*="farmaline.be/assets/banners/"])
@@ -105,6 +105,7 @@ funda.nl##.home-billboard
 geenstijl.nl##.article-premium-promotion-block
 geenstijl.nl##.slajeslag
 geenstijl.nl##a[data-ga-event^="link-tip"]
+goldfm.be###sponsors-carousel
 gpfans.com##.leaderboardbg
 gpfans.com,playboy.nl##a[href^="https://casinoscout.nl/"]
 guidinc.nl##.promotion_link
@@ -229,7 +230,6 @@ racesport.nl##.rs_sponsorbanners_widget:upward(1)
 radionl.fm##.desktop_mobile:not(a[href*="radionl.fm"])
 radioviainternet.be##.banner-size-leaderbord
 radiovisie.eu##[id^="custom_html"]:has(.adsbygoogle)
-rbsradio.be##.qt-sponsors
 reformatorischeomroep.nl##section:has(.item-banner)
 rtlboulevard.nl###dfp-billboard-wrapper
 rtlboulevard.nl##.dfp-rectangle-wrapper
