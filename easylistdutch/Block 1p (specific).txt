@@ -51,6 +51,7 @@
 ||edelmetaal-info.nl/cdfund-*.html
 ||edelmetaal-info.nl/wp-content/uploads/*/*HollandGold*$image
 ||edelmetaal-info.nl/wp-content/uploads/*/cd-fund
+||fanclubbarcelona.nl/viewfile/*banner/$image
 ||farmaline.be/assets/banners/
 ||fcupdate.nl/js/adslot.js
 ||flirtmee.nl/img/160x70_sponsor-
@@ -175,7 +176,6 @@
 ||zwartewaterfm.nl/images/SponsorenZwarteWaterFM.jpg
 ! 2021
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
-/viewfile/*banner/*$domain=fanclubbarcelona.nl,image
 /voicebericht/assets/images/verdien-geld-met-anoniem-thuiswerk.$image,domain=1on1.nl|beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|sexcamsites.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
 /voicebericht/assets/images/videochat277x$image,domain=beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|sexcamsites.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
 /wp-content/uploads/*.gif$image,domain=2sexcontact.nl|alblasserdamsnieuws.nl|bekijkporno.nl|ciaotutti.nl|dorpsklanken.online|edelmetaal-info.nl|ero-meiden.nl|geilverlangen.nl|hete-foto.nl|kechtube.com|lekkerewebcams.nl|motokicx.com|nieuws.xxx|onschuldigemeiden.nl|pornokartel.nl|regionoordkop.nl|rtvpapendrecht.nl|seksmet.nl|sexmeid.nl|shespot.nl|sproeiendekutjes.nl|thekinkyweb.nl|tiener-sexverhalen.nl|tube.nederlandseporno.nl|tubelight.nl|wraaksex.nl
