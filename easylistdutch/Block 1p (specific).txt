@@ -3,6 +3,7 @@
 /banner/*$domain=schie.nu|retaildetail.be|retaildetail.nl
 /banners/*$domain=2link.be|402automotive.com|elektormagazine.nl|iex.nl|islive.nl|kavelplatform.nl|maarkelsnieuws.nl|metalfan.nl|netonline.be|tradeidee.nl|zilverengoudkopen.nl|rtvmaastricht.nl|sexamateurtjes.nl
 /images/*.gif$image,domain=123video.nl|18plussexdating.nl|30plussexdate.nl|datingsexgids.nl|eroticdate.be|geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukplaza.nl|pornopret.com|privesexgids.nl|sexadvertentiesonline.nl|sexdatingholland.com|sexpret.com|sexstartnet.nl|vindsexcontact.nl|vlaanderen-sexdate.be|xxxcontactengids.nl|xxxlivesex.nl|zinineensexdate.com|zinomteneuken.nl|studentesexcontact.nl|tienersexpret.nl
+/images/*banner$domain=reliwiki.nl|schie.nu
 /images/banners/*$image,domain=adodenhaag.nl|bodemvondstenwereld.nl|dolcevia.com|drentsnieuws.nl|halstadcentraal.nl|lokaleomroepzeewolde.nl|niedziela.nl|risallah.com|sexdate-xxx.be|streekstadcentraal.nl|abcsuriname.com|deperfecte-sexdate.be|neukengratis.be|neuk-sexcontact.be|puurnaturisme.nl|racingnews365.nl|sexcontact-xxx.be|visserijnieuws.nl
 /images/bdsmsexcontact$image,domain=adulttop50.nl|neukadressen.com|sexadvertentiesonline.nl|sexfotodating.nl|zinineensexdate.com
 /img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|zoekertjesbelgie.be|stout-contact.be|stout-contact.nl
@@ -132,7 +133,6 @@
 !||recreatief.nl/kerstarrangementen.gif
 ||rickfm.nl/cwm/fm/userfiles/banner/
 ||rtvnof.nl/prowurk/
-||schie.nu/images/*banner
 ||schuttevaer.nl/partnersites/
 ||search-result.com^*/klokad2.js
 ||sexcam-mokkels.nl/wp-content/uploads/*/sexafspraakje-$image
@@ -300,7 +300,6 @@
 ||radionl.fm^*/Maxiaxi_front.jpg
 ||radionl.fm/wp-content/uploads/*/Maxiaxi_sidebar
 ||regioonline.nl/wp-content/uploads/*/*-Ads.*
-||reliwiki.nl/images/*banner
 ||rtvdordrecht.nl/cwm/fm/userfiles/banner/*
 ||rtvlansingerland.nl/wp-content/uploads/*/Zorgvilla.gif
 ||seks.com/img/*.gif$image
