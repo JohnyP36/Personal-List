@@ -113,6 +113,7 @@ feyenoordpings.nl,twentefans.nl,voetbalverslaafd.nl##.bn__wrapper
 feyenoordpings.nl,twentefans.nl##.footer__partners
 finance.nl##div[style^="width:300px; height:250px;"]:has([id*="google"])
 flair.nl##.c-commerical_banner
+fleet-mobility.nl##.spotlight:has-text(Partners)
 forum.spaarinformatie.nl##table:has-text(/advert/i)
 fotografie.nl##.section-partners
 frontline.digital##[id^="block-"]:has(a[href^="https://clk.tradedoubler.com/click"])
@@ -523,7 +524,6 @@ fierljeppenwinsum.frl##.gdlr-sidebar:has-text(sponsoren)
 filmtotaal.nl###adf-rectangle
 filmtotaal.nl##.ad-centering
 financialinvestigator.nl##.mpu
-fleet-mobility.nl##.spotlight
 floranews.com##td[align="center"]:has(> hr):has([href^="/banner"])
 floranews.com##td[rowspan="2"][width="590"]:has(a[href^="/banner"])
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
