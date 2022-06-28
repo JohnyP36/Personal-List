@@ -256,6 +256,8 @@ sc-heerenveen.nl##.partner-grid:upward(2)
 schuttevaer.nl##.widget_minisites
 scheepvaartkrant.nl###block-leaderboard
 scheepvaartkrant.nl###block-topbannersidebar
+schie.nu##.my-5:has-text(/advert/i)
+schie.nu##[id^="klikken"]:has-text(/advert/i)
 sexcontact-xxx.be##.moduletable:has([src*="2k19.nl"])
 sexcontact-xxx.be##.moduletable:has([src*="affilaxy.com/promos/"])
 sexguide.nl##.topBanners
@@ -844,7 +846,6 @@ rubenweytjens.be##.block-ad-banner
 rubenweytjens.be##.view-weather-ads-view
 salvora.nl##.avia-content-slider:has-text(/sponsor/i)
 schaefer-shop.nl##.pda > .row > [class]:has(.sfr-pdp-section[id$="crossseller"])
-schie.nu##div[id*=home]:has-text(/advert/i):has([href])
 schiedamsnieuws.nl##[class*="sidebar"] > section:has(a[href]):has(img[src^="https://i1.wp.com/www.schiedamsnieuws.nl/"][srcset])
 scholieren.com##.blockvertorial
 scholieren.com##.min-h-250
