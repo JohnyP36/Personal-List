@@ -95,6 +95,7 @@ edelmetaal-info.nl##.figure-image[data-links=""]:not(a[href*="edelmetaal-info.nl
 edelmetaal-info.nl##div[class^=" element-short"] a[onclick*="outgoing"]:has(img[width="180"]):not(:has([href*="edelmetaal-info.nl"]))
 elegance.nl##div[class^="vc_row"]:has(.wpb_wrapper .adsbygoogle):not(:has([href]))
 erotischemassages.com,poldertube.nl##.happy-footer
+eurogamer.nl##.desktop_mpu
 europa-landbouwmachines.nl##.pt-3.height-90:has([id^="div-gpt-ad"])
 !ewmagazine.nl##.widgets > .la-items:has(a[href$="/partners"])
 farmaline.be##.c-scroll-list:has(img[src*="farmaline.be/assets/banners/"])
@@ -498,7 +499,6 @@ eromarkt.nl##.headerlinks:has(iframe[src="linkframe.php"])
 eromarkt.nl,erotischemassagemarkt.nl,erotischemodellen.nl,swingersmarkt.nl##.menubanner:has([src^="ads"])
 ero-meiden.nl,geilverlangen.nl##.size-full.attachment-full
 eurocampings.nl##.js-mock-banner
-eurogamer.nl##.homepage-billboard-container
 excellentfm.nl##div[style="max-height: 300px;"]:has-text(/advert/i)
 fantv.nl##.tm-top-a
 fantv.nl##.tm-top-c
