@@ -55,6 +55,7 @@
 ||fonkmagazine.nl/adds/
 ||forum.spaarinformatie.nl/si-info.html
 ||frontline.digital/wp-content/uploads/*/*MM_500x500_IAB.$image
+||gaynews.nl/images/_adv_txt$image
 ||glutenvrij.nl/l/library/*banner*.jpg?
 ||glutenvrij.nl/tmp/media/afbeeldingen/*_w720_h720.jpg$image
 ||handbalstartpunt.nl/content/schoonkapje$image,first-party
