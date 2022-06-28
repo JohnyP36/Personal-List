@@ -129,6 +129,9 @@ gic.nl,kbradio.nl##.banners
 gic.nl##.katernbanners
 gids.tv##.advertisement:upward(1)
 goldfm.be###sponsors-carousel
+golf.be##.header__bottom
+golf.be##.partners-holder
+golf.be##[class*="-ad-banner-box"]
 gpfans.com##.leaderboardbg
 gpfans.com,playboy.nl##a[href^="https://casinoscout.nl/"]
 guidinc.nl##.promotion_link
@@ -566,8 +569,6 @@ glutenvrij.nl##.Article__inner > .Article__title:has-text(Advert)
 gocar.be##.pub-leaderboard-top
 goedkoopstekeukensduitsland.nl##[id^="text"]:has(a[href^="https://www.goedkoopstekeukensduitsland.nl"][href$="-bnr"])
 goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
-golf.be##.header__bottom
-golf.be##.partners-holder
 golf.nl##.c-header__advert-container
 goodbye.be,sporza.be##.advertising
 gooieneembode.nl,laardercourant.nl,weespernieuws.nl##[class^="mb-"]:has([advobject^="webadv_"])
