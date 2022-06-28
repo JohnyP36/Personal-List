@@ -313,6 +313,8 @@ vlootschouw.nl##[id*="miw_widget"] a[target$="blank"][href]:not(a[href*="mailto"
 voetbalkrant.com###imu:has(div[class*="ad--rectangle"])
 voetbalnieuws.be##[id$="takeover"]
 voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="eredivisiewedden.nl"][target="_blank"])
+waterkant.net##.td-fix-index:has(a[href])
+waterkant.net##[href^="https://www.eventbrite.nl/e/tickets"]
 weerstationleeuwarden.nl##.cookieconsent-optin-marketing
 wegdamnieuws.nl##.mk-sponsorlink
 welklidwoord.nl###ad-takeover
@@ -973,7 +975,6 @@ wanttoknow.nl##.mb-3:has-text(Advert)
 wasmachines.nl##.rectangle
 watchfaces.be##[id^="text"]:has(.adsbygoogle)
 watchfaces.be##div.google
-waterkant.net##.td-fix-index:has(a[href])
 webwereld.nl##.leaderBoardHolder
 weeronline.nl##div[class^="styled__AdWrapper-"]
 weeronline.nl##div[class^="styled__FooterAdWrapper-"]
