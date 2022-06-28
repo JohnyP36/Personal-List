@@ -118,6 +118,10 @@ forum.spaarinformatie.nl##table:has-text(/advert/i)
 fotografie.nl##.section-partners
 frontline.digital##p:has-text(,):not(:has-text(/[a-z]|[0-9]/i))
 funda.nl##.home-billboard
+gaynews.nl##.telefoon_verberg
+gaynews.nl##[class^="va"]:has([class*="banner"])
+gaynews.nl##[id^="fp"]
+gaynews.nl##a[href^="/_global/leesmeer.php?"]
 geenstijl.nl##.article-premium-promotion-block
 geenstijl.nl##.slajeslag
 geenstijl.nl##a[data-ga-event^="link-tip"]
@@ -534,10 +538,6 @@ fucking-tube.com,pornokartel.nl,seks-tube.be##.video-block-happy
 funnygames.be,funnygames.nl,spele.be,spele.nl##.is-billboard
 funnygames.be,funnygames.nl,spele.be,spele.nl##.is-skyscraper
 gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
-gaynews.nl##.telefoon_verberg
-gaynews.nl##[id^="abri"]
-gaynews.nl##[class^="va"]:has([class*="banner"])
-gaynews.nl##a[href^="/_global/_cp.php?"]
 geelfm.be###slider
 geilefotoverhalen.nl##.widget:has(iframe[src*="/aff_ad?"])
 geile-sexcontacten.be##.card:has([src^="https://www.affilaxy.com/promos//popup/js/pop-under.js"])
