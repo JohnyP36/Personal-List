@@ -125,6 +125,8 @@ gaynews.nl##a[href^="/_global/leesmeer.php?"]
 geenstijl.nl##.article-premium-promotion-block
 geenstijl.nl##.slajeslag
 geenstijl.nl##a[data-ga-event^="link-tip"]
+gic.nl,kbradio.nl##.banners
+gic.nl##.katernbanners
 goldfm.be###sponsors-carousel
 gpfans.com##.leaderboardbg
 gpfans.com,playboy.nl##a[href^="https://casinoscout.nl/"]
@@ -554,7 +556,6 @@ geldpedia.nl,manpedia.nl,vrouwpedia.nl##[id^="gridlove-module-"]:not(.module-typ
 gezondheid.be###leaderbord
 gezondheid.be##[class^="gz-ads"]
 gfcnieuws.com,historiek.net##div.ai-viewport-1
-gic.nl,kbradio.nl##.banners
 gids.tv##h2:has-text(Advert)
 gids.tv##h2:has-text(Advert) + .advertisement + a[href]
 girlpics.nl##.cato_content:not(:has([href]))
