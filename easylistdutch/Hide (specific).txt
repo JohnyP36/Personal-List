@@ -286,6 +286,8 @@ techradar.com###taboola-below-article-thumbnails
 techradar.com##.dfp-leaderboard-container
 techradar.com##[class$="ad-unit"]
 thatsgaming.nl##[id^="menu-item"]:has-text(/gokken|casino/i)
+thekinkyweb.nl##[href="https://www.domasmsuite.nl"]
+thekinkyweb.nl##[id^="text-"]:has-text(Partners)
 tijd.be##.ac_paragraph:has(.bb_wrapper)
 tijd.be##.c-articleteaser--sponsored
 tijd.be##.sticky-article-halfpager
@@ -921,7 +923,6 @@ telegraaf.nl##.WebpushOptin__main
 telegraaf.nl##.withBanners
 telegraaf.nl##.withBanners + .ComponentRotation
 tellows.nl###lb_header
-thekinkyweb.nl##[id^="text-"]:has-text(Partners)
 tiener-sexverhalen.nl##aside[id^="block"]:has(img[src*="/wp-content/uploads/"][src$=".gif"])
 !topgear.nl##.theme-advertorial
 touretappe.nl##.desktopad
