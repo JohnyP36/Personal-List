@@ -90,6 +90,9 @@ duurzaamnieuws.nl##[class^="av_textblock"]:has-text(/advert/i)
 duurzaamnieuws.nl##aside section[class$="widget_text"]:has-text(wordt mede mogelijk gemaakt door)
 duurzaamnieuws.nl##section[class^="avia_codeblock"]:has-text(wordt mede mogelijk gemaakt door)
 easyfm.nl,rbsradio.be##.qt-sponsors
+edelmetaal-info.nl##section:has(.masonry-item:not(:has(a[href*="edelmetaal-info.nl"])))
+edelmetaal-info.nl##.figure-image[data-links=""]:not(a[href*="edelmetaal-info.nl"])
+edelmetaal-info.nl##div[class^=" element-short"] a[onclick*="outgoing"]:has(img[width="180"]):not(:has([href*="edelmetaal-info.nl"]))
 erotischemassages.com,poldertube.nl##.happy-footer
 !ewmagazine.nl##.widgets > .la-items:has(a[href$="/partners"])
 farmaline.be##.c-scroll-list:has(img[src*="farmaline.be/assets/banners/"])
@@ -481,8 +484,6 @@ dutchporntube.nl##[id^="custom_html"]:has-text(Werelds Beste)
 dvhn.nl,lc.nl##.main__ad
 dvhn.nl,lc.nl,meppelercourant.nl##.top__ad
 dwtonline.com###banner1
-edelmetaal-info.nl##[id^="text-"]:has(img[src]):has(a[href])
-edelmetaal-info.nl##div[class="portfolio masonry isotope"]
 edestad.nl##.mtb-50.pt-50.col-sm-12.col-lg-12.col-md-12.bg-grey:not(:has(div[class$="text-center"]))
 edestad.nl##.w-300x.RM5
 eindexamens.nu###leaderboard
