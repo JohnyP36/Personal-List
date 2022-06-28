@@ -74,6 +74,8 @@ dartfreakz.nl##.wpb_wrapper a[href*="dartswarehouse.nl"]
 dartfreakz.nl##aside[class^="td_block"]:has-text(/partners/i)
 dartsactueel.nl##.elementor-widget-container:has-text(/powered by/i)
 dartsactueel.nl##.elementor-widget-container:has(a[href$="dartshopmn.nl"] > img)
+dekrantvantynaarlo.nl###text-2:has-text(Advertentie)
+dekrantvantynaarlo.nl##div[class^="module-etads"]
 deoudrotterdammer.nl##[class$="advertentie"] + div:has([id^="deoud-"])
 ditjesendatjes.nl##.c-partners
 ditjesendatjes.nl##div[class^="article-page__sidebar"] a[href]:not(a[href*="ditjesendatjes.nl"]):not(a[href="#"]):has(img[src])
@@ -448,7 +450,6 @@ dekrantnieuws.nl,destreekkrant.nu##.vc_carousel-inner > .vc_carousel-slideline >
 dekrantnieuws.nl,destreekkrant.nu##.vc_inner:has([src$="324x484.jpg"])
 dekrantnieuws.nl,destreekkrant.nu##.wpb_wrapper > .a-single
 dekrantvantoen.nl##body:style(margin-top:-20px!important)
-dekrantvantynaarlo.nl###text-2:has-text(Advertentie)
 deliciousmagazine.nl##.elementor-element > .elementor-element-populated:has(.banner-container):not(:has-text(/podcast/i))
 denachtvlinders.nl##.plek-boven-artikel
 deperfecte-sexdate.be,neuk-sexcontact.be##.well:has(img[src^="/images/banners"])
