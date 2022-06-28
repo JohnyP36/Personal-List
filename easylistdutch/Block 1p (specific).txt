@@ -172,9 +172,9 @@
 ! 2021
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
 /^https\:\/\/executive-people\.nl\/media\/\d{6}\/\d+\.jpg$/$image
-/images/banners/*$image,domain=abcsuriname.com|adodenhaag.nl|bodemvondstenwereld.nl|deperfecte-sexdate.be|dolcevia.com|drentsnieuws.nl|halstadcentraal.nl|lokaleomroepzeewolde.nl|neukengratis.be|neuk-sexcontact.be|niedziela.nl|puurnaturisme.nl|racingnews365.nl|risallah.com|sexcontact-xxx.be|sexdate-xxx.be|shemaledaten.net|streekstadcentraal.nl|visserijnieuws.nl|vrouwsex.be
+/images/banners/*$image,domain=abcsuriname.com|adodenhaag.nl|bodemvondstenwereld.nl|deperfecte-sexdate.be|dolcevia.com|drentsnieuws.nl|halstadcentraal.nl|lokaleomroepzeewolde.nl|neukengratis.be|neuk-sexcontact.be|niedziela.nl|puurnaturisme.nl|racingnews365.nl|risallah.com|sexcontact-xxx.be|sexdate-xxx.be|streekstadcentraal.nl|visserijnieuws.nl|vrouwsex.be
 /images/bdsmsexcontact$image,domain=adulttop50.nl|neukadressen.com|sexadvertentiesonline.nl|sexfotodating.nl|zinineensexdate.com
-/img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|stout-contact.be|stout-contact.nl|zoekertjesbelgie.be
+/img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|shemaledaten.net|stout-contact.be|stout-contact.nl|zoekertjesbelgie.be
 /viewfile/*banner/*$domain=fanclubbarcelona.nl,image
 /voicebericht/assets/images/verdien-geld-met-anoniem-thuiswerk.$image,domain=1on1.nl|beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|sexcamsites.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
 /voicebericht/assets/images/videochat277x$image,domain=beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|sexcamsites.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
