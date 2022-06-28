@@ -1,6 +1,7 @@
 ! 2022
 /banner$image,domain=kinkydatingnederland.nl|milfdatingnederland.nl|mygaydate.nl
 ||cdn.topescort.com/static/bn/$image,domain=sexguide.nl
+||danny.media-totaal.nl/wp-admin/admin-ajax.php$domain=dekrantvantynaarlo.nl
 ||gadgetsentrends.nl/imagestore/banners/
 ||huisvrouwenvoorsex.nl/banner*.gif$image
 ||ikwilneuken.*/assets/img/*.gif$image
@@ -8,6 +9,7 @@
 ||infotalia.com/worktalia_promo_
 ||madmoney.eu/promotools/banners/
 ||media.prdn.nl/retailtrends/images/*.gif
+||media-totaal.nl/*com_adagency*adagencyAds$script,domain=dekrantnieuws.nl|destreekkrant.nu
 ||mmcdn.nl/tags/
 ||nexclic.com/pics/image*.gif$domain=dutchleader.nl
 ||ouders.nl/uploads/alt/$domain=viafora.nl
@@ -77,7 +79,6 @@
 ||dutchleader.nl/php/banex/$third-party
 ||enviedeplus.be^*_banner_$third-party
 !||images.islive.nl/snapshot/*/200x150$image,domain=nederlandsextube.nl
-||media-totaal.nl/*com_adagency*adagencyAds$script,domain=dekrantnieuws.nl|destreekkrant.nu|dekrantvantynaarlo.nl
 ||powerconnect.be^*/poweractie.jpg$third-party
 ||statics.*.nl/js/advertising-$script,domain=ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
 ||t.whalehunter.cash/tiny/*$image,domain=kinkymedia.nl
