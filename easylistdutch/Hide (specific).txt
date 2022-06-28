@@ -118,6 +118,7 @@ goldfm.be###sponsors-carousel
 gpfans.com##.leaderboardbg
 gpfans.com,playboy.nl##a[href^="https://casinoscout.nl/"]
 guidinc.nl##.promotion_link
+halstadcentraal.nl##div[class$="banners-wrapper"]
 !handbalstartpunt.nl##aside.widget-banner
 handbalstartpunt.nl##aside > div[class]:has(>.adsbygoogle)
 handbalstartpunt.nl##p:has(img[src*="Logo"])
@@ -470,7 +471,7 @@ digitaalburg.com##.widget-area-bottom.align-center:has(.adsbygoogle)
 digitaalburg.com##aside[class^="widget widget_text"]
 direct-sexdate.be##div.card:has(img[src*="/banner"])
 dissident.one##.td-adspot-title
-dolcevia.com,h2owaternetwerk.nl,halstadcentraal.nl,lokaleomroepzeewolde.nl,midvliet.nl,radiolelystad.nl##.bannergroup
+dolcevia.com,h2owaternetwerk.nl,lokaleomroepzeewolde.nl,midvliet.nl,radiolelystad.nl##.bannergroup
 dominant.be,lesbos.be,pornno.be,pornofilmpjes.be,sextoons.be,tiener-sex.be###video-sidebar-wrap
 doorbraak.be###top-advertisement-area
 dorpsklanken.online##.ads-mobiel
@@ -578,8 +579,6 @@ guldencourant.nl##.jeg_midbar:has([class^="ads-wrapper"])
 guruwatch.nl##.Billboard
 guruwatch.nl##.LargeRectangle
 h20.gg##[id^="text-"]:has-text(Partners)
-halstadcentraal.nl##.carouselbanner_left
-halstadcentraal.nl##.respbanners
 handbal.be##.footer-top
 handbalinside.nl##div[id^="handb-"]
 hardware.info##.overview-item--success
