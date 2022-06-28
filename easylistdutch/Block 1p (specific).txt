@@ -44,6 +44,9 @@
 ||digitaalburg.com/rn02/wp-content/uploads/*/webbanner-
 ||dutchleader.nl/php/popex/
 ||dutchporner.com/wp-content/uploads/*/*Account-Promo$image
+||edelmetaal-info.nl/cdfund-*.html
+||edelmetaal-info.nl/wp-content/uploads/*/*HollandGold*$image
+||edelmetaal-info.nl/wp-content/uploads/*/cd-fund
 ||farmaline.be/assets/banners/
 ||fcupdate.nl/js/adslot.js
 ||flirtmee.nl/img/160x70_sponsor-
@@ -226,8 +229,6 @@
 ||dewereldmorgen.be/wp-content/banners/*
 ||dutchcryptotalk.com/wp-content/uploads/*/bitvavo
 ||dutchitchannel.nl/6*?field=Binary1$image
-||edelmetaal-info.nl/cdfund-*.html
-||edelmetaal-info.nl/wp-content/uploads/*/cd-fund
 ||ekvrouwen.nl/*/uploads/*/bookmaker-cta-$image
 ||elektronicaforum.nl/banner*$image,first-party
 ||excellentfm.nl/images/aanbieding/$first-party
