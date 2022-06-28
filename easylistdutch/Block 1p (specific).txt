@@ -171,7 +171,7 @@
 ! 2021
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
 /^https\:\/\/executive-people\.nl\/media\/\d{6}\/\d+\.jpg$/$image
-/images/banners/*$image,domain=abcsuriname.com|adodenhaag.nl|bodemvondstenwereld.nl|deperfecte-sexdate.be|deperfecte-sexdate.nl|dolcevia.com|drentsnieuws.nl|halstadcentraal.nl|lokaleomroepzeewolde.nl|neukengratis.be|neuk-sexcontact.be|niedziela.nl|puurnaturisme.nl|racingnews365.nl|risallah.com|schie.nu|sexcontact-xxx.be|sexdate-xxx.be|sexdating4u.be|shemaledaten.net|streekstadcentraal.nl|visserijnieuws.nl|vrouwsex.be
+/images/banners/*$image,domain=abcsuriname.com|adodenhaag.nl|bodemvondstenwereld.nl|deperfecte-sexdate.be|dolcevia.com|drentsnieuws.nl|halstadcentraal.nl|lokaleomroepzeewolde.nl|neukengratis.be|neuk-sexcontact.be|niedziela.nl|puurnaturisme.nl|racingnews365.nl|risallah.com|schie.nu|sexcontact-xxx.be|sexdate-xxx.be|sexdating4u.be|shemaledaten.net|streekstadcentraal.nl|visserijnieuws.nl|vrouwsex.be
 /images/bdsmsexcontact$image,domain=adulttop50.nl|neukadressen.com|sexadvertentiesonline.nl|sexfotodating.nl|zinineensexdate.com
 /img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|stout-contact.be|stout-contact.nl|zoekertjesbelgie.be
 /viewfile/*banner/*$domain=fanclubbarcelona.nl,image
