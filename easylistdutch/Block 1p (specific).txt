@@ -146,6 +146,7 @@
 ||speurdeals.nl/uploads/banners$image
 ||spike-source.com/wp-admin/admin-ajax.php?action=select&p=onder-filmpje$subdocument
 ||spike-source.com/wp-admin/admin-ajax.php?action=select&p=rechts-menu-onder$subdocument
+||sproeiendekutjes.nl/wp-content/uploads/*/spannende-afspraakjes.webm$media,first-party
 ||srherald.com/wp-content/banners/
 ||startlinken.nl/images/banner-$image,first-party
 ||startlinken.nl/javascript/BannerRotation*$script,first-party
@@ -153,6 +154,7 @@
 ||static.sexcamsites.nl/dsx/voicebericht/assets/images/sex-bnrs$image
 ||static.sexcamsites.nl/dsx/voicebericht/assets/images/sexlijnen-saldo-opwaarderen$image
 ||static.sexcamsites.nl/dsx/voicebericht/assets/images/startpaginabnr$image
+||static1.qmusic.medialaancdn.*/*/*_Banner_840x250
 ||teen-sex.nl/wp-content/uploads/*/900x250$image
 ||teen-sex.nl/wp-content/uploads/*/SP1600x150.jpg$image
 ||te-les-koop.nl/images/B_
@@ -334,9 +336,6 @@
 ||sleutelstad.nl/wp-content/uploads/*/*Kerst.gif
 ||sleutelstad.nl/wp-content/uploads/*/Zooma*.jpg
 ||solarmagazine.nl/u/edwin/
-||sproeiendekutjes.nl/wp-content/uploads/*/erotiek-com-*.gif
-||sproeiendekutjes.nl/wp-content/uploads/*/spannende-afspraakjes.webm$media,first-party
-||static1.qmusic.medialaancdn.*/*/*_Banner_840x250
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
