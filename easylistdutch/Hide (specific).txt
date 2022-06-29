@@ -310,7 +310,7 @@ tpo.nl##div.ads-contain
 tube.nederlandseporno.nl##[id^="custom_html"]:has-text(/Polder Webcamsex|Sex contact/)
 tube.nederlandseporno.nl##h3:has-text(/Sexdating|Webcamsex/)
 tvblik.nl##.banner-fluid
-tvblik.nl,webwoordenboek.nl##div[class^="r89-desktop"]
+tvblik.nl,voetbalrotterdam,webwoordenboek.nl##div[class^="r89-desktop"]
 tvgids.nl##.square-item:has( > .banner)
 tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
 tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
@@ -958,8 +958,6 @@ voetbal.com##.adbox
 voetbal4u.com##.widget_text:has(h4):has-text(/crypto/i)
 voetbalcentraal.nl##.blok:has(h3:has-text(Partners))
 voetbalnederland.nl###bravo
-voetbalrotterdam.nl##div[style="max-width: 728px; width: 100%; height: 90px;"]
-voetbalrotterdam.nl##div[style="max-width:300px; width:100%; height:250px;"]
 voetbaluitslagen.com##.cta
 voetbalvandaag.be##.adds
 voetbalvandaag.be##.panel-box:has(a[href^="http://unibet.me/"])
