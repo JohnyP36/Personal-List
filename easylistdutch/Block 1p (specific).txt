@@ -139,10 +139,13 @@
 ||rtvnof.nl/prowurk/
 ||schuttevaer.nl/partnersites/
 ||search-result.com^*/klokad2.js
+||sexchatlounge.nl/bannerlinks.html$subdocument
+||sexchatlounge.nl/bannerrechts.html$subdocument
 ||sexcam-mokkels.nl/wp-content/uploads/*/sexafspraakje-$image
 ||sexcontactadressen.nl/assets/img/*.gif$image
 ||sexervaringendelen.nl/porno/$image
 ||sexverhalen.com/vriendschap/
+||shespot.nl/wp-content/uploads/*/womanizer-*.jpg$image
 ||simone.nl/wp-content/uploads/*/*-onderdelenexpert.nl-
 ||simone.nl/wp-content/uploads/*besteonderdelen.nl
 ||solarmagazine.nl/u/edwin/
@@ -326,13 +329,8 @@
 ||regioonline.nl/wp-content/uploads/*/*-Ads.*
 ||rtvdordrecht.nl/cwm/fm/userfiles/banner/*
 ||rtvlansingerland.nl/wp-content/uploads/*/Zorgvilla.gif
-||seks.com/img/*.gif$image
-||seks.com/snacc.jpg$image
 ||seksverhalen.org/telefoonsex.png
 ||services.adodenhaag.nl/fpbanner
-||sexchatlounge.nl/bannerlinks.html$subdocument
-||sexchatlounge.nl/bannerrechts.html$subdocument
-||shespot.nl/wp-content/uploads/*/womanizer-*.jpg$image
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
