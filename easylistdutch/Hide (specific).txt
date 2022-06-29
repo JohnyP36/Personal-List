@@ -235,6 +235,7 @@ noordkopcentraal.nl##.bannerListWidget
 noordkopcentraal.nl##.ewic-slider-pro-widget
 noordkopcentraal.nl##.headbanner
 noordkopcentraal.nl##.widgettitle:has-text(Advert)
+nporadio1.nl,nporadio2.nl##ul > li:has(script[src*="ster"]):has-text(/advert/i)
 nu.nl##.articlelist.block:has-text(Folder \(Adverteerders\)) .listA
 nu.nl##.temptation__aside
 nu.nl###header > .zone
@@ -749,9 +750,6 @@ noordernieuws.nl##[id^="slideshowwidget"]:has(img[src$=".gif"])
 nos.nl##.ster-banner
 nos.nl##.teletekst__banner
 notebookcheck.nl##.amaz_el
-nporadio1.nl##[class^="sc-1o7zata"]:has-text(advert):has([id^="adid"]):has(script[src*="/adcdn."])
-nporadio1.nl##section[class]:has-text(advert):has([id^="adid"]):has(script[src*="/adcdn."])
-nporadio2.nl##.home-module--advertisement
 nuus.be##.widget-area.sidebar:has([data-advadstrackid])
 nzbindex.nl##.inner:has(a[href])
 oisterwijknieuws.nl###left-sidebar
