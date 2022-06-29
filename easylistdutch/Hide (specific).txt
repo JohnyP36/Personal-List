@@ -349,6 +349,7 @@ wintersport.nl##.mq-banner > .never-visited:not(:has-text(/reisverzekering/i))
 wintersport.nl##.mq-banner > div[class*="card"]
 wkdarts.nl##.vcex-module:has-text(/advert/i)
 wkdarts.nl##[href="https://www.loketkansspel.nl/"]
+vnexplorer.net###ads_right_scroll_single_sidebar
 wos.nl##.header-right
 wradio.be##.c-advertiser-logos
 xgn.nl##.bs
