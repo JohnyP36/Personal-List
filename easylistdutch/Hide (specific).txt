@@ -114,6 +114,7 @@ feyenoordpings.nl,twentefans.nl##.footer__partners
 finance.nl##div[style^="width:300px; height:250px;"]:has([id*="google"])
 flair.nl##.c-commerical_banner
 fleet-mobility.nl##.spotlight:has-text(Partners)
+folderz.nl,intermediair.nl,spel.nl,spelletjes.nl,willem-ii.nl##.advert
 forum.spaarinformatie.nl##table:has-text(/advert/i)
 fotografie.nl##.section-partners
 frontline.digital##p:has-text(,):not(:has-text(/[a-z]|[0-9]/i))
@@ -543,7 +544,6 @@ financialinvestigator.nl##.mpu
 floranews.com##td[align="center"]:has(> hr):has([href^="/banner"])
 floranews.com##td[rowspan="2"][width="590"]:has(a[href^="/banner"])
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
-folderz.nl,intermediair.nl,spel.nl,spelletjes.nl##.advert
 forum.scholieren.com###posts .thead:has-text(/advert/i)
 freesoccer.nl##.container-fluid.site-header
 franska.nl###shopsuiteApplication
