@@ -284,6 +284,7 @@ sexcontact-xxx.be##.moduletable:has([src*="affilaxy.com/promos/"])
 sexguide.nl##.topBanners
 sexpret.com,zinineensexdate.com##.nomobile:has(img[src^="/images/"])
 sexvoorgeldadvertenties.nl##[class]:has-text(Gesponsorde):upward(aside)
+simone.nl##section:has(div[class*="sponsorcarousel"])
 skoften.net##.promoted
 skoften.net##.promoted-entry-in-content
 solarmagazine.nl##.row:has(.company-add)
@@ -888,7 +889,6 @@ sexpunt.nl###top:has(.banner)
 sexylingerie-winkel.be##.homepage-seo-footer
 shespot.nl##.dw-card-inner:has-text(/advertentie/i)
 shespot.nl##[id^="text"]:has([src^="https://www.shespot.nl/wp-content/uploads/"]):has-text(/advertentie/i)
-simone.nl##.qt-sponsor
 slam.nl##.holder-ads
 soccernews.nl###r89-mobile-rectangle-mid
 soccernews.nl###r89-takeover
