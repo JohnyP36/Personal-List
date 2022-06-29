@@ -7,6 +7,7 @@
 ||ikwilneuken.*/assets/img/*.gif$image
 ||imagekit.io/ijnl*/uploads/other/*?tr=w-20$image,domain=ijshockeynederland.nl
 ||infotalia.com/worktalia_promo_
+||jobat.be/extra/trackuityhn/ticker_new.html$domain=gva.be
 ||madmoney.eu/promotools/banners/
 ||media.prdn.nl/retailtrends/images/*.gif
 ||media-totaal.nl/*com_adagency*adagencyAds$script,domain=dekrantnieuws.nl|destreekkrant.nu
@@ -17,8 +18,10 @@
 ||sdk.privacy-center.org^$script,domain=goplay.be
 ||static.promedia.nl/logos/$image,domain=automobielmanagement.nl|carwashpro.nl|infrasite.nl|ovpro.nl|rijschoolpro.nl|spoorpro.nl|tankpro.nl|taxipro.nl|verkeersnet.nl
 ||strafrechtadvocaten.nl/media/banner/$third-party
+||tickers.zimmo.be/gva/$domain=gva.be
 ||tools-affil2.com/rtb/index.php$domain=1001erotiekverhalen.nl
 ||upload.gscdn.nl/uploads/*_Kansino_Feed$image,domain=geenstijl.nl
+||widget.vroom.be/$domain=gva.be
 ||xingo.nl/bannermanagement/
 ! 2021-12-
 !||2link.be/images/nobanner.jpg$image,domain=2news.be|2travel.be|2you.be
