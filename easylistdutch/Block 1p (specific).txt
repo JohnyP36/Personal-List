@@ -143,6 +143,8 @@
 ||sexcontactadressen.nl/assets/img/*.gif$image
 ||sexervaringendelen.nl/porno/$image
 ||sexverhalen.com/vriendschap/
+||simone.nl/wp-content/uploads/*/*-onderdelenexpert.nl-
+||simone.nl/wp-content/uploads/*besteonderdelen.nl
 ||solarmagazine.nl/u/edwin/
 ||speurdeals.nl/uploads/banners$image
 ||spike-source.com/wp-admin/admin-ajax.php?action=select&p=onder-filmpje$subdocument
@@ -331,9 +333,6 @@
 ||sexchatlounge.nl/bannerlinks.html$subdocument
 ||sexchatlounge.nl/bannerrechts.html$subdocument
 ||shespot.nl/wp-content/uploads/*/womanizer-*.jpg$image
-||simone.nl/wp-content/uploads/*/*-besteonderdelen.nl-
-||simone.nl/wp-content/uploads/*/*-onderdelenexpert.nl-
-||simone.nl/wp-content/uploads/*/*tijdelijkkkkk.png
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
