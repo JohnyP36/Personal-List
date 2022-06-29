@@ -40,7 +40,6 @@
 ||edelmetaal-info.nl/wp-content/uploads/images/$domain=zilverengoudkopen.nl
 ||eindtijdchristen.files.wordpress.com/*/ad-$image,domain=eindtijdklok.org
 ||ent-cdn.com/files/bans/*belowvid*$image,domain=vagina.nl
-||feenstra-internetservices.nl/?_$subdocument,domain=voetbalrotterdam.nl
 ||fx.nl/_ext/widget/$third-party
 ||go2cloud.org/aff_ad?*&format=iframe$subdocument,domain=sexoverzicht.nl|sextube.nl
 ||inviteonly.nl/banner/*$image,domain=kutscheetje.nl
