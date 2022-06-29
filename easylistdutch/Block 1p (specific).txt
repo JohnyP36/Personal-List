@@ -156,6 +156,7 @@
 ||teen-sex.nl/wp-content/uploads/*/900x250$image
 ||teen-sex.nl/wp-content/uploads/*/SP1600x150.jpg$image
 ||te-les-koop.nl/images/B_
+||tennisvlaanderen.be/documents/*/*banner/
 ||touretappe.nl/images/xtra/
 ||tpo.nl/wp-content/themes/*/tpo-banner$image
 ||turksemedia.nl/logos/*.
@@ -338,8 +339,6 @@
 ||static1.qmusic.medialaancdn.*/*/*_Banner_840x250
 ||swpportal.com/upload/squarebanners/
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
-||tennisvlaanderen.be/documents/*/19Sponsorblok-$image
-||tennisvlaanderen.be/documents/*/21Sponsorblok-$image
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
 ||transport-online.nl/site/includes/uploads/banner-
