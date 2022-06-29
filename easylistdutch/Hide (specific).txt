@@ -260,6 +260,7 @@ podcastluisteren.nl,zeelandnet.nl##.bnr
 proshop.nl##.site-background-banner
 proshop.nl##.site-home-banner
 proshop.nl##.site-top-banner
+psv.nl##.toto
 qmusic.nl##.inline-partners
 racesport.nl##.hthb-notification
 racesport.nl##.rs_sponsorbanners_widget:upward(1)
