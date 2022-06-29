@@ -260,6 +260,7 @@ podcastluisteren.nl,zeelandnet.nl##.bnr
 proshop.nl##.site-background-banner
 proshop.nl##.site-home-banner
 proshop.nl##.site-top-banner
+qmusic.nl##.inline-partners
 racesport.nl##.hthb-notification
 racesport.nl##.rs_sponsorbanners_widget:upward(1)
 radionl.fm##.desktop_mobile:not(a[href*="radionl.fm"])
@@ -808,7 +809,6 @@ prewarcar.nl##.banner-holder
 prewarcar.nl##img[width="160"][height="92"]
 proximus.be##.col.pix-sidebar
 puuropreis.nl##.banner-column
-qmusic.nl##.partner
 qseks.nl###black-studio-tinymce-2:has-text(Advertentie)
 quickclaims.nl##.overlay:has([src^="blob:https://quickclaims.nl/"])
 racexpress.nl##.article-side-block:has(a[href][target="_blank"]):has(img[width="310"][height="200"])
