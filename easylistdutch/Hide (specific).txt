@@ -52,7 +52,7 @@ biernet.nl###BJA3
 biernet.nl###banTop
 biflatie.nl##.elementor-image:has(img[src*="banner"])
 binnenlandsbestuur.nl##aside div[class="c-teaser"]:not(:has(a[href*="binnenlandsbestuur.nl"]))
-binnenvaartkrant.nl,christmaholic.nl,curacao.nu,dartfreakz.nl,dbsuriname.com,dewereldmorgen.be,regioinbedrijf.nl,westerwoldeactueel.nl##.g
+binnenvaartkrant.nl,christmaholic.nl,curacao.nu,dartfreakz.nl,dbsuriname.com,dewereldmorgen.be,regioinbedrijf.nl,sleutelstad.nl,westerwoldeactueel.nl##.g
 briefjevanjan.nl##.aligncenter > [href^="https://partner.bol.com/"]
 briefjevanjan.nl##.widget:has([href^="https://partner.bol.com/"])
 businessinsider.nl##.ll_partnerexpert
