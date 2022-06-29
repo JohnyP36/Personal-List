@@ -287,8 +287,7 @@ sexvoorgeldadvertenties.nl##[class]:has-text(Gesponsorde):upward(aside)
 simone.nl##section:has(div[class*="sponsorcarousel"])
 skoften.net##.promoted
 skoften.net##.promoted-entry-in-content
-solarmagazine.nl##.row:has(.company-add)
-solarmagazine.nl##[id^="home-row"]:has(.company-add)
+solarmagazine.nl##[id]:has(.company-add)
 spidersolitairespelen.nl##.spel_b1
 spidersolitairespelen.nl##.spel_b2
 sproeiendekutjes.nl##aside.widget:has(a[href*="trff9links.com/"])
