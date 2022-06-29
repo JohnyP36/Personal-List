@@ -321,6 +321,7 @@ vandaaginside.nl##div[class^="Component-bannerTopWrapper-"]
 veronicasuperguide.nl##div[id][class^="css"]
 vi.nl##.betting-provider-row
 vi.nl##li[class*="highlights"]:has(div[class*="articles-list"][class*="item--highlight"]:has(span[class]:has-text(/advert/i)))
+vives.nl##[class*="right"] .wpb_wrapper:has(img[height="520"][src])
 vlaamskijken.nl##a[href^="https://partner.bol.com/"]
 vlaamskijken.nl##div[class^="col"]:has([class^="add"])
 vlootschouw.nl##[id*="miw_widget"]:has(div[class]:has(a[href*="leverancier"]))
