@@ -337,7 +337,6 @@
 ||sproeiendekutjes.nl/wp-content/uploads/*/erotiek-com-*.gif
 ||sproeiendekutjes.nl/wp-content/uploads/*/spannende-afspraakjes.webm$media,first-party
 ||static1.qmusic.medialaancdn.*/*/*_Banner_840x250
-||swpportal.com/upload/squarebanners/
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
