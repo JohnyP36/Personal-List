@@ -163,6 +163,7 @@
 ||video18.nl/img/banners/$image
 ||vlootschouw.nl/wp-content/uploads/*/bottom-banner*
 ||voetbalnieuws.be/*/images/website-takeover/*$image,first-party
+||voetbalrotterdam.nl/wp-content/uploads/*/fidus$image
 ||voetbaluitslagen.com/wp-content/uploads/*/bet*$image
 ||vrouwpedia.nl/wp-content/uploads/*/Maxaro-badkamers-tegels.png
 ||waarzo.nl/imagestore/banners/
