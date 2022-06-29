@@ -134,6 +134,8 @@ golf.be##.partners-holder
 golf.be##[class*="-ad-banner-box"]
 gpfans.com##.leaderboardbg
 gpfans.com,playboy.nl##a[href^="https://casinoscout.nl/"]
+gratisepub.nl##.type-post:has-text(advert)
+gratisepub.nl##.widget:has(.adsbygoogle)
 groningerkrant.nl##.widget:has(.widget-title:has-text(Vrienden))
 guidinc.nl##.promotion_link
 halstadcentraal.nl,streekstadcentraal.nl##div[class$="banners-wrapper"]
@@ -579,7 +581,6 @@ gostreaming.nl##a[rel*="sponsored"]
 grandprixradio.nl##[id^="custom_html-"]:has([src^="https://partner.bol.com/"])
 grandprixradio.nl##[id^="custom_html-"]:has([target="_blank"][rel="noopener"]):not(:has-text(/F1 kalender/i))
 gratiscams.nl###menuinner > ul#menuinner > .cat
-gratisepub.nl##.type-post:has-text(advert)
 gratispittigesexfilms.nl,hetegangbang.nl##.spot-on
 gratispornofilm.nl##.cp-webcam-gallery-container
 gratispornofilm.nl##.lazyloaded.block-bordered
