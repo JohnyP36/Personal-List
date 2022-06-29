@@ -17,6 +17,7 @@
 ||pubble.nl/Content.svc/getAdCollection?
 ||seks.com/img/*.gif$image
 ||seks.com/snacc.jpg$image
+||seksverhalen.org/telefoonsex.png
 ||sdk.privacy-center.org^$script,domain=goplay.be
 ||static.promedia.nl/logos/$image,domain=automobielmanagement.nl|carwashpro.nl|infrasite.nl|ovpro.nl|rijschoolpro.nl|spoorpro.nl|tankpro.nl|taxipro.nl|verkeersnet.nl
 ||strafrechtadvocaten.nl/media/banner/$third-party
