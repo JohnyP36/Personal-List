@@ -138,6 +138,7 @@ gpfans.com,playboy.nl##a[href^="https://casinoscout.nl/"]
 gratisepub.nl##.type-post:has-text(advert)
 gratisepub.nl##.widget:has(.adsbygoogle)
 groningerkrant.nl##.widget:has(.widget-title:has-text(Vrienden))
+groningsnieuws.nl##aside.widget:has(figure img)
 guidinc.nl##.promotion_link
 gva.be##main .widgetgroup > .grid
 gva.be##main > section.grid:has(.link-complex)
@@ -591,7 +592,6 @@ gratispornofilm.nl##.lazyloaded.block-bordered
 greenkeeper.nl###lijst_logos
 greenkeeper.nl##.logoblok
 groningerkrant.nl##[href^="https://track.adppg.com/"]
-groningsnieuws.nl##.sticky-sidebar > [id^="media_image"]
 guldencourant.nl##.jeg_midbar:has([class^="ads-wrapper"])
 guruwatch.nl##.Billboard
 guruwatch.nl##.LargeRectangle
