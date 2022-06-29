@@ -134,6 +134,7 @@ golf.be##.partners-holder
 golf.be##[class*="-ad-banner-box"]
 gpfans.com##.leaderboardbg
 gpfans.com,playboy.nl##a[href^="https://casinoscout.nl/"]
+groningerkrant.nl##.widget:has(.widget-title:has-text(Vrienden))
 guidinc.nl##.promotion_link
 halstadcentraal.nl,streekstadcentraal.nl##div[class$="banners-wrapper"]
 !handbalstartpunt.nl##aside.widget-banner
