@@ -286,6 +286,8 @@ sexpret.com,zinineensexdate.com##.nomobile:has(img[src^="/images/"])
 sexvoorgeldadvertenties.nl##[class]:has-text(Gesponsorde):upward(aside)
 skoften.net##.promoted
 skoften.net##.promoted-entry-in-content
+solarmagazine.nl##.row:has(.company-add)
+solarmagazine.nl##[id^="home-row"]:has(.company-add)
 spidersolitairespelen.nl##.spel_b1
 spidersolitairespelen.nl##.spel_b2
 sproeiendekutjes.nl##aside:has(video:has([src*="spannende-afspraakjes.webm"]))
