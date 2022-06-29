@@ -159,7 +159,10 @@
 ||touretappe.nl/images/xtra/
 ||tpo.nl/wp-content/themes/*/tpo-banner$image
 ||turksemedia.nl/logos/*.
+||unitednews.sr/wp-content/plugins/revslider/public/assets/assets/*
 ||unity.nu/media/*/BANNERS/
+||vbro.be/wp-content/uploads/*/autoonderdelen24_
+||verkeerplaza.nl/js/banner.js
 ||video18.nl/img/banners/$image
 ||vives.nl/wp-content/uploads/Banner_
 ||vlietnieuws.nl/wp-content/plugins/custom-banners/*$script,first-party
@@ -191,7 +194,7 @@
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
 /voicebericht/assets/images/verdien-geld-met-anoniem-thuiswerk.$image,domain=1on1.nl|beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|sexcamsites.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
 /voicebericht/assets/images/videochat277x$image,domain=beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|sexcamsites.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
-/wp-content/uploads/*.gif$image,domain=2sexcontact.nl|alblasserdamsnieuws.nl|bekijkporno.nl|ciaotutti.nl|dorpsklanken.online|edelmetaal-info.nl|ero-meiden.nl|geilverlangen.nl|hete-foto.nl|kechtube.com|lekkerewebcams.nl|motokicx.com|nieuws.xxx|onschuldigemeiden.nl|pornokartel.nl|regionoordkop.nl|rtvpapendrecht.nl|seksmet.nl|sexmeid.nl|shespot.nl|sproeiendekutjes.nl|thekinkyweb.nl|tiener-sexverhalen.nl|tube.nederlandseporno.nl|tubelight.nl|wraaksex.nl
+/wp-content/uploads/*.gif$image,domain=2sexcontact.nl|alblasserdamsnieuws.nl|bekijkporno.nl|ciaotutti.nl|dorpsklanken.online|edelmetaal-info.nl|ero-meiden.nl|geilverlangen.nl|hete-foto.nl|kechtube.com|lekkerewebcams.nl|motokicx.com|nieuws.xxx|onschuldigemeiden.nl|pornokartel.nl|regionoordkop.nl|rtvpapendrecht.nl|seksmet.nl|sexmeid.nl|shespot.nl|sproeiendekutjes.nl|thekinkyweb.nl|tiener-sexverhalen.nl|tube.nederlandseporno.nl|tubelight.nl|unitednews.sr|wraaksex.nl
 /wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl
 ||a.scholieren.com/v/*$image,first-party
 ||a1mediagroep.nl/content/*/company/*/banne*.*?width=290&height=150
@@ -343,10 +346,6 @@
 ||ucl-voetbal.nl/derden/betcity-$image
 ||uecl-voetbal.nl/derden/
 ||uel-voetbal.nl/derden/
-||unitednews.sr/wp-content/plugins/revslider/public/assets/assets/*
-||unitednews.sr/wp-content/uploads/*/*/*.gif
-||vbro.be/wp-content/uploads/*/autoonderdelen24_
-||verkeerplaza.nl/js/banner.js
 ||vitesse.nl/generate/stores/Vitesse.nl/*/VriendenLoterij-banner-website.jpg$image
 ||voetbalnederland.nl/img/bravo.gif
 ||wp.com/amsterdamactueel.nl/wp-content/uploads/*/728x60_
