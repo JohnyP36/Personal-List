@@ -139,6 +139,8 @@ gratisepub.nl##.type-post:has-text(advert)
 gratisepub.nl##.widget:has(.adsbygoogle)
 groningerkrant.nl##.widget:has(.widget-title:has-text(Vrienden))
 guidinc.nl##.promotion_link
+gva.be##main .widgetgroup > .grid
+gva.be##main > section.grid:has(.link-complex)
 halstadcentraal.nl,streekstadcentraal.nl##div[class$="banners-wrapper"]
 !handbalstartpunt.nl##aside.widget-banner
 handbalstartpunt.nl##aside > div[class]:has(>.adsbygoogle)
