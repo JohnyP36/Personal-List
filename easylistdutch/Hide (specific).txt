@@ -263,6 +263,8 @@ proshop.nl##.site-top-banner
 qmusic.nl##.inline-partners
 racesport.nl##.hthb-notification
 racesport.nl##.rs_sponsorbanners_widget:upward(1)
+racexpress.nl##.article-side-block:has(a[href][target="_blank"]):has(img[width="310"][height="200"])
+racexpress.nl##img[src^="/img/sponsors"]:upward(.article-photo)
 radionl.fm##.desktop_mobile:not(a[href*="radionl.fm"])
 radioviainternet.be##.banner-size-leaderbord
 radiovisie.eu##[id^="custom_html"]:has(.adsbygoogle)
@@ -814,8 +816,6 @@ proximus.be##.col.pix-sidebar
 puuropreis.nl##.banner-column
 qseks.nl###black-studio-tinymce-2:has-text(Advertentie)
 quickclaims.nl##.overlay:has([src^="blob:https://quickclaims.nl/"])
-racexpress.nl##.article-side-block:has(a[href][target="_blank"]):has(img[width="310"][height="200"])
-racexpress.nl##a[href^="http://www.onderdelenstore24.nl/"]
 racingnews365.nl##.branded-countdown__content__partner-wrapper
 racingnews365.nl##.homepage-casino-wrapper
 radio-minerva.be###topbanner
