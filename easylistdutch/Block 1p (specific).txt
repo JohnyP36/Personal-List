@@ -170,6 +170,7 @@
 ||wettelijke-feestdagen.nl/Images/advertentie$image
 ||wettelijke-feestdagen.nl/Images/banner$image
 ||wildfm.nl/wp-content/uploads/*/thumbnail_image002.png
+||wp.com/gostreaming.nl/wp-content/uploads/*/*SOCIAL*_SNAP$image
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*/RO*?zoom=*&w=665
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*.gif*w=665$image
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*.jpg?w=665$image
@@ -352,4 +353,3 @@
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
 ||willem-ii.nl/banner/$image
 ||wp.com/amsterdamactueel.nl/wp-content/uploads/*/728x60_
-||wp.com/gostreaming.nl/wp-content/uploads/*/*-sidebar-banner
