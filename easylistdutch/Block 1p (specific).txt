@@ -350,6 +350,5 @@
 ||vives.nl/wp-content/uploads/350x*.jpg$image
 ||vives.nl/wp-content/uploads/Banner_
 ||vlietnieuws.nl/wp-content/plugins/custom-banners/*$script,first-party
-||vnexplorer.net/assets/img/cover_single.png$image
 ||voetbalnederland.nl/img/bravo.gif
 ||wp.com/amsterdamactueel.nl/wp-content/uploads/*/728x60_
