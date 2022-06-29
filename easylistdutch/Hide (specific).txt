@@ -321,6 +321,7 @@ vandaaginside.nl##div[class^="Component-bannerTopWrapper-"]
 veronicasuperguide.nl##div[id][class^="css"]
 vi.nl##.betting-provider-row
 vi.nl##li[class*="highlights"]:has(div[class*="articles-list"][class*="item--highlight"]:has(span[class]:has-text(/advert/i)))
+vitesse.nl##.row [id^="form"] + .box > .box-body:has(img)
 vives.nl##[class*="right"] .wpb_wrapper:has(img[height="520"][src])
 vlaamskijken.nl##a[href^="https://partner.bol.com/"]
 vlaamskijken.nl##div[class^="col"]:has([class^="add"])
@@ -955,7 +956,6 @@ veto.be##div[class*="spacer block"]:has([href][id*="advert"])
 video18.nl##.modal
 villamedia.nl##[href^="https://www.anp.nl/start"]
 visserijnieuws.nl##[class^="row advertentie-"]:not([class*="advertentie-1"])
-vitesse.nl##div.box-body:has(p > a[title="Vriendenloterij"])
 vivatube.com##.mt15.container:has-text(Advert)
 vivocyclo.com##div[id*="media"][id*="image"]:has(a[href]):has(img[src*="vivocyclo.com/wp-content/uploads/"])
 vlietnieuws.nl##.banner_wrapper
