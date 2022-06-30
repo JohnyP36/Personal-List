@@ -77,6 +77,8 @@ dartsactueel.nl##.elementor-widget-container:has(a[href$="dartshopmn.nl"] > img)
 dekrantvantynaarlo.nl###text-2:has-text(Advertentie)
 dekrantvantynaarlo.nl##div[class^="module-etads"]
 deoudrotterdammer.nl##[class$="advertentie"] + div:has([id^="deoud-"])
+detelefoongids.nl##.static-map
+detelefoongids.nl##.wrapper:has-text(Youvia)
 ditjesendatjes.nl##.c-partners
 ditjesendatjes.nl##div[class^="article-page__sidebar"] a[href]:not(a[href*="ditjesendatjes.nl"]):not(a[href="#"]):has(img[src])
 dolcevia.com##.affiliatelink
@@ -534,8 +536,6 @@ denachtvlinders.nl##.plek-boven-artikel
 deperfecte-sexdate.be,neuk-sexcontact.be##.well:has(img[src^="/images/banners"])
 despirituelewereld.be##.stream-item-widget:has-text(/advert/i)
 despirituelewereld.be##[href="http://www.info-coronavirus.be"]
-detelefoongids.nl##.static-map
-detelefoongids.nl##div[class*="additional__"]:has(div[id^="banner"])
 digitaalburg.com##.widget-area-bottom.align-center:has(.adsbygoogle)
 digitaalburg.com##aside[class^="widget widget_text"]
 direct-sexdate.be##div.card:has(img[src*="/banner"])
