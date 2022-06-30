@@ -200,6 +200,7 @@ maaslandradio.nl###header-text-nav-container > .inner-wrap > .clearfix
 mandelnieuws.be##div[class*="blocksponsors"]
 marktnet.nl##li.linkUnit
 mediamarkt.nl##div[class^="AdWrapper"] + div[class^="SkeletonWrapper"]
+midvliet.nl##.bannergroup:upward(div[class^="t3-module"])
 mijnserie.nl,nailtalk.nl##a[href^="https://partnerprogramma.bol.com/"]
 mijnserie.nl,trappers.nl,volleybelgium.be##.sponsors
 minecrafttoplist.nl##.fancy-wrap
@@ -523,7 +524,7 @@ digitaalburg.com##.widget-area-bottom.align-center:has(.adsbygoogle)
 digitaalburg.com##aside[class^="widget widget_text"]
 direct-sexdate.be##div.card:has(img[src*="/banner"])
 dissident.one##.td-adspot-title
-dolcevia.com,h2owaternetwerk.nl,lokaleomroepzeewolde.nl,midvliet.nl,radiolelystad.nl##.bannergroup
+dolcevia.com,h2owaternetwerk.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
 dominant.be,lesbos.be,pornno.be,pornofilmpjes.be,sextoons.be,tiener-sex.be###video-sidebar-wrap
 doorbraak.be###top-advertisement-area
 dorpsklanken.online##.ads-mobiel
