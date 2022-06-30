@@ -14,7 +14,6 @@ marktplaats.nl#@#.adSummary
 mechanisatiemarkt.nl#@#.advert-container
 mechanisatiemarkt.nl#@#.advert-title
 mechanisatiemarkt.nl#@#.advertiser
-modekoninginmaxima.nl#@#.after-content-ad
 paginamarkt.nl#@#.advertentie
 palnws.be#@#.adlink
 palnws.be#@#.ads-wrapper
