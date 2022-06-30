@@ -93,7 +93,9 @@
 ||nederlandsextube.nl/images/stijlvolsexybanner$image
 ||nederlandsextube.nl/images/webned$image
 ||neukcontacten.info/images/pikant.$image
+||nevobo.nl^*/sponsor/$image
 ||nieuwsonline.nu/header/*advertentie.$image
+||nieuwsopbeeld.nl/wp-content/uploads/*/Advertentie-
 ||nieuwsuitnijmegen.nl/uploads/banners/
 ||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,first-party
 ||noordkopcentraal.nl/wp-content/uploads/*/Vrienden-van
@@ -316,8 +318,6 @@
 ||motokicx.com/wp-content/uploads/*/BANNER-
 ||motokicx.com/wp-content/uploads/*/Website-ad-
 ||motokicx.com/wp-content/uploads/*Motoshop-*.jpg
-||nevobo.nl^*/sponsor/$image
-||nieuwsopbeeld.nl/wp-content/uploads/*/Advertentie-
 ||ninefornews.nl/wp-content/a-d-s/*
 ||ninefornews.nl/wp-content/uploads/*/*-300x250-*.jpg$image
 ||ninefornews.nl/wp-content/uploads/*/banner-set-*.png$image
