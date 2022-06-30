@@ -253,6 +253,9 @@ nu.nl##aside#h1
 nummerzoeker.com##a[href^="/out/"]
 omrekenen.org##.widget:has-text(/Gesponsoord/i)
 omrekenen.org##a[href^="https://www.onlinebingokaart.nl/"]
+onderwijsland.com##.widgetbar > div.row > :has(.widget-partners)
+onderwijsland.com##.widgetbar > div.row > :has-text(Advert)
+onderwijsland.com##div[class="col-md-16"]:has([style*="greystripe"])
 onlinecasinorss.nl,onlinekraslotenrss.nl,voetbalsnafu.nl,voetbalweddenrss.nl##[class$="sidebar-widget"]:has(p > a[href*="casino"]):not(:has(div[class="widget-title"]))
 onsoranje.nl##.SponsorBar
 palnws.be##.adlink:not(:has([src*="PalNWS"]))
@@ -773,8 +776,6 @@ omroephouten.nl##.sponsor-carousel
 omroeppenm.nl,rickfm.nl###advertisement
 omroeprsh.nl##[id*="media"]:has(img[width="300"]):not(:has([href*="youtube"]))
 omroepwest.nl,omroepzeeland.nl##.adcontainer
-onderwijsland.com##.col-md-16:has([style*="greystripe"])
-onderwijsland.com##div[class="row"] > div[class*="col"]:has([class$="partners"])
 oneworld.nl##.promotion-block
 onlineluisteren.nl##center > div:has(.adsbygoogle)
 online-omzetten.nl##.clearfix.entry > small
