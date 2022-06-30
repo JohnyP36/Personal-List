@@ -129,6 +129,7 @@ geenstijl.nl##a[data-ga-event^="link-tip"]
 gic.nl,kbradio.nl##.banners
 gic.nl##.katernbanners
 gids.tv##.advertisement:upward(1)
+gigantfm.nl##.onderdelenshop
 goldfm.be###sponsors-carousel
 golf.be##.header__bottom
 golf.be##.partners-holder
