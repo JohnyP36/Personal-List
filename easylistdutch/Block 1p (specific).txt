@@ -2,7 +2,7 @@
 /^https\:\/\/executive-people\.nl\/media\/\d{6}\/\d+\.jpg$/$image
 /*/TOTO*banner$domain=fcgroningen.nl|willem-ii.nl
 /banner/*$domain=motocrossplanet.nl|schie.nu|retaildetail.be|retaildetail.nl
-/banners/*$domain=2link.be|402automotive.com|elektormagazine.nl|iex.nl|islive.nl|kavelplatform.nl|maarkelsnieuws.nl|metalfan.nl|motocrossplanet.nl|netonline.be|tradeidee.nl||truck1.be|truck1.nl|truck1-nl.be|zilverengoudkopen.nl|rtvmaastricht.nl|sexamateurtjes.nl
+/banners/*$domain=2link.be|402automotive.com|elektormagazine.nl|iex.nl|islive.nl|kavelplatform.nl|maarkelsnieuws.nl|metalfan.nl|mo.be|motocrossplanet.nl|netonline.be|tradeidee.nl||truck1.be|truck1.nl|truck1-nl.be|zilverengoudkopen.nl|rtvmaastricht.nl|sexamateurtjes.nl
 /images/*.gif$image,domain=123video.nl|18plussexdating.nl|30plussexdate.nl|datingsexgids.nl|eroticdate.be|geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukplaza.nl|pornopret.com|privesexgids.nl|sexadvertentiesonline.nl|sexdatingholland.com|sexpret.com|sexstartnet.nl|vindsexcontact.nl|vlaanderen-sexdate.be|xxxcontactengids.nl|xxxlivesex.nl|zinineensexdate.com|zinomteneuken.nl|studentesexcontact.nl|tienersexpret.nl
 /images/*banner$domain=h2owaternetwerk.nl|reliwiki.nl|schie.nu
 /images/banners/*$image,domain=adodenhaag.nl|bodemvondstenwereld.nl|dolcevia.com|drentsnieuws.nl|h2owaternetwerk.nl|halstadcentraal.nl|lokaleomroepzeewolde.nl|niedziela.nl|risallah.com|sexdate-xxx.be|streekstadcentraal.nl|abcsuriname.com|deperfecte-sexdate.be|neukengratis.be|neuk-sexcontact.be|puurnaturisme.nl|racingnews365.nl|sexcontact-xxx.be|visserijnieuws.nl
@@ -312,7 +312,6 @@
 ||meerdangewenst.nl^*/sponsors/
 ||menttv.be/wp-content/uploads/*/*.jpg
 ||midvliet.nl/images/advertenties
-||mo.be/sites/default/files/banners*
 ||ninefornews.nl/wp-content/a-d-s/*
 ||ninefornews.nl/wp-content/uploads/*/*-300x250-*.jpg$image
 ||ninefornews.nl/wp-content/uploads/*/banner-set-*.png$image
