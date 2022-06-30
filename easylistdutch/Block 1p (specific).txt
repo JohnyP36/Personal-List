@@ -96,6 +96,7 @@
 ||nieuwsonline.nu/header/*advertentie.$image
 ||nieuwsuitnijmegen.nl/uploads/banners/
 ||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,first-party
+||noordkopcentraal.nl/wp-content/uploads/*/Vrienden-van
 ||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xmlhttprequest
 ||newspower.nu/wp-content/uploads/*/*/*.gif$image
 ||mygaydate.nl/images/shemales.gif
@@ -321,8 +322,6 @@
 ||ninefornews.nl/wp-content/uploads/*/*-300x250-*.jpg$image
 ||ninefornews.nl/wp-content/uploads/*/banner-set-*.png$image
 ||noordernieuws.nl/wp-content/uploads/201*/*/*.gif$image
-||noordkopcentraal.nl/wp-content/uploads/*/*-logo-462x
-||noordkopcentraal.nl/wp-content/uploads/*/Boersen-Logo-*
 ||regioonline.nl/wp-content/uploads/*/*-Ads.*
 ||rtvdordrecht.nl/cwm/fm/userfiles/banner/*
 ||rtvlansingerland.nl/wp-content/uploads/*/Zorgvilla.gif
