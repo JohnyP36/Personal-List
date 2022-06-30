@@ -1,4 +1,5 @@
 ! 2022
+/^https\:\/\/dutchitchannel\.nl\/media\/\d{6}\/\d{10}\.jpg$/$image
 /^https\:\/\/executive-people\.nl\/media\/\d{6}\/\d+\.jpg$/$image
 /*/TOTO*banner$domain=fcgroningen.nl|willem-ii.nl
 /banner/*$domain=motocrossplanet.nl|schie.nu|retaildetail.be|retaildetail.nl
@@ -299,7 +300,6 @@
 ||detelefoongids.nl/img/youvia-banner/banner
 ||dewereldmorgen.be/wp-content/banners/*
 ||dutchcryptotalk.com/wp-content/uploads/*/bitvavo
-||dutchitchannel.nl/6*?field=Binary1$image
 ||ekvrouwen.nl/*/uploads/*/bookmaker-cta-$image
 ||gratis.nl/wp-content/uploads/*/*/*-gratis.png$image
 ||ninefornews.nl/wp-content/a-d-s/*
