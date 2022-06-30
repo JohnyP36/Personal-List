@@ -133,6 +133,7 @@ goldfm.be###sponsors-carousel
 golf.be##.header__bottom
 golf.be##.partners-holder
 golf.be##[class*="-ad-banner-box"]
+gowiththevlo.nl###omc-sidebar li.gowit-widget:has(img):not(:has(a[href*="gowiththevlo.nl"]))
 gpfans.com##.leaderboardbg
 gpfans.com,playboy.nl##a[href^="https://casinoscout.nl/"]
 gratisepub.nl##.type-post:has-text(advert)
