@@ -87,6 +87,7 @@
 ||maaslandradio.nl/wp-content/uploads/*/Hekwerkland.
 ||mandelnieuws.be^*/Sponsors/
 ||meidenzoekensex.nl/assets/img/shemaledate$image
+||motokicx.com/wp-content/uploads/*RAD
 ||naaktkrant.nl/media/*/*.gif$image,first-party
 ||nederlandsextube.nl/images/amateurwebcams$image
 ||nederlandsextube.nl/images/sextubewebcams$image
@@ -315,9 +316,6 @@
 ||modekoninginmaxima.nl/sites/default/files/*/vorsten2_170x600.gif$image
 ||motocrossplanet.nl/banner/
 ||motocrossplanet.nl/wwwuploads/banners/
-||motokicx.com/wp-content/uploads/*/BANNER-
-||motokicx.com/wp-content/uploads/*/Website-ad-
-||motokicx.com/wp-content/uploads/*Motoshop-*.jpg
 ||ninefornews.nl/wp-content/a-d-s/*
 ||ninefornews.nl/wp-content/uploads/*/*-300x250-*.jpg$image
 ||ninefornews.nl/wp-content/uploads/*/banner-set-*.png$image
