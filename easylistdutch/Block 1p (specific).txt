@@ -62,6 +62,7 @@
 ||gaynews.nl/images/_adv_txt$image
 ||glutenvrij.nl/l/library/*banner*.jpg?
 ||glutenvrij.nl/tmp/media/afbeeldingen/*_w720_h720.jpg$image
+||gowiththevlo.nl/wp-content/uploads/*/*_banner_gwtv.jpg$image
 ||handbalstartpunt.nl/content/schoonkapje$image,first-party
 ||handbalstartpunt.nl/images/banner_$image,first-party
 ||hetnieuwsvandaag.be/media/cache/rectangle_image/media/image/*$image
@@ -305,9 +306,6 @@
 ||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keuken-ontwerp-aan-huis.jpg
 ||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukenplaats.jpg
 ||golf.be/files/BannerImage/$image
-||gowiththevlo.nl/wp-content/uploads/*/apeldoorn-antiekmarkten-*.jpg$image
-||gowiththevlo.nl/wp-content/uploads/*/bo_banner_gwtv.jpg$image
-||gowiththevlo.nl/wp-content/uploads/*/va_banner_gwtv.jpg$image
 ||gratis.nl/wp-content/uploads/*/*/*-gratis.png$image
 ||ninefornews.nl/wp-content/a-d-s/*
 ||ninefornews.nl/wp-content/uploads/*/*-300x250-*.jpg$image
