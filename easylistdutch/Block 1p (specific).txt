@@ -110,6 +110,7 @@
 !||omejoop.be/pop.js
 !||omroeppenm.nl^*/banner/
 ||onderwegonline.nl/app/uploads/*/Banner$image
+||onderwijsland.com/files/partners/
 ||onsoranje.nl/sites/*/images/sponsorlogos/
 ||ontdek-amerika.nl/marketing/bartsbanner.gif
 ||oogtv.nl/wp-content/banners/
@@ -309,8 +310,6 @@
 ||oisterwijknieuws.nl/wp-content/uploads/*/lelieveld-634-x-80.jpg$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/MBA-regiobank-*.gif$image
 ||omroeprsh.nl/wp-content/uploads/*/*RSH-300*.gif$image
-||onderwijsland.com/files/banners/
-||onderwijsland.com/files/partners/
 ||ninefornews.nl/wp-content/a-d-s/*
 ||ninefornews.nl/wp-content/uploads/*/*-300x250-*.jpg$image
 ||ninefornews.nl/wp-content/uploads/*/banner-set-*.png$image
