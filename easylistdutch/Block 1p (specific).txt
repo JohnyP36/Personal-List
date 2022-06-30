@@ -123,6 +123,7 @@
 ||pdd-nos.nl/footer.html
 ||pen.nl/wp-content/uploads/*/banner*$image
 ||pen.nl/wp-content/uploads/*/*adv$image
+||peoplesphere.be/img/logo/financemanagement.png$image
 ||persberichten.com/Images/Banners/
 ||persberichten.com/Images/marcommit/
 ||persinfo.org/assets/images/pictures/ad/
@@ -322,8 +323,6 @@
 ||noordernieuws.nl/wp-content/uploads/201*/*/*.gif$image
 ||noordkopcentraal.nl/wp-content/uploads/*/*-logo-462x
 ||noordkopcentraal.nl/wp-content/uploads/*/Boersen-Logo-*
-||nzbindex.nl/img/i/$image,first-party
-||peoplesphere.be/img/logo/financemanagement.png$image
 ||regioonline.nl/wp-content/uploads/*/*-Ads.*
 ||rtvdordrecht.nl/cwm/fm/userfiles/banner/*
 ||rtvlansingerland.nl/wp-content/uploads/*/Zorgvilla.gif
