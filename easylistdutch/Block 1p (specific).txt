@@ -60,6 +60,8 @@
 ||forum.spaarinformatie.nl/si-info.html
 ||frontline.digital/wp-content/uploads/*/*MM_500x500_IAB.$image
 ||gaynews.nl/images/_adv_txt$image
+||gigantfm.nl/assets/images/autoonderdelen24_1.png$image
+||gigantfm.nl/assets/images/onderdelenshop.gif$image
 ||glutenvrij.nl/l/library/*banner*.jpg?
 ||glutenvrij.nl/tmp/media/afbeeldingen/*_w720_h720.jpg$image
 ||gowiththevlo.nl/wp-content/uploads/*/*_banner_gwtv.jpg$image
@@ -298,10 +300,6 @@
 ||floranews.com/img/banner/Topbanner-
 ||fonkonline.nl/adds/
 ||gic.nl/uploads/fckconnector/
-||gigantfm.nl/upload/20170420110645812.jpg$image
-||gigantfm.nl/upload/20210730122903794.gif$image
-||gigantfm.nl/upload/autoonderdelen24_1.png$image
-||gigantfm.nl/upload/onderdelenshop.gif$image
 ||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukencoach-300x250.jpg
 ||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keuken-ontwerp-aan-huis.jpg
 ||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukenplaats.jpg
