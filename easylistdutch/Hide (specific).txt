@@ -251,6 +251,8 @@ nu.nl##a[href*="/advertorial-"]
 nu.nl##div.articlelist[data-section="advertorial-belastingdienst-adverteerder"]
 nu.nl##aside#h1
 nummerzoeker.com##a[href^="/out/"]
+oisterwijknieuws.nl##.sidebar
+oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
 omrekenen.org##.widget:has-text(/Gesponsoord/i)
 omrekenen.org##a[href^="https://www.onlinebingokaart.nl/"]
 onderwijsland.com##.col-md-16:has([style*="greystripe"])
@@ -764,9 +766,6 @@ nos.nl##.teletekst__banner
 notebookcheck.nl##.amaz_el
 nuus.be##.widget-area.sidebar:has([data-advadstrackid])
 nzbindex.nl##.inner:has(a[href])
-oisterwijknieuws.nl###left-sidebar
-oisterwijknieuws.nl###right-sidebar
-oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
 omroepalmere.nl##.widget_carousel_slider:has-text(Partners)
 omroepalmere.nl##[id^="media_image"]:not(:has-text(Met dank aan)):not(#media_image-24):not(#media_image-28)
 omroepbrabant.nl##div[class^="ad-"]
