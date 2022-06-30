@@ -83,6 +83,9 @@ dolcevia.com##.affiliatelink
 dolcevia.com##.bookingaff:upward(.card)
 drentsnieuws.nl##.shadow:has(#bannerCarousel)
 dsdating.nl##[href^="https://mt67.net/"]:upward(.elementor-section)
+dutchcryptotalk.com##.hootslider-image-wrapper
+dutchcryptotalk.com##[id^="media_image"]:has([href*="/bitvavo"])
+dutchcryptotalk.com##div[id^="dutch-"]:has(a[href^="https://bitvavo.com/"])
 duurzaam-actueel.nl##[class*="bd-block"]:has(a[href]):has(img[src*="wp-content/uploads/"])
 duurzaam-actueel.nl##header + section:has([class*="logo-showcase-slider"])
 duurzaamnieuws.nl##.adv-link
@@ -544,8 +547,6 @@ dorpsklanken.online##.ads-mobiel
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 duic.nl##.article-excerpt--ad
 dumpert.nl##div[class*="ads_container"][class*="ad_container"]
-dutchcryptotalk.com##[id^="media_image"]:has([href*="/bitvavo"])
-dutchcryptotalk.com##div[id^="dutch-"]:has(a[href^="https://bitvavo.com/"])
 dutchitchannel.nl##.banner:has([href*="/bannerclick.html&banner"])
 dutchitchannel.nl##.bannner
 dutchporntube.nl###sidebar > section[id]:has-text(/Zoeken-Kennismaken en Afspreken/i)
