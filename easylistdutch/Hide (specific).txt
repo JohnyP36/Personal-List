@@ -205,6 +205,10 @@ mijnserie.nl,trappers.nl,volleybelgium.be##.sponsors
 minecrafttoplist.nl##.fancy-wrap
 mnm.be,stubru.be###reclameblok-wrapper
 mnm.be##div[class^="grid-item"]:has(div:has-text(/advert/i))
+motocrossplanet.nl##.artikel-banners
+motocrossplanet.nl##.background_link
+motocrossplanet.nl##div[class*="banner"]
+motocrossplanet.nl##div[class*="col"]:has-text(/advert/i)
 mr-online.nl##.elementor-widget-container:has(div[class*="bnr"])
 mr-online.nl##.elementor-widget-wrap > *:has-text(/advert/i):has(div[class*="bnr"])
 mr-online.nl##.type_partner-profielpartner
@@ -719,9 +723,6 @@ modekoninginmaxima.nl##.adsbygoogle
 modekoninginmaxima.nl##.after-content-ad:not(:has-text(/Niets van deze website mag verveelvoudigd en/i))
 modekoninginmaxima.nl##.region-top-advertisement
 morningstar.*###ad_top_page
-motocrossplanet.nl##.artikel-banners
-motocrossplanet.nl##div[class*="banner"]
-motocrossplanet.nl##div[class*="col"]:has-text(/advert/i)
 motorfietsblog.nl##.cbcontent
 motorrijdenexpert.nl##div[class*="full-row relative-row"]:has([href]):has([class*="ignore"])
 !nederland.fm###xbtm > .shadow
