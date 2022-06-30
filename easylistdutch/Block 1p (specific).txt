@@ -52,9 +52,14 @@
 ||edelmetaal-info.nl/cdfund-*.html
 ||edelmetaal-info.nl/wp-content/uploads/*/*HollandGold*$image
 ||edelmetaal-info.nl/wp-content/uploads/*/cd-fund
+||elektronicaforum.nl/banner*$image,first-party
+||excellentfm.nl/images/aanbieding/$first-party
 ||fanclubbarcelona.nl/viewfile/*banner/$image
+||farm-date.com/slides/banner-$image,first-party
 ||farmaline.be/assets/banners/
 ||fcupdate.nl/js/adslot.js
+||fhm500.nl/wp-content/themes/fhm500/img/tabac/*
+||fiets.nl/app/uploads/*Webbanner-*
 ||flexnieuws.nl/wp-content/uploads/*/Naamloos-*.png$image
 ||flirtmee.nl/img/160x70_sponsor-
 ||floranews.com/img/banner/Floranews
@@ -296,11 +301,6 @@
 ||dutchcryptotalk.com/wp-content/uploads/*/bitvavo
 ||dutchitchannel.nl/6*?field=Binary1$image
 ||ekvrouwen.nl/*/uploads/*/bookmaker-cta-$image
-||elektronicaforum.nl/banner*$image,first-party
-||excellentfm.nl/images/aanbieding/$first-party
-||farm-date.com/slides/banner-$image,first-party
-||fhm500.nl/wp-content/themes/fhm500/img/tabac/*
-||fiets.nl/app/uploads/*Webbanner-*
 ||gratis.nl/wp-content/uploads/*/*/*-gratis.png$image
 ||ninefornews.nl/wp-content/a-d-s/*
 ||ninefornews.nl/wp-content/uploads/*/*-300x250-*.jpg$image
