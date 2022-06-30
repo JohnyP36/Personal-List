@@ -313,7 +313,6 @@
 ||menttv.be/wp-content/uploads/*/*.jpg
 ||midvliet.nl/images/advertenties
 ||mo.be/sites/default/files/banners*
-||modekoninginmaxima.nl/sites/default/files/*/vorsten2_170x600.gif$image
 ||ninefornews.nl/wp-content/a-d-s/*
 ||ninefornews.nl/wp-content/uploads/*/*-300x250-*.jpg$image
 ||ninefornews.nl/wp-content/uploads/*/banner-set-*.png$image
