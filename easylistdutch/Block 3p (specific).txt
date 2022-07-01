@@ -21,6 +21,7 @@
 ||sdk.privacy-center.org^$script,domain=goplay.be
 ||static.promedia.nl/logos/$image,domain=automobielmanagement.nl|carwashpro.nl|infrasite.nl|ovpro.nl|rijschoolpro.nl|spoorpro.nl|tankpro.nl|taxipro.nl|verkeersnet.nl
 ||strafrechtadvocaten.nl/media/banner/$third-party
+||succesboeken.nl/api/public/images/branding/$image,domain=commonsensetv.nl
 ||swpportal.com/upload/squarebanners/$domain=sozio.nl
 ||tickers.zimmo.be/gva/$domain=gva.be
 ||tools-affil2.com/rtb/index.php$domain=1001erotiekverhalen.nl
