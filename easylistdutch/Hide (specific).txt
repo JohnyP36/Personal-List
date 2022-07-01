@@ -239,6 +239,7 @@ netonline.be##.tekstboldwit td:has-text(/advert/i)
 netxxx.nl##hr:nth-of-type(1)
 newspower.nu##aside[class^="td_block"]:has-text(/advert/i):has(.gofollow)
 nieuweoogst.nl##.logolinks-wrapper
+nieuws.nl###footer-banner
 nieuwsonline.nu##.clearfix:has(img[src*="/header/"])
 nieuwsonline.nu##.split-images-news-section:has(.section-title:has-text(/Advert/i))
 nieuwsonline.nu##.widget-title:has-text(/Advert|AD/):upward(1):not(:has-text(/gratis video ad bij het plaatsen van een advert/i))
@@ -751,9 +752,6 @@ netxxx.nl##.widget:has(img[src])
 niburu.co##.sponsers
 nieuwnieuws.nl##.article-page__bumper
 nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
-nieuws.nl###footer-banner
-nieuws.nl###header-banner
-nieuws.nl##.nieuws-banner
 nieuwsfiets.nu##.ult-content-box-container
 nieuwsfiets.nu##.wpb_raw_html[class*="us_custom_"]:has(.wpb_wrapper)
 nieuwslog.nl##.wp-block-genesis-blocks-gb-columns:has(a[href*="/go/www.bet365.nl/"])
