@@ -139,7 +139,7 @@ gaynews.nl##a[href^="/_global/leesmeer.php?"]
 geenstijl.nl##.article-premium-promotion-block
 geenstijl.nl##.slajeslag
 geenstijl.nl##a[data-ga-event^="link-tip"]
-gic.nl,kbradio.nl##.banners
+gic.nl,kbradio.nl,nieuws.nl##.banners
 gic.nl##.katernbanners
 gids.tv##.advertisement:upward(1)
 gigantfm.nl##.onderdelenshop
