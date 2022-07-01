@@ -194,6 +194,7 @@
 ||rtvnof.nl/prowurk/
 ||schuttevaer.nl/partnersites/
 ||search-result.com^*/klokad2.js
+||seksmet.nl/wp-content/uploads/*/*xplezier*.jpg
 ||sexchatlounge.nl/bannerlinks.html$subdocument
 ||sexchatlounge.nl/bannerrechts.html$subdocument
 ||sexcam-mokkels.nl/wp-content/uploads/*/sexafspraakje-$image
@@ -291,7 +292,6 @@
 ||cdn.nieuws.nl/media/sites/221/20*/*/*/*.gif$image
 ||cdn.nieuws.nl/media/sites/221/20*/*/*/dobbenwooncentrum.jpg$image
 ||cdn.nieuws.nl/media/sites/221/20*/*/*/*-Banner.$image
-||cdn.seksmet.nl/wp-content/uploads/*/all-over-40-handjob$image
 ||clubbrugge.be^*/partner/$image
 ||creditexpo.nl/wp-content/uploads/*/*_400x400*.jpg
 ||debestevpn.nl/wp-content/*-banner.
