@@ -295,7 +295,6 @@
 ||coastline945fm.nl/cache/partners/
 ||coastlinefm.nl/cache/partners/
 ||coc.nl/wp-content/uploads/*/*234x60.gif
-||commonsensetv.nl/wp-content/uploads/*/ezgif.com-gif-maker*.gif$image
 ||creditexpo.nl/wp-content/uploads/*/*_400x400*.jpg
 ||debestevpn.nl/wp-content/*-banner.
 ||despirituelewereld.be/wp-content/uploads/*/DrukZo-Korting-*.jpg
