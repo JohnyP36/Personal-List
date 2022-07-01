@@ -20,6 +20,8 @@
 ||402automotive.com/files/*/files/images/*online-banner-$image
 ||advocatie.nl/content/uploads/*Rectangle-Advocatie
 ||advocatie.nl/content/uploads/*whitepaper_336x280
+||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/CJG-Alblasserdam.jpg$image
+||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/Rozendaal.jpg$image
 ||alphens.nl/resize/upload/*/*banner
 ||am-forum.nl/upload/logo_elektrodump.png
 ||amz01.plzcdn.com/a/
@@ -278,10 +280,6 @@
 ||a.scholieren.com/v/*$image,first-party
 ||a1mediagroep.nl/content/*/company/*/banne*.*?width=290&height=150
 ||abcsuriname.com/templates/abc/assets/gfx/header_banner$image
-||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/WK*.$image
-||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/Week-*.png$image
-||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/CJG-Alblasserdam.jpg$image
-||alblasserdamsnieuws.nl/wordpress/wp-content/uploads/*/Rozendaal.jpg$image
 ||apintie.sr/bannerz/*300x200.*$image
 ||audiobookbay.nl/images/bin.jpg$image,important
 ||audiobookbay.nl/images/fr.jpg$image,important
