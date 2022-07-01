@@ -10,7 +10,7 @@
 /images/bdsmsexcontact$image,domain=adulttop50.nl|neukadressen.com|sexadvertentiesonline.nl|sexfotodating.nl|zinineensexdate.com
 /img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|zoekertjesbelgie.be|stout-contact.be|stout-contact.nl
 /wp-content/*/img/banners/*$image,domain=aafm.nl|aavisie.nl
-/wp-content/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|baarsclassicrock.nl|bdsmleven.nl|biflatie.nl|bol-an.nl|cryptobenelux.com|dagbladdewest.com|dartfreakz.nl|decibel.nl|dekrantvantynaarlo.nl|deoudrotterdammer.nl|destreekkrant.nu|dekrantnieuws.nl|dordtcentraal.nl|dsdating.nl|duurzaam-actueel.nl|genemuidenactueel.nl|goedkoopstekeukensduitsland.nl|hoekschnieuws.nl|katholiek.nl|linuxmag.nl|loemedia.nl|luister.nl|maaslandradio.nl|mannennieuws.nl|noordkopcentraal.nl|omroepalmere.nl|oogtv.nl|radiocontinu.nl|radiovisie.eu|railhobby.nl|regionoordkop.nl|simone.nl|sleutelstad.nl|spreekbuis.nl|streamwijzer.be|thekinkyweb.nl|tradeidee.nl|voetbalrotterdam.nl|wegdamnieuws.nl|volleyvlaanderen.be|waterkant.net
+/wp-content/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|baarsclassicrock.nl|bdsmleven.nl|biflatie.nl|bol-an.nl|cryptobenelux.com|curacao.nu|dagbladdewest.com|dartfreakz.nl|decibel.nl|dekrantvantynaarlo.nl|deoudrotterdammer.nl|destreekkrant.nu|dekrantnieuws.nl|dordtcentraal.nl|dsdating.nl|duurzaam-actueel.nl|genemuidenactueel.nl|goedkoopstekeukensduitsland.nl|hoekschnieuws.nl|katholiek.nl|linuxmag.nl|loemedia.nl|luister.nl|maaslandradio.nl|mannennieuws.nl|noordkopcentraal.nl|omroepalmere.nl|oogtv.nl|radiocontinu.nl|radiovisie.eu|railhobby.nl|regionoordkop.nl|simone.nl|sleutelstad.nl|spreekbuis.nl|streamwijzer.be|thekinkyweb.nl|tradeidee.nl|voetbalrotterdam.nl|wegdamnieuws.nl|volleyvlaanderen.be|waterkant.net
 /wp-content/uploads/*/Mijn-Zaak$image,domain=dekrantvantynaarlo.nl|destreekkrant.nu|dekrantnieuws.nl
 ||123video.nl^*/300x100_
 ||18plussexdating.nl/images/twero.$image
@@ -296,7 +296,6 @@
 ||coc.nl/wp-content/uploads/*/*234x60.gif
 ||commonsensetv.nl/wp-content/uploads/*/ezgif.com-gif-maker*.gif$image
 ||creditexpo.nl/wp-content/uploads/*/*_400x400*.jpg
-||curacao.nu/wp-content/uploads/*/*620x120*.gif
 ||debestevpn.nl/wp-content/*-banner.
 ||despirituelewereld.be/wp-content/uploads/*/DrukZo-Korting-*.jpg
 ||dewereldmorgen.be/wp-content/banners/*
