@@ -16,6 +16,7 @@
 ##.content-rechts-ad
 ##.gesponsordelink
 ##.reclame
+!a1mediagroep.nl##.reclame
 ##.reclamekop
 ##.sponsorbalk
 ##a[href^="http://adserver.webads.nl/adclick/"]
