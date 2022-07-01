@@ -36,6 +36,8 @@ autozine.nl##.ad300x1050
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class] > [id="div-gpt-ad-banner"]
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center:has-text(advert)
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center[advobject]:upward(2)
+basketballbelgium.be##.sidebar-inner aside:has(.carousel.slide)
+basketballbelgium.be###sidebar-top-content > .widget-area:has(img[width="970"][height="250"])
 bdsmleven.nl,dsdating.nl##[class*="random_banner"]
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-wrapper
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
@@ -479,9 +481,6 @@ baarsclassicrock.nl##.widebanner
 banknieuws.info##div[class="widget HTML"]
 basketbal.vlaanderen##.holder--divider-top
 basketball.nl##div[data-component="partner"]
-basketballbelgium.be###sidebar-top-content > .widget-area:has(img[width="970"][height="250"])
-basketballbelgium.be##[id*="crelan"]:has([id^="carousel"]:has(img[alt="Advertisement"]))
-basketballbelgium.be##div[class*="partner"]:has([href*="doubleclick.net"]):has([href*="crelan.be"])
 bdsmbook.nl###random_banner_widget-2
 beeldbelsex.com##.wp-block-column > center:has([data-src*="banners"])
 beeldbelsex.com##[href^="https://islive.com/"]
