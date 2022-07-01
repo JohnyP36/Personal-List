@@ -40,6 +40,7 @@
 ||christelijknieuws.nl/upload/modules/banner/
 ||crimesite.nl/inhoud/uploads/*/*.gif$image
 ||cryptobenelux.com/wp-content/uploads/*/Bets*$image
+||curacao.nu/wp-content/uploads/*/*WebAD$image
 ||dagbladdewest.com/wp-content/uploads/*/*300x250px$image
 ||dagbladdewest.com/wp-content/uploads/*/*-AD*.jpg$image
 ||dagbladdewest.com/wp-content/uploads*/*728x90px*.jpg$image
