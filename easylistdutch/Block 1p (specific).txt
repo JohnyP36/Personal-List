@@ -3,7 +3,7 @@
 /^https\:\/\/executive-people\.nl\/media\/\d{6}\/\d+\.jpg$/$image
 /*/TOTO*banner$domain=fcgroningen.nl|willem-ii.nl
 /banner/*$domain=motocrossplanet.nl|schie.nu|retaildetail.be|retaildetail.nl
-/banners/*$domain=2link.be|402automotive.com|elektormagazine.nl|greenkeeper.nl|iex.nl|islive.nl|kavelplatform.nl|maarkelsnieuws.nl|metalfan.nl|mo.be|motocrossplanet.nl|netonline.be|tradeidee.nl||truck1.be|truck1.nl|truck1-nl.be|zilverengoudkopen.nl|rtvmaastricht.nl|sexamateurtjes.nl
+/banners/*$domain=2link.be|402automotive.com|brandweerspotters.nl|elektormagazine.nl|greenkeeper.nl|iex.nl|islive.nl|kavelplatform.nl|maarkelsnieuws.nl|metalfan.nl|mo.be|motocrossplanet.nl|netonline.be|tradeidee.nl||truck1.be|truck1.nl|truck1-nl.be|zilverengoudkopen.nl|rtvmaastricht.nl|sexamateurtjes.nl
 /cache/partners/$domain=coastline945fm.nl|coastlinefm.nl
 /images/*.gif$image,domain=123video.nl|18plussexdating.nl|30plussexdate.nl|datingsexgids.nl|eroticdate.be|geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukplaza.nl|pornopret.com|privesexgids.nl|sexadvertentiesonline.nl|sexdatingholland.com|sexpret.com|sexstartnet.nl|vindsexcontact.nl|vlaanderen-sexdate.be|xxxcontactengids.nl|xxxlivesex.nl|zinineensexdate.com|zinomteneuken.nl|studentesexcontact.nl|tienersexpret.nl
 /images/*banner$domain=h2owaternetwerk.nl|reliwiki.nl|schie.nu
@@ -34,7 +34,9 @@
 ||bol.com/nl/upload/banners/
 ||bol.com/nl/upload/partnerprogramma/$image
 ||broadcastmagazine.nl/wp-content/uploads/*/SMPhomepage*.gif
+||buzzbie.nl/buzzbanners/*.js$script,first-party
 ||camjam.nl*/assets/images/233x257*.gif
+||camping-frankrijk.nl/graphics/*/*600.$image
 ||cdn.ster.nl/banners^
 ||chatmetvreemden.be/static/html/
 ||chatmetvreemden.nl/static/html/
@@ -42,9 +44,12 @@
 ||ciaotutti.nl/wp-content/uploads/*/italmania$image
 ||ciaotutti.nl/wp-content/uploads/*/koffiecentrale-$image
 ||ciaotutti.nl/wp-content/uploads/*/villa-in-umbria-vakantie$image
+||clubbrugge.be^*/partner/$image
+||creditexpo.nl/wp-content/uploads/*/*_400x400*.jpg
 ||crimesite.nl/inhoud/uploads/*/*.gif$image
 ||cryptobenelux.com/wp-content/uploads/*/Bets*$image
 ||curacao.nu/wp-content/uploads/*/*WebAD$image
+||despirituelewereld.be/wp-content/uploads/*/DrukZo-Korting-*.jpg
 ||dagbladdewest.com/wp-content/uploads/*/*300x250px$image
 ||dagbladdewest.com/wp-content/uploads/*/*-AD*.jpg$image
 ||dagbladdewest.com/wp-content/uploads*/*728x90px*.jpg$image
@@ -282,13 +287,7 @@
 ||belgiancycling.be/resize.asp?w=120&file=*.gif
 ||bloovi.be/frontend/files/banners/
 ||bol-an.nl/wp-content/uploads/*/Adv_
-||brandweerspotters.nl/modules/banners/
-||buzzbie.nl/buzzbanners/*.js$script,first-party
-||camping-frankrijk.nl/graphics/*/*600.$image
-||clubbrugge.be^*/partner/$image
-||creditexpo.nl/wp-content/uploads/*/*_400x400*.jpg
 ||debestevpn.nl/wp-content/*-banner.
-||despirituelewereld.be/wp-content/uploads/*/DrukZo-Korting-*.jpg
 ||dewereldmorgen.be/wp-content/banners/*
 ||ekvrouwen.nl/*/uploads/*/bookmaker-cta-$image
 ||gratis.nl/wp-content/uploads/*/*/*-gratis.png$image
