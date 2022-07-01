@@ -56,7 +56,7 @@ binnenvaartkrant.nl,christmaholic.nl,curacao.nu,dartfreakz.nl,dbsuriname.com,reg
 briefjevanjan.nl##.aligncenter > [href^="https://partner.bol.com/"]
 briefjevanjan.nl##.widget:has([href^="https://partner.bol.com/"])
 businessinsider.nl##.ll_partnerexpert
-ciaotutti.nl##.theiaStickySidebar > .text-html-box:not(:has(a[href^="https://ciaotutti.nl/"])):not(:has(a[href="http://eepurl.com/dFsw3z"]))
+ciaotutti.nl##.theiaStickySidebar > .text-html-box:not(:has(a[href^="https://ciaotutti.nl/"])):not(:has(a[href^="http://eepurl.com/"])):not(:has(a[href*="facebook.com/blogciaotutti"]))
 cip.nl##a[href*="/ad/click/"]:not(.podcast-inline a[href]):not(:has-text(/vacatures/i)):not(:has-text(/gesponsord/i))
 cip.nl##div[class]:has-text(/vakanties/i):upward(2) + div [id^="vacation-carousel"]
 cocdeventer.nl###ads
