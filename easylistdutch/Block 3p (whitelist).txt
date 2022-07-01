@@ -25,8 +25,10 @@
 @@||affilaxy.com/promos/plugnplayresponsive/generators/sexklik/php/plug-play.php$subdocument,domain=sproeiendekutjes.nl
 @@||affilaxy.com/promos/regforms/generators/sexklik/php/register_form.php$domain=geile-sexcontacten.be|ikneukgraag.nl|sexdating-vrouwen.be|vrouwen-sexdate.be|vrouwensexdate.nl
 @@||aka.spotxcdn.com/integration/ados/v1/ados.js$script,domain=www.radioluisteren.fm
-@@||bugleczmoidgxo.com/assets/cp/*/webcam_gallery/*$script,stylesheet,domain=bugleczmoidgxo.com|camsexgirls.nl|cumcamsgirls.nl|goedkopewebcamsexs.nl|gratiscamsexchat.nl|livesexwebcammeiden.nl|meidenvoorthuisontvangst.nl|nederlandsewebcamseks.nl|nlwebcambabes.nl|webcamxxxlive.nl|xxxcamlive.nl
-@@||bugleczmoidgxo.com/cp/webcam_gallery/index.php$domain=bugleczmoidgxo.com|camsexgirls.nl|cumcamsgirls.nl|goedkopewebcamsexs.nl|gratiscamsexchat.nl|livesexwebcammeiden.nl|meidenvoorthuisontvangst.nl|nederlandsewebcamseks.nl|nlwebcambabes.nl|webcamxxxlive.nl|xxxcamlive.nl
+@@||/assets/cp/*/webcam_gallery/*$script,stylesheet
+!domain=camsexgirls.nl|cumcams.nl|cumcamsgirls.nl|goedkopewebcamsexs.nl|gratiscamsexchat.nl|livesexwebcammeiden.nl|meidenvoorthuisontvangst.nl|nederlandsewebcamseks.nl|nlwebcambabes.nl|webcamxxxlive.nl|xxxcamlive.nl
+@@||/cp/webcam_gallery/index.php
+!domain=camsexgirls.nl|cumcams.nl|cumcamsgirls.nl|goedkopewebcamsexs.nl|gratiscamsexchat.nl|livesexwebcammeiden.nl|meidenvoorthuisontvangst.nl|nederlandsewebcamseks.nl|nlwebcambabes.nl|webcamxxxlive.nl|xxxcamlive.nl
 @@||cdn.spotxcdn.com/integration/easi/v1/easi.js$script,domain=www.radioluisteren.fm
 @@||erossite.com/nsfw/i/banner/*$subdocument,domain=eroticdreams.org
 @@||go2.go2cloud.org/aff_ad$popup,domain=tools.vpscash.nl
