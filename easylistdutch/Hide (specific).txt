@@ -212,6 +212,7 @@ maarkelsnieuws.nl##.sidebar-slider-bg > .banners-weekad
 maaslandradio.nl##.slides
 maaslandradio.nl,mariabode.nl,palnws.be##[id^="media_image"]:has-text(/advert/i)
 maaslandradio.nl###header-text-nav-container > .inner-wrap > .clearfix
+magazine.belgiancycling.be###section--banner
 mandelnieuws.be##div[class*="blocksponsors"]
 marktnet.nl##li.linkUnit
 mediamarkt.nl##div[class^="AdWrapper"] + div[class^="SkeletonWrapper"]
