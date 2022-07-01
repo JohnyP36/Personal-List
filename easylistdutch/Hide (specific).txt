@@ -52,7 +52,7 @@ biernet.nl###BJA3
 biernet.nl###banTop
 biflatie.nl##.elementor-image:has(img[src*="banner"])
 binnenlandsbestuur.nl##aside div[class="c-teaser"]:not(:has(a[href*="binnenlandsbestuur.nl"]))
-binnenvaartkrant.nl,christmaholic.nl,curacao.nu,dartfreakz.nl,dbsuriname.com,regioinbedrijf.nl,sleutelstad.nl,westerwoldeactueel.nl##.g
+binnenvaartkrant.nl,christmaholic.nl,curacao.nu,dartfreakz.nl,dbsuriname.com,regioinbedrijf.nl,seksmet.nl,sleutelstad.nl,westerwoldeactueel.nl##.g
 briefjevanjan.nl##.aligncenter > [href^="https://partner.bol.com/"]
 briefjevanjan.nl##.widget:has([href^="https://partner.bol.com/"])
 businessinsider.nl##.ll_partnerexpert
@@ -310,6 +310,8 @@ scheepvaartkrant.nl###block-leaderboard
 scheepvaartkrant.nl###block-topbannersidebar
 schie.nu##.my-5:has-text(/advert/i)
 schie.nu##[id^="klikken"]:has-text(/advert/i)
+seksmet.nl##.et_pb_text:has(* > .g):not(:has(.heading-more))
+seksmet.nl##[href^="https://dt51.net/"]
 sexcontact-xxx.be##.moduletable:has([src*="2k19.nl"])
 sexcontact-xxx.be##.moduletable:has([src*="affilaxy.com/promos/"])
 sexguide.nl##.topBanners
@@ -875,11 +877,6 @@ scholieren.com##.min-h-250
 scholieren.com##.min-h-90
 scholieren.com##.searchvertorial
 secretcircle.com##.column:has(.advert)
-seksmet.nl##.et_pb_module:has(.gofollow:has(img[src]))
-seksmet.nl##.et_pb_text:has(div[class] > center > a[href^="https://dt51.net/"])
-seksmet.nl##.et_pb_text:has(div[class] > center > a[href^="https://landing.brazzersnetwork.com/"])
-seksmet.nl##.et_pb_text:has(div[class] > center > a[href]):not(:has(h3.heading.more))
-seksmet.nl##[href^="https://dt51.net/"]
 seksverhalen.org##header:style(height:100px !important;)
 sex-kamer.nl##.videoOverAdBig
 sexafspraakonline.nl##.d-lg-block.d-none > .card:has-text(Advert)
