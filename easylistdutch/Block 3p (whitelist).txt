@@ -10,6 +10,8 @@
 @@||massariuscdn.com/pubs/*/*_hb_setup.js$script,domain=dailybuzz.nl|radio.nl|welingelichtekringen.nl
 @@||pt.pctlwm.com/embed/tbplyr/*$script,domain=sproeiendekutjes.nl
 @@||weerstation-markelo.nl/weer/banners/weerbanner$domain=maarkelsnieuws.nl
+@@||widgets.spklw.com/v1/data/*$xhr,domain=dagelijksestandaard.nl|nieuws.nl
+@@||widgets.sprinklecontent.com/v2/*$script,xhr,domain=dagelijksestandaard.nl|nieuws.nl
 ! 2021-12-29 https://github.com/uBlockOrigin/uAssets/issues/11039
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=dagelijksekost.een.be
 @@||shared.mediahuis.be/ka-ching/prebid.js$script,domain=dagelijksekost.een.be
@@ -53,5 +55,3 @@
 @@||tools.vpscash.nl/webcams/promo/plug_play_webcams/*$subdocument,domain=beeldbelsex.com
 @@||ultimedia.com/js/common/smart.js$script,domain=lesoir.be
 @@||videoplaza.tv/*/pulse-sdk-html5/*$script,domain=rtl.be
-@@||widgets.spklw.com/v1/data/*$xhr,domain=dagelijksestandaard.nl
-@@||widgets.sprinklecontent.com/v2/*$xhr,script,domain=dagelijksestandaard.nl
