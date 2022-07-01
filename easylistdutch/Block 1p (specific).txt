@@ -39,6 +39,9 @@
 ||chatmetvreemden.be/static/html/
 ||chatmetvreemden.nl/static/html/
 ||christelijknieuws.nl/upload/modules/banner/
+||ciaotutti.nl/wp-content/uploads/*/italmania$image
+||ciaotutti.nl/wp-content/uploads/*/koffiecentrale-$image
+||ciaotutti.nl/wp-content/uploads/*/villa-in-umbria-vakantie$image
 ||crimesite.nl/inhoud/uploads/*/*.gif$image
 ||cryptobenelux.com/wp-content/uploads/*/Bets*$image
 ||curacao.nu/wp-content/uploads/*/*WebAD$image
@@ -289,9 +292,6 @@
 ||cdn.nieuws.nl/media/sites/221/20*/*/*/dobbenwooncentrum.jpg$image
 ||cdn.nieuws.nl/media/sites/221/20*/*/*/*-Banner.$image
 ||cdn.seksmet.nl/wp-content/uploads/*/all-over-40-handjob$image
-||ciaotutti.nl/wp-content/uploads/*/italmania-*reizen-italie*$image
-||ciaotutti.nl/wp-content/uploads/*/koffiecentrale-*$image
-||ciaotutti.nl/wp-content/uploads/*/villa-in-umbria-vakantie*$image
 ||clubbrugge.be^*/partner/$image
 ||creditexpo.nl/wp-content/uploads/*/*_400x400*.jpg
 ||debestevpn.nl/wp-content/*-banner.
