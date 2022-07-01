@@ -131,6 +131,8 @@ flexnieuws.nl##.header-ads__custom-ad
 floranews.com##td[align="center"]:has(> hr):has([href^="/banner"])
 floranews.com##td[rowspan="2"][width="590"]:has(a[href^="/banner"]):not(:has(img[src*="Hier kan uw banner staan"]))
 folderz.nl,intermediair.nl,spel.nl,spelletjes.nl,willem-ii.nl##.advert
+forum.scholieren.com###posts .thead:has-text(/advert/i)
+forum.scholieren.com##div[data-advert-placeholder-size]
 forum.spaarinformatie.nl##table:has-text(/advert/i)
 fotografie.nl##.section-partners
 frontline.digital##p:has-text(,):not(:has-text(/[a-z]|[0-9]/i))
@@ -310,6 +312,8 @@ rtlnieuws.nl###rtln-ad-advertorial
 rtlnieuws.nl##.billboard
 rtlnieuws.nl##div[class$=_with_ad__ad]
 sc-heerenveen.nl##.partner-grid:upward(2)
+scholieren.com##.blockvertorial
+scholieren.com##.min-h-90
 schuttevaer.nl##.widget_minisites
 scheepvaartkrant.nl###block-leaderboard
 scheepvaartkrant.nl###block-topbannersidebar
@@ -583,7 +587,6 @@ filmtotaal.nl###adf-rectangle
 filmtotaal.nl##.ad-centering
 financialinvestigator.nl##.mpu
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
-forum.scholieren.com###posts .thead:has-text(/advert/i)
 freesoccer.nl##.container-fluid.site-header
 franska.nl###shopsuiteApplication
 fucking-tube.com,pornokartel.nl,seks-tube.be##.video-block-happy
@@ -870,10 +873,6 @@ rubenweytjens.be##.view-weather-ads-view
 salvora.nl##.avia-content-slider:has-text(/sponsor/i)
 schaefer-shop.nl##.pda > .row > [class]:has(.sfr-pdp-section[id$="crossseller"])
 schiedamsnieuws.nl##[class*="sidebar"] > section:has(a[href]):has(img[src^="https://i1.wp.com/www.schiedamsnieuws.nl/"][srcset])
-scholieren.com##.blockvertorial
-scholieren.com##.min-h-250
-scholieren.com##.min-h-90
-scholieren.com##.searchvertorial
 secretcircle.com##.column:has(.advert)
 seksverhalen.org##header:style(height:100px !important;)
 sex-kamer.nl##.videoOverAdBig
