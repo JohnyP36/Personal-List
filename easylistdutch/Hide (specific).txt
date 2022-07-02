@@ -49,6 +49,7 @@ belgischecasinos.be,newspower.nu##.gofollow
 besteproduct.nl##[id^="ad-block"]
 beursgorilla.nl##.js--billboard.ut--billboard
 beursgorilla.nl##.js--rect.ut--rectangle
+beveiligingnieuws.nl##aside.widget:has-text(/Partners/i)
 biernet.nl###BJA2
 biernet.nl###BJA3
 biernet.nl###banTop
