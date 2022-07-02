@@ -229,7 +229,7 @@
 ||startlinken.nl/javascript/BannerRotation*$script,first-party
 ||static.sexcamsites.nl/dsx/voicebericht/assets/images/*.gif$image
 ||static.sexcamsites.nl/dsx/voicebericht/assets/images/sex-bnrs$image
-||static.sexcamsites.nl/dsx/voicebericht/assets/images/sexlijnen-saldo-opwaarderen$image
+||static.sexcamsites.nl/dsx/voicebericht/assets/images/sexlijnen-saldo-opwaarderen
 ||static.sexcamsites.nl/dsx/voicebericht/assets/images/startpaginabnr$image
 ||static1.qmusic.medialaancdn.*/*/*_Banner_840x250
 ||teen-sex.nl/wp-content/uploads/*/900x250$image
@@ -276,8 +276,8 @@
 ||zwartewaterfm.nl/images/SponsorenZwarteWaterFM.jpg
 ! 2021
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
-/voicebericht/assets/images/verdien-geld-met-anoniem-thuiswerk.$image,domain=1on1.nl|beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|sexcamsites.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
-/voicebericht/assets/images/videochat277x$image,domain=beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|sexcamsites.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
+/voicebericht/assets/images/verdien-geld-met-anoniem-thuiswerk.$image,domain=1on1.nl|beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
+/voicebericht/assets/images/videochat277x$image,domain=beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
 /wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl
 ||a.scholieren.com/v/*$image,first-party
 ||a1mediagroep.nl/content/*/company/*/banne*.*?width=290&height=150
