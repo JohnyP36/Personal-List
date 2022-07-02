@@ -55,7 +55,7 @@ biernet.nl###BJA3
 biernet.nl###banTop
 biflatie.nl##.elementor-image:has(img[src*="banner"])
 binnenlandsbestuur.nl##aside div[class="c-teaser"]:not(:has(a[href*="binnenlandsbestuur.nl"]))
-binnenvaartkrant.nl,christmaholic.nl,curacao.nu,dartfreakz.nl,dbsuriname.com,regioinbedrijf.nl,seksmet.nl,sleutelstad.nl,westerwoldeactueel.nl##.g
+binnenvaartkrant.nl,christmaholic.nl,curacao.nu,dartfreakz.nl,dbsuriname.com,oogtv.nl,regioinbedrijf.nl,seksmet.nl,sleutelstad.nl,westerwoldeactueel.nl##.g
 briefjevanjan.nl##.aligncenter > [href^="https://partner.bol.com/"]
 briefjevanjan.nl##.widget:has([href^="https://partner.bol.com/"])
 businessinsider.nl##.ll_partnerexpert
@@ -284,6 +284,7 @@ onderwijsland.com##.widgetbar > div.row > :has(.widget-partners)
 onderwijsland.com##.widgetbar > div.row > :has-text(Advert)
 onlinecasinorss.nl,onlinekraslotenrss.nl,voetbalsnafu.nl,voetbalweddenrss.nl##[class$="sidebar-widget"]:has(p > a[href*="casino"]):not(:has(div[class="widget-title"]))
 onsoranje.nl##.SponsorBar
+oogtv.nl##.home-banner
 palnws.be##.adlink:not(:has([src*="PalNWS"]))
 palnws.be##.ads-wrapper:not(:has(a[href*="palnws.be"]))
 palnws.be##.jeg_ad:not(:has(a[href*="palnws.be"]))
@@ -795,8 +796,6 @@ online-radio.nl###top_ad-360
 online-radio.nl##[id^="AdvertMid"]
 online-radio.nl##[id^="containersitead"]
 onschuldigemeiden.nl##.widget:has([href^="https://short1.nl/smart/"])
-oogtv.nl##.home-banner
-oogtv.nl##div#main-content.container.main-content > div.row > div.col-md-9.article-holder > article > p:has(img[src^="https://www.oogtv.nl/wp-content/uploads/"][src$=".gif"])
 oops.nl###dropinboxv2cover
 oops.nl##[src="http://www.oops.nl/banner/bannerindex.html"]
 oops.nl##table[cellspacing="30"]
