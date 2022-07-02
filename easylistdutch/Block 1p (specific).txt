@@ -198,6 +198,7 @@
 ||racesport.nl/wp-content/uploads/*/TK_Kickoff.jpg$image
 ||racexpress.nl/advertising/
 ||racexpress.nl/img/sponsors/
+||racingnews365.nl/images/logos/odds/unibet/
 ||racingnews365.nl/images/logos/partners/*/$image,first-party
 ||radioacacia.nl/sponsoren/
 ||radioeenhoorn.nl/images/Maxaro-badkamers-tegels.png
