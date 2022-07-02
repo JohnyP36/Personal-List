@@ -302,6 +302,9 @@ racesport.nl##.hthb-notification
 racesport.nl##.rs_sponsorbanners_widget:upward(1)
 racexpress.nl##.article-side-block:has(a[href][target="_blank"]):has(img[width="310"][height="200"])
 racexpress.nl##img[src^="/img/sponsors"]:upward(.article-photo)
+radio.nl###xttm > .shadow
+radio.nl###xbtm > .shadow
+radio.nl##[id^="takeover"]:has-text(Advert)
 radionl.fm##.desktop_mobile:not(a[href*="radionl.fm"])
 radioviainternet.be##.banner-size-leaderbord
 radiovisie.eu##[id^="custom_html"]:has(.adsbygoogle)
@@ -785,7 +788,6 @@ omroeppenm.nl,rickfm.nl###advertisement
 omroeprsh.nl##[id*="media"]:has(img[width="300"]):not(:has([href*="youtube"]))
 omroepwest.nl,omroepzeeland.nl##.adcontainer
 oneworld.nl##.promotion-block
-onlineluisteren.nl##center > div:has(.adsbygoogle)
 online-omzetten.nl##.clearfix.entry > small
 online-omzetten.nl##[style^="margin"]:has(.adsbygoogle)
 online-radio.nl###top_ad-360
