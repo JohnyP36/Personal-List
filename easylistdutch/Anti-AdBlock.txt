@@ -13,6 +13,7 @@ goplay.be##+js(no-fetch-if, pubads.g.doubleclick.net/gampad/ads)
 @@||ads-talpa.adhese.com/json/$xhr,domain=kijk.nl
 *$image,domain=kijk.nl,redirect-rule=1x1.gif
 meerdangewenst.nl##[class*="footer-section"] > *:style(display: none !important;)
+notebookcheck.nl##+js(abort-current-inline-script, document.getElementById, AAdsspaCe)
 radiowereld.nl##+js(no-setInterval-if, adb)
 ! vandaaginside.nl
 @@||static.kijk.nl/prebid/ad.gif$xhr,first-party,domain=embed.kijk.nl
@@ -45,7 +46,6 @@ gratisaftehalen.nl##+js(abort-current-inline-script, fuckAdBlock, undefined)
 icttipsandtricks.nl##+js(abort-current-inline-script, String.prototype.charCodeAt, ai_)
 !@@||looopings.nl/wp-banners.js
 !looopings.nl##+js(acis, document.getElementById, .style.display=)
-notebookcheck.nl##+js(abort-current-inline-script, document.getElementById, send)
 nu.nl##+js(set-constant, isAdBlockEnabled, false)
 marokko.nl##+js(set-constant, ads_toegestaan, true)
 !refoweb.nl#@#.adsbox
