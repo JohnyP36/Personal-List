@@ -805,7 +805,6 @@ openingstijden.com###adsense_CSA
 openingsurengids.be##.promSB
 opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
 osuradio.nl##.wdslider
-ovpro.nl##.widget_nlpartners:has(.adv)
 paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
 parool.nl,trouw.nl##.ad--section
 pcmweb.nl##.site__sidebar > .block:has(div.banner)
