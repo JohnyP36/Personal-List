@@ -11,6 +11,7 @@
 /images/bdsmsexcontact$image,domain=adulttop50.nl|neukadressen.com|sexadvertentiesonline.nl|sexfotodating.nl|zinineensexdate.com
 /img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|zoekertjesbelgie.be|stout-contact.be|stout-contact.nl
 /voicebericht/assets/images/verdien-geld-met-anoniem-thuiswerk.$image,domain=1on1.nl|beeldbellen.xxx|geilegids.nl|privecam.nl|privesexlijn.nl|telefoonsex.xxx|tienersex.nl|videochat.nl||erowerk.nl
+/voicebericht/assets/images/videochat277x$image,domain=geilegids.nl|privecam.nl|privesexlijn.nl|telefoonsex.xxx|tienersex.nl|beeldbellen.xxx|erowerk.nl|videochat.nl
 /wp-content/*/img/banners/*$image,domain=aafm.nl|aavisie.nl
 /wp-content/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|baarsclassicrock.nl|bdsmleven.nl|biflatie.nl|bol-an.nl|cryptobenelux.com|curacao.nu|dagbladdewest.com|dartfreakz.nl|decibel.nl|dekrantvantynaarlo.nl|deoudrotterdammer.nl|destreekkrant.nu|dekrantnieuws.nl|dordtcentraal.nl|dsdating.nl|duurzaam-actueel.nl|genemuidenactueel.nl|goedkoopstekeukensduitsland.nl|hoekschnieuws.nl|katholiek.nl|linuxmag.nl|loemedia.nl|luister.nl|maaslandradio.nl|mannennieuws.nl|noordkopcentraal.nl|omroepalmere.nl|oogtv.nl|radiocontinu.nl|radiovisie.eu|railhobby.nl|regionoordkop.nl|simone.nl|sleutelstad.nl|spreekbuis.nl|streamwijzer.be|thekinkyweb.nl|tradeidee.nl|voetbalrotterdam.nl|wegdamnieuws.nl|volleyvlaanderen.be|waterkant.net
 /wp-content/uploads/*.gif$image,domain=2sexcontact.nl|alblasserdamsnieuws.nl|bekijkporno.nl|ciaotutti.nl|coc.nl|cocamsterdam.nl|cocdeventer.nl|cochaaglanden.nl|dorpsklanken.online|edelmetaal-info.nl|geilverlangen.nl|hete-foto.nl|lekkerewebcams.nl|nieuws.xxx|noordernieuws.nl|onschuldigemeiden.nl|pornokartel.nl|regionoordkop.nl|seksmet.nl|sexmeid.nl|shespot.nl|sproeiendekutjes.nl|thekinkyweb.nl|tiener-sexverhalen.nl|tube.nederlandseporno.nl|tubelight.nl|unitednews.sr|wraaksex.nl|ero-meiden.nl|kechtube.com|motokicx.com|rtvpapendrecht.nl
@@ -277,7 +278,6 @@
 ||zwartewaterfm.nl/images/SponsorenZwarteWaterFM.jpg
 ! 2021
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
-/voicebericht/assets/images/videochat277x$image,domain=beeldbellen.xxx|erowerk.nl|geilegids.nl|privecam.nl|privesexlijn.nl|telefoonsex.xxx|tienersex.nl|videochat.nl
 /wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl
 ||a.scholieren.com/v/*$image,first-party
 ||a1mediagroep.nl/content/*/company/*/banne*.*?width=290&height=150
