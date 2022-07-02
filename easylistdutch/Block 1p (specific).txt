@@ -108,8 +108,7 @@
 ||goedkoopstekeukensduitsland.nl/wp-content/uploads/*/Keukenplaats.jpg
 ||golf.be/files/BannerImage/$image
 ||gowiththevlo.nl/wp-content/uploads/*/*_banner_gwtv.jpg$image
-||handbalstartpunt.nl/content/schoonkapje$image,first-party
-||handbalstartpunt.nl/images/banner_$image,first-party
+||handbalstartpunt.nl/*/banner$image
 ||hetnieuwsvandaag.be/media/cache/rectangle_image/media/image/*$image
 ||hotdatingvlaanderen.be/banner$image
 ||hotradiohits.nl/image/picture/*_banner.
