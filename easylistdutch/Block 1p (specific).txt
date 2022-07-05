@@ -118,6 +118,7 @@
 ||images.headliner.nl/img/campaigns$image
 ||ishotmyself.nl/include/*/promo/footer/
 ||itnijs.frl/wp-content/uploads/*/*/bannerItNijs
+||itnijs.frl/wp-content/uploads/*/adfertinsje
 ||kanaancourant.nl/wp-content/uploads/*/*advertentie*
 ||kilroynews.net^*banner
 ||kinkymedia.nl/wp-content/plugins/wp-ad-guru/*$script,first-party
