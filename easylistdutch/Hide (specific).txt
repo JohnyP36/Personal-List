@@ -308,6 +308,7 @@ oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
 okemedia.nl##.widget:has-text(Interessante links)
 omrekenen.org##.widget:has-text(/Gesponsoord/i)
 omrekenen.org##a[href^="https://www.onlinebingokaart.nl/"]
+omroepeemsdelta.nl###qtFooterWidgets:has(.gs_logo_single--wrapper)
 omroephouten.nl,radiomonique.am##.bannerswidget
 omroephouten.nl##.sponsor-carousel
 onderdanigeman.nl##aside.widget:has(script[src*="affilaxy.com"])
@@ -798,7 +799,7 @@ omroepalmere.nl##.widget_carousel_slider:has-text(Partners)
 omroepalmere.nl##[id^="media_image"]:not(:has-text(Met dank aan)):not(#media_image-24):not(#media_image-28)
 omroepbrabant.nl##div[class^="ad-"]
 omroepbrabant.nl,reclamefolder.nl##div[class^="ad_"]
-omroepeemsdelta.nl,radiozuidrand.be##aside:has-text(/advert/i)
+radiozuidrand.be##aside:has-text(/advert/i)
 omroeprsh.nl##[id*="media"]:has(img[width="300"]):not(:has([href*="youtube"]))
 omroepwest.nl,omroepzeeland.nl##.adcontainer
 oneworld.nl##.promotion-block
