@@ -23,7 +23,7 @@ appletips.nl##[class^="ph_block"]
 appletips.nl##a[href^="/adverteren-"]
 arenalokaal.nl,hetkrantje-online.nl##.content-start > .items-center:has([advobject])
 arenalokaal.nl##.content-start > * > div[style]:has-text(/Externe links|Externe websites/i)
-arenalokaal.nl,gooieneembode.nl,hetkrantje-online.nl##[advobject]:upward(.bg-gray-100):has-text(/Uit de krant/i)
+arenalokaal.nl,gooieneembode.nl,hetkrantje-online.nl,laardercourant.nl##[advobject]:upward(.bg-gray-100):has-text(/Uit de krant/i)
 autoblog.nl##.widget:has-text(/links/i)
 autoblog.nl##.widget_ab_sidebar
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
@@ -153,7 +153,7 @@ goldfm.be###sponsors-carousel
 golf.be##.header__bottom
 golf.be##.partners-holder
 golf.be##[class*="-ad-banner-box"]
-gooieneembode.nl##[advobject]:upward(div):has-text(/Uit de krant|advertenties/i)
+gooieneembode.nl,laardercourant.nl##[advobject]:upward(div):has-text(/Uit de krant|advertenties/i)
 gowiththevlo.nl###omc-sidebar li.gowit-widget:has(img):not(:has(a[href*="gowiththevlo.nl"]))
 gpfans.com##.leaderboardbg
 gpfans.com,playboy.nl##a[href^="https://casinoscout.nl/"]
@@ -645,8 +645,8 @@ goedkoopstekeukensduitsland.nl##[id^="text"]:has(a[href^="https://www.goedkoopst
 goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 golf.nl##.c-header__advert-container
 goodbye.be,sporza.be##.advertising
-laardercourant.nl,weespernieuws.nl##[class^="mb-"]:has([advobject^="webadv_"])
-laardercourant.nl,weespernieuws.nl##div[class*="krant-onder-web"]
+weespernieuws.nl##[class^="mb-"]:has([advobject^="webadv_"])
+weespernieuws.nl##div[class*="krant-onder-web"]
 gooieneemlander.nl,noordhollandsdagblad.nl,leidschdagblad.nl###advertorial-destination
 gostreaming.nl##a[rel*="sponsored"]
 grandprixradio.nl##[id^="custom_html-"]:has([src^="https://partner.bol.com/"])
