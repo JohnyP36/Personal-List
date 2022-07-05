@@ -195,6 +195,9 @@ infinance.nl##.slickcarousel
 infinance.nl##.widget:has-text(links)
 investmentofficer.nl##.region-banner
 investmentofficer.nl##[id*="dfptaghomeadvertorial"]:upward(.views-rows > .row > .col)
+itdaily.be###itdaily-article-sidebar
+itdaily.be###itdaily-footer
+itdaily.be###itdaily-home-floor
 jaap.nl##div[id^="property_ad_"]
 jammfm.nl##.owl-carousel:has(.sa_hover_container):has([style*="/banner"])
 jammfm.nl##div[class*="wrapper"]:has([class^="qt-slickslider"]:has(.qt-sponsor))
@@ -490,7 +493,7 @@ autosport.nl##.active.first:style(margin-top: 0px !important;)
 autosport.nl##.bigbanner
 autowereld.nl###banner-lister-top
 autowereld.nl###mainbanner
-autozine.nl,beleggersbelangen.nl,besteproduct.nl,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,radioluisterenlive.nl,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,wijlimburg.nl,xgn.nl##.ad
+autozine.nl,beleggersbelangen.nl,besteproduct.nl,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,radioluisterenlive.nl,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,wijlimburg.nl,xgn.nl##.ad
 azerty.nl##.block.mod_article > div a[href*="ictwaarborg.nl/"]
 baanwacht.nl##.shailan_banner_widget
 baarsclassicrock.nl##.widebanner
@@ -665,9 +668,6 @@ indiexl.nl###carousel-indiexl_partners_carousel_widget
 inmemoriam.be##.o-news__add
 intikkertje.nl##.vc_cta3-container
 interglot.nl##.pane_results > div:has-text(Ads)
-itdaily.be###itdaily-article-sidebar
-itdaily.be###itdaily-article-top
-itdaily.be###itdaily-footer
 itnijs.frl##.widget > .banner
 itwm.nl##[id^="tdi_"].tdc-row:has-text(Casino)
 jan-magazine.nl##.homepage-marquee
