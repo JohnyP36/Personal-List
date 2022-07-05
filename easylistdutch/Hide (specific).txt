@@ -213,6 +213,7 @@ kalender-365.nl###dish-top-desktop
 kavelplatform.nl##.row > div:has-text(/advert/i):has([src*="uploads/banner"])
 kbradio.nl##a[href="../../omroep/adverteren/"]
 kekmama.nl##[id^="section-ad-banner"]
+kidsweek.nl##.view-advertorial
 kieskeurig.nl##div[id*="gpt-ad"]
 kilroynews.net##table:has(a[href="http://www.waffen-jansen.de"])
 kinkymedia.nl##.adguru-ad-banner
@@ -683,7 +684,6 @@ janvissersweer.nl##[id^="custom_html-"]:has([src^="https://pagead2.googlesyndica
 janvissersweer.nl##.post:has-text(Sponsor)
 kanaalxxx.nl##.fpbnr
 keizerstad.nl##[id^="media_image"]
-kidsweek.nl##.node-advertorial
 kinderspelletjes.be,kinderspelletjes.nl##div[style*="width:970px"]:has-text(Reclame)
 kinderspelletjes.be,kinderspelletjes.nl##div[style^="width:336px;height:290px"]:has-text(Reclame)
 kinderspelletjes.nl###adBoven
