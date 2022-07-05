@@ -199,6 +199,7 @@ itdaily.be###itdaily-article-sidebar
 itdaily.be###itdaily-footer
 itdaily.be###itdaily-home-floor
 itnijs.frl##.banner:not(:has(a[href*="itnijs.frl"])):upward(.widget)
+jaap.nl##.details-rectangle:upward(1)
 jaap.nl##div[id^="property_ad_"]
 jammfm.nl##.owl-carousel:has(.sa_hover_container):has([style*="/banner"])
 jammfm.nl##div[class*="wrapper"]:has([class^="qt-slickslider"]:has(.qt-sponsor))
