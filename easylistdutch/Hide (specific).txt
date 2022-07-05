@@ -175,7 +175,7 @@ hardnieuws.nl##[id*="ros-300x600"]:upward(1)
 hartvannederland.nl,shownieuws.nl,vivandaag.nl##[data-testid^="banner"]
 hartvannederland.nl,shownieuws.nl,vandaaginside.nl,vivandaag.nl##div[class*="-bannerWrapper-"]
 headliner.nl###flex_left:has([id="div-gpt-ad"])
-historiek.net,mariabode.nl##[id^="custom_html"]:has-text(/advert/i)
+historiek.net##.ablok
 historiek.net##div[id^="ai_widget"]:has-text(/advert/i)
 hyc.be##div[class*="slider"]:has([class*="sliderwidget"])
 iex.nl##.ContentPartner
@@ -220,6 +220,7 @@ maaslandradio.nl,mariabode.nl,palnws.be##[id^="media_image"]:has-text(/advert/i)
 maaslandradio.nl###header-text-nav-container > .inner-wrap > .clearfix
 magazine.belgiancycling.be###section--banner
 mandelnieuws.be##div[class*="blocksponsors"]
+mariabode.nl##[id^="custom_html"]:has-text(/advert/i)
 marktnet.nl##li.linkUnit
 mediamarkt.nl##div[class^="AdWrapper"] + div[class^="SkeletonWrapper"]
 midvliet.nl##.bannergroup:upward(div[class^="t3-module"])
