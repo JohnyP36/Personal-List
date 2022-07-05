@@ -611,7 +611,7 @@ geileverhalen.nl##div.author-presentation-container:has([src^="https://go2.go2cl
 geldpedia.nl,manpedia.nl,vrouwpedia.nl##[id^="gridlove-module-"]:not(.module-type-posts):not(.module-type-cats)
 gezondheid.be###leaderbord
 gezondheid.be##[class^="gz-ads"]
-gfcnieuws.com,historiek.net##div.ai-viewport-1
+gfcnieuws.com##div.ai-viewport-1
 girlpics.nl##.cato_content:not(:has([href]))
 girlpics.nl###cato_top:has-text(/ads/i)
 girlpowerradio.nl##[class*="sponsorcarousel"]
