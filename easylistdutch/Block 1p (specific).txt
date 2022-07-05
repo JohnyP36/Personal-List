@@ -151,6 +151,9 @@
 ||nevobo.nl^*/sponsor/$image
 ||nieuwsfiets.nu/wp-content/uploads/2021/03/Hulphond*.jpg
 ||nieuwsopbeeld.nl/wp-content/uploads/*/Advertentie-
+||nljug.org/wp-content/uploads/*/*banner$image
+||nljug.org/wp-content/uploads/*/300*250*Inline-Rectangle$image
+||nljug.org/wp-content/uploads/2020/04/300x200-1.jpg
 ||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,first-party
 ||noordkopcentraal.nl/wp-content/uploads/*/Vrienden-van
 ||notebookcheck.nl/fileadmin/Sonstiges/amaz_$xmlhttprequest
