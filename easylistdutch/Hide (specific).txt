@@ -285,6 +285,7 @@ ninefornews.nl##div[class*="header-container"] a[class="gofollow"][href*="link"]
 nl.motorsport.com##.ms-hapb
 nl.motorsport.com##.ms-side-items--with-banner
 nl.motorsport.com##.ms-side-widget--custom-links__wrapper
+nl-nieuwsonline.nl###content-footer-section:has(.adsbygoogle)
 nnieuws.be##.content > .box:has(#partner-slider)
 nnp.nl##div[class^="p-4"]:has([class*="gray"]):has(a[data-source^="banner"])
 noordkopcentraal.nl##.bannerListWidget
