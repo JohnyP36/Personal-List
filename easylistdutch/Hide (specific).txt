@@ -298,6 +298,7 @@ oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
 okemedia.nl##.widget:has-text(Interessante links)
 omrekenen.org##.widget:has-text(/Gesponsoord/i)
 omrekenen.org##a[href^="https://www.onlinebingokaart.nl/"]
+onderdanigeman.nl##aside.widget:has(script[src*="affilaxy.com"])
 onderwijsland.com##.col-md-16:has([style*="greystripe"])
 onderwijsland.com##.widgetbar > div.row > :has(.widget-partners)
 onderwijsland.com##.widgetbar > div.row > :has-text(Advert)
