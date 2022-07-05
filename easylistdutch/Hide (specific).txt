@@ -247,6 +247,7 @@ mediamarkt.nl##div[class^="AdWrapper"] + div[class^="SkeletonWrapper"]
 midvliet.nl##.bannergroup:upward(div[class^="t3-module"])
 mijnserie.nl,nailtalk.nl##a[href^="https://partnerprogramma.bol.com/"]
 mijnserie.nl,trappers.nl,volleybelgium.be##.sponsors
+mijnserie.nl##.sponsors-billboard:upward(.fullWidthWhite)
 minecrafttoplist.nl##.fancy-wrap
 mnm.be,stubru.be###reclameblok-wrapper
 mnm.be##div[class^="grid-item"]:has(div:has-text(/advert/i))
