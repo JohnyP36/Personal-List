@@ -178,6 +178,8 @@ headliner.nl###flex_left:has([id="div-gpt-ad"])
 historiek.net##.ablok
 historiek.net##div[id^="ai_widget"]:has-text(/advert/i)
 hyc.be##div[class*="slider"]:has([class*="sliderwidget"])
+iculture.nl##.ad-top-desktop
+iculture.nl##.feed-ad-wrapper
 iex.nl##.ContentPartner
 iex.nl##.js-banner
 iex.nl##.network:has-text(Gesponsorde links)
