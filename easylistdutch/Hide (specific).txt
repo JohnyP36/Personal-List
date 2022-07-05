@@ -273,9 +273,6 @@ newspower.nu##aside[class^="td_block"]:has-text(/advert/i):has(.gofollow)
 nieuweoogst.nl##.logolinks-wrapper
 nieuws.nl###footer-banner
 nieuwsfiets.nu##.ult-content-box > a[href]:not([href*="nieuwsfiets.nu"]):not([href*="questionpro.com"])
-nieuwsonline.nu##.clearfix:has(img[src*="/header/"])
-nieuwsonline.nu##.split-images-news-section:has(.section-title:has-text(/Advert/i))
-nieuwsonline.nu##.widget-title:has-text(/Advert|AD/):upward(1):not(:has-text(/gratis video ad bij het plaatsen van een advert/i))
 nieuwsuitdelden.nl##.gesponsord_blokje
 nieuwsuitnijmegen.nl##.js-banner-slider
 nieuwsuitnijmegen.nl##.text-left:has-text(/advert/i)
