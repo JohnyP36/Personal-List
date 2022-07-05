@@ -249,6 +249,7 @@ mijnserie.nl,trappers.nl,volleybelgium.be##.sponsors
 mijnserie.nl##.sponsors-billboard:upward(.fullWidthWhite)
 minecrafttoplist.nl##.fancy-wrap
 mnm.be,stubru.be###reclameblok-wrapper
+mnm.be##.ad--rectangle:upward(1)
 mnm.be##div[class^="grid-item"]:has(div:has-text(/advert/i))
 modekoninginmaxima.nl##.adsbygoogle
 modekoninginmaxima.nl##.region-top-advertisement
