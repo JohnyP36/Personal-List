@@ -177,6 +177,9 @@ hartvannederland.nl,shownieuws.nl,vandaaginside.nl,vivandaag.nl##div[class*="-ba
 headliner.nl###flex_left:has([id="div-gpt-ad"])
 historiek.net##.ablok
 historiek.net##div[id^="ai_widget"]:has-text(/advert/i)
+hoekschnieuws.nl##.td-a-rec.td-a-rec-id-content_bottom > a[href]
+hoekschnieuws.nl##.widget[class^="td_block_template"]:has-text(/Advert/i)
+hoekschnieuws.nl##body > center:has(a[href]:has(img))
 hyc.be##div[class*="slider"]:has([class*="sliderwidget"])
 iculture.nl##.ad-top-desktop
 iculture.nl##.feed-ad-wrapper
@@ -662,8 +665,6 @@ hdtienersexfilms.nl,poepsexfilmstube.nl,rapetube.eu,tubeseks.be###tracking-url
 heracles.nl##.fixed-ads
 heracles.nl##.footer-blocks
 heracles.nl##.footer-sponsors
-hoekschnieuws.nl##.widget[class^="td_block_template"]:has-text(/Advert/i)
-hoekschnieuws.nl##body > center:has(a[href]:has(img))
 hollywoodhuizen.nl##div[class^="post-content description"] > div[class]:has(.adsbygoogle):not([id])
 hotradiohits.nl###tpl_banners
 hyvesgames.nl##.gamereel_featured-ad
