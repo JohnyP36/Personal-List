@@ -188,6 +188,8 @@ iex.nl##[class^="billboardwrap"]
 iex.nl##section:has-text(advertentie)
 ijshockeynederland.nl##.adswiper:upward(1)
 ijshockeynederland.nl##div[class^="column col"]:has(img[src*="/uploads/ads"])
+immo.vlan.be,vakantieweb.be##[id^="rossel-leaderboard"]
+immo.vlan.be,vakantieweb.be##[class*="partners"]
 indignatie.nl##[id^="custom_html"]:has([src^="https://pagead2.googlesyndication.com/"])
 infinance.nl##.slickcarousel
 infinance.nl##.widget:has-text(links)
@@ -376,7 +378,6 @@ tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
 tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
 unitednews.sr###image-vertical-reel-scroll-slideshow
 unitednews.sr##.slider-container
-vakantieweb.be##.partners-immo
 vakantieweb.be##.pub-imu
 vandaaginside.nl##div[class^="Component-bannerTopWrapper-"]
 veronicasuperguide.nl##div[id][class^="css"]
@@ -659,8 +660,6 @@ hotradiohits.nl###tpl_banners
 hyvesgames.nl##.gamereel_featured-ad
 iexgeld.nl##.LeaderboardContainer
 iexgeld.nl##.Rectangle
-immo.vlan.be###ProvidersBox
-immo.vlan.be###TopCompareBox
 indebuurt.nl##.widget-tabs--partner
 indiexl.nl###carousel-indiexl_partners_carousel_widget
 inmemoriam.be##.o-news__add
