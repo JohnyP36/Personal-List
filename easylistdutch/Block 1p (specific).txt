@@ -150,7 +150,6 @@
 ||neukcontacten.info/images/pikant.$image
 ||nevobo.nl^*/sponsor/$image
 ||nieuwsfiets.nu/wp-content/uploads/2021/03/Hulphond*.jpg
-||nieuwsonline.nu/header/*advertentie.$image
 ||nieuwsopbeeld.nl/wp-content/uploads/*/Advertentie-
 ||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,first-party
 ||noordkopcentraal.nl/wp-content/uploads/*/Vrienden-van
