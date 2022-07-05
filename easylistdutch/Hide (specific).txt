@@ -198,6 +198,7 @@ investmentofficer.nl##[id*="dfptaghomeadvertorial"]:upward(.views-rows > .row > 
 itdaily.be###itdaily-article-sidebar
 itdaily.be###itdaily-footer
 itdaily.be###itdaily-home-floor
+itnijs.frl##.banner:not(:has(a[href*="itnijs.frl"])):upward(.widget)
 jaap.nl##div[id^="property_ad_"]
 jammfm.nl##.owl-carousel:has(.sa_hover_container):has([style*="/banner"])
 jammfm.nl##div[class*="wrapper"]:has([class^="qt-slickslider"]:has(.qt-sponsor))
@@ -668,7 +669,6 @@ indiexl.nl###carousel-indiexl_partners_carousel_widget
 inmemoriam.be##.o-news__add
 intikkertje.nl##.vc_cta3-container
 interglot.nl##.pane_results > div:has-text(Ads)
-itnijs.frl##.widget > .banner
 itwm.nl##[id^="tdi_"].tdc-row:has-text(Casino)
 jan-magazine.nl##.homepage-marquee
 janvissersweer.nl##[id^="custom_html-"]:has([src^="https://pagead2.googlesyndication.com/"])
