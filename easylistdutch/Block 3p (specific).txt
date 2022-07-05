@@ -15,6 +15,7 @@
 ||nexclic.com/pics/image*.gif$domain=dutchleader.nl
 ||ouders.nl/uploads/alt/$domain=viafora.nl
 ||pubble.nl/Content.svc/getAdCollection?
+||rss.app/api/widget/$domain=hollywoodhuizen.nl
 ||seks.com/img/*.gif$image
 ||seks.com/snacc.jpg$image
 ||seksverhalen.org/telefoonsex.png
