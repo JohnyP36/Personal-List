@@ -282,6 +282,9 @@ ninefornews.nl##[id*="block"]:has([class^="mag-box-container"] > *:has(div[class
 ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3)
 ninefornews.nl##div[class^="mag-box"] + #adskeeper
 ninefornews.nl##div[class*="header-container"] a[class="gofollow"][href*="link"]
+nl.motorsport.com##.ms-hapb
+nl.motorsport.com##.ms-side-items--with-banner
+nl.motorsport.com##.ms-side-widget--custom-links__wrapper
 nnieuws.be##.content > .box:has(#partner-slider)
 nnp.nl##div[class^="p-4"]:has([class*="gray"]):has(a[data-source^="banner"])
 noordkopcentraal.nl##.bannerListWidget
@@ -776,7 +779,6 @@ nieuwsfiets.nu##.ult-content-box-container
 nieuwsfiets.nu##.wpb_raw_html[class*="us_custom_"]:has(.wpb_wrapper)
 nieuwslog.nl##.wp-block-genesis-blocks-gb-columns:has(a[href*="/go/www.bet365.nl/"])
 nieuwsmotor.nl##.add-background
-nl.motorsport.com##.ms-hapb
 !nljug.org##div[id*="custom_html"]:has(div[class="widget-top"]):has-text(/partners/i)
 nlsexfilmpjes.com###left_div li:not(:scope > a[target="_blank"])
 nlsexfilmpjes.com###toplist_bodem li:not(:scope > a[target="_blank"])
