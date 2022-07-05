@@ -259,7 +259,7 @@ motocrossplanet.nl##div[class*="banner"]
 motocrossplanet.nl##div[class*="col"]:has-text(/advert/i)
 mr-online.nl##.elementor-widget-container:has(div[class*="bnr"])
 mr-online.nl##.elementor-widget-wrap > *:has-text(/advert/i):has(div[class*="bnr"])
-mr-online.nl##.type_partner-profielpartner
+mr-online.nl##a[href="/partner/profielpartner/"]:upward(.elementor-widget-wrap)
 musicmeter.nl##.external
 mygaydate.nl##.rand:has([href^="https://www.shemalecontactnederland.nl/"])
 nailtalk.nl##.ashe-widget
