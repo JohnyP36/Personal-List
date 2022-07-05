@@ -208,6 +208,7 @@ jammfm.nl##.owl-carousel:has(.sa_hover_container):has([style*="/banner"])
 jammfm.nl##div[class*="wrapper"]:has([class^="qt-slickslider"]:has(.qt-sponsor))
 kalender-365.nl###dish-top-desktop
 kavelplatform.nl##.row > div:has-text(/advert/i):has([src*="uploads/banner"])
+kbradio.nl##a[href="../../omroep/adverteren/"]
 kieskeurig.nl##div[id*="gpt-ad"]
 kilroynews.net##table:has(a[href="http://www.waffen-jansen.de"])
 kinkymedia.nl##.adguru-ad-banner
