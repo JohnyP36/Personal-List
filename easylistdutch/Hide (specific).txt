@@ -58,6 +58,8 @@ binnenlandsbestuur.nl##aside div[class="c-teaser"]:not(:has(a[href*="binnenlands
 binnenvaartkrant.nl,christmaholic.nl,curacao.nu,dartfreakz.nl,dbsuriname.com,oogtv.nl,regioinbedrijf.nl,seksmet.nl,sleutelstad.nl,westerwoldeactueel.nl##.g
 briefjevanjan.nl##.aligncenter > [href^="https://partner.bol.com/"]
 briefjevanjan.nl##.widget:has([href^="https://partner.bol.com/"])
+buienradar.be,buienradar.nl###adholderContainerHeader
+buienradar.nl##.uitradar:has(img[src*=".nl/resources//images/promo/"])
 businessinsider.nl##.ll_partnerexpert
 ciaotutti.nl##.theiaStickySidebar > .text-html-box:not(:has(a[href^="https://ciaotutti.nl/"])):not(:has(a[href^="http://eepurl.com/"])):not(:has(a[href*="facebook.com/blogciaotutti"]))
 cip.nl##a[href*="/ad/click/"]:not(.podcast-inline a[href]):not(:has-text(/vacatures/i)):not(:has-text(/gesponsord/i))
@@ -541,8 +543,6 @@ bollywood.nl##a[href^="https://www.onderdelenshop24.com/"]
 bollenstreekomroep.nl,omroepspakenburg.nl##.wpb_wrapper[data-td-block-uid^="tdi_"]:has(.owl-item)
 brandweerspotters.nl###banners:has-text(Sponsors)
 bruzz.be,omroepflevoland.nl,sportuitslagen.org,trendalert.nl##.ad-container
-buienradar.be,buienradar.nl###adholderContainerHeader
-buienradar.nl##.uitradar:has(img[src*=".nl/resources//images/promo/"])
 buzzbie.nl##.TS_Banner_Spot
 cabla.nl##.ontwerp_ads
 camping-frankrijk.nl##div[class^="content-home"]:has([id*="HyperLinkBanner"])
