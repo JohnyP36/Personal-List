@@ -44,7 +44,7 @@ belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
 belegger.nl,beursgorilla.nl##article[class*="plus"]:contains(plus500)
 belegger.nl##.Textads:upward(.ContentRightBlock)
 beleggersbelangen.nl##.promo
-belgiancycling.be,zoekhulp.nl###banner
+belgiancycling.be,nieuwsfiets.nu,zoekhulp.nl###banner
 belgischecasinos.be,newspower.nu##.gofollow
 besteproduct.nl##[id^="ad-block"]
 beursgorilla.nl##.js--billboard.ut--billboard
@@ -272,6 +272,7 @@ netxxx.nl##hr:nth-of-type(1)
 newspower.nu##aside[class^="td_block"]:has-text(/advert/i):has(.gofollow)
 nieuweoogst.nl##.logolinks-wrapper
 nieuws.nl###footer-banner
+nieuwsfiets.nu##.ult-content-box > a[href]:not([href*="nieuwsfiets.nu"]):not([href*="questionpro.com"])
 nieuwsonline.nu##.clearfix:has(img[src*="/header/"])
 nieuwsonline.nu##.split-images-news-section:has(.section-title:has-text(/Advert/i))
 nieuwsonline.nu##.widget-title:has-text(/Advert|AD/):upward(1):not(:has-text(/gratis video ad bij het plaatsen van een advert/i))
@@ -775,8 +776,6 @@ netxxx.nl##.widget:has(img[src])
 niburu.co##.sponsers
 nieuwnieuws.nl##.article-page__bumper
 nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
-nieuwsfiets.nu##.ult-content-box-container
-nieuwsfiets.nu##.wpb_raw_html[class*="us_custom_"]:has(.wpb_wrapper)
 nieuwslog.nl##.wp-block-genesis-blocks-gb-columns:has(a[href*="/go/www.bet365.nl/"])
 nieuwsmotor.nl##.add-background
 !nljug.org##div[id*="custom_html"]:has(div[class="widget-top"]):has-text(/partners/i)
