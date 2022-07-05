@@ -343,6 +343,7 @@ radio.nl##[id^="takeover"]:has-text(Advert)
 radionl.fm##.desktop_mobile:not(a[href*="radionl.fm"])
 radioviainternet.be##.banner-size-leaderbord
 radiovisie.eu##[id^="custom_html"]:has(.adsbygoogle)
+radiozuidrand.be##aside:has-text(/advert/i)
 reformatorischeomroep.nl##section:has(.item-banner)
 rickfm.nl###advertisement
 risallah.com##[class^="zijbalk"] > table > tbody:has-text(Advertentie)
@@ -799,7 +800,6 @@ omroepalmere.nl##.widget_carousel_slider:has-text(Partners)
 omroepalmere.nl##[id^="media_image"]:not(:has-text(Met dank aan)):not(#media_image-24):not(#media_image-28)
 omroepbrabant.nl##div[class^="ad-"]
 omroepbrabant.nl,reclamefolder.nl##div[class^="ad_"]
-radiozuidrand.be##aside:has-text(/advert/i)
 omroeprsh.nl##[id*="media"]:has(img[width="300"]):not(:has([href*="youtube"]))
 omroepwest.nl,omroepzeeland.nl##.adcontainer
 oneworld.nl##.promotion-block
