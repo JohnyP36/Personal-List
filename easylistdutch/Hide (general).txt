@@ -8,7 +8,7 @@
 ###rightbanner_adbest
 ###sidereclame
 ##.adstekst
-!deoudrotterdammer.nl##.advertentie
+!deoudrotterdammer.nl,nuus.be##.advertentie
 ##.advertentie
 !dorpsklanken.online##.advertenties
 ##.advertenties
