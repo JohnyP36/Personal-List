@@ -308,6 +308,8 @@ oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
 okemedia.nl##.widget:has-text(Interessante links)
 omrekenen.org##.widget:has-text(/Gesponsoord/i)
 omrekenen.org##a[href^="https://www.onlinebingokaart.nl/"]
+omroephouten.nl,radiomonique.am##.bannerswidget
+omroephouten.nl##.sponsor-carousel
 onderdanigeman.nl##aside.widget:has(script[src*="affilaxy.com"])
 onderwijsland.com##.col-md-16:has([style*="greystripe"])
 onderwijsland.com##.widgetbar > div.row > :has(.widget-partners)
@@ -797,7 +799,6 @@ omroepalmere.nl##[id^="media_image"]:not(:has-text(Met dank aan)):not(#media_ima
 omroepbrabant.nl##div[class^="ad-"]
 omroepbrabant.nl,reclamefolder.nl##div[class^="ad_"]
 omroepeemsdelta.nl,radiozuidrand.be##aside:has-text(/advert/i)
-omroephouten.nl##.sponsor-carousel
 omroeprsh.nl##[id*="media"]:has(img[width="300"]):not(:has([href*="youtube"]))
 omroepwest.nl,omroepzeeland.nl##.adcontainer
 oneworld.nl##.promotion-block
@@ -849,7 +850,6 @@ radioacacia.nl##table[width="680"]:has(img[src^="sponsoren/"])
 radiocontinu.nl##.eskimo-slider-img:upward(5)
 radiocontinu.nl##.eskimo-slider-img:upward(11) + div[class]:has([id^="div-gpt-ad"])
 radioeenhoorn.nl##.module_round_box
-radiomonique.am##.bannerswidget
 radiopros.be##.inside-left-sidebar
 radioreflex.be##aside:has-text(/sponsor/i)
 radiozenders.fm##.banner-rectangle:not(:nth-of-type(3))
