@@ -229,6 +229,7 @@ klapjes.nl##div[class*="Sidebar"] img[src*="/hoomezaz"][src*=".gif"]:upward(3)
 kledingmaten.nl##[id^="text-"]:has-text(/advert/i)
 kledingmaten.nl##aside[id^="custom"]:has(script[src*="cookie"])
 knack.be##.js-partner-content
+leerzaam.com##[id^="custom_html-"]:has(.adsbygoogle)
 lonelyplanet.nl##div[id*="adf-billboard"]
 maarkelsnieuws.nl##.banner-secondary-sidebar:not(:has(img[src*="weerbanner"]))
 maarkelsnieuws.nl##.banner-widget
@@ -702,7 +703,6 @@ kutscheetje.nl##[id^="text"]:has([src*="banner"])
 landbouwgrond.nu##div[style]:has(.adsbygoogle)
 landenweb.nl##.content > table:has(:scope > tbody:has-text(advert))
 leerlingen.com##.clearfix.widget > :has(.sponsors)
-leerzaam.com##p:has(.adsbygoogle)
 leiderdorpsweekblad.nl##.adUnderArticle
 lesoir.be##.r-pub--leader
 linqmedia.nl##.advertentieTitel
