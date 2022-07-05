@@ -19,6 +19,12 @@ palnws.be#@#.adlink
 palnws.be#@#.ads-wrapper
 palnws.be#@#.jeg_ad
 palnws.be#@#.jeg_ad_top
+radiozuidrand.be#@#.advertisement_300x250
+radiozuidrand.be#@#.advertisement_728x90
+radiozuidrand.be#@#.advertisement-content
+radiozuidrand.be#@#.single_ad_300x250
+radiozuidrand.be#@#.widget_300x250_advertisement
+radiozuidrand.be#@#.widget_728x90_advertisement
 sexervaringdelen.com#@#.footer-ad
 sexverhalen.com#@#.widget_ads
 speurdeals.nl#@#.ad_description
