@@ -594,7 +594,7 @@ digitaalburg.com##aside[class^="widget widget_text"]
 direct-sexdate.be##div.card:has(img[src*="/banner"])
 dissident.one##.td-adspot-title
 dolcevia.com,h2owaternetwerk.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
-dominant.be,pornno.be,pornofilmpjes.be,sextoons.be,tiener-sex.be###video-sidebar-wrap
+dominant.be,sextoons.be,tiener-sex.be###video-sidebar-wrap
 doorbraak.be###top-advertisement-area
 dorpsklanken.online##.ads-mobiel
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
