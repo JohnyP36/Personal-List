@@ -87,7 +87,6 @@
 ||dutchitchannel.nl/media/6*/*.jpg$third-party
 ||dutchleader.nl/php/banex/$third-party
 ||enviedeplus.be^*_banner_$third-party
-!||images.islive.nl/snapshot/*/200x150$image,domain=nederlandsextube.nl
 ||powerconnect.be^*/poweractie.jpg$third-party
 ||totaalwijzer.nl/widget/$third-party
 ||widget.vpnnederland.nl/VPNNederland-widget.js$domain=nzbserver.com
