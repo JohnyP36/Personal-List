@@ -83,7 +83,6 @@
 ||cinkeltrading.nl/pics/*.gif$domain=cumcams.nl
 ||custom.islive.nl/_respo/*.gif$image,domain=camsex.nl
 ||digitalaudience.io/bakery/pix/$image,third-party
-||disqus.com/recommendations/$subdocument,domain=webmastersunited.com
 ||dutchitchannel.nl/media/6*/*.jpg$third-party
 ||dutchleader.nl/php/banex/$third-party
 ||enviedeplus.be^*_banner_$third-party
