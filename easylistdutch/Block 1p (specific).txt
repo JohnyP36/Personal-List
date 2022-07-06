@@ -121,7 +121,7 @@
 ||itnijs.frl/wp-content/uploads/*/adfertinsje
 ||kanaancourant.nl/wp-content/uploads/*/*advertentie*
 ||kilroynews.net^*banner
-||kinkymedia.nl/wp-content/plugins/wp-ad-guru/*$script,first-party
+||kinkymedia.nl/wp-content/plugins/wp-ad-guru/
 ||kinkymedia.nl/wp-content/uploads/*vierkant*$image
 ||klapjes.nl/hoomezaz/*/*970x90$image
 ||klapjes.nl/hoomezaz/*/*.gif
