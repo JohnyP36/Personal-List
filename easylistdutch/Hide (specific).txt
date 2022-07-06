@@ -331,6 +331,7 @@ oogtv.nl##.home-banner
 opwindend.net##div.Tab:has(img[src^="Promotie_Content/"])
 palnws.be##.adlink:not(:has([src*="PalNWS"]))
 palnws.be##.ads-wrapper:not(:has(a[href*="palnws.be"]))
+palnws.be##.content-inner > .palnw-target:has([id^="div-gpt-ad"])
 palnws.be##.jeg_ad:not(:has(a[href*="palnws.be"]))
 palnws.be##.jeg_ad_top:not(:has(a[href*="palnws.be"]))
 palnws.be##.palnw-widget:has-text(Advert)
