@@ -176,7 +176,7 @@ hardnieuws.nl##[class*="mb-"]:has([id$="ros-970x250"])
 hardnieuws.nl##[id*="ros-300x600"]:upward(1)
 hartvannederland.nl,shownieuws.nl,vivandaag.nl##[data-testid^="banner"]
 hartvannederland.nl,shownieuws.nl,vandaaginside.nl,vivandaag.nl##div[class*="-bannerWrapper-"]
-hdtienersexfilms.nl##.happy-sidebar
+hdtienersexfilms.nl,rapetube.eu##.happy-sidebar
 hdtienersexfilms.nl,poepsexfilmstube.nl,rapetube.eu,tubeseks.be###tracking-url
 headliner.nl###flex_left:has([id="div-gpt-ad"])
 historiek.net##.ablok
