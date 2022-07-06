@@ -75,8 +75,6 @@
 ||wp.com/www.appletips.nl/wp-content/uploads/Handyman-inCharge6.gif$image,domain=appletips.nl
 ||xmissy.nl/admnfiles1809/*/freechatbanner_$image,domain=biertijd.xxx
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
-! 22-07-2021 https://github.com/BPower0036/AdBlockFilters/commit/c11105cced861d9edbf33e87aae4ceb7967c765d#diff-fc048d7e10fe1949b116223817a5fe2092d99d04ba533eb3c09e8b79c8723bef
-/^https?:\/\/statics\.(?:ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
 ! 10-07-2021
 ||blablacar.nl/widget-driver/$third-party
 ||booking.com/flexiproduct.html$domain=puuropreis.nl
