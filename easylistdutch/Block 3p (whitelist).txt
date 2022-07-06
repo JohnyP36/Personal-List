@@ -51,7 +51,7 @@
 @@||sync.search.spotxchange.com/partner?source=easi$image,domain=www.radioluisteren.fm
 @@||tools.islive.nl/cam*/*.html?$domain=xmissy.nl
 @@||tools.vpscash.nl/datingv3/docs/plug_and_play/islive/*$subdocument,domain=flirtmee.nl
-@@||tools.vpscash.nl/datingv3/docs/plug_and_play/islive/$script,domain=beeldbelsex.com|camsexgirls.nl|cumcams.nl|cumcamsgirls.nl|gratiscamsexchat.nl|livesexwebcammeiden.nl|meidenvoorthuisontvangst.nl|nederlandsewebcamseks.nl|nlwebcambabes.nl|seksverhaaltjes.nl|tube.nederlandseporno.nl|webcamxxxlive.nl|xxxcamlive.nl
+@@||tools.vpscash.nl/datingv3/docs/plug_and_play/islive/$script,domain=beeldbelsex.com|camsexgirls.nl|cumcamsgirls.nl|gratiscamsexchat.nl|livesexwebcammeiden.nl|meidenvoorthuisontvangst.nl|nederlandsewebcamseks.nl|nlwebcambabes.nl|seksverhaaltjes.nl|tube.nederlandseporno.nl|webcamxxxlive.nl|xxxcamlive.nl
 @@||tools.vpscash.nl/webcams/promo/plug_play_webcams/*$subdocument,domain=beeldbelsex.com
 @@||ultimedia.com/js/common/smart.js$script,domain=lesoir.be
 @@||videoplaza.tv/*/pulse-sdk-html5/*$script,domain=rtl.be
