@@ -347,6 +347,7 @@ proshop.nl##.site-home-banner
 proshop.nl##.site-top-banner
 psv.nl##.toto
 puurnaturisme.nl##aside div:has(.bannergroup_noborder)
+puuropreis.nl##.banneritem:not(:has([href^="/component/banners/click"]))
 qmusic.nl##.inline-partners
 racesport.nl##.hthb-notification
 racesport.nl##.rs_sponsorbanners_widget:upward(1)
@@ -848,7 +849,6 @@ pornozot.com##[id$="iframe"]:has-text(/Reclame/i)
 prewarcar.nl##.banner-holder
 prewarcar.nl##img[width="160"][height="92"]
 proximus.be##.col.pix-sidebar
-puuropreis.nl##.banner-column
 qseks.nl###black-studio-tinymce-2:has-text(Advertentie)
 quickclaims.nl##.overlay:has([src^="blob:https://quickclaims.nl/"])
 racingnews365.nl##.branded-countdown__content__partner-wrapper
