@@ -89,6 +89,5 @@
 ||enviedeplus.be^*_banner_$third-party
 !||images.islive.nl/snapshot/*/200x150$image,domain=nederlandsextube.nl
 ||powerconnect.be^*/poweractie.jpg$third-party
-||statics.*.nl/js/advertising-$script,domain=ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
 ||totaalwijzer.nl/widget/$third-party
 ||widget.vpnnederland.nl/VPNNederland-widget.js$domain=nzbserver.com
