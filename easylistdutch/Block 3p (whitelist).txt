@@ -23,7 +23,7 @@
 ! 2021-11-
 @@||affilaxy.com/promos/plugnplay/generators/sexklik/php/*$subdocument,domain=genotsplekje.nl
 @@||affilaxy.com/promos/plugnplayresponsive/generators/sexklik/php/plug-play.php$subdocument,domain=sproeiendekutjes.nl
-@@||affilaxy.com/promos/regforms/generators/sexklik/php/register_form.php$domain=geile-sexcontacten.be|ikneukgraag.nl|sexdating-vrouwen.be|vrouwen-sexdate.be|vrouwensexdate.nl
+@@||affilaxy.com/promos/regforms/generators/sexklik/php/register_form.php$domain=geile-adressen.nl|geile-sexcontacten.be|ikneukgraag.nl|sexdating-vrouwen.be|vrouwen-sexdate.be|vrouwensexdate.nl
 @@||aka.spotxcdn.com/integration/ados/v1/ados.js$script,domain=www.radioluisteren.fm
 @@||/assets/cp/*/webcam_gallery/*$script,stylesheet
 !domain=camsexgirls.nl|cumcams.nl|cumcamsgirls.nl|goedkopewebcamsexs.nl|gratiscamsexchat.nl|livesexwebcammeiden.nl|meidenvoorthuisontvangst.nl|nederlandsewebcamseks.nl|nlwebcambabes.nl|webcamxxxlive.nl|xxxcamlive.nl
