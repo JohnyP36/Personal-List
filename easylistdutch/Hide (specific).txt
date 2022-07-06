@@ -404,6 +404,7 @@ tpo.nl##[id$="halfpage"]
 tpo.nl##div.ads-contain
 tube.nederlandseporno.nl##[id^="custom_html"]:has-text(/Polder Webcamsex|Sex contact/)
 tube.nederlandseporno.nl##h3:has-text(/Sexdating|Webcamsex/)
+tubeseks.be##.site-footer
 tvblik.nl##.banner-fluid
 tvblik.nl,voetbalrotterdam,webwoordenboek.nl##div[class^="r89-desktop"]
 tvgids.nl##.square-item:has( > .banner)
