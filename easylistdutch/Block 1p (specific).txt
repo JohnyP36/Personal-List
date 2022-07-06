@@ -181,7 +181,7 @@
 ||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/logo1-default_new-$image
 ||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/Logo-Ridder-RGB_$image
 ||optimole.com/*/https://www.jammfm.nl/wp-content/uploads/*/JammFM*-banner$image
-||opwindend.net/Promotie*.php?$subdocument
+||opwindend.net/Promotie_Content/
 ||outdoor-sex.nl/wp-content/uploads/*/buitenseks.$image
 ||outdoor-sex.nl/wp-content/uploads/*/Sexindeprovincie-$image
 ||paypro.nl/payproads/
