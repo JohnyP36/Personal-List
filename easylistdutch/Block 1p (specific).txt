@@ -236,6 +236,7 @@
 ||static.sexcamsites.nl/dsx/voicebericht/assets/images/sexlijnen-saldo-opwaarderen
 ||static.sexcamsites.nl/dsx/voicebericht/assets/images/startpaginabnr$image
 ||static1.qmusic.medialaancdn.*/*/*_Banner_840x250
+||statics.*.nl/js/advertising-$script,domain=ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
 ||teen-sex.nl/wp-content/uploads/*/900x250$image
 ||teen-sex.nl/wp-content/uploads/*/SP1600x150.jpg$image
 ||te-les-koop.nl/images/B_
