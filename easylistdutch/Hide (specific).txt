@@ -271,6 +271,8 @@ musicmeter.nl##.external
 mygaydate.nl##.rand:has([href^="https://www.shemalecontactnederland.nl/"])
 nailtalk.nl##.ashe-widget
 nd.nl#?#.text-center:-abp-contains(advert)
+nederlandsextube.nl##.prefilm
+nederlandsextube.nl##.side
 nedporno.com##.publ1s-b0ttom
 nedporno.com##.text-center:has-text(/Reclame/i)
 nedporno.com##[class^="r1ght-pl4yer"]
@@ -784,8 +786,6 @@ motorrijdenexpert.nl##div[class*="full-row relative-row"]:has([href]):has([class
 !nederland.fm###xbtm > .shadow
 !nederland.fm###xttm > .shadow
 nederlandsexdate.nl##.card-header:has-text(Advertentie)
-nederlandsextube.nl##.prefilm
-nederlandsextube.nl##.side
 nederlandsmedianieuws.nl##.sidebar:has-text(Advert)
 negerinnensexdating.eu##[class="rand nomobile"]:has(a[href*="net69.nl/genre"])
 netxxx.nl##.widget:has(img[src])
