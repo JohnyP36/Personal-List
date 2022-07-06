@@ -1,4 +1,5 @@
 ! 2022
+*$image,3p,domain=kinkymedia.nl
 /banner$image,domain=kinkydatingnederland.nl|milfdatingnederland.nl|mygaydate.nl
 ||cdn.topescort.com/static/bn/$image,domain=sexguide.nl
 ||danny.media-totaal.nl/wp-admin/admin-ajax.php$domain=dekrantvantynaarlo.nl
@@ -88,6 +89,5 @@
 !||images.islive.nl/snapshot/*/200x150$image,domain=nederlandsextube.nl
 ||powerconnect.be^*/poweractie.jpg$third-party
 ||statics.*.nl/js/advertising-$script,domain=ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
-||t.whalehunter.cash/tiny/*$image,domain=kinkymedia.nl
 ||totaalwijzer.nl/widget/$third-party
 ||widget.vpnnederland.nl/VPNNederland-widget.js$domain=nzbserver.com
