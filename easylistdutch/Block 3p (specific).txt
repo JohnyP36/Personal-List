@@ -41,7 +41,7 @@
 ||bitvavo.com/assets/static/widget/$subdocument,domain=cryptosjop.nl
 ||blob.core.windows.net/*/content/regiovoetbal/*_banner.*$image,domain=regio-voetbal.nl
 ||bnmedia.jentcdn.net/media/*/shared/*/fm/*/1*_*.png$domain=feyenoordpings.nl
-||cdn.agf.nl/nieuws/gif-jpg/*.gif$image,domain=groentennieuws.nl|uiennieuws.nl
+||cdn.agf.nl/nieuws/*.gif$image,domain=agf.nl|groentennieuws.nl|uiennieuws.nl
 ||cdn.shopsuite.com/js/layer.js$script,domain=franska.nl
 ||cloudfront.net/-/media/6-parnerships/$domain=feyenoord.nl
 ||cloudfront.net/banners/$domain=eredivisie.nl
@@ -77,7 +77,6 @@
 ! 10-07-2021
 ||blablacar.nl/widget-driver/$third-party
 ||booking.com/flexiproduct.html$domain=puuropreis.nl
-||cdn.agf.nl/nieuws/*.gif$domain=agf.nl
 ||cdn.media.zylom.com/images/site/zylom/promo/$third-party
 ||cdn.sbsnet.nl/creatives/assets/*.mp4$domain=kijk.nl
 ||cinkeltrading.nl/pics/*.gif$domain=cumcams.nl
