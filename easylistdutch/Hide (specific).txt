@@ -147,6 +147,7 @@ gaynews.nl##a[href^="/_global/leesmeer.php?"]
 geenstijl.nl##.article-premium-promotion-block
 geenstijl.nl##.slajeslag
 geenstijl.nl##a[data-ga-event^="link-tip"]
+geile-adressen.nl,sexpret.com,zinineensexdate.com##.nomobile:has(img[src^="/images/"])
 gic.nl,kbradio.nl,nieuws.nl##.banners
 gic.nl##.katernbanners
 gids.tv##.advertisement:upward(1)
@@ -376,7 +377,6 @@ sexcontact-xxx.be##.moduletable:has([src*="2k19.nl"])
 sexcontact-xxx.be##.moduletable:has([src*="affilaxy.com/promos/"])
 sexdatemet-milfs.be##.d-lg-block.d-none:has-text(Advert):not(:has(.jcarousel-skin-tango))
 sexguide.nl##.topBanners
-sexpret.com,zinineensexdate.com##.nomobile:has(img[src^="/images/"])
 sexvoorgeldadvertenties.nl##[class]:has-text(Gesponsorde):upward(aside)
 simone.nl##section:has(div[class*="sponsorcarousel"])
 skoften.net##.promoted
