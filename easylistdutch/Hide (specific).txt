@@ -176,6 +176,8 @@ hardnieuws.nl##[class*="mb-"]:has([id$="ros-970x250"])
 hardnieuws.nl##[id*="ros-300x600"]:upward(1)
 hartvannederland.nl,shownieuws.nl,vivandaag.nl##[data-testid^="banner"]
 hartvannederland.nl,shownieuws.nl,vandaaginside.nl,vivandaag.nl##div[class*="-bannerWrapper-"]
+hdtienersexfilms.nl##.happy-sidebar
+hdtienersexfilms.nl,poepsexfilmstube.nl,rapetube.eu,tubeseks.be###tracking-url
 headliner.nl###flex_left:has([id="div-gpt-ad"])
 historiek.net##.ablok
 historiek.net##div[id^="ai_widget"]:has-text(/advert/i)
@@ -679,7 +681,6 @@ handbal.be##.footer-top
 handbalinside.nl##div[id^="handb-"]
 hardware.info##.overview-item--success
 hardware.info##.sidebar_right_top
-hdtienersexfilms.nl,poepsexfilmstube.nl,rapetube.eu,tubeseks.be###tracking-url
 heracles.nl##.fixed-ads
 heracles.nl##.footer-blocks
 heracles.nl##.footer-sponsors
