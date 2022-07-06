@@ -295,6 +295,8 @@ nl.motorsport.com##.ms-side-widget--custom-links__wrapper
 nl-nieuwsonline.nl###content-footer-section:has(.adsbygoogle)
 nljug.org##.widget:has(.capegroep-banner)
 nljug.org##[id^="custom_html-"]:has-text(Kennispartners):has(a[href] > img)
+nlsexfilmpjes.com###left_div li:not(> a[target="_blank"])
+nlsexfilmpjes.com###toplist_bodem li:not(> a[target="_blank"])
 nnieuws.be##.content > .box:has(#partner-slider)
 nnp.nl##div[class^="p-4"]:has([class*="gray"]):has(a[data-source^="banner"])
 noordkopcentraal.nl##.bannerListWidget
@@ -786,8 +788,6 @@ nieuwnieuws.nl##.article-page__bumper
 nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
 nieuwslog.nl##.wp-block-genesis-blocks-gb-columns:has(a[href*="/go/www.bet365.nl/"])
 nieuwsmotor.nl##.add-background
-nlsexfilmpjes.com###left_div li:not(:scope > a[target="_blank"])
-nlsexfilmpjes.com###toplist_bodem li:not(:scope > a[target="_blank"])
 nltube.com##.bottom-bns-block
 nltube.com##.player-right
 nnieuws.be##.banner-silver
