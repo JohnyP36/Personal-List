@@ -7,6 +7,7 @@
 ||huisvrouwenvoorsex.nl/banner*.gif$image
 ||ikwilneuken.*/assets/img/*.gif$image
 ||imagekit.io/ijnl*/uploads/other/*?tr=w-20$image,domain=ijshockeynederland.nl
+||index4sex.com/global/asset/image/partner$image,domain=omejoop.be
 ||infotalia.com/worktalia_promo_
 ||jobat.be/extra/trackuityhn/ticker_new.html$domain=gva.be
 ||madmoney.eu/promotools/banners/
