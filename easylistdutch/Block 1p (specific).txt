@@ -163,7 +163,6 @@
 ||omroepeemsdelta.nl/wp-content/uploads/*/mw-bedrijfskleding-1.png
 ||omroepeemsdelta.nl/wp-content/uploads/*/deltaglasvezel*.jpeg
 ||omroeprsh.nl/wp-content/uploads/*/*RSH-300*.gif$image
-!||omejoop.be/pop.js
 !||omroeppenm.nl^*/banner/
 ||onderwegonline.nl/app/uploads/*/Banner$image
 ||onderwijsland.com/files/partners/
