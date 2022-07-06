@@ -36,7 +36,7 @@
 ||daisycon.com^$third-party
 ||datingcash.eu^$third-party
 ||dntblckmpls.nl^$third-party
-||dronkenmokkels.nl^$domain=poepsexfilmstube.nl
+||dronkenmokkels.nl^$domain=hdtienersexfilms.nl|poepsexfilmstube.nl
 ||ds1.nl^$third-party
 ||dt51.net^$third-party
 ||dt61.net^$third-party
@@ -66,6 +66,7 @@
 ||schoorsteen.geenstijl.nl^$third-party
 ||sdcash.nl$third-party
 ||sponsorkliks.com^$third-party
+||srv69.eu^$domain=hdtienersexfilms.nl
 !||static-cdn.spott.ai^$third-party
 ||static-dscn.net^$third-party
 ||t.bazarow.com^$third-party
