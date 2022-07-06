@@ -351,6 +351,7 @@ racexpress.nl##img[src^="/img/sponsors"]:upward(.article-photo)
 radio.nl###xttm > .shadow
 radio.nl###xbtm > .shadow
 radio.nl##[id^="takeover"]:has-text(Advert)
+radio0511.com##.leftColumn.cell > div:has(.sponsorImg)
 radionl.fm##.desktop_mobile:not(a[href*="radionl.fm"])
 radioviainternet.be##.banner-size-leaderbord
 radiovisie.eu##[id^="custom_html"]:has(.adsbygoogle)
@@ -851,7 +852,6 @@ quickclaims.nl##.overlay:has([src^="blob:https://quickclaims.nl/"])
 racingnews365.nl##.branded-countdown__content__partner-wrapper
 racingnews365.nl##.homepage-casino-wrapper
 radio-minerva.be###topbanner
-radio0511.com##.sponsorImg
 radio182.nl##section.elementor-element:has(h3:has-text(/mogelijk gemaakt door:/i))
 radioacacia.nl##table[width="680"]:has(img[src^="sponsoren/"])
 radiocontinu.nl##.eskimo-slider-img:upward(5)
