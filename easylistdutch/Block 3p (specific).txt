@@ -2,6 +2,8 @@
 *$image,3p,domain=kinkymedia.nl
 /banner$image,domain=kinkydatingnederland.nl|milfdatingnederland.nl|mygaydate.nl
 ||cdn.topescort.com/static/bn/$image,domain=sexguide.nl
+||cinkeltrading.nl/pics/*.gif$domain=cumcams.nl
+||custom.islive.nl/_respo/*.gif$image,domain=camsex.nl
 ||danny.media-totaal.nl/wp-admin/admin-ajax.php$domain=dekrantvantynaarlo.nl
 ||gadgetsentrends.nl/imagestore/banners/
 ||huisvrouwenvoorsex.nl/banner*.gif$image
@@ -30,7 +32,9 @@
 ||tickers.zimmo.be/gva/$domain=gva.be
 ||tools-affil2.com/rtb/index.php$domain=1001erotiekverhalen.nl
 ||upload.gscdn.nl/uploads/*_Kansino_Feed$image,domain=geenstijl.nl
+||widget.vpnnederland.nl/VPNNederland-widget.js$domain=nzbserver.com
 ||widget.vroom.be/$domain=gva.be
+||widgets.skyscanner.net^$domain=puuropreis.nl
 ||xingo.nl/bannermanagement/
 ! 2021-12-
 !||2link.be/images/nobanner.jpg$image,domain=2news.be|2travel.be|2you.be
@@ -68,7 +72,6 @@
 ||storage.googleapis.com/stateless-www-nuus-be/*/*.gif$image,domain=nuus.be
 ||storage.googleapis.com/stateless-www-nuus-be/*/*-banner-*$image,domain=nuus.be
 ||tools-affil2.com/rtb/index.php$subdocument,domain=beeldbelsex.com
-||widgets.skyscanner.net^$domain=puuropreis.nl
 ||wp.com/www.appletips.nl/wp-content/uploads/Handyman-inCharge6.gif$image,domain=appletips.nl
 ||xmissy.nl/admnfiles1809/*/freechatbanner_$image,domain=biertijd.xxx
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
@@ -79,12 +82,9 @@
 ||booking.com/flexiproduct.html$domain=puuropreis.nl
 ||cdn.media.zylom.com/images/site/zylom/promo/$third-party
 ||cdn.sbsnet.nl/creatives/assets/*.mp4$domain=kijk.nl
-||cinkeltrading.nl/pics/*.gif$domain=cumcams.nl
-||custom.islive.nl/_respo/*.gif$image,domain=camsex.nl
 ||digitalaudience.io/bakery/pix/$image,third-party
 ||dutchitchannel.nl/media/6*/*.jpg$third-party
 ||dutchleader.nl/php/banex/$third-party
 ||enviedeplus.be^*_banner_$third-party
 ||powerconnect.be^*/poweractie.jpg$third-party
 ||totaalwijzer.nl/widget/$third-party
-||widget.vpnnederland.nl/VPNNederland-widget.js$domain=nzbserver.com
