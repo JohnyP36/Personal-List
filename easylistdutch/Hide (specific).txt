@@ -152,6 +152,7 @@ gic.nl,kbradio.nl,nieuws.nl##.banners
 gic.nl##.katernbanners
 gids.tv##.advertisement:upward(1)
 gigantfm.nl##.onderdelenshop
+gld.nl,omroepwest.nl,rijnmond.nl,rtvnoord.nl##.groei-ad
 goldfm.be###sponsors-carousel
 golf.be##.header__bottom
 golf.be##.partners-holder
@@ -668,7 +669,6 @@ gfcnieuws.com##div.ai-viewport-1
 girlpics.nl##.cato_content:not(:has([href]))
 girlpics.nl###cato_top:has-text(/ads/i)
 girlpowerradio.nl##[class*="sponsorcarousel"]
-gld.nl,omroepwest.nl,rtvnoord.nl##.groei-ad
 gloednieuw.nl##.vc_raw_html.td_block_wrap.wpb_wrapper
 glutenvrij.nl##.Article__inner > .Article__title:has-text(Advert)
 gocar.be##.pub-leaderboard-top
