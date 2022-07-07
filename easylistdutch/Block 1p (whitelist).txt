@@ -5,7 +5,6 @@
 @@||images.2dehands.com/api/v1/listing-twh-p/images/ad/$image,domain=2dehands.be
 @@||linda.nl/api/v1/pages/advertorial/*$first-party
 @@||naaktkrant.nl/media/*/*-gifs-*.gif$image,first-party
-@@||pipeline.rd.nl/assets/g-t-m$script,first-party
 @@||privesexgids.nl/images/webcamsex.gif$image
 @@||rtl.be/videos/player/vp4_webanalytics.js$script,first-party
 @@||showmodeluitverkoop.nl/upload/advertentie/
