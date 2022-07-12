@@ -1,5 +1,6 @@
 !kinderspelletjes.be###adRechts
 ###adRechts
+!biertijd.xxx###advertentie
 ###advertentie
 ###gesponsordelink
 ###reclame_rechts
