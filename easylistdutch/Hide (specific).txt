@@ -12,6 +12,8 @@ agriline.be,agriline.nl,autoline.be,autoline.nl,machineryline.be,machineryline.n
 ajaxreport.nl,psvreport.nl##[id^="text"][class$="sidebar-widget"]:has-text(/casino/i):not(:has(div[class="widget-title"]))
 ajaxreport.nl,feyenoordreport.nl,livolleyvlaanvestreamvandaag.be,onlinekraslotenrss.nl,onlinepokerrss.nl,psvreport.nl,sportweddenrss.nl,voetbalsnafu.nl##.widget_links
 ajaxreport.nl,feyenoordreport.nl,psvreport.nl,voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="voetbalwedden.net"][target="_blank"])
+amateursextube.eu,anaaltube.be,incesttube.eu,omatube.be,opasextube.nl,plassextube.com,scattube.be,schaamlip.net,seksfilmstube.be,sex-kamer.nl,smsextube.com,tienersextube.com###buttonUnderVideoLink
+amateursextube.eu,anaaltube.be,incesttube.eu,omatube.be,opasextube.nl,plassextube.com,scattube.be,schaamlip.net,seksfilmstube.be,sex-kamer.nl,smsextube.com,tienersextube.com##.adHomePage
 amsterdamtigers.com##.sponsorbanner
 androidworld.nl,dartsnieuws.com,f1maximaal.nl,indeleiderstrui.nl##.sda
 anoniem-surfen.nl##.footer-widget-1
@@ -510,8 +512,6 @@ almere-nieuws.nl###banner-text2
 almere-nieuws.nl###containerx
 almere-nieuws.nl###jeg_sidecontent > .jeg_container:has(.jeg_ad)
 almere-nieuws.nl##.jeg_container > .jeg_container:has(.jeg_ad)
-amateursextube.eu,anaaltube.be,incesttube.eu,omatube.be,opasextube.nl,plassextube.com,schaamlip.net,seksfilmstube.be,sex-kamer.nl,smsextube.com,tienersextube.com###buttonUnderVideoLink
-amateursextube.eu,anaaltube.be,incesttube.eu,opasextube.nl,plassextube.com,schaamlip.net,seksfilmstube.be,sex-kamer.nl,smsextube.com,tienersextube.com##.adHomePage
 amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv##.adv-tekst
 amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv##.banner_image
 amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv##.banner_image2
