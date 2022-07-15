@@ -448,6 +448,7 @@ voetbalnieuws.be##[id$="takeover"]
 voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="eredivisiewedden.nl"][target="_blank"])
 waterkant.net##.td-fix-index:has(a[href])
 waterkant.net##[href^="https://www.eventbrite.nl/e/tickets"]
+webcam-binnenvaart.nl##.d-md-block.d-none:has-text(Met dank aan)
 weerstationleeuwarden.nl##.cookieconsent-optin-marketing
 wegdamnieuws.nl##.mk-sponsorlink
 welklidwoord.nl###ad-takeover
