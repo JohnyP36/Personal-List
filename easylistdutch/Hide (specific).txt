@@ -243,6 +243,8 @@ kledingmaten.nl##[id^="text-"]:has-text(/advert/i)
 kledingmaten.nl##aside[id^="custom"]:has(script[src*="cookie"])
 knack.be##.js-partner-content
 leerzaam.com##[id^="custom_html-"]:has(.adsbygoogle)
+lekkercryptisch.nl##.c-sponsoredBy
+lekkercryptisch.nl##.p-footer__randomPartner
 limburger.nl##.widget-grid--partnerbox
 lonelyplanet.nl##div[id*="adf-billboard"]
 maarkelsnieuws.nl##.banner-secondary-sidebar:not(:has(img[src*="weerbanner"]))
