@@ -15,8 +15,7 @@ goplay.be##+js(no-fetch-if, pubads.g.doubleclick.net/gampad/ads)
 meerdangewenst.nl##[class*="footer-section"] > *:style(display: none !important;)
 notebookcheck.nl##+js(abort-current-inline-script, document.getElementById, AAdsspaCe)
 radiowereld.nl##+js(no-setInterval-if, adb)
-tweakers.net##+js(aopr, Object.prototype.autoRecov)
-tweakers.net##+js(aeld, , Flags.autoRecov)
+tweakers.net##.noTrackingMessage
 ! vandaaginside.nl
 @@||static.kijk.nl/prebid/ad.gif$xhr,first-party,domain=embed.kijk.nl
 @@||cmp.quantcast.com/choice/*/*vi.nl/choice.js$script,domain=vi.nl
