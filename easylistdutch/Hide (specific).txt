@@ -373,10 +373,8 @@ radiozuidrand.be##aside:has-text(/advert/i)
 reformatorischeomroep.nl##section:has(.item-banner)
 rickfm.nl###advertisement
 risallah.com##[class^="zijbalk"] > table > tbody:has-text(Advertentie)
-rtlboulevard.nl###dfp-billboard-wrapper
-rtlboulevard.nl##.dfp-rectangle-wrapper
-rtlnieuws.nl###rtln-ad-advertorial
-rtlnieuws.nl##.billboard
+rtlboulevard.nl,rtlnieuws.nl###dfp-billboard-wrapper
+rtlboulevard.nl,rtlnieuws.nl##.dfp-rectangle-wrapper
 rtlnieuws.nl##div[class$=_with_ad__ad]
 sc-heerenveen.nl##.partner-grid:upward(2)
 scholieren.com##.blockvertorial
