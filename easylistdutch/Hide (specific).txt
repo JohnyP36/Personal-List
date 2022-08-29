@@ -375,6 +375,7 @@ rickfm.nl###advertisement
 risallah.com##[class^="zijbalk"] > table > tbody:has-text(Advertentie)
 rtlboulevard.nl,rtlnieuws.nl###dfp-billboard-wrapper
 rtlboulevard.nl,rtlnieuws.nl##.dfp-rectangle-wrapper
+rtlnieuws.nl##.autoscalable-block-wrapper:has-text(/van onze partners/i)
 rtlnieuws.nl##div[class$=_with_ad__ad]
 sc-heerenveen.nl##.partner-grid:upward(2)
 scholieren.com##.blockvertorial
