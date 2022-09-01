@@ -264,6 +264,7 @@ mijnserie.nl,nailtalk.nl##a[href^="https://partnerprogramma.bol.com/"]
 mijnserie.nl,nec-nijmegen.nl,trappers.nl,volleybelgium.be##.sponsors
 mijnserie.nl##.sponsors-billboard:upward(.fullWidthWhite)
 minecrafttoplist.nl##.fancy-wrap
+minimumloon.nl##.header-widget-region > .col-full
 mnm.be,stubru.be###reclameblok-wrapper
 mnm.be##.ad--rectangle:upward(1)
 mnm.be##div[class^="grid-item"]:has(div:has-text(/advert/i))
