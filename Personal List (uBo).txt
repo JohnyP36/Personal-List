@@ -1,3 +1,4 @@
+[uBlock Origin]
 ! Title: Dutch Filter List
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
