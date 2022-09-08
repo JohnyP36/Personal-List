@@ -1,3 +1,4 @@
+[uBlock Origin]
 ||2k19.nl^$third-party
 ||2k21.nl^$third-party
 ||2k23.nl^$third-party
