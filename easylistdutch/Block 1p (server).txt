@@ -1,3 +1,4 @@
+[uBlock Origin]
 ||a2.tijd.be^
 ||ab.tweakers.nl^
 ||adverteren.rd.nl^
