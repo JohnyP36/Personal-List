@@ -1,3 +1,4 @@
+[uBlock Origin]
 ! 2022 
 !@@||adserver.hollandcasino.nl^$popup,domain=onlinecasinoground.nl
 @@||aweprt.com/embed/$script,domain=cumcams.nl|sexervaringdelen.com
