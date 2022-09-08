@@ -1,3 +1,4 @@
+[uBlock Origin]
 !kinderspelletjes.be###adRechts
 ###adRechts
 !biertijd.xxx###advertentie
