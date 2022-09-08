@@ -1,3 +1,4 @@
+[uBlock Origin]
 .arnostat.nl/click.
 -Ad-360.
 -reclameplaatjes/
