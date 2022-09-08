@@ -1,3 +1,4 @@
+[uBlock Origin]
 ! 2022
 /^https\:\/\/dutchitchannel\.nl\/media\/\d{6}\/\d{10}\.jpg$/$image
 /^https\:\/\/executive-people\.nl\/media\/\d{6}\/\d+\.jpg$/$image
