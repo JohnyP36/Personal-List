@@ -1,3 +1,4 @@
+[uBlock Origin]
 ! 2022
 /wp-content/*/scripts/adgear.js$script,first-party,domain=androidplanet.nl|iphoned.nl
 autoweek.nl##+js(set-constant, isAdBlockActive, false)
