@@ -1,6 +1,8 @@
 !/dashboard.html#settings.html --> RGB(49, 42, 101) OR RGB(240, 185, 36)
+ !#main{width: fit-content; min-width: 0px;} .fa-icon{padding: 0 0.01em;} #hostname{display: none; line-height: 120%;} #switch{font-size: 700%;} .toolRibbon{background-color: var(--surface-2); margin: 10px 0 0 0;} .toolRibbon .tool{font-size: 1.1em; min-width: 25px; fill: var(--ink-4);} :root:not(.mobile) .toolRibbon .tool, :root.mobile body.no-tooltips .toolRibbon .tool, :root.mobile body[data-ui~="-captions"] .toolRibbon .tool {padding: 0.5em 0;} #basicStats{margin: 10px 10px -10px 10px;} .itemRibbon{column-gap: 5px; display: flex; background-color: #444; color: #bbb; font-size: smaller; margin: 0; justify-content: center;}
+ !--checkbox-checked-ink: rgb(240, 185, 36); --button-preferred-surface: rgb(240, 185, 36); 
 !EasyList + EasyPrivacy + Fanboy's Enhanced Tracking List (+ Fanboy's Annoyance) 	-> https://fanboy.co.nz/r/fanboy-ultimate.txt  /  https://fanboy.co.nz/r/fanboy-complete.txt
-!*$csp=upgrade-insecure-requests,domain=~ehubsoft.net|~|~
+!*$csp=upgrade-insecure-requests,domain=~ehubsoft.net|~192.168.2.150|~192.168.2.254
 
 !https://www.reddit.com/r/privacytoolsIO/comments/g9hjrd/using_ublock_origin_to_abort_possible_browser/
 *,~hangouts.google.com,~hcaptcha.com,~freebitco.in##+js(nowebrtc)
@@ -19,9 +21,11 @@ $removeparam=source,domain=googleusercontent.com
 ||google.*^$removeparam=/^(tab)=/
 ||www.google.com/url?$removeparam=ved
 ||youtube.com$queryprune=/(ab_channel|cbr|cbrver|cos|cplatform|delay|feature|kw|tab)/
-@@||music.youtube.com$queryprune=/(feature)/
+@@||consent.youtube.com$queryprune
+!@@||music.youtube.com$queryprune=/(feature)/
 @@||youtube.com/subscribe_embed$removeparam
-$removeparam=/^(referrer)=/,domain=ad.nl|gelderlander.nl|livios.nl|volkskrant.nl|vtm.be
+||www.msn.com$removeparam
+$removeparam=/^(referrer)=/,domain=ad.nl|autoweek.nl|gelderlander.nl|livios.nl|volkskrant.nl|vtm.be
 ||blckbx.tv$removeparam=/^(ss_source|ss_campaign_id|ss_email_id|ss_campaign_name|ss_campaign_sent_date)=/
 ||bol.com^$removeparam=Referrer
 ||duckduckgo.com^$removeparam=t
@@ -53,12 +57,15 @@ google.*##div[data-crl="true"][data-id^="CarouselPLA-"]:not(:has(.Rn1jbe))
 google.com#@##center_col > #taw > #tvcap > .cu-container > .commercial-unit-desktop-top
 google.*##.USRMqe
 www.google.*##div.section-cardbox:has-text(/Covid-19 info/i):matches-path(/maps/)
-www.youtube.com##ytd-thumbnail.ytd-video-renderer:matches-path(/results?search_query):style(max-width: 250px !important;)
+mail.google.com##div[data-tooltip="Ruimtes"]:style(height: 10px !important;)
+www.youtube.com###thumbnail[class*="thumbnail"]:upward([class$="renderer"]):matches-path(/results?search_query):style(max-width: 250px !important;)
+  !www.youtube.com##ytd-thumbnail.ytd-video-renderer:matches-path(/results?search_query):style(max-width: 250px !important;)
 www.youtube.com###clarify-box
-!www.youtube.com##div[id*="info-panel"]:has(div[id="content"]):has(div[class^="disclaimer-container"]):matches-path(/shorts)
- www.youtube.com##ytd-shorts .disclaimer-container:upward(#info-panel)
+www.youtube.com##ytd-shorts .disclaimer-container:upward(#info-panel)
+  !www.youtube.com##div[id*="info-panel"]:has(div[id="content"]):has(div[class^="disclaimer-container"]):matches-path(/shorts)
 www.youtube.com###info > * [id^="top-level-buttons"] [class*="button-renderer"] [id="text"]:not(:has-text(/\d/))
 www.youtube.com##.ytd-watch-metadata > .top-level-buttons #text:not(:has-text(/[\d]/))
+www.youtube.com###comment-teaser
 !www.youtube.com###panels > [target-id$="panel-structured-description"]
 www.youtube.com#@##merch-shelf
 www.youtube.com#@#.ytd-merch-shelf-renderer
@@ -71,17 +78,17 @@ www.google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
 google.*##div[class^="gb_"][data-cbh^="consent.google."]
 !google.*##div[jscontroller][jsaction]:has([class]:has-text(cookies):has([href*="policies.google.com"]))
-drive.google.com##[id]:has-text(/gratis/i)
-sites.google.com##div[data-cookie-path][style*="transform"]:has(div):has-text(/site uses cookies/i):has([href*="/cookies/"])
+drive.google.com#?#[id]:has-text(/gratis/i)
+sites.google.com#?#div[data-cookie-path][style*="transform"]:has(div):has-text(/site uses cookies/i):has([href*="/cookies/"])
 youtube.com##.opened
 youtube.com###lightbox > #dialog.ytd-consent-bump-v2-lightbox.style-scope
-www.youtube.com##yt-tooltip-renderer[class$="ytd-popup-container"][position-type]:has(#text:has-text(YouTube)):has(#dismiss-button)
+www.youtube.com#?#yt-tooltip-renderer[class$="ytd-popup-container"][position-type]:has(#text:has-text(YouTube)):has(#dismiss-button)
 
 !re-enable scrollbar => ##html:style(overflow: auto !important)  +  ##body:style(overflow: auto !important)
 nsinternational.*##body:style(overflow: auto !important)
 nsinternational.*##html:style(overflow: auto !important)
-www.google.*##body:style(overflow: visible !important)
-www.google.*##html:style(overflow: visible !important)
+www.google.*,rd.nl##body:style(overflow: visible !important)
+www.google.*,rd.nl##html:style(overflow: visible !important)
 
 !======= y8.com =======!
 !@@||entitlements.jwplayer.com/*.json
@@ -105,26 +112,30 @@ chamilo.etf.edu##.cookieUsageValidation
 christenenvoorisrael.nl##.diffuse_cookie-bar__container
 freebitco.in##.daily_jackpot_main_container_div
 freebitco.in###free_play_payout_table > div[id^="premium"][id*="membership"]
-gab.com##:matches-path(/\/home|\/groups/) span[class]:has-text(/^Upgrade/i):upward(3)
-gab.com##aside a[href*="shop.dissenter.com/product/"]:has(img):upward(1)
-github.com###dashboard div[aria-labelledby="feed-original"] [class*="details"]:has-text(/pushed to xvello|/letsblockit/i):upward(.push)
-instagram.com#$#body { overflow: visible!important; }
-instagram.com##div[class][role="presentation"]:has([role="dialog"] > div[class] > div[class] > div[class] > div[class]:has(h2[class]:has-text(cookies))):has(a[href="/legal/cookies/"])
-!instagram.com##article[role="presentation"] > div[class] > div[class] > div[class] > div[class]:has([aria-label*="I"][aria-label*="n"][aria-label*="f"][aria-label*="o"][aria-label*="r"][aria-label*="m"][aria-label*="a"][aria-label*="t"][aria-label*="i"][aria-label*="c"]):not(:has([role="presentation"]))
-!instagram.com##article[role="presentation"] > div[class] > div[class] > div[class] > div[class]:has([aria-label^="Warning icon"]):not(:has([role="presentation"]))
-!instagram.com##div[class]:has(> button[class] [aria-label="Warning icon"])
-!instagram.com##div[style^="height:"] > section[class] > div[class] > div[class]:has([aria-label^="Information icon"])
-!instagram.com##main > section > div[class] > div[class] div[data-bloks-name$="Flexbox"] > span:has-text(/add your birthday/i):upward(4)
-instagram.com##main > section > div[style]:has-text(/About|Help/i):style(left:950px !important;)
-instagram.com##main > section > :not(div[style^="left:"]):style(max-width: 600px !important;)
-marktplaats.nl##div[class*="LoginNudge"]:has-text(/Log hier in/i):has-text(/Inloggen/i)
-marktplaats.nl##div[class] > div[class] > section[class] > div[class] > div[class*="Login"]
+gab.com#?#:matches-path(/\/home|\/groups/) span[class]:has-text(/^Upgrade/i):upward(3)
+gab.com#?#aside a[href*="shop.dissenter.com/product/"]:has(img):upward(1)
+github.com#?##dashboard div[aria-labelledby="feed-original"] [class="body"]:has-text(/pushed to xvello|/letsblockit/i):upward(.push)
+instagram.com#?#body:style(overflow: visible !important;)
+instagram.com#?#div[class][role="presentation"]:has([role="dialog"] > div[class] > div[class] > div[class] > div[class]:has(h2[class]:has-text(cookies))):has(a[href="/legal/cookies/"])
+!instagram.com##button:has(> *:has([aria-label$="icon"])):upward(1)
+  instagram.com#?#button:has(> *:has-text(/covid-19 information/i)):upward(1)
+instagram.com#?#article button:has([aria-label*="Information icon"]):upward(1)
+instagram.com#?#article button:has([aria-label*="Warning icon"]):upward(1)
+instagram.com##main > div > section > :has(div):not(div[style^="left:"]):style(max-width: 600px !important;)
+!instagram.com##main section > div[style]:has-text(/About|Help/i):style(left:950px !important;)
+!instagram.com##span[class]:has-text(Sponsored):upward(article)
+marktplaats.nl#?#div[class*="LoginNudge"]:has-text(/Log hier in/i):has-text(/Inloggen/i)
+marktplaats.nl#?#div[class] > div[class] > section[class] > div[class] > div[class*="Login"]
+mediamarkt.nl###mms-consent-portal-container
 nos.nl###ccm_notification_wrapper
 nsinternational.*##.cookie-notice
 nsinternational.*##.t-cookie-overlay-visible.t-cookie-overlay.cookie-overlay
+nsinternational.*##.t-cookie-overlay.cookie-overlay.cookie-popup
+rd.nl##.tp-modal
+rd.nl##.tp-active.tp-backdrop
 speedtest.net##.notification-container > div > .notification
 speedtest.net###_evidon-barrier-wrapper
-tweakers.net##.notificationsContainer:has-text(/cookies op tweakers/i):style(display: none !important;)
+tweakers.net#?#.notificationsContainer:has-text(/cookies op tweakers/i):style(display: none !important;)
 gathering.tweakers.net##.koekje_bar
 volkskrant.nl,trouw.nl##article[id*="LOGIN_BIG_BOTTOM"] > div[class*="tm-body"]
 y8.com##.div-gpt-ad-above:style(position: absolute !important; left: -5000px !important;)
@@ -133,8 +144,9 @@ gloednieuw.nl#@##taboola-below-article-thumbnails
 
 !!-----ALGEMEEN-----!!
 ||doubleclick.net/instream/ad_status.js$script,redirect=doubleclick.net/instream/ad_status.js
-calorielijst.nl##+js(aopw, clickIE)
-theorieexamen.nl##div[id="app"]:style(user-select: text !important;)
+debijbel.nl,theorieexamen.nl##*:style(user-select: text !important; -ms-user-select: text !important;)
+calorielijst.nl##+js(abort-on-property-write, clickIE)
+theorieexamen.nl##+js(addEventListener-defuser, contextmenu)
 -copy-paste-blocker/
 /copy_text.js
 /disable-right-click-
