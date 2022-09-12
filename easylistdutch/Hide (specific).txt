@@ -91,6 +91,7 @@ dekrantvantynaarlo.nl##div[class^="module-etads"]
 deoudrotterdammer.nl##[class$="advertentie"] + div:has([id^="deoud-"])
 detelefoongids.nl##.static-map
 detelefoongids.nl##.wrapper:has-text(Youvia)
+dissident.one,mariabode.nl##[id^="custom_html"]:has-text(/advert/i)
 ditjesendatjes.nl##.c-partners
 ditjesendatjes.nl##div[class^="article-page__sidebar"] a[href]:not(a[href*="ditjesendatjes.nl"]):not(a[href="#"]):has(img[src])
 dolcevia.com##.affiliatelink
@@ -258,7 +259,6 @@ maaslandradio.nl,mariabode.nl,palnws.be##[id^="media_image"]:has-text(/advert/i)
 maaslandradio.nl###header-text-nav-container > .inner-wrap > .clearfix
 magazine.belgiancycling.be###section--banner
 mandelnieuws.be##div[class*="blocksponsors"]
-mariabode.nl##[id^="custom_html"]:has-text(/advert/i)
 marktnet.nl##li.linkUnit
 mediamarkt.nl##div[class^="AdWrapper"] + div[class^="SkeletonWrapper"]
 midvliet.nl##.bannergroup:upward(div[class^="t3-module"])
