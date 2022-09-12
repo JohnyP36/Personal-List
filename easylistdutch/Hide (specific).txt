@@ -13,6 +13,7 @@ agriline.be,agriline.nl,autoline.be,autoline.nl,machineryline.be,machineryline.n
 ajaxreport.nl,psvreport.nl##[id^="text"][class$="sidebar-widget"]:has-text(/casino/i):not(:has(div[class="widget-title"]))
 ajaxreport.nl,feyenoordreport.nl,livolleyvlaanvestreamvandaag.be,onlinekraslotenrss.nl,onlinepokerrss.nl,psvreport.nl,sportweddenrss.nl,voetbalsnafu.nl##.widget_links
 ajaxreport.nl,feyenoordreport.nl,psvreport.nl,voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="voetbalwedden.net"][target="_blank"])
+albrandswaardsdagblad.nl,barendrechtsdagblad.nl,capelsdagblad.nl,dagblad070.nl,goudsdagblad.nl,nissewaardsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,zoetermeersdagblad.nl##.advrow
 amateursextube.eu,anaaltube.be,incesttube.eu,omatube.be,opasextube.nl,plassextube.com,scattube.be,schaamlip.net,seksfilmstube.be,sex-kamer.nl,smsextube.com,tienersextube.com,tubeclips.nl###buttonUnderVideoLink
 amateursextube.eu,anaaltube.be,incesttube.eu,omatube.be,opasextube.nl,plassextube.com,scattube.be,schaamlip.net,seksfilmstube.be,sex-kamer.nl,smsextube.com,tienersextube.com,tubeclips.nl##.adHomePage
 amsterdamtigers.com##.sponsorbanner
