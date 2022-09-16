@@ -10,7 +10,7 @@ goplay.be##+js(no-fetch-if, pubads.g.doubleclick.net/gampad/ads)
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=goplay.be
 @@||pubads.g.doubleclick.net/gampad/ads?*&output=vast&$domain=goplay.be
 !#endif
-hardware.info##+js(aopr, Notification)
+hardware.info##^script:has-text(Inject=!)
 @@*&ad$xhr,domain=kijk.nl
 @@||ads-talpa.adhese.com/json/$xhr,domain=kijk.nl
 *$image,domain=kijk.nl,redirect-rule=1x1.gif
