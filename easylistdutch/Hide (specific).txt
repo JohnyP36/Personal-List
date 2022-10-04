@@ -115,7 +115,7 @@ elegance.nl##div[class^="vc_row"]:has(.wpb_wrapper .adsbygoogle):not(:has([href]
 emerce.nl##.m-banner-wrapper
 emerce.nl##.widget_text:has(a[href^="https://partner.bol.com/"])
 encyclo.nl##.right[style]
-encyclo.nl##[id$="-336x280"]
+encyclo.nl,mijnwoordenboek.nl##[id$="-336x280"]
 erotischemassages.com,poldertube.nl##.happy-footer
 eurogamer.nl##.desktop_mpu
 europa-bouwmachines.nl,europa-heftruck.nl,europa-landbouwmachines.nl,europa-vrachtwagens.nl##.pt-3.height-90:has([id^="div-gpt-ad"])
@@ -267,6 +267,7 @@ midvliet.nl##.bannergroup:upward(div[class^="t3-module"])
 mijnserie.nl,nailtalk.nl##a[href^="https://partnerprogramma.bol.com/"]
 mijnserie.nl,nec-nijmegen.nl,trappers.nl,volleybelgium.be##.sponsors
 mijnserie.nl##.sponsors-billboard:upward(.fullWidthWhite)
+mijnwoordenboek.nl##div[style] [id*="728x90"]:upward(1)
 minecrafttoplist.nl##.fancy-wrap
 minimumloon.nl##.header-widget-region > .col-full
 mnm.be,stubru.be###reclameblok-wrapper
