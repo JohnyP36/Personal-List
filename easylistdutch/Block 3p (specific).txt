@@ -1,5 +1,7 @@
 [uBlock Origin]
 ! 2022
+.nl/remote/https/agfstorage.blob.core.windows.net/banners/$image,domain=agf.nl|bpnieuws.nl|groentennieuws.nl|uiennieuws.nl
+.nl/remote/https/cdn.agf.nl/nieuws/gif-jpg/*.gif$image,domain=agf.nl|bpnieuws.nl|groentennieuws.nl|uiennieuws.nl
 *$image,3p,domain=kinkymedia.nl
 /banner$image,domain=kinkydatingnederland.nl|milfdatingnederland.nl|mygaydate.nl
 ||cdn.topescort.com/static/bn/$image,domain=sexguide.nl
@@ -41,14 +43,12 @@
 ||xingo.nl/bannermanagement/
 ! 2021-12-
 !||2link.be/images/nobanner.jpg$image,domain=2news.be|2travel.be|2you.be
-||agfstorage.blob.core.windows.net/banners/$image,domain=agf.nl|bpnieuws.nl|groentennieuws.nl|uiennieuws.nl
 ||amazonaws.com/zkn/files/*.gif$image,domain=zorgkaartnederland.nl
 ||b-cdn.net/w_/s3-roulettefm/*.$image,domain=roulettefm.nl
 ||b-cdn.net/w_/s3-rtvstichtsevecht/*.$image,domain=rtvstichtsevecht.nl
 ||bitvavo.com/assets/static/widget/$subdocument,domain=cryptosjop.nl
 ||blob.core.windows.net/*/content/regiovoetbal/*_banner.*$image,domain=regio-voetbal.nl
 ||bnmedia.jentcdn.net/media/*/shared/*/fm/*/1*_*.png$domain=feyenoordpings.nl
-||cdn.agf.nl/nieuws/*.gif$image,domain=agf.nl|groentennieuws.nl|uiennieuws.nl
 ||cdn.shopsuite.com/js/layer.js$script,domain=franska.nl
 ||cloudfront.net/-/media/6-parnerships/$domain=feyenoord.nl
 ||cloudfront.net/banners/$domain=eredivisie.nl
