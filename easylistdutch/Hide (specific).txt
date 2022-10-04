@@ -115,7 +115,7 @@ elegance.nl##div[class^="vc_row"]:has(.wpb_wrapper .adsbygoogle):not(:has([href]
 emerce.nl##.m-banner-wrapper
 emerce.nl##.widget_text:has(a[href^="https://partner.bol.com/"])
 encyclo.nl##.right[style]
-encyclo.nl,mijnwoordenboek.nl##[id$="-336x280"]
+encyclo.nl,mijnwoordenboek.nl,woorden.org##[id$="-336x280"]
 erotischemassages.com,poldertube.nl##.happy-footer
 eurogamer.nl##.desktop_mpu
 europa-bouwmachines.nl,europa-heftruck.nl,europa-landbouwmachines.nl,europa-vrachtwagens.nl##.pt-3.height-90:has([id^="div-gpt-ad"])
@@ -481,6 +481,7 @@ wintersport.nl##.mq-banner > .never-visited:not(:has-text(/reisverzekering/i))
 wintersport.nl##.mq-banner > div[class*="card"]
 wkdarts.nl##.vcex-module:has-text(/advert/i)
 wkdarts.nl##[href="https://www.loketkansspel.nl/"]
+woorden.org##div[style] [id*="728x90"]:upward(3)
 vnexplorer.net###ads_right_scroll_single_sidebar
 wos.nl##.header-right
 wradio.be##.c-advertiser-logos
