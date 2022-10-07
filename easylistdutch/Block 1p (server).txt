@@ -1,5 +1,7 @@
 [uBlock Origin]
 ||a2.tijd.be^
+||aa.hwigroup.com^
+||ab.hwigroup.com^
 ||ab.tweakers.nl^
 ||adverteren.rd.nl^
 ||advertising-module.api.dpgmedia.cloud^
