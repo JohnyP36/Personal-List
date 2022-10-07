@@ -179,6 +179,7 @@ halstadcentraal.nl,streekstadcentraal.nl##div[class$="banners-wrapper"]
 !handbalstartpunt.nl##aside.widget-banner
 handbalstartpunt.nl##aside > div[class]:has(>.adsbygoogle)
 handbalstartpunt.nl##p:has(img[src*="Logo"])
+hardware.info##div[class^="bnr-"]
 !hbvl.be##.widget:has(.article-teaser)
 helpmij.nl##[id^="navbar_notice"]:has(.adsbygoogle)
 hvzeeland.nl##.affiliates
