@@ -25,11 +25,11 @@ tweakers.net##.noTrackingMessage
 @@||cmp.quantcast.com/choice/*/*vi.nl/choice.js$script,domain=vi.nl
 @@||fwmrm.net/ad/*$xhr,domain=embed.viaplay.com|racingnews365.nl
 @@||fwmrm.net/crossdomain.xml$xhr,domain=embed.viaplay.com|racingnews365.nl
-! 2021-12-29 https://github.com/uBlockOrigin/uAssets/issues/11038  // These rules are not really anti-adblok, but just a set of rules I want to keep together.
+! 2022-10-13 https://github.com/uBlockOrigin/uAssets/issues/14999
+! 2021-12-29 https://github.com/uBlockOrigin/uAssets/issues/11038
 @@||v.fwmrm.net/ad/*&caid$xhr,domain=vtm.be
 @@||videoplayer.persgroep.be/*/ad_smartads_.js$xhr,domain=vtm.be
 ||medialaancdn.be/vtm_od/prerolls/$media,domain=vtm.be,redirect=noopmp3-0.1s
-vtm.be##+js(no-fetch-if, csai)
 vtm.be##+js(rc, pui__root--no-seekbar, .pui__root--no-seekbar, stay)
 vtm.be##.pe__container__ads
 vtm.be##.pui__adinfo
