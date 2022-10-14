@@ -449,6 +449,8 @@ unitednews.sr##.slider-container
 vakantieweb.be##.pub-imu
 vandaaginside.nl##div[class^="Component-bannerTopWrapper-"]
 veronicasuperguide.nl##div[id][class^="css"]
+vastgoedjournaal.nl##[href]:has([src*="media.prdn.nl"])
+vastgoedjournaal.nl##aside:has([class]:has-text(/advert/i)):has([href]:has([src*="media.prdn.nl"])
 vi.nl##.betting-provider-row
 vi.nl##li[class*="highlights"]:has(div[class*="articles-list"][class*="item--highlight"]:has(span[class]:has-text(/advert/i)))
 vitesse.nl##.row [id^="form"] + .box > .box-body:has(img)
