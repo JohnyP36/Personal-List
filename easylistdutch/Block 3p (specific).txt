@@ -65,7 +65,7 @@
 ||jobat.be/extra/trackuityhn/ticker_new.html$domain=nieuwsblad.be
 ||lustmagazine.nl/mediafiles/*/*_250x250.gif$image,domain=wraaksex.nl
 ||media.biertijd.com/galleries/*/banners/$image,third-party
-||media.prdn.nl/retailtrends/images/*banner$domain=retailtrends.nl
+||media.prdn.nl/*/images/*banner$domain=retailtrends.nl|vastgoedjournaal.nl
 ||media.prdn.nl/retailtrends/images/thumbnail_bnr-*$domain=retailtrends.nl
 ||sedproductions.nl/banners/*$image,third-party
 ||sociaaldigitaal.nl/img/Banner-$third-party
