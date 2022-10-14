@@ -18,7 +18,7 @@
 ||infotalia.com/worktalia_promo_
 ||jobat.be/extra/trackuityhn/ticker_new.html$domain=gva.be
 ||madmoney.eu/promotools/banners/
-||media.prdn.nl/retailtrends/images/*.gif
+||media.prdn.nl/*/images/*.gif
 ||media-totaal.nl/*com_adagency*adagencyAds$script,domain=dekrantnieuws.nl|destreekkrant.nu
 ||mmcdn.nl/tags/
 ||nexclic.com/pics/image*.gif$domain=dutchleader.nl
