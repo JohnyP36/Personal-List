@@ -35,6 +35,7 @@ automobielmanagement.nl,carwashpro.nl,infrasite.nl,ovpro.nl,rijschoolpro.nl,spoo
 autoreview.nl###parentgpt
 autoreview.nl##.autowereld_ros_bravo_leaderboard-billboard
 autoreview.nl##.bottom-bannuring
+autoscout24.be,autoscout24.nl##[id*="contentbanner"]
 autoweek.nl##.advertise
 autoweek.nl##.tile-category:has-text(/advert/i):upward(.aw-tile)
 autozine.nl##.ad300x1050
@@ -557,7 +558,6 @@ atv.be,robtv.be,tvl.be,tvoost.be##.leaderboardWrap
 audiobookbay.nl###rsidebar > ul > li > h2:has-text(/ad/i)
 audiobookbay.nl#$#[src="http://audiobookbay.nl/images/dir.gif"]{ width: 100px !important }
 autobahn.eu##li[class*="block"] > div[class*="block mb-3"]:has(a[href][rel="noopener"][target="_blank"])
-autoscout24.be,autoscout24.nl##.cl-billboad-wrapper
 autosport.nl###liggende-banner
 autosport.nl##.active.first:style(margin-top: 0px !important;)
 autosport.nl##.bigbanner
