@@ -10,7 +10,7 @@
 !*,~acounts.google.*,~google.*,~youtube.com,~googlevideo.com,~bol.com,~freebitco.in,~gab.com,~instagram.com,~y8.com##+js(cookie-remover)
 
 !Remove Parameters from urls ($queryprune of $removeparam)   - ! utm parameters: 
-         !  utm_campaign|utm_channel|utm_cid|utm_content|utm_medium|utm_name|utm_place|utm_pubreferrer|utm_reader|utm_referrer|utm_social|utm_social-type|utm_source|utm_swu|utm_term|utm_userid|utm_viz_id|
+    ! utm_campaign|utm_channel|utm_cid|utm_content|utm_medium|utm_name|utm_place|utm_pubreferrer|utm_reader|utm_referrer|utm_social|utm_social-type|utm_source|utm_swu|utm_term|utm_userid|utm_viz_id|
 utm_$queryprune=/^utm_/i
 fb*$queryprune=/^(fb_action_ids|fb_actions_types|fb_ref|fb_source|fbclid)/i
 $removeparam=/^(dpg_source|dpg_campaign|dpg_medium|dpg_content|dclid|gclid|gclsrc|guccounter|guce_referrer|guce_referrer_sig|yclid|__twitter_impression)=/
@@ -36,7 +36,6 @@ $removeparam=/^(referrer)=/,domain=ad.nl|autoweek.nl|gelderlander.nl|livios.nl|v
 
 ! Anti-Google Chrome pop-up messagge in Edge
 ||ogs.google.*/widget/callout*&origin=*.google.*=callout*
-youtube.com##ytd-app > ytd-popup-container.ytd-app.style-scope > .ytd-popup-container.style-scope > .ytd-popup-container.style-scope > .ytd-mealbar-promo-renderer.style-scope
 
 ! General rules for google.com (+ youtube.com)
 ||play.google.com/log?$redirect=noop.txt,subdocument,stylesheet,script,xmlhttprequest,other,important
@@ -56,11 +55,13 @@ google.com#@##center_col > #taw > #tvcap > .cu-container > .commercial-unit-desk
 google.*##.USRMqe
 www.google.*##div.section-cardbox:has-text(/Covid-19 info/i):matches-path(/maps/)
 mail.google.com##div[data-tooltip="Ruimtes"]:style(height: 10px !important;)
-www.youtube.com###thumbnail[class*="thumbnail"]:upward([class$="renderer"]):matches-path(/results?search_query):style(max-width: 250px !important;)
 www.youtube.com###clarify-box
 www.youtube.com##ytd-shorts .disclaimer-container:upward(#info-panel)
-www.youtube.com###info > * [id^="top-level-buttons"] [class*="button-renderer"] [id="text"]:not(:has-text(/\d/))
-www.youtube.com##.ytd-watch-metadata > .top-level-buttons #text:not(:has-text(/[\d]/))
+www.youtube.com###thumbnail[class*="thumbnail"]:upward([class$="renderer"]):matches-path(/results?search_query):style(max-width: 250px !important;)
+www.youtube.com##ytd-watch-metadata #actions button [class*="button-text-content"]:not(:has-text(/\d/))
+www.youtube.com##ytd-watch-metadata ytd-button-renderer div[class$="icon"]:style(margin-right: -6px !important; margin-left: -6px !important;)
+  www.youtube.com###info > * [id^="top-level-buttons"] [class*="button-renderer"] [id="text"]:not(:has-text(/\d/))
+  www.youtube.com##.ytd-watch-metadata > .top-level-buttons #text:not(:has-text(/[\d]/))
 www.youtube.com###comment-teaser
 www.youtube.com#@##merch-shelf
 www.youtube.com#@#.ytd-merch-shelf-renderer
@@ -72,8 +73,6 @@ www.youtube.com#@#.ytd-merch-shelf-renderer
 www.google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
 google.*##div[class^="gb_"][data-cbh^="consent.google."]
-!google.*##div[jscontroller][jsaction]:has([class]:has-text(cookies):has([href*="policies.google.com"]))
-sites.google.com#?#div[data-cookie-path][style*="transform"]:has(div):has-text(/site uses cookies/i):has([href*="/cookies/"])
 youtube.com##.opened
 youtube.com###lightbox > #dialog.ytd-consent-bump-v2-lightbox.style-scope
 www.youtube.com#?#yt-tooltip-renderer[class$="ytd-popup-container"][position-type]:has(#text:has-text(YouTube)):has(#dismiss-button)
@@ -109,8 +108,8 @@ gab.com#?#aside a[href*="shop.dissenter.com/product/"]:has(img):upward(1)
 github.com#?##dashboard div[aria-labelledby="feed-original"] [class="body"]:has-text(/pushed to xvello|/letsblockit/i):upward(.push)
 instagram.com##body:style(overflow: visible !important;)
 instagram.com#?#div[class][role="presentation"]:has([role="dialog"] > div[class] > div[class] > div[class] > div[class]:has(h2[class]:has-text(cookies))):has(a[href="/legal/cookies/"])
-!instagram.com##button:has(> *:has([aria-label$="icon"])):upward(1)
-  instagram.com#?#button:has(> *:has-text(/covid-19 information/i)):upward(1)
+instagram.com##div[class][role="dialog"]:has([role="dialog"]:has(button):has-text(cookies)):upward(4)
+instagram.com#?#button:has(> *:has-text(/covid-19 information/i)):upward(1)
 instagram.com#?#article button:has([aria-label*="Information icon"]):upward(1)
 instagram.com#?#article button:has([aria-label*="Warning icon"]):upward(1)
 instagram.com##main > div > section > :has(div):not(div[style^="left:"]):style(max-width: 600px !important;)
@@ -118,6 +117,7 @@ instagram.com##main > div > section > :has(div):not(div[style^="left:"]):style(m
 marktplaats.nl#?#div[class*="LoginNudge"]:has-text(/Log hier in/i):has-text(/Inloggen/i)
 marktplaats.nl#?#div[class] > div[class] > section[class] > div[class] > div[class*="Login"]
 mediamarkt.nl###mms-consent-portal-container
+mediamarkt.nl##[class*="StyledMasterAdBanner"]:has-text(/cookies|accepteer/i):upward(1)
 nos.nl###ccm_notification_wrapper
 nsinternational.*##.cookie-notice
 nsinternational.*##.t-cookie-overlay-visible.t-cookie-overlay.cookie-overlay
