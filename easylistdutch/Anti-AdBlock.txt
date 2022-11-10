@@ -1,6 +1,8 @@
 [uBlock Origin]
 ! 2022
 /wp-content/*/scripts/adgear.js$script,first-party,domain=androidplanet.nl|iphoned.nl
+/wp-content/themes/*/dist/all.js$script,domain=androidplanet.nl|iphoned.nl
+androidplanet.nl,iphoned.nl##.no-content-styles:has-text(/Steun Android Planet|Steun iPhoned|whitelist/)
 autoweek.nl##+js(set-constant, isAdBlockActive, false)
 citaten.net#@##bottom-ad
 goplay.be##+js(no-fetch-if, pubads.g.doubleclick.net/gampad/ads)
