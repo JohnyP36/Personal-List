@@ -256,6 +256,10 @@ klapjes.nl##div[class*="Sidebar"] img[src*="/hoomezaz"][src*=".gif"]:upward(3)
 kledingmaten.nl##[id^="text-"]:has-text(/advert/i)
 kledingmaten.nl##aside[id^="custom"]:has(script[src*="cookie"])
 knack.be##.js-partner-content
+koopplein.nl,televizier.nl,tvblik.nl,voetbalnieuws.be##.header-banner
+koopplein.nl##.ad-item-container
+koopplein.nl##.promobloc-desktop
+koopplein.nl##.promoblocs__banner
 leerzaam.com##[id^="custom_html-"]:has(.adsbygoogle)
 lekkercryptisch.nl##.c-sponsoredBy
 lekkercryptisch.nl##.p-footer__randomPartner
@@ -745,10 +749,6 @@ klimaatinfo.nl##[class^="space"]:has(.adsbygoogle)
 klokradio.nl##[class^="panel-grid"]:has-text(/advert/i)
 knhs.nl##.banners-right
 knhs.nl##div.row:has(:scope > section > .cycler:has(img[src*="banner"]))
-koopplein.nl,televizier.nl,tvblik.nl##.header-banner
-koopplein.nl##.ad-item-container
-koopplein.nl##.promobloc-desktop
-koopplein.nl##.promoblocs__banner
 kutscheetje.nl##[id^="text"]:has([src*="banner"])
 landbouwgrond.nu##div[style]:has(.adsbygoogle)
 landenweb.nl##.content > table:has(:scope > tbody:has-text(advert))
