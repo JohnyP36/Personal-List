@@ -1,7 +1,6 @@
-! Title: My Filters
 !/dashboard.html#settings.html --> RGB(49, 42, 101) OR RGB(240, 185, 36)
 !EasyList + EasyPrivacy + Fanboy's Enhanced Tracking List (+ Fanboy's Annoyance) 	-> https://fanboy.co.nz/r/fanboy-ultimate.txt  /  https://fanboy.co.nz/r/fanboy-complete.txt
-!*$csp=upgrade-insecure-requests,domain=~ehubsoft.net|~192.168.2.150|~192.168.2.254
+!*$csp=upgrade-insecure-requests,domain=~ehubsoft.net
 
 !https://www.reddit.com/r/privacytoolsIO/comments/g9hjrd/using_ublock_origin_to_abort_possible_browser/
 *,~hangouts.google.com,~hcaptcha.com,~freebitco.in##+js(nowebrtc)
