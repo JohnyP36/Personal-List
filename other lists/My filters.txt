@@ -1,6 +1,7 @@
+! Title: My Filters
 !/dashboard.html#settings.html --> RGB(49, 42, 101) OR RGB(240, 185, 36)
 !EasyList + EasyPrivacy + Fanboy's Enhanced Tracking List (+ Fanboy's Annoyance) 	-> https://fanboy.co.nz/r/fanboy-ultimate.txt  /  https://fanboy.co.nz/r/fanboy-complete.txt
-!*$csp=upgrade-insecure-requests,domain=~ehubsoft.net
+!*$csp=upgrade-insecure-requests,domain=~ehubsoft.net|~192.168.2.150|~192.168.2.254
 
 !https://www.reddit.com/r/privacytoolsIO/comments/g9hjrd/using_ublock_origin_to_abort_possible_browser/
 *,~hangouts.google.com,~hcaptcha.com,~freebitco.in##+js(nowebrtc)
@@ -63,6 +64,7 @@ www.youtube.com##ytd-watch-metadata ytd-button-renderer div[class$="icon"]:style
   www.youtube.com###info > * [id^="top-level-buttons"] [class*="button-renderer"] [id="text"]:not(:has-text(/\d/))
   www.youtube.com##.ytd-watch-metadata > .top-level-buttons #text:not(:has-text(/[\d]/))
 www.youtube.com###comment-teaser
+youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope:has([class*="promo-renderer"])
 www.youtube.com#@##merch-shelf
 www.youtube.com#@#.ytd-merch-shelf-renderer
 !:style(overscroll-behavior: none; !important)
@@ -96,7 +98,6 @@ www.google.*,rd.nl##html:style(overflow: visible !important)
 ||gateway.reddit.com/desktopapi/v1/sidebar_ad$domain=www.reddit.com,important
 @@||gemius.pl/gplayer.js$script,3p,badfilter
 ||nrc.nl/paywall-api/$xhr,1p
-@@||taboola.com/*$domain=gloednieuw.nl
 
 ! Cookie Banner e.d.
 chamilo.etf.edu##.cookieUsageValidation
@@ -104,24 +105,23 @@ christenenvoorisrael.nl##.diffuse_cookie-bar__container
 freebitco.in##.daily_jackpot_main_container_div
 freebitco.in###free_play_payout_table > div[id^="premium"][id*="membership"]
 gab.com#?#:matches-path(/\/home|\/groups/) span[class]:has-text(/^Upgrade/i):upward(3)
-gab.com#?#aside a[href*="shop.dissenter.com/product/"]:has(img):upward(1)
+gab.com##aside a[href*="shop.dissenter.com/product/"]:has(img):upward(1)
+gab.com##h2[class]:has-text(Gab Voice):upward(aside)
 github.com#?##dashboard div[aria-labelledby="feed-original"] [class="body"]:has-text(/pushed to xvello|/letsblockit/i):upward(.push)
 instagram.com##body:style(overflow: visible !important;)
-instagram.com#?#div[class][role="presentation"]:has([role="dialog"] > div[class] > div[class] > div[class] > div[class]:has(h2[class]:has-text(cookies))):has(a[href="/legal/cookies/"])
 instagram.com##div[class][role="dialog"]:has([role="dialog"]:has(button):has-text(cookies)):upward(4)
 instagram.com#?#button:has(> *:has-text(/covid-19 information/i)):upward(1)
 instagram.com#?#article button:has([aria-label*="Information icon"]):upward(1)
 instagram.com#?#article button:has([aria-label*="Warning icon"]):upward(1)
-instagram.com##main > div > section > :has(div):not(div[style^="left:"]):style(max-width: 600px !important;)
+instagram.com##main > div > section > *:has(div):not(div[style^="left:"]):style(max-width: 550px !important;)
 !instagram.com##main section > div[style]:has-text(/About|Help/i):style(left:950px !important;)
-marktplaats.nl#?#div[class*="LoginNudge"]:has-text(/Log hier in/i):has-text(/Inloggen/i)
-marktplaats.nl#?#div[class] > div[class] > section[class] > div[class] > div[class*="Login"]
+marktplaats.nl##.ReactModalPortal:has-text(Inloggen)
+marktplaats.nl##div[class$="LoginNudge"]
 mediamarkt.nl###mms-consent-portal-container
 mediamarkt.nl##[class*="StyledMasterAdBanner"]:has-text(/cookies|accepteer/i):upward(1)
 nos.nl###ccm_notification_wrapper
-nsinternational.*##.cookie-notice
-nsinternational.*##.t-cookie-overlay-visible.t-cookie-overlay.cookie-overlay
-nsinternational.*##.t-cookie-overlay.cookie-overlay.cookie-popup
+nsinternational.*##.cookie-notice 
+nsinternational.*##.t-cookie-overlay-visible.t-cookie-overlay.cookie-overlay, .t-cookie-overlay.cookie-overlay.cookie-popup
 rd.nl##.tp-modal
 rd.nl##.tp-active.tp-backdrop
 speedtest.net##.notification-container > div > .notification
@@ -131,7 +131,6 @@ gathering.tweakers.net##.koekje_bar
 volkskrant.nl,trouw.nl##article[id*="LOGIN_BIG_BOTTOM"] > div[class*="tm-body"]
 y8.com##.div-gpt-ad-above:style(position: absolute !important; left: -5000px !important;)
 y8.com###policy-validation
-gloednieuw.nl#@##taboola-below-article-thumbnails
 
 !!-----ALGEMEEN-----!!
 ||doubleclick.net/instream/ad_status.js$script,redirect=doubleclick.net/instream/ad_status.js
@@ -166,13 +165,13 @@ theorieexamen.nl##+js(addEventListener-defuser, contextmenu)
 ##.fb-share-button
 
 ! Rules copied from uBlock (standard) filterlists [20 rules]
-!  uBlock Filters {=> solves problems from other lists}
-!is in use now
 !  uBlock filters - Privacy [12 rules + 10]
 ||adblockanalytics.com^$third-party
 ||addthis.com^$important,3p,domain=~missingkids.com|~missingkids.org|~sainsburys.jobs|~sitecore.com|~amd.com
 ||addthis.com/*/addthis_widget.js$script,redirect=addthis.com/addthis_widget.js,important
 ||docs.google.com/*/logImpressions?$xhr,redirect=nooptext,domain=docs.google.com
+||jsdelivr.net/npm/skx@*/optical.js
+/jquery.js?*&rx=*&foxtail=$image,1p
 ||google-analytics.com/analytics.js$script,redirect=google-analytics.com/analytics.js,important
 ||google-analytics.com/cx/api.js$script,redirect=google-analytics.com/cx/api.js,important
 ||google-analytics.com/ga.js$script,redirect=google-analytics.com/ga.js,important
