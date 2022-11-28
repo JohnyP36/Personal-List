@@ -776,10 +776,10 @@ mariogames.be##.googleadvidx
 mariogames.be##div.gameinfo:has-text(/sponsored links/i)
 marketingtribune.nl###banner-billboard
 marktnet.nl##.tab4
-marktplaats.nl,2dehands.be###top-banner-wrapper
 marktplaats.nl,2dehands.be##.BannerBottom-root
 marktplaats.nl,2dehands.be##.BannerRight-root
 marktplaats.nl,2dehands.be##.banner-row
+marktplaats.nl,2dehands.be##.banner-top-dt
 marktplaats.nl,2dehands.be##.Banners-bannerFeedItem
 marktplaats.nl,2dehands.be##.banner-vipbottom
 marktplaats.nl,2dehands.be##.l-page:style(max-width: 1300px!important;)
