@@ -106,14 +106,17 @@ freebitco.in###free_play_payout_table > div[id^="premium"][id*="membership"]
 gab.com#?#:matches-path(/\/home|\/groups/) span[class]:has-text(/^Upgrade/i):upward(3)
 gab.com##aside a[href*="shop.dissenter.com/product/"]:has(img):upward(1)
 gab.com##h2[class]:has-text(Gab Voice):upward(aside)
-github.com#?##dashboard div[aria-labelledby="feed-original"] [class="body"]:has-text(/pushed to xvello|/letsblockit/i):upward(.push)
+github.com###dashboard div[aria-labelledby="feed-original"] [class="body"]:has-text(github-actions):has-text(EasyDutch-uBO/EasyDutch):upward([classes^="push"])
+github.com###dashboard div[aria-labelledby="feed-original"] [class="body"]:has-text(pushed to):has-text(black7375/Firefox-UI-Fix):upward(.push)
+github.com###dashboard div[aria-labelledby="feed-original"] [class="body"]:has-text(pushed to):has-text(letsblockit/letsblockit):upward(.push)
 instagram.com##body:style(overflow: visible !important;)
 instagram.com##div[class][role="dialog"]:has([role="dialog"]:has(button):has-text(cookies)):upward(4)
-instagram.com#?#button:has(> *:has-text(/covid-19 information/i)):upward(1)
-instagram.com#?#article button:has([aria-label*="Information icon"]):upward(1)
-instagram.com#?#article button:has([aria-label*="Warning icon"]):upward(1)
-instagram.com##main > div > section > *:has(div):not(div[style^="left:"]):style(max-width: 550px !important;)
-!instagram.com##main section > div[style]:has-text(/About|Help/i):style(left:950px !important;)
+instagram.com##button:has(div[class]:has-text(/covid-19/i)):upward(1)
+instagram.com##article span:has-text(Fact-checkers):upward(5)
+  instagram.com#?#article button:has([aria-label*="Information icon"]):upward(1)
+  instagram.com#?#article button:has([aria-label*="Warning icon"]):upward(1)
+instagram.com#?#main > div > section > *:has(div):not(div[style^="left:"]):style(max-width: 550px !important;)
+ !instagram.com##main section > div[style]:has-text(/About|Help/i):style(left:950px !important;)
 marktplaats.nl##.ReactModalPortal:has-text(Inloggen)
 marktplaats.nl##div[class$="LoginNudge"]
 mediamarkt.nl###mms-consent-portal-container
@@ -130,6 +133,7 @@ gathering.tweakers.net##.koekje_bar
 volkskrant.nl,trouw.nl##article[id*="LOGIN_BIG_BOTTOM"] > div[class*="tm-body"]
 y8.com##.div-gpt-ad-above:style(position: absolute !important; left: -5000px !important;)
 y8.com###policy-validation
+startpage.com#@#.ad.widget
 
 !!-----ALGEMEEN-----!!
 ||doubleclick.net/instream/ad_status.js$script,redirect=doubleclick.net/instream/ad_status.js
@@ -157,6 +161,7 @@ theorieexamen.nl##+js(addEventListener-defuser, contextmenu)
 ||facebook.net^
 ||fbcdn.net^$domain=~facebook.com
 ||www.facebook.com/plugins/*.php
+@@||facebook.com^$websocket,domain=instagram.com
 @@||fbcdn.net^$image,domain=instagram.com
 @@||www.facebook.com/plugins/video.php$subdocument
 /cdn-cgi/pe/bag2?*connect.facebook.
