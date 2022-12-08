@@ -143,6 +143,8 @@ fhm500.nl##.powered_by_profile
 fhm500.nl##.profiel:has-text(/Powered by/i)
 finance.nl##div[style^="width:300px; height:250px;"]:has([id*="google"])
 flair.nl##.c-commerical_banner
+flashscore.nl##.adsenvelope
+flashscore.nl##.oddsPlacement
 fleet-mobility.nl##.spotlight:has-text(Partners)
 flexnieuws.nl##.header-ads__custom-ad
 floranews.com##td[align="center"]:has(> hr):has([href^="/banner"])
