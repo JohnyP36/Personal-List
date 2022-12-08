@@ -1,6 +1,6 @@
 [uBlock Origin]
 @@/images/volgende.gif$image,1p,domain=privesexgids.nl|sexdatingholland.com|sexpret.com|studentesexcontact.nl|tienersexpret.nl|zinomteneuken.nl
-@@||accountancyvanmorgen.nl/wp-content/uploads/*/Banner-checkpoints
+@@||accountancyvanmorgen.nl/wp-content/uploads/*/Banner-checkpoints$image,first-party
 @@||dekrantvantoen.nl/resources/*/images/*_336x120.$image
 @@||files.skoften.net/website/lib/vjs/plugins/ads/videojs.ads.min.js$script,~third-party
 @@||girlpics.nl/images/ads_$image,first-party
@@ -9,6 +9,7 @@
 @@||naaktkrant.nl/media/*/*-gifs-*.gif$image,first-party
 @@||privesexgids.nl/images/webcamsex.gif$image
 @@||rtl.be/videos/player/vp4_webanalytics.js$script,first-party
+@@||salarisvanmorgen.nl/wp-content/uploads/*abonneer-nieuwsbrief$image,first-party
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||sliedrecht24.nl/wp-content/uploads/*/Banner-300x250*.jpg$image,first-party
 @@||te-les-koop.nl/advertenties.php
