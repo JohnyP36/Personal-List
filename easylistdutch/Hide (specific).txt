@@ -9,7 +9,7 @@
 aafm.nl,aavisie.nl##.block:has-text(Advertentie)
 accountancyvanmorgen.nl##.rc-banner-inner-wrapper
 accountancyvanmorgen.nl,salarisvanmorgen.nl##.rc-banner-leaderboard
-accountancyvanmorgen.nl,salarisvanmorgen.nl##aside > section:has(img):not(:has(a[href*="vanmorgen.nl"]))
+accountancyvanmorgen.nl,pensioenvanmorgen.nl,salarisvanmorgen.nl##aside > section:has(img):not(:has(a[href*="vanmorgen.nl"]))
 accountancyvanmorgen.nl,salarisvanmorgen.nl##div[class*="slideshow-wrapper"]:has-text(/vriend|partners|hoofdsponsor/i)
 actueel-nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
 ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,tubantia.nl,pzc.nl##.article__component--temptation
