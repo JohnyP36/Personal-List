@@ -7,6 +7,10 @@
 247spice.com##.elementor-widget-heading:has-text(/Partners|Advert/)
 247spice.com##.elementor-widget-heading:has-text(/Partners|Advert/) + section
 aafm.nl,aavisie.nl##.block:has-text(Advertentie)
+accountancyvanmorgen.nl##.rc-banner-inner-wrapper
+accountancyvanmorgen.nl##.rc-banner-leaderboard
+accountancyvanmorgen.nl##aside > section:has(img):not(:has(a[href*="vanmorgen.nl"]))
+accountancyvanmorgen.nl##div[class*="slideshow-wrapper"]:has-text(/vriend|partners|hoofdsponsor/i)
 actueel-nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
 ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,tubantia.nl,pzc.nl##.article__component--temptation
 afkortingen.nu,agf.nl,allradio.nl,bpnieuws.nl,broadcastmagazine.nl,creditexpo.nl,erotracks.nl,filmladder.nl,gezondheidsnet.nl,groentennieuws.nl,klasse.be,nieuweoogst.nl,nieuws.nl,nrc.nl,nu.nl,retaildetail.be,retaildetail.nl,sexfotodating.nl,startbewijs.nl,startkabel.nl,startpagina.nl,televizier.nl,telezien.nl,totaaltv.nl,truck1.be,truck1-nl.be,truck1.nl,tvgemist.be,tvgids.nl,uiennieuws.nl,unity.nu,uw-folder.nl,voetbalnieuws.be,waldnet.nl##.banner
