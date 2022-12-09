@@ -32,9 +32,9 @@ appletips.nl##.ph_upgreatest
 appletips.nl###bolcontainer
 appletips.nl##[class^="ph_block"]
 appletips.nl##a[href^="/adverteren-"]
-arenalokaal.nl,gooieneembode.nl,hetkrantje-online.nl,laardercourant.nl,weespernieuws.nl##.content-start > :has([advobject])
+arenalokaal.nl,dehavenloods.nl,gooieneembode.nl,hetkrantje-online.nl,laardercourant.nl,weespernieuws.nl##.content-start > :has([advobject])
 arenalokaal.nl##.content-start > * > div[style]:has-text(/Externe links|Externe websites/i)
-arenalokaal.nl,gooieneembode.nl,hetkrantje-online.nl,laardercourant.nl,weespernieuws.nl##[advobject]:upward(.bg-gray-100):has-text(/Uit de krant/i)
+arenalokaal.nl,dehavenloods.nl,gooieneembode.nl,hetkrantje-online.nl,laardercourant.nl,weespernieuws.nl##[advobject]:upward(.bg-gray-100):has-text(/Uit de krant/i)
 autoblog.nl##.widget:has-text(/links/i)
 autoblog.nl##.widget_ab_sidebar
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
