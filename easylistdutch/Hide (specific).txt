@@ -13,7 +13,7 @@ accountancyvanmorgen.nl,pensioenvanmorgen.nl,salarisvanmorgen.nl##aside > sectio
 accountancyvanmorgen.nl,fiscaalvanmorgen.nl,salarisvanmorgen.nl##div[class*="slideshow-wrapper"]:has-text(/vriend|partners|hoofdsponsor/i)
 actueel-nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
 ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,tubantia.nl,pzc.nl##.article__component--temptation
-afkortingen.nu,agf.nl,allradio.nl,bpnieuws.nl,broadcastmagazine.nl,creditexpo.nl,erotracks.nl,filmladder.nl,gezondheidsnet.nl,groentennieuws.nl,klasse.be,nieuweoogst.nl,nieuws.nl,nrc.nl,nu.nl,retaildetail.be,retaildetail.nl,sexfotodating.nl,startbewijs.nl,startkabel.nl,startpagina.nl,televizier.nl,telezien.nl,totaaltv.nl,truck1.be,truck1-nl.be,truck1.nl,tvgemist.be,tvgids.nl,uiennieuws.nl,unity.nu,uw-folder.nl,voetbalnieuws.be,waldnet.nl##.banner
+afkortingen.nu,agf.nl,allradio.nl,amsterdamsdagblad.nl,bpnieuws.nl,broadcastmagazine.nl,creditexpo.nl,erotracks.nl,filmladder.nl,gezondheidsnet.nl,groentennieuws.nl,klasse.be,nieuweoogst.nl,nieuws.nl,nrc.nl,nu.nl,retaildetail.be,retaildetail.nl,sexfotodating.nl,startbewijs.nl,startkabel.nl,startpagina.nl,televizier.nl,telezien.nl,totaaltv.nl,truck1.be,truck1-nl.be,truck1.nl,tvgemist.be,tvgids.nl,uiennieuws.nl,unity.nu,uw-folder.nl,voetbalnieuws.be,waldnet.nl##.banner
 agriline.be,agriline.nl,autoline.be,autoline.nl,machineryline.be,machineryline.nl##.sales-cat-context
 ajaxreport.nl,psvreport.nl##[id^="text"][class$="sidebar-widget"]:has-text(/casino/i):not(:has(div[class="widget-title"]))
 ajaxreport.nl,feyenoordreport.nl,livolleyvlaanvestreamvandaag.be,onlinekraslotenrss.nl,onlinepokerrss.nl,psvreport.nl,sportweddenrss.nl,voetbalsnafu.nl##.widget_links
@@ -21,6 +21,8 @@ ajaxreport.nl,feyenoordreport.nl,psvreport.nl,voetbalsnafu.nl##div[class$="sideb
 albrandswaardsdagblad.nl,barendrechtsdagblad.nl,capelsdagblad.nl,dagblad070.nl,goudsdagblad.nl,nissewaardsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,zoetermeersdagblad.nl##.advrow
 amateursextube.eu,anaaltube.be,incesttube.eu,omatube.be,opasextube.nl,plassextube.com,scattube.be,schaamlip.net,seksfilmstube.be,sex-kamer.nl,smsextube.com,tienersextube.com,tubeclips.nl###buttonUnderVideoLink
 amateursextube.eu,anaaltube.be,incesttube.eu,omatube.be,opasextube.nl,plassextube.com,scattube.be,schaamlip.net,seksfilmstube.be,sex-kamer.nl,smsextube.com,tienersextube.com,tubeclips.nl##.adHomePage
+amsterdamsdagblad.nl##.bannerrow
+amsterdamsdagblad.nl##.partnerrow
 amsterdamtigers.com##.sponsorbanner
 androidworld.nl,dartsnieuws.com,f1maximaal.nl,indeleiderstrui.nl##.sda
 anoniem-surfen.nl##.footer-widget-1
