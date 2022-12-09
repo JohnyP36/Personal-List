@@ -105,6 +105,7 @@ ditjesendatjes.nl##div[class^="article-page__sidebar"] a[href]:not(a[href*="ditj
 dolcevia.com##.affiliatelink
 dolcevia.com##.bookingaff:upward(.card)
 drentsnieuws.nl##.shadow:has(#bannerCarousel)
+drimble.nl##.ASTAGQ_Billboard
 dsdating.nl##[href^="https://mt67.net/"]:upward(.elementor-section)
 dutchcryptotalk.com##.hootslider-image-wrapper
 dutchcryptotalk.com##[id^="media_image"]:has([href*="/bitvavo"])
