@@ -75,8 +75,6 @@ buienradar.be,buienradar.nl###adholderContainerHeader
 buienradar.nl##.uitradar:has(img[src*=".nl/resources//images/promo/"])
 businessinsider.nl##.ll_partnerexpert
 ciaotutti.nl##.theiaStickySidebar > .text-html-box:not(:has(a[href^="https://ciaotutti.nl/"])):not(:has(a[href^="http://eepurl.com/"])):not(:has(a[href*="facebook.com/blogciaotutti"]))
-cip.nl##a[href*="/ad/click/"]:not(.podcast-inline a[href]):not(:has-text(/vacatures/i)):not(:has-text(/gesponsord/i))
-cip.nl##div[class]:has-text(/vakanties/i):upward(2) + div [id^="vacation-carousel"]
 clubbrugge.be,voetbalindebollenstreek.nl##.partners
 coc.nl,cocamsterdam.nl,cochaaglanden.nl,fanclubbarcelona.nl###banners
 cocdeventer.nl###ads
@@ -85,6 +83,8 @@ creditexpo.nl##p:has(a[href]:has(img[src*="creditexpo.nl/wp-content/uploads/"][w
 crypto-insiders.nl##article.format-standard:has([id^="div-gpt-ad"])
 crypto-insiders.nl##div[class^="intercom-app"] > iframe[title*="banner"]
 cryptoclan.nl,cryptonieuws.nl##div[data-elementor-type="popup"]
+cvandaag.nl##a[href*="/ad/click/"]:not(.podcast-inline a[href]):not(:has-text(/vacatures/i)):not(:has-text(/gesponsord/i))
+cvandaag.nl##.vacation-big-widget
 dagbladdewest.com##.elementor-widget-slides:has(.swiper-wrapper)
 dagelijksekost.een.be##.dish-sponsors
 dagelijksestandaard.nl###TOP_ARTICLE
