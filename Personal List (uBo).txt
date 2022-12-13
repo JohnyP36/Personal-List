@@ -1,4 +1,3 @@
-[uBlock Origin]
 ! Title: Dutch Filter List
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -6,7 +5,7 @@
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: December 12, 2022 09:37 UTC
+! Last modified: December 13, 2022 07:43 UTC
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
