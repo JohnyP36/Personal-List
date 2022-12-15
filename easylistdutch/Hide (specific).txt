@@ -259,7 +259,7 @@ kinkymedia.nl##.adguru-zone
 kinkymedia.nl##.adguru-zone-wrap
 kinkymedia.nl##.footer-widget-container .widget_text:has(img)
 kinkymedia.nl##[id^="adguru-zone-widget"]
-kinkymedia.nl##aside > div[id^="media_image"]:has(a[href]):not(:has(a[href*="kinkymedia.nl"]))
+kinkymedia.nl##aside > .widget:has(a[href]):not(:has(a[href*="kinkymedia.nl"]))
 klapjes.nl##a[href*="/adverteren"]:upward(2)
 klapjes.nl##div[class*="Sidebar"] > [class]:has-text(webcamsex)
 klapjes.nl##div[class*="Sidebar"] img[src*="/hoomezaz"][src*=".gif"]:upward(3)
