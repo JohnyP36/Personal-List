@@ -523,6 +523,7 @@ wkdarts.nl##.vcex-module:has-text(/advert/i)
 wkdarts.nl##[href="https://www.loketkansspel.nl/"]
 woorden.org##div[style] [id*="728x90"]:upward(3)
 vnexplorer.net###ads_right_scroll_single_sidebar
+wordfeudwoorden.nl##.mobblue
 wos.nl##.header-right
 wradio.be##.c-advertiser-logos
 xgn.nl##.bs
