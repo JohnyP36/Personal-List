@@ -1,6 +1,7 @@
 [uBlock Origin]
 ! 2022 
 !@@||adserver.hollandcasino.nl^$popup,domain=onlinecasinoground.nl
+@@||2mdn.net/instream/html5/ima3.js$script,domain=omroepbrabant.nl
 @@||aweprt.com/embed/$script,domain=cumcams.nl|sexervaringdelen.com
 @@||cdn.ebayclassifieds.net/bff/static/*/MyAds.$domain=2dehands.be|marktplaats.nl
 @@||google.com/adsense/domains/caf.js$script,third-party,domain=ww5.meetplaza.be
