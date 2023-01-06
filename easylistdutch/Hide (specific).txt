@@ -1,5 +1,6 @@
 [uBlock Origin]
 ! 2023
+blikopzeewolde.nl##.fusion-flex-container.fullwidth-box.fusion-fullwidth:has(:not(a[href^="https://www.blikopzeewolde.nl/"]) > .fusion-column-inner-bg-image)
 loonwijzer.be##.main__bottom:has(div[id*="gpt-ad-"])
 loonwijzer.be##[class^="article__ad"]
 ! 2022
