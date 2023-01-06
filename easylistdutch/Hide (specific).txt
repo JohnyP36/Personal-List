@@ -1,4 +1,7 @@
 [uBlock Origin]
+! 2023
+loonwijzer.be##.main__bottom:has(div[id*="gpt-ad-"])
+loonwijzer.be##[class^="article__ad"]
 ! 2022
 1001erotiekverhalen.nl##[href^="https://t.adating.link/"]:upward(2)
 1001erotiekverhalen.nl##aside[id^="block"]:has([src*="tools-affil2.com/rtb/index.php"])
