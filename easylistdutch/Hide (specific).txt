@@ -1,5 +1,9 @@
 [uBlock Origin]
 ! 2023
+androidplanet.nl,iphoned.nl##.widget_offers
+androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
+androidplanet.nl,iphoned.nl##div[data-name="dynamic-content-injected"]:upward(2)
+androidplanet.nl,iphoned.nl##header[data-name="featured-header"]
 blikopzeewolde.nl##.fusion-flex-container.fullwidth-box.fusion-fullwidth:has(:not(a[href^="https://www.blikopzeewolde.nl/"]) > .fusion-column-inner-bg-image)
 loonwijzer.be##.main__bottom:has(div[id*="gpt-ad-"])
 loonwijzer.be##[class^="article__ad"]
@@ -573,11 +577,6 @@ almere-nieuws.nl##.jeg_container > .jeg_container:has(.jeg_ad)
 amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv##.adv-tekst
 amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv##.banner_image
 amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv##.banner_image2
-androidplanet.nl##.w-full:has-text(ADV):has-text(Gesponsord door):has-text(Advertentie)
-androidplanet.nl,iphoned.nl##.aa-top-dog
-androidplanet.nl,iphoned.nl##.widget_offers
-androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
-androidplanet.nl,iphoned.nl##header[data-name="featured-header"]
 androidworld.nl,cinenews.be,handbal.nl,openrotterdam.nl,webmastersunited.com,wegdamnieuws.nl##.ads
 ans-online.nl##.theiaStickySidebar > .widget:has-text(Advertentie)
 apintie.sr###left-inside > div#ads
