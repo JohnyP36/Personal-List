@@ -8,6 +8,8 @@ blikopzeewolde.nl##.fusion-flex-container.fullwidth-box.fusion-fullwidth:has(:no
 leerzaam.com,radiovisie.eu,stopdebankiers.com##[id^="custom_html"]:has(.adsbygoogle)
 loonwijzer.be##.main__bottom:has(div[id*="gpt-ad-"])
 loonwijzer.be##[class^="article__ad"]
+nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
+nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 ! 2022
 1001erotiekverhalen.nl##[href^="https://t.adating.link/"]:upward(2)
 1001erotiekverhalen.nl##aside[id^="block"]:has([src*="tools-affil2.com/rtb/index.php"])
@@ -358,8 +360,6 @@ nl.motorsport.com##.ms-side-widget--custom-links__wrapper
 nl-nieuwsonline.nl###content-footer-section:has(.adsbygoogle)
 nljug.org##.widget:has(.capegroep-banner)
 nljug.org##[id^="custom_html-"]:has-text(Kennispartners):has(a[href] > img)
-nlsexfilmpjes.com###left_div li:not(> a[target="_blank"])
-nlsexfilmpjes.com###toplist_bodem li:not(> a[target="_blank"])
 nnieuws.be##.content > .box:has(#partner-slider)
 nnp.nl##div[class^="p-4"]:has([class*="gray"]):has(a[data-source^="banner"])
 noordkopcentraal.nl##.bannerListWidget
