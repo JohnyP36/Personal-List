@@ -1,5 +1,6 @@
 name: 'Close Stale Issues'
 on:
+  workflow_dispatch:
   schedule:
     - cron: '00 12 * * 1'
     - cron: '59 23 * * 4'
