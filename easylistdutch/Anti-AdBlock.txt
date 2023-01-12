@@ -2,6 +2,8 @@
 ! 2023
 @@/wp-content/*/scripts/adb.min.js$script,first-party,domain=androidplanet.nl|iphoned.nl
  !androidplanet.nl,iphoned.nl##.no-content-styles:has-text(/Steun Android Planet|Steun iPhoned|whitelist/)
+@@||tweakers.net^$generichide
+tweakers.net##.noTrackingMessage
 ! 2022
 autoweek.nl##+js(set-constant, isAdBlockActive, false)
 citaten.net#@##bottom-ad
@@ -21,7 +23,6 @@ hardware.info##^script:has-text(Inject=!)
 meerdangewenst.nl##[class*="footer-section"] > *:style(display: none !important;)
 notebookcheck.nl##+js(abort-current-inline-script, document.getElementById, AAdsspaCe)
 radiowereld.nl##+js(no-setInterval-if, adb)
-tweakers.net##.noTrackingMessage
 ! vandaaginside.nl
 @@||static.kijk.nl/prebid/ad.gif$xhr,first-party,domain=embed.kijk.nl
 @@||cmp.quantcast.com/choice/*/*vi.nl/choice.js$script,domain=vi.nl
