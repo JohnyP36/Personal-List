@@ -1,6 +1,5 @@
 [uBlock Origin]
 ! 2023
-*$image,redirect-rule=2x2.png,domain=tweakers.net
 ! 2022
 /^https\:\/\/dutchitchannel\.nl\/media\/\d{6}\/\d{10}\.jpg$/$image
 /^https\:\/\/executive-people\.nl\/media\/\d{6}\/\d+\.jpg$/$image
