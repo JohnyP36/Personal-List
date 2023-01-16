@@ -1,4 +1,9 @@
 [uBlock Origin]
+! 2023
+@@||awemwh.com/$image,domain=camsexbabe.nl
+@@||potwm.com/tube-player/?$frame,domain=camsexbabe.nl
+@@||potwm.com/api/video-promotion/v1/get-$xhr,domain=camsexbabe.nl|potwm.com
+@@||prtawe.com/embed/tbplyr/*$script,domain=camsexbabe.nl
 ! 2022 
 !@@||adserver.hollandcasino.nl^$popup,domain=onlinecasinoground.nl
 @@||2mdn.net/instream/html5/ima3.js$script,domain=omroepbrabant.nl
@@ -41,11 +46,8 @@
 @@||media.plista.com^*$image,domain=totaaltv.nl
 @@||nextday.media^$third-party,domain=vi.nl
 @@||plista.com/async$script,domain=totaaltv.nl
-@@||potwm.com/tube-player/?$frame,domain=camsexbabe.nl
-@@||potwm.com/api/video-promotion/v1/get-$xhr,domain=camsexbabe.nl|potwm.com
 @@||promotools.islive.nl/ads/nieuws_en_updates_230x135/vijf-updates/txt.js$script,domain=kutscheetje.nl
 @@||promotools.islive.nl/cam_ms/*$subdocument,domain=girlpics.nl
-@@||prtawe.com/embed/tbplyr/*$script,domain=camsexbabe.nl
 @@||pt.protoawe.com/embed/tbplyr/*$script,domain=lekkerewebcams.nl|gratispornofilm.nl|teen-sex.nl
 @@||ptwmstc.com/*/tube-player/script/*$script,domain=pt.potwm.com
 @@||quantcast.mgr.consensu.org/tcfv2/cmp2.js$script,domain=clint.be
