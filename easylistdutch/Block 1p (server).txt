@@ -2,7 +2,8 @@
 ||a2.tijd.be^
 ||aa.hwigroup.com^
 ||ab.hwigroup.com^
-||ab.tweakers.nl^
+||aa.tweakers.nl^$image
+||ab.tweakers.nl^$image
 ||adverteren.rd.nl^
 ||advertising-module.api.dpgmedia.cloud^
 ||content1.pcmweb.nl^
