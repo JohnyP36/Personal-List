@@ -3,10 +3,10 @@
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
 !     mainly for uBlock and Adguard users
-! Expires: 2 days (update frequency)
+! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Januari 16, 2023 07:36 UTC
+! Last modified: Januari 16, 2023 07:30 UTC
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
