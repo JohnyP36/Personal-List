@@ -10,6 +10,7 @@ girlscene.nl##[id$="top-ad-desktop"]
 leerzaam.com,radiovisie.eu,stopdebankiers.com##[id^="custom_html"]:has(.adsbygoogle)
 loonwijzer.be##.main__bottom:has(div[id*="gpt-ad-"])
 loonwijzer.be##[class^="article__ad"]
+nd.nl##.page-header__inner__ad
 nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
 nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 ! 2022
@@ -334,7 +335,6 @@ mr-online.nl##a[href="/partner/profielpartner/"]:upward(.elementor-widget-wrap)
 musicmeter.nl##.external
 mygaydate.nl##.rand:has([href^="https://www.shemalecontactnederland.nl/"])
 nailtalk.nl##.ashe-widget
-nd.nl#?#.text-center:-abp-contains(advert)
 nederlandsextube.nl##.prefilm
 nederlandsextube.nl##.side
 nedporno.com##.publ1s-b0ttom
