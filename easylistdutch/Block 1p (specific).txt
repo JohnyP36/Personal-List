@@ -1,5 +1,6 @@
 [uBlock Origin]
 ! 2023
+/media/banners$image,domain=webcam-aalsmeer.nl|webcam-airport.nl|webcam-binnenvaart.nl|webcam-blokzijl.nl|webcam-brandaris.nl|webcam-delfzijl.nl|webcam-denhelder.nl|webcam-denoever.nl|webcam-dokkum.nl|webcam-dordrecht.nl|webcam-enkhuizen.nl|webcam-friesemeren.nl|webcam-grou.nl|webcam-harlingen.nl|webcam-havenijmuiden.nl|webcam-hindeloopen.nl|webcam-hoekvanholland.nl|webcam-kampen.nl|webcam-lauwersoog.nl|webcam-leeuwarden.nl|webcam-lelystad.nl|webcam-maassluis.nl|webcam-maastricht.nl|webcam-marken.nl|webcam-monnickendam.nl|webcam-rotterdam.nl|webcam-sneek.nl|webcam-terneuzen.nl|webcam-vlaardingen.nl|webcam-volendam.nl|webcam-workum.nl|webcam-zaanzicht.nl|webcam-zoutkamp.nl|webcam-zwartsluis.nl|webcams-ameland.nl|webcams-scheveningen.nl|webcams-texel.nl|webcams-vlissingen.nl|webcamschiermonnikoog.nl|webcamvlieland.nl
 ! 2022
 /^https\:\/\/dutchitchannel\.nl\/media\/\d{6}\/\d{10}\.jpg$/$image
 /^https\:\/\/executive-people\.nl\/media\/\d{6}\/\d+\.jpg$/$image
