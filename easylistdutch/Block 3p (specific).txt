@@ -1,5 +1,6 @@
 [uBlock Origin]
 ! 2023
+||wieringernieuws.nl/gfx/ads$domain=hollandskroonnieuws.nl|wieringernieuws.nl
 ||viralize.tv/display/$domain=startpagina.nl
 ! 2022
 .nl/remote/https/agfstorage.blob.core.windows.net/banners/$image,domain=agf.nl|bpnieuws.nl|groentennieuws.nl|uiennieuws.nl
