@@ -15,6 +15,9 @@ loonwijzer.be##[class^="article__ad"]
 nd.nl##.page-header__inner__ad
 nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
 nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
+tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
+tweakers.net##.widebnr
+tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
 ! 2022
 1001erotiekverhalen.nl##[href^="https://t.adating.link/"]:upward(2)
 1001erotiekverhalen.nl##aside[id^="block"]:has([src*="tools-affil2.com/rtb/index.php"])
@@ -487,8 +490,6 @@ tubeseks.be##.site-footer
 tvblik.nl##.banner-fluid
 tvblik.nl,voetbalrotterdam,webwoordenboek.nl##div[class^="r89-desktop"]
 tvgids.nl##.square-item:has( > .banner)
-tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
-tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
 unitednews.sr###image-vertical-reel-scroll-slideshow
 unitednews.sr##.slider-container
 vakantieweb.be##.pub-imu
