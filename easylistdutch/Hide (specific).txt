@@ -5,6 +5,7 @@ androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
 androidplanet.nl,iphoned.nl##div[data-name="dynamic-content-injected"]:upward(2)
 androidplanet.nl,iphoned.nl##header[data-name="featured-header"]
 blikopzeewolde.nl##.fusion-flex-container.fullwidth-box.fusion-fullwidth:has(:not(a[href^="https://www.blikopzeewolde.nl/"]) > .fusion-column-inner-bg-image)
+focusclub.nl##.funbox
 girlscene.nl##[id$="leaderboard-article"]
 girlscene.nl##[id$="top-ad-desktop"]
 hollandskroonnieuws.nl,wieringernieuws.nl###navleft > center:has-text(/advert/i)
