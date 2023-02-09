@@ -20,15 +20,24 @@ jobs:
       - name: Copy EasyDutch to AdBlockFilters
         run: |
           TMPFILE=$(mktemp -d)
-          git clone --depth=1 --single-branch --branch=gh-pages https://github.com/EasyDutch-uBO/EasyDutch.git $TMPFILE
-          cp $TMPFILE/EasyDutch/*.txt easylistdutch/
+          git clone --depth=1 --single-branch --branch=main https://github.com/EasyDutch-uBO/EasyDutch.git $TMPFILE
+          cp $TMPFILE/EasyDutch/*.txt EasyDutch/
           cp $TMPFILE/EasyDutch.txt EasyDutch.txt
+          cp $TMPFILE/.github/*.yml .github/
+          cp $TMPFILE/.github/*.md .github/
+          cp $TMPFILE/.github/workflows/*.yml .github/workflows/
+          cp $TMPFILE/.github/ISSUE_TEMPLATE/*.yml .github/ISSUE_TEMPLATE/
+          cp $TMPFILE/.gitattributes .gitattributes
+          cp $TMPFILE/CODE_OF_CONDUCT.md CODE_OF_CONDUCT.md
+          cp $TMPFILE/CONTRIBUTING.md CONTRIBUTING.md
+          cp $TMPFILE/LICENSE LICENSE
+          cp $TMPFILE/README.md README.md
       - name: Commit changes (if any)
         run: |
           if [[ -n $(git diff) ]]; then
             git config user.name "JohnyP36"
             git config user.email "<>"
-            git add -u EasyDutch/ EasyDutch.txt
+            git add -u EasyDutch/ EasyDutch.txt .github/ .github/workflows/ .github/ISSUE_TEMPLATE/ .gitattributes CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE README.md 
             git commit -m "Updated from @EasyDutch-uBO"
             git push origin main
           fi
