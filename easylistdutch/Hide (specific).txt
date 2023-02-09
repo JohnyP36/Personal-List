@@ -10,6 +10,9 @@ girlscene.nl##[id$="leaderboard-article"]
 girlscene.nl##[id$="top-ad-desktop"]
 hollandskroonnieuws.nl,wieringernieuws.nl###navleft > center:has-text(/advert/i)
 hollandskroonnieuws.nl,wieringernieuws.nl##div#block-blue:has-text(/advert/i)
+juf-milou.nl##.adverteerdersblok
+juf-milou.nl##.content_blok_reclame
+juf-milou.nl##div[id^="content"]:not(:has(a[href^="index.php?"])):not(:has-text(/\b/i))
 leerzaam.com,radiovisie.eu,stopdebankiers.com##[id^="custom_html"]:has(.adsbygoogle)
 loonwijzer.be##.main__bottom:has(div[id*="gpt-ad-"])
 loonwijzer.be##[class^="article__ad"]
