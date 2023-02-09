@@ -23,7 +23,7 @@ jobs:
         run: |
           TMPFILE=$(mktemp -d)
           git clone --depth=1 --single-branch --branch=main https://github.com/EasyDutch-uBO/EasyDutch.git $TMPFILE
-          cp $TMPFILE/EasyDutch/*.txt EasyDutch/
+          cp $TMPFILE/EasyDutch/*.txt easylistdutch/
           cp $TMPFILE/EasyDutch.txt EasyDutch.txt
           cp $TMPFILE/.github/*.yml .github/
           cp $TMPFILE/.github/*.md .github/
@@ -39,7 +39,7 @@ jobs:
           if [[ -n $(git diff) ]]; then
             git config user.name "JohnyP36"
             git config user.email "<>"
-            git add -u EasyDutch/ EasyDutch.txt .github/ .github/workflows/ .github/ISSUE_TEMPLATE/ .gitattributes CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE README.md 
+            git add -u easylistdutch/ EasyDutch.txt .github/ .github/workflows/ .github/ISSUE_TEMPLATE/ .gitattributes CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE README.md 
             git commit -m "Updated from @EasyDutch-uBO"
             git push origin main
           fi
