@@ -2,7 +2,7 @@ name: Copy EasyDutch as Back-up
 
 on:
   schedule:
-    - cron: "00 07 * * 3,6"
+    - cron: "00 06 1/14 * *"
   workflow_dispatch:
 
 # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#example-only-cancel-in-progress-jobs-or-runs-for-the-current-workflow
