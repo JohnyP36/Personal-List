@@ -1,0 +1,11 @@
+- name: Copy EasyDutch as Back-up
+        uses: nkoppel/push-files-to-another-repository@1.1.0
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source-files: 'EasyDutch/ EasyDutch.txt .github/ .gitattributes CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE README.md'
+          destination-username: 'JohnyP36'
+          destination-repository: 'Personal-List'
+          destination-branch: 'master'
+          commit-email: 'x'
+          commit-message: 'Updated from @EasyDutch-uBO'
