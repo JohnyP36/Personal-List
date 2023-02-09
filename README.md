@@ -1,117 +1,101 @@
-<!-- [![Commit rate](https://img.shields.io/github/commit-activity/m/JohnyP36/Personal-List?label=Commits&color=succes&style=plastic)](https://github.com/JohnyP36/Personal-List/commits/master)
-[![Issues](https://img.shields.io/github/issues/JohnyP36/Personal-List?label=Issues&color=red&style=plastic)](https://github.com/JohnyP36/Personal-List/issues)
-[![Issues](https://img.shields.io/github/issues-closed/JohnyP36/Personal-List?color=yellowgreen&label=Issues&style=plastic)](https://github.com/JohnyP36/Personal-List/issues)
-[![License](https://img.shields.io/badge/License-GPLv3-blue.svg?label=License&color=lightgrey&style=social)](https://github.com/JohnyP36/Personal-List/blob/main/LICENSE) -->
-
-<p >
-<a align="center" href="https://github.com/JohnyP36/Personal-List/commits/master"><img src="https://img.shields.io/github/commit-activity/m/JohnyP36/Personal-List?label=Commits&color=succes&style=plastic" /></a>
-<a align="center" href="https://github.com/JohnyP36/Personal-List/issues"><img src="https://img.shields.io/github/issues/JohnyP36/Personal-List?label=Issues&color=red&style=plastic" /></a>
-<a align="center" href="https://github.com/JohnyP36/Personal-List/issues"><img src="https://img.shields.io/github/issues-closed/JohnyP36/Personal-List?color=yellowgreen&label=Issues&style=plastic" /></a>
-<a align="center" href="https://github.com/JohnyP36/Personal-List/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg?label=License&color=lightgrey&style=social" /></a>
-</p>
+[EasyDutch](https://github.com/EasyDutch-uBO/EasyDutch):
+[![Commit rate](https://img.shields.io/github/commit-activity/y/EasyDutch-uBO/EasyDutch?label=Commits&color=succes)](https://github.com/EasyDutch-uBO/EasyDutch/commits/)
+[![Last commit](https://img.shields.io/github/last-commit/EasyDutch-uBO/EasyDutch?label=Last%20commit&color=informational)](https://github.com/EasyDutch-uBO/EasyDutch/commits/)
+[![Issues](https://img.shields.io/github/issues/EasyDutch-uBO/EasyDutch?label=Issues&color=red)](https://github.com/EasyDutch-uBO/EasyDutch/issues)
+[![Issues](https://img.shields.io/github/issues-closed/EasyDutch-uBO/EasyDutch?color=green&label=Issues)](https://github.com/EasyDutch-uBO/EasyDutch/issues?q=is%3Aissue+is%3Aclosed)
+[![License](https://img.shields.io/badge/License-GPLv3-blue.svg?label=License&color=lightgrey)](https://github.com/EasyDutch-uBO/EasyDutch/blob/main/LICENSE) <br>
+(( [EasyList Dutch](https://github.com/easylist/easylistdutch/):
+[![Commit rate](https://img.shields.io/github/commit-activity/y/easylist/easylistdutch?label=Commits&color=succes&style=plastic)](https://github.com/easylist/easylistdutch/commits/)
+[![Last commit](https://img.shields.io/github/last-commit/easylist/easylistdutch?label=Last%20commit&color=informational&style=plastic)](https://github.com/easylist/easylistdutch/commits/master)
+[![Issues](https://img.shields.io/github/issues/easylist/easylistdutch?label=Issues&color=red&style=plastic)](https://github.com/easylist/easylistdutch/issues)
+[![Issues](https://img.shields.io/github/issues-closed/easylist/easylistdutch?color=green&label=Issues&style=plastic)](https://github.com/easylist/easylistdutch/issues?q=is%3Aissue+is%3Aclosed) ))
 
 ***
+# EasyDutch
+Adblock filters for Dutch websites made for [uBlock Origin](https://github.com/uBlockOrigin/uAssets)
 
-# Personal-List
-I made this list for personal use.  
-It is recommended to use _Personal List_ with the default filterlists in [uBlock Origin](https://github.com/uBlockOrigin/uAssets) or Adguard.  
-Special for uBo syntax (and Adguard) is [this list](https://github.com/JohnyP36/Personal-List/blob/main/Personal%20List%20(uBo).txt)  
-[This "Personal" list](https://github.com/JohnyP36/Personal-List/blob/main/Personal%20List.txt) contains the following filterlists:
+| Contents |
+| --- |
+| [EasyDutch](#easydutch) |
+| [Contributing](#contributing) |
+| [View and Subscribe](#view-and-subscribe-to-easydutch) |
+| [Support](#support) |
+-----
+## [EasyDutch](https://github.com/EasyDutch-uBO/EasyDutch)
+The updated version of EasyList Dutch special for uBlock Origin. 
 
-## *[EasyList Dutch](https://github.com/JohnyP36/Personal-List/tree/main/easylistdutch)*
-My own updated version of EasyList Dutch. <br>
-I made this filter because the EasyList Dutch filter isn't maintained often. <br>
-**And more important: EasyList doesn't allow anti-adblock rules. *See [EasyListDutch/issue#30](https://github.com/easylist/easylistdutch/issues/30) and [EasyListDutch/pr#11issuecomment](https://github.com/easylist/easylistdutch/pull/11#issuecomment-818864565)***
+This filterlist has been made because the EasyList Dutch filter isn't maintained often and the maintenance that is done, is very poor. <br>
+So I made this to provide you a better service!! <br>
+This list also handles anti-adblock, which isn't done by EasyList Dutch. See these comments for more information: <br>
+[easylist/easylistdutch#11 (comment)](https://github.com/easylist/easylistdutch/issues/11#issuecomment-818864565) and [easylist/easylistdutch#30 (comment)](https://github.com/easylist/easylistdutch/issues/30#issuecomment-1011180477).
 
----
+If you see ads on dutch websites please [report](https://github.com/EasyDutch-uBO/EasyDutch/issues/new/choose) it to me or sent me an email to easydutch.adblock@gmail.com <br>
 
-### Those list were in the list
-Because I want other people also use this list, they are **no longer included**:
-#### *[My filters](https://github.com/JohnyP36/Personal-List/blob/main/other%20lists/My%20filters.txt)*
-Different kind of rules  
- - Rules copied from Adguard Spyware and Adguard Spyware (Dutch)  
- - Blocking of parameters  
- - Blocking of privacy banners on Google and YouTube  
- - Some rules copied from uBlock Privacy and Unbreak  
- - Some rules regarding sites I often visit (both blocking and hiding rules) 
+## [Contributing](https://github.com/EasyDutch-uBO/EasyDutch/blob/main/CONTRIBUTING.md)
+<details>
+<summary>Contributing</summary>
 
-#### *[Nano anti-adblock](https://github.com/JohnyP36/Personal-List/blob/main/other%20lists/Nano%20anti-Adblock.txt)* 
-Because the famous Nano filterlists are archieved I copied the most usefull rules in regard to anti-adblock. 
+> Important note: </br>
+> I, @BPower0036 owner of EasyDutch, prefer simplicity over complexity. So instead of `123geldzaken.nl##[class*="widget_sponsor"]` use `123geldzaken.nl##.widget_sponsor` and `123geldzaken.nl##.widget_sponsorlinks`. And instead of `arenalokaal.nl##[advobject]:upward(.bg-gray-100):has-text(/Uit de krant/i)` just use `arenalokaal.nl##[advobject]:upward(.bg-gray-100)`
+> 
+> ##### Ordering of filters
+> 
+> New filters must be added on the top of each list.
+> 
+> The reason is to provide an easy way to check whether a filter is still relevant. The filters at the end of the file will be the oldest filters, and also the most likely to maybe be obsolete.
+> 
+> Old filters which are confirmed to still be required must be moved to the top of the list.
+> 
+> ##### Issue number association
+> 
+> **All** added filters must be associated with a formal issue number or date, example:
+> 
+>     ! https://github.com/EasyDutch-uBO/EasyDutch/issues/3
+>     ||data.inertanceretinallaurel.com^
+>     ! 2021-04-27
+>     ||androidplanet.nl,iphoned.nl##.dynamic-content-native
+> 
+> This way we know why a filter was added, and how to verify whether an old filter is still needed. The comment line preceding the filter(s) to solve a specific issue should be only a URL to the issue. The issue itself can contains all the details about how the issue was solved, and why it was solved this way, etc.
+> 
+> ##### Commit message
+> 
+> - Keep it simple, use `A:` for adding a site, `C:` for changing or updating rules, `R:` for removing, and `M:` for moving to other files. 
+> - Put here after the site url `spele.nl` (no `https://www.`) 
+> - Put after this the issue number. </br>
+> Example: `A: spele.nl fix #3` or `C: nu.nl`. The issue itself will contains all the details.
+> 
+> ##### Hide General
+> 
+> You may only make General Hiding rules, if it applies to tree or more websites
+> *******
+> #### What you might do or not do as a contributor
+> 
+> As a contributor it is **forbidden** to change the following files:
+> - `.github` folder 
+> - `README.md`
+> - `CONTRIBUTING.md`
+> - `CODE_OF_CONDUCT.md`
+> - `LICENSE`
+> 
+> The rest you may change.
+> 
+> Breaching this rule will result in a warning and, if not listening, being banned as contributor!
 
----
+</details>
 
-### Subcribe to my filterlists
-| *Main* | Mirror 1 | Mirror 2 |
-| :---: | :---: | :---: |
-| 1. **[Dutch Filter List](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/Personal%20List%20(uBo).txt&title=Dutch%20Filter%20List)** | [Subscribe (Combinatronics)](https://subscribe.adblockplus.org/?location=https://www.combinatronics.com/JohnyP36/Personal-List/main/Personal%20List%20(uBo).txt&title=Dutch%20Filter%20List) | [Subscribe (Statically)](https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/JohnyP36/Personal-List/main/Personal%20List%20(uBo).txt&title=Dutch%20Filter%20List) | 
-| 2. **[Nano anti-Adblock](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/other%20lists/Nano%20anti-Adblock.txt&title=Nano%20anti-Adblock)** | |
-| 3. **[My filters](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/other%20lists/My%20filters.txt&title=My%20filters)** | [Subscribe (Combinatronics)](https://subscribe.adblockplus.org/?location=https://www.combinatronics.com/JohnyP36/Personal-List/main/other%20lists/My%20filters.txt&title=My%20filters) | [Subscribe (Statically)](https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/JohnyP36/Personal-List/main/other%20lists/My%20filters.txt&title=My%20filters) | 
+***
+## View and Subscribe to EasyDutch
+| _**View**_ | Combinatronics | Statically | JSdelivr |
+| ---------- | :------------: | ---------- | -------- |
+| 1. [EasyDutch](https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/gh-pages/EasyDutch.txt) | [Mirror 1](https://combinatronics.io/EasyDutch-uBO/EasyDutch/gh-pages/EasyDutch.txt) | [Mirror 2](https://cdn.statically.io/gh/EasyDutch-uBO/EasyDutch/gh-pages/EasyDutch.txt) | [Mirror 3](https://cdn.jsdelivr.net/gh/EasyDutch-uBO/EasyDutch@gh-pages/EasyDutch.txt) |
+| 1. [EasyDutchCDN](https://easydutch-ubo.github.io/EasyDutchCDN/EasyDutch.txt) | [Mirror 1](https://combinatronics.io/EasyDutch-uBO/EasyDutchCDN/main/EasyDutch.txt) | [Mirror 2](https://cdn.statically.io/gh/EasyDutch-uBO/EasyDutchCDN/main/EasyDutch.txt) | [Mirror 3](https://cdn.jsdelivr.net/gh/EasyDutch-uBO/EasyDutchCDN@main/EasyDutch.txt) |
 
-#### *Support*
-**If you want to buy me a cup of coffee or want to support me, you can donate via [PayPal](https://www.paypal.com/donate?hosted_button_id=8BBT5V55TGVXW)**
+| _**Subscribe**_ | Combinatronics | Statically | JSdelivr |
+| --------------- | :------------: | ---------- | -------- |
+| 1. [EasyDutch](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/gh-pages/EasyDutch.txt&title=EasyDutch) | [Mirror 1](https://subscribe.adblockplus.org/?location=https://combinatronics.io/EasyDutch-uBO/EasyDutch/gh-pages/EasyDutch.txt&title=EasyDutch) | [Mirror 2](https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/EasyDutch-uBO/EasyDutch/gh-pages/EasyDutch.txt&title=EasyDutch) | [Mirror 3](https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/EasyDutch-uBO/EasyDutch@gh-pages/EasyDutch.txt&title=EasyDutch) |
+| 1. [EasyDutchCDN](https://subscribe.adblockplus.org/?location=https://easydutch-ubo.github.io/EasyDutchCDN/EasyDutch.txt&title=EasyDutch) | [Mirror 1](https://subscribe.adblockplus.org/?location=https://combinatronics.io/EasyDutch-uBO/EasyDutchCDN/main/EasyDutch.txt&title=EasyDutch) | [Mirror 2](https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/EasyDutch-uBO/EasyDutchCDN/main/EasyDutch.txt&title=EasyDutch) | [Mirror 3](https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/EasyDutch-uBO/EasyDutchCDN@main/EasyDutch.txt&title=EasyDutch) |
 
+## *Support*
+If you want to buy me a cup of coffee or want to support me, you can donate via [PayPal](https://www.paypal.com/donate/?hosted_button_id=NRARDMBBMV3LC)
 
-###### ➡ Read the [`Contributing.md`](https://github.com/JohnyP36/Personal-List/blob/main/.github/CONTRIBUTING.md) for more info
-
-##### For question see [here](https://github.com/JohnyP36/Personal-List/issues/new?assignees=&labels=question&template=questions.yml)
-
----
-
-<details><summary> Contributing file </summary>
-
-> ### Filter lists
-> 
-> #### Ordening of filers 
-> 
-> New filter must be added on the top of each list. 
-> 
-> The reason is to provide an easy way to check whether a filter is still relevant. The filters at the end of the file will be the oldest filters, and also the most likely to maybe be obsolete. 
-> 
-> Old filters which are confirmed to still be required must be moved to the top of the list. 
-> 
-> **Note in addition to above: everything has to be in an *alphabetic* order!**
-> 
-> #### Issue number association 
-> 
-> **All** added filters must be associated with a formal issue number or date *(and only I have the right to break this rule)*, example:
-> 
-> ```
-> ! https://github.com/JohnyP36/Personal-List/issues/7777 
-> ||data.inertanceretinallaurel.com^  
-> ! 2021-04-27  
-> ||androidplanet.nl,iphoned.nl##.dynamic-content-native
-> ```
-> 
-> This way this documents why a filter was added, and how to verify whether an old filter is still needed. The comment line preceding the filter(s) to solve a specific issue should be only a URL to the issue. The issue itself can contains all the details about how the issue was solved, and why it was solved this way, etc.
-> 
-> #### Commit message
-> 
-> Keep it simple. 
->  - Put in the title box `A:` for adding a site, `C` for changing a rule, `R` for removing a rule. Use `M` for moving a rule/rules to another part in the filterlist
->  - Put here after the site url. Example `mediamarkt.nl` ~~`https://www.mediamarkt.nl/view/`~~. 
->  - At the end put the issue number. 
-> 
-> So `A: mediamarkt.nl fix #7`. The issue itself will contains all the details.
-> 
-> ##### How to know in which lists the rule(s) belong? 
-> 
-> - Block (general)      = *Algemene geblokkeerde netwerkfilters*
-> - Block 1p (server)    = *Advertentiedomeinen (die op server niveau geblokkeerd worden)*
-> - Block 3p (server)    = *Advertentiedomeinen (die als 3e partij geblokkeerd worden)*
-> - Block 1p (specific)  = *Specifieke Netwerkfilters / Advertentiedomeinen (die op server niveau geblokkeerd worden)*
-> - Block 3p (specific)  = *Specifieke Advertentiedomeinen (die als 3e partij geblokkeerd worden)*
-> - Block 1p (whitelist) = *Uitzonderingen netwerkfilters 1e partij*
-> - Block 3p (whitelist) = *Uitzonderingen netwerkfilters 3e partij*
-> - Hide (general)       = *Algemene verbergregels*
-> - Hide (specific)      = *Specifieke verbergregels*
-> - Hide (whitelist)     = *Uitzonderingen verbergregels*
-> - Anti-Adblock         = *Anti-AdBlock*
-> ---
-> ##### Wiki's which are very handy when making new rules
-> - *[Resources Library](https://github.com/BPower0036/AdBlockFilters/issues/3)* 
-> - *[Wiki - Static filer Syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#scriptinject)* 
-> - *[Wiki - Scriptlets (+js)](https://github.com/gorhill/uBlock/wiki/Resources-Library#defuser-scriptlets)*
-> - *[Regular Expressions (RegEx) syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet)*
-> - *[SyntaxMeaningsThatAreActuallyHumanReadable](https://github.com/DandelionSprout/adfilt/blob/master/Wiki/SyntaxMeaningsThatAreActuallyHumanReadable.md)*
- 
-</summary>
+###### If you want to support Member *and Contributor* [JohnyP36](https://github.com/JohnyP36), you can donate [via PayPal](https://www.paypal.com/donate?hosted_button_id=8BBT5V55TGVXW) 

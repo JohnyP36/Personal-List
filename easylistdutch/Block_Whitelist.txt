@@ -1,19 +1,88 @@
 [uBlock Origin]
-@@/images/volgende.gif$image,1p,domain=privesexgids.nl|sexdatingholland.com|sexpret.com|studentesexcontact.nl|tienersexpret.nl|zinomteneuken.nl
-@@/media/*/banner-ideal$image,domain=webcam-aalsmeer.nl|webcam-airport.nl|webcam-binnenvaart.nl|webcam-blokzijl.nl|webcam-brandaris.nl|webcam-delfzijl.nl|webcam-denhelder.nl|webcam-denoever.nl|webcam-dokkum.nl|webcam-dordrecht.nl|webcam-enkhuizen.nl|webcam-friesemeren.nl|webcam-grou.nl|webcam-harlingen.nl|webcam-havenijmuiden.nl|webcam-hindeloopen.nl|webcam-hoekvanholland.nl|webcam-kampen.nl|webcam-lauwersoog.nl|webcam-leeuwarden.nl|webcam-lelystad.nl|webcam-maassluis.nl|webcam-maastricht.nl|webcam-marken.nl|webcam-monnickendam.nl|webcam-rotterdam.nl|webcam-sneek.nl|webcam-terneuzen.nl|webcam-vlaardingen.nl|webcam-volendam.nl|webcam-workum.nl|webcam-zaanzicht.nl|webcam-zoutkamp.nl|webcam-zwartsluis.nl|webcams-ameland.nl|webcams-scheveningen.nl|webcams-texel.nl|webcams-vlissingen.nl|webcamschiermonnikoog.nl|webcamvlieland.nl
-@@||accountancyvanmorgen.nl/wp-content/uploads/*/Banner-checkpoints$image,first-party
-@@||dekrantvantoen.nl/resources/*/images/*_336x120.$image
-@@||files.skoften.net/website/lib/vjs/plugins/ads/videojs.ads.min.js$script,~third-party
-@@||girlpics.nl/images/ads_$image,first-party
+! Title: Block Whitelist
+! Description: Whitelist for specific URLs on Dutch websites
+! Last updated: %timestamp%
+!
+! 2023-01-14
+@@||awemwh.com/$image,domain=camsexbabe.nl
+@@||potwm.com/tube-player/?$frame,domain=camsexbabe.nl
+@@||potwm.com/api/video-promotion/v1/get-$xhr,domain=camsexbabe.nl|potwm.com
+@@||prtawe.com/embed/tbplyr/?$script,domain=camsexbabe.nl
+@@||coolblue.nl^*/ard.png$script,1p
+@@||2mdn.net/instream/html5/ima3.js$script,domain=geenstijl.nl
+@@||laredoute.com^$image,domain=laredoute.nl|laredoute.lu
+! 2023-01-12
+@@||tweakers.net^$ghide
+! 2023-01-12 https://github.com/uBlockOrigin/uAssets/commit/943cc256a43b4aa5c20f2898860279629abd72b2
+@@||cdn.vuplay.co.uk/stats/*/AppMeasurement.js$script,domain=vrt.be
+@@||cdn.vuplay.co.uk/stats/*/VisitorAPI.js$script,domain=vrt.be
+! 2023-01-02
+@@||2mdn.net/instream/html5/ima3.js$script,domain=omroepbrabant.nl
+! 2022-12-30
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=weerplaza.nl
+! 2022-12-08
+@@||salarisvanmorgen.nl/wp-content/uploads/*abonneer-nieuwsbrief
+! 2022-06-29
+@@||pt.pctlwm.com/embed/tbplyr/*$script,domain=sproeiendekutjes.nl
+! 2022-06-22
 @@||images.2dehands.com/api/v1/listing-twh-p/images/ad/$image,domain=2dehands.be
-@@||linda.nl/api/v1/pages/advertorial/*$first-party
-@@||naaktkrant.nl/media/*/*-gifs-*.gif$image,first-party
-@@||privesexgids.nl/images/webcamsex.gif$image
-@@||rtl.be/videos/player/vp4_webanalytics.js$script,first-party
-@@||salarisvanmorgen.nl/wp-content/uploads/*abonneer-nieuwsbrief$image,first-party
+! 2022-04-06 Cannot reproduce (https://github.com/easylist/easylistdutch/commit/ee8ab6f8b2a96bd87e6c2e70326c3e8ebae77b7e)
+!@@||adserver.hollandcasino.nl^$popup,domain=onlinecasinoground.nl
+! 2022-03-18
+@@||files.skoften.net/website/lib/vjs/plugins/ads/videojs.ads.min.js$script,~third-party
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=skoften.net
+! 2022-03-17
+@@||sliedrecht24.nl/wp-content/uploads/*/Banner-300x250*.jpg$image,1p
+! 2022-03-12
+@@/images/volgende.gif$image,1p,domain=privesexgids.nl|sexdatingholland.com|sexpret.com|studentesexcontact.nl|tienersexpret.nl|zinomteneuken.nl
+! 2022-03-11
+@@||weerstation-markelo.nl/weer/banners/weerbanner$domain=maarkelsnieuws.nl
+! https://github.com/AdguardTeam/AdguardFilters/issues/108243
+@@||cdn.ebayclassifieds.net/bff/static/*/MyAds.$domain=2dehands.be|marktplaats.nl
+! 2022-01-05
+@@||massariuscdn.com/pubs/$script,domain=dailybuzz.nl|radio.nl|welingelichtekringen.nl
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=dailybuzz.nl
+! 2021-12-14
+@@||vinatera.be/wp-content/uploads/*_300x600.$image,1p
+! 2021-12-02
+@@||zilverengoudkopen.nl/banners/header.jpg
+@@||zilverengoudkopen.nl/banners/onder.jpg
+! 2021-11-04
+@@||girlpics.nl/images/ads_$image,1p
+! 2021-11-03
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=sportnieuws.nl
+! 2021-10-23
+@@||nextday.media^$3p,domain=vi.nl
+! 2021-08-12
+@@||naaktkrant.nl/media/*/*-gifs-*.gif$image,1p
+! 2021-08-11
+@@||tools.vpscash.nl/proxy/tools.islive.nl/cam_ms/*/_default/index.html$subdocument,domain=sexoverzicht.nl
+! 2021-08-09
+@@||lexozfldkklgvc.com/cp/webcam_gallery/index.php$subdocument,domain=sexmeid.nl
+@@||lexozfldkklgvc.com/assets/cp/js/webcam_gallery/iframe_handler.js$script,domain=sexmeid.nl
+! 2021-08-03
+@@||ptwmstc.com/*/tube-player/script/*.js$script,domain=potwm.com
+! 2021-06-30
+@@||protoawe.com/embed/tbplyr/*$script,domain=lekkerewebcams.nl|gratispornofilm.nl|teen-sex.nl
+! 2021-05-19
+@@||aweprt.com/embed/$script,domain=cumcams.nl
+@@||tools.vpscash.nl/datingv3/docs/plug_and_play/islive/$script,domain=cumcams.nl
+! https://github.com/uBlockOrigin/uAssets/issues/9106
+@@||plista.com/async$script,domain=totaaltv.nl
+@@||media.plista.com^*$image,domain=totaaltv.nl
+! 2021-05-07
+@@||tools.vpscash.nl/webcams/promo/plug_play_webcams/*$subdocument,domain=beeldbelsex.com
+! 2021-05-05
+@@||dekrantvantoen.nl/resources/*/images/*_336x120.$image
+! 2021-05-04
+@@||aka.spotxcdn.com/integration/ados/$script,domain=radioluisteren.fm
+@@||cdn.spotxcdn.com/integration/easi/$script,domain=radioluisteren.fm
+@@||js.spotx.tv/ados/$script,domain=radioluisteren.fm 
+@@||search.spotxchange.com/js/spotx$script,domain=radioluisteren.fm
+@@||sync.search.spotxchange.com/partner?source=easi$image,domain=radioluisteren.fm
+! https://github.com/uBlockOrigin/uAssets/issues/8974
+@@||securepubads.g.doubleclick.net/gpt/pubads_$script,domain=allestoringen.*
+! 2021-04-27
 @@||showmodeluitverkoop.nl/upload/advertentie/
-@@||sliedrecht24.nl/wp-content/uploads/*/Banner-300x250*.jpg$image,first-party
 @@||te-les-koop.nl/advertenties.php
-@@||vinatera.be/wp-content/uploads/*_300x600.$image,first-party
-@@||zilverengoudkopen.nl/banners/header
-@@||zilverengoudkopen.nl/banners/onder
+! @@||tools.vpscash.nl/datingv3/docs/plug_and_play/$subdocument,domain=flirtmee.nl

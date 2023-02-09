@@ -1,36 +1,59 @@
 [uBlock Origin]
+! Title: Hide Whitelist
+! Description: Whitelist for hidden elements on Dutch websites
+! Last updated: %timestamp%
+!
+! 2022-06-22 https://github.com/uBlockOrigin/uAssets/issues/13800
+!#if env_firefox
+welingelichtekringen.nl#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
+!#endif
+! Uitzonderingen voor AdGuard
+! 2022-10-25 https://github.com/EasyDutch-uBO/EasyDutch/issues/29
+embed.kijk.nl#@#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links:style(display: block !important;)
 ! Uitzonderingen voor EasyList
-ajaxreport.nl,ajaxrss.nl,blockchainvandaag.com,casinoreport.nl,cryptobelegging.com,feyenoordreport.nl,formula1report.com,gamblingreport.nl,livestreamvandaag.be,onlinecasinorss.nl,onlinekraslotenrss.nl,onlinepokerrss.nl,psvreport.nl,sportweddenrss.nl,vergelijkbookmakers.nl,voetbalsnafu.nl,voetbalvisie.com,voetbalweddenrss.nl#@#.top-ads-block
-bokt.nl#@#.ad-body
-bokt.nl#@#.node-ad
- !audiobookbay.nl#@#[href^="/down-"]
-dagelijksestandaard.nl#@#.wpInsertInPostAd
-directwonen.nl#@#.top-advert
-frontpage.fok.nl#@#.advertentie
-gratisaftehalen.nl#@#.ads-image
-japan-webike.*#@#.img_ad
-lesoir.be#@##ultimedia_wrapper
-marktnet.nl#@#.ad-description
-marktplaats.nl#@#.adSummary
-mechanisatiemarkt.nl#@#.advert-container
-mechanisatiemarkt.nl#@#.advert-title
-mechanisatiemarkt.nl#@#.advertiser
-paginamarkt.nl#@#.advertentie
-palnws.be#@#.adlink
-palnws.be#@#.ads-wrapper
-palnws.be#@#.jeg_ad
-palnws.be#@#.jeg_ad_top
+! 2022-07-05
 radiozuidrand.be#@#.advertisement_300x250
 radiozuidrand.be#@#.advertisement_728x90
 radiozuidrand.be#@#.advertisement-content
 radiozuidrand.be#@#.single_ad_300x250
 radiozuidrand.be#@#.widget_300x250_advertisement
 radiozuidrand.be#@#.widget_728x90_advertisement
-sexervaringdelen.com#@#.footer-ad
-sexverhalen.com#@#.widget_ads
-speurdeals.nl#@#.ad_description
-vakantieplaats.nl#@#.feed-ad
-vakantieplaats.nl#@#.topAds
-veeteelt.nl#@#.advertorial
-wereldklokken.nl#@#.adsbygoogle
+! 2022-06-28
+gratisaftehalen.nl#@#.ads-image
+palnws.be#@#.adlink
+palnws.be#@#.ads-wrapper
+palnws.be#@#.jeg_ad
+palnws.be#@#.jeg_ad_top
+! 2022-06-14
+marktnet.nl#@#.ad-description
+! 2022-05-27
 wereldreizigers.nl#@#.gridlove-ad
+! 2022-04-26
+speurdeals.nl#@#.ad_description
+! 2022-04-14
+mechanisatiemarkt.nl#@#.advert-container
+mechanisatiemarkt.nl#@#.advert-title
+mechanisatiemarkt.nl#@#.advertiser
+! 2022-01-14
+japan-webike.*#@#.img_ad
+wereldklokken.nl#@#.adsbygoogle
+! 2022-01-07
+ajaxrss.nl#@#.top-ads-block
+bokt.nl#@#.ad-body
+bokt.nl#@#.node-ad 
+! 2021-11-17
+veeteelt.nl#@#.advertorial
+! 2021-11-06
+ajaxreport.nl,blockchainvandaag.com,casinoreport.nl,cryptobelegging.com,feyenoordreport.nl,formula1report.com,gamblingreport.nl,livestreamvandaag.be,onlinecasinorss.nl,onlinekraslotenrss.nl,onlinepokerrss.nl,psvreport.nl,sportweddenrss.nl,vergelijkbookmakers.nl,voetbalsnafu.nl,voetbalvisie.com,voetbalweddenrss.nl#@#.top-ads-block
+! 2021-08-04
+focus-wtv.be#@#.sponsored-article
+! 2021-07-07
+directwonen.nl#@#.top-advert
+! 2021-06-04
+marktplaats.nl#@#.adSummary
+vakantieplaats.nl#@#.featuredAds
+vakantieplaats.nl#@#.feed-ad
+!#if env_mobile
+klusidee.nl#@#.header-ad
+!#endif
+vakantieplaats.nl#@#.topAds

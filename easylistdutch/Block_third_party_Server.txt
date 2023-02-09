@@ -1,94 +1,126 @@
 [uBlock Origin]
-! 2023
-||wieringernieuws.nl/gfx/ads$domain=hollandskroonnieuws.nl|wieringernieuws.nl
-||viralize.tv/display/$domain=startpagina.nl
-! 2022
-.nl/remote/https/agfstorage.blob.core.windows.net/banners/$image,domain=agf.nl|bpnieuws.nl|groentennieuws.nl|uiennieuws.nl
-.nl/remote/https/cdn.agf.nl/nieuws/gif-jpg/*.gif$image,domain=agf.nl|bpnieuws.nl|groentennieuws.nl|uiennieuws.nl
-*$image,3p,domain=kinkymedia.nl
-/banner$image,domain=kinkydatingnederland.nl|milfdatingnederland.nl|mygaydate.nl
-||cdn.topescort.com/static/bn/$image,domain=sexguide.nl
-||cdn-webcam-harlingen.nl/adv/$domain=webcam-binnenvaart.nl
-||cinkeltrading.nl/pics/*.gif$domain=cumcams.nl
-||custom.islive.nl/_respo/*.gif$image,domain=camsex.nl
-||danny.media-totaal.nl/wp-admin/admin-ajax.php$domain=dekrantvantynaarlo.nl
-||gadgetsentrends.nl/imagestore/banners/
-||huisvrouwenvoorsex.nl/banner*.gif$image
-||ikwilneuken.*/assets/img/*.gif$image
-||imagekit.io/ijnl*/uploads/other/*?tr=w-20$image,domain=ijshockeynederland.nl
-||img.iex.nl/uploads/banners/$image,domain=iexprofs.nl
-||index4sex.com/global/asset/image/partner$image,domain=omejoop.be
-||infotalia.com/worktalia_promo_
-||jobat.be/extra/trackuityhn/ticker_new.html$domain=gva.be
-||madmoney.eu/promotools/banners/
-||media.prdn.nl/*/images/*.gif
-||media-totaal.nl/*com_adagency*adagencyAds$script,domain=dekrantnieuws.nl|destreekkrant.nu
-||mmcdn.nl/tags/
-||nexclic.com/pics/image*.gif$domain=dutchleader.nl
-||ouders.nl/uploads/alt/$domain=viafora.nl
-||pubble.nl/Content.svc/getAdCollection?
-||rss.app/api/widget/$domain=hollywoodhuizen.nl
-||seks.com/img/*.gif$image
-||seks.com/snacc.jpg$image
-||seksverhalen.org/telefoonsex.png
-||sdk.privacy-center.org^$script,domain=goplay.be
-||sponsorlink.nl/js/snippet.js$script,domain=handbalstartpunt.nl
-||static.promedia.nl/logos/$image,domain=automobielmanagement.nl|carwashpro.nl|infrasite.nl|ovpro.nl|rijschoolpro.nl|spoorpro.nl|tankpro.nl|taxipro.nl|verkeersnet.nl
-||strafrechtadvocaten.nl/media/banner/$third-party
-||succesboeken.nl/api/public/images/branding/$image,domain=commonsensetv.nl
-||swpportal.com/upload/squarebanners/$domain=sozio.nl
-||tickers.zimmo.be/gva/$domain=gva.be
-||tools-affil2.com/rtb/index.php$domain=1001erotiekverhalen.nl
-||upload.gscdn.nl/uploads/*_Kansino_Feed$image,domain=geenstijl.nl
-||widget.vpnnederland.nl/VPNNederland-widget.js$domain=nzbserver.com
-||widget.vroom.be/$domain=gva.be
+! Title: Block Third-Party Server
+! Description: Filters for blocking only general third-party servers on Dutch websites
+! Last updated: %timestamp%
+!
+! 2022-10-25
+! https://nos.nl/teletekst
+||adcdn.ster.nl^$3p
+! 2022-10-12
+||spott.ai^$domain=vtm.be
+||gemius.pl^$important,domain=vtm.be
+! 2022-10-04
+! barbiespornofilm.nl,broerneuktzusje.nl,bruteincestfilms.nl,directpornofilmskijken.nl,hdtienersexfilms.nl,jongetienersex.nl,partytieners.nl,poepsexfilmstube.nl,strandmokkels.nl,studentesneuken.nl
+||dronkenmokkels.nl^$3p
+! 2022-06-29
+! hdtienersexfilms.nl
+||srv69.eu^$domain=hdtienersexfilms.nl
+! 2022-05-27
+! trosfm.be
+||believe-the-hype.be^$3p
+! 2022-04-08 frontpage.fok.nl
+||nojazz.eu^$3p
+! 2022-04-05
+! npostart.nl
+||crnsgngrpj.nl^$3p
+! 2022-02-15
+! startpagina.nl
+||optoutadvertising.com^$3p
+! 2021-11-30
+! goodbye.be
+||travelads.be^$3p
+! 2021-11-20
+! tzum.info
+||t.bazarow.com^$3p
+! 2021-11-10
+! streamwijzer.be
+||affiliatable1.b-cdn.net^$3p
+! 2021-11-09
+! autotrack.nl
+||advertising-module.api.dpgmedia.cloud^$3p
+! 2021-11-06
+||adrequest.net^$3p
+! 2021-11-04
+! kanaalz.knack.be
+||adshim.com^$3p
+! 2021-10-23
+! nos.nl (https://nos.nl/op3/video/2399828-wie-bepaalt-welke-emoji-s-jij-kunt-gebruiken)
+||dntblckmpls.nl^$3p
+! 2021-10-16
+! backofficebureau.nl
+!||adcalls.nl^$3p
+! 2021-09-18
+! dagelijksestandaard.nl
+||viadata.store^$3p
+! 2021-09-16
+! tpo.nl
+||affiliateprogramma.eu^$3p
+! 2021-09-13
+! rtvalbrandswaard.com
+||sponsorkliks.com^$3p
+! 2021-09-03
+! parool.nl
+||advertising-cdn.dpgmedia.cloud^$3p
+! https://github.com/easylist/easylistdutch/commit/b04939fcc2b0a2564a46143939a15f95b3b30985
 ||widgets.skyscanner.net^$domain=puuropreis.nl
-||xingo.nl/bannermanagement/
-! 2021-12-
-!||2link.be/images/nobanner.jpg$image,domain=2news.be|2travel.be|2you.be
-||amazonaws.com/zkn/files/*.gif$image,domain=zorgkaartnederland.nl
-||b-cdn.net/w_/s3-roulettefm/*.$image,domain=roulettefm.nl
-||b-cdn.net/w_/s3-rtvstichtsevecht/*.$image,domain=rtvstichtsevecht.nl
-||bitvavo.com/assets/static/widget/$subdocument,domain=cryptosjop.nl
-||blob.core.windows.net/*/content/regiovoetbal/*_banner.*$image,domain=regio-voetbal.nl
-||bnmedia.jentcdn.net/media/*/shared/*/fm/*/1*_*.png$domain=feyenoordpings.nl
-||cdn.shopsuite.com/js/layer.js$script,domain=franska.nl
-||cloudfront.net/-/media/6-parnerships/$domain=feyenoord.nl
-||cloudfront.net/banners/$domain=eredivisie.nl
-||clubxmissy.nl/banners/*$image,domain=biertijd.xxx
-||cryptoprijzen.com/cryptoprijzen-widget/$domain=cryptobenelux.com
-||dating.*.auroraobjects.eu/files/bans/*.gif$image,domain=seksmet.nl|seksverhalen.nl
-||edelmetaal-info.nl/images/$domain=zilverengoudkopen.nl
-||edelmetaal-info.nl/wp-content/uploads/images/$domain=zilverengoudkopen.nl
-||eindtijdchristen.files.wordpress.com/*/ad-$image,domain=eindtijdklok.org
-||ent-cdn.com/files/bans/*belowvid*$image,domain=vagina.nl
-||fx.nl/_ext/widget/$third-party
-||go2cloud.org/aff_ad?*&format=iframe$subdocument,domain=sexoverzicht.nl|sextube.nl
-||inviteonly.nl/banner/*$image,domain=kutscheetje.nl
-||jobat.be/extra/trackuityhn/ticker_new.html$domain=nieuwsblad.be
-||lustmagazine.nl/mediafiles/*/*_250x250.gif$image,domain=wraaksex.nl
-||media.biertijd.com/galleries/*/banners/$image,third-party
-||media.prdn.nl/*/images/*banner$domain=retailtrends.nl|vastgoedjournaal.nl
-||media.prdn.nl/retailtrends/images/thumbnail_bnr-*$domain=retailtrends.nl
-||sedproductions.nl/banners/*$image,third-party
-||sociaaldigitaal.nl/img/Banner-$third-party
-||sponsorlink.nl/storage/*/conversions/*-thumbnail$domain=hoekschnieuws.nl
-||static.qmusic.*/acties/qnl-nu-ad/index.html$subdocument,domain=nu.nl
-||stepstone.be/*?event=widgettool.$third-party
-||storage.googleapis.com/stateless-www-nuus-be/*/*.gif$image,domain=nuus.be
-||storage.googleapis.com/stateless-www-nuus-be/*/*-banner-*$image,domain=nuus.be
-||tools-affil2.com/rtb/index.php$subdocument,domain=beeldbelsex.com
-||wp.com/www.appletips.nl/wp-content/uploads/Handyman-inCharge6.gif$image,domain=appletips.nl
-||xmissy.nl/admnfiles1809/*/freechatbanner_$image,domain=biertijd.xxx
-||xsnews.nl/aff/$image,domain=nzbindex.nl
-! 10-07-2021
-||blablacar.nl/widget-driver/$third-party
-||booking.com/flexiproduct.html$domain=puuropreis.nl
-||cdn.media.zylom.com/images/site/zylom/promo/$third-party
-||cdn.sbsnet.nl/creatives/assets/*.mp4$domain=kijk.nl
-||digitalaudience.io/bakery/pix/$image,third-party
-||dutchitchannel.nl/media/6*/*.jpg$third-party
-||dutchleader.nl/php/banex/$third-party
-||enviedeplus.be^*_banner_$third-party
-||powerconnect.be^*/poweractie.jpg$third-party
-||totaalwijzer.nl/widget/$third-party
+! https://github.com/easylist/easylistdutch/commit/1dcc8ccbf4b1d5afeebdccbe224b332c99546b63
+! routenet.nl
+||botndm.nl^$3p
+||nextday.media^$3p
+! 2021-08-09
+||chainadvertising.eu^$3p
+! 2021-07-28
+||gratis-neuken.com^$3p
+! 2021-06-29
+||2k19.nl^$3p
+||2k21.nl^$3p
+||2k23.nl^$3p
+||2k24.nl^$3p
+||adconfigproxy.azurewebsites.net^$3p
+||adfactor.nl^$3p
+||adquick.nl^$3p
+||adulttradecenter.nl^$3p
+||affilaxy.com^$3p
+||affiliatepartners.com^$3p
+||asp.unitedconsumers.com^$3p
+||awin.com^$3p
+||bva-auctions.com^$domain=telegraaf.nl
+||cashpartners.eu^$3p,domain=~extreemonlinecontact.nl|~extremesexmatch.nl|~instasex.nl
+||cd.tnet.nl^$script,3p
+||cleafs.nl^$3p
+||conversive.nl^$3p
+||csmcampagne.consumind.nl^$3p
+||daisycon.com^$3p
+||datingcash.eu^$3p
+||ds1.nl^$3p
+||dt51.net^$3p
+||dt61.net^$3p
+||dt71.net^$3p
+||elitedating.nl^$3p
+||euroclix.nl^$3p,domain=~panelclix.com|~panelclix.nl
+||extremecash.nl^$3p
+||hotlinkie.com^$3p
+||kimhollandpartners.nl^$3p
+||klikbonus.com^$3p
+||lauwebut.nl^$3p
+||lustcash.nl^$3p
+||maakmedia.nl^$3p
+||midhold.nl^$3p
+||mt67.net^$3p
+||nonstoppartner.net^$3p
+||online-banners.nl^$3p
+||partner.bol.com^$3p
+||partnerclicks.nl^$3p
+||partnerprogramma.bol.com^$3p
+||pexi.nl^$3p
+||pics.obedo.nl^$3p
+||radiocoupon.nl^$3p
+||schoorsteen.geenstijl.nl^$3p
+||sdcash.nl^$3p
+||static-dscn.net^$3p
+||teasemedia.nl^$3p
+||tradetracker.com^$3p
+||verkoopmenu.nl^$3p
+||views.affiliate4you.nl^$3p
+||vpscash.nl^$3p
+||xpartners.nl^$3p

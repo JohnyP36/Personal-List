@@ -1,126 +1,73 @@
-name: EasyList Dutch
-description: Use this template for issues regarding `EasyList Duth` filters
+name: EasyDutch
+description: Issue tracker for EasyDutch
 body:
-  - type: markdown
-    attributes:
-      value: | 
-        Any additions, changes or removals is at the Authors discretion. 
-        You're free to counterargue (to a certain point) if you disagree with the decision. 
-        To avoid being banned, don't constantly re-open or create new (related) issue reports.
-        
-        Just include the website URL in the Title line of this issue report with an `A` if you want to add a rule; a `C` if you want to change a rule; a `R` if you want to remove a rule.
-
   - type: checkboxes
     attributes:
-      label: Prerequisites
-      description: Check the appropriate boxes before you submit your issue.
+      label: Prerequisites / Vereisten
+      description: To rule out invalid issues, confirm and check each one of the checkboxes.
       options:
-        - label: This is a **Dutch** domain *(also general websites with Dutch subdomains (e.g. nl.y8.com))*
+        - label: This is a **Dutch** website / Het is een **Nederlandse** website
           required: true
-        - label: I performed a [cursory search of the issue tracker](https://github.com/JohnyP36/Personal-List/issues) to avoid opening a duplicate issue
+        - label: I performed a [cursory search of the issue tracker](https://github.com/EasyDutch-uBO/EasyDutch/issues) to avoid opening a duplicate issue / Geen **duplicaten**!!
           required: true
-        - label: I am running the latest version of uBlock Origin (or Adguard or Adblock Plus, etc.)
+        - label: Only ads or anti-adblock / Alleen advertenties of anti-adblock
+          required: true
+        - label: Filters were [updated](https://github.com/gorhill/uBlock/wiki/Dashboard:-Filter-lists#purge-all-caches) before reproducing an issue / Filterlijsten zijn [geüpdated](https://github.com/gorhill/uBlock/wiki/Dashboard:-Filter-lists#update-now) voordat dit probleem werd gereproduceerd
+          required: true
+        - label: I have updated my browser to the most recent version / Ik heb mijn browser geüpdated naar de meest recente verie
           required: false
-        - label: This is not an `NSFW` issue  --  *If it is an "NSFW" issue use this [issue template](https://github.com/JohnyP36/Personal-List/issues/new?assignees=&labels=NSFW&template=easylistdutch%5BNSFW%5D.yml&title=%60NSFW%60%3A+)*
-          required: true
+    
   - type: checkboxes
-    id: name2
     attributes:
       label: I tried to reproduce the issue when...
       options:
-        - label: I have/had [EasyList](https://easylist.to/easylist/easylist.txt) and [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt) enabled
+        - label: uBlock Origin with default lists / uBlock Origin met standaard filterlijsten
           required: true
-        - label: other privacy related webextensions are disabled  --  *This is to ensure there are no issues or conflicts with other webbrowser extensions*
+        - label: uBlock Origin is the only extension / uBlock Origin is de enige extensie
           required: true
-        - label: uBlock Origin with default lists/settings *if appliable*
-          required: false
-        - label: using a new, unmodified browser profile
-          required: false
-          
+
   - type: input
     attributes:
-      label: URL(s) where the issue occurs
-      description: At least one URL for a web page where the clearly described issue occurs is **mandatory**. 
-        The backticks (`) surrounding the URLs are important, it prevents the URL from being clickable.
-      placeholder: "`example.nl` or `xyz.example.nl` or `example.com/abc`"
+      label: URL(s) where the issue occurs / Website(s) waar het probleem voorkomt
+      description: |
+        At least one URL for a web page where the clearly described issue occurs is **mandatory**. 
+        Geef de link van de website waar het probleem zich voordoet. 
+      placeholder: https://example.nl; https://example.be
     validations:
       required: true
 
   - type: textarea
     attributes:
       label: Describe the issue
-      description: Be as clear as possible. Nobody can read mind, and nobody is looking at your issue over your shoulder.
-      placeholder: Just a description of the issue when you visit the site. Or steps on reproducing this.
-    validations: 
-      required: true
-
-  - type: textarea
-    attributes: 
-      label: Screenshot(s)
-      description: Screenshot(s) for difficult to describe visual issues are **mandatory**.
-      value: |
-       <details>
-       <summary>Screenshot(s)</summary>
-       
-       <!-- drag-and-drop screenshot here -->
-       
-       </details>
-    validations: 
-      required: false
-
-  - type: dropdown
-    attributes: 
-      label: Browser name
-      multiple: true
-      options: 
-        - Microsoft Edge
-        - Chrome
-        - Firefox
-        - Safari
-        - Brave
-        - another browser -> (specify under `Browser version`)
+      description: |
+        Be as clear as possible: nobody can read mind, and nobody is looking at your issue over your shoulder.
+        Wees zo duidelijk mogelijk: niemand kan je gedachten lezen en niemand kijkt over je schouder mee.
     validations:
       required: true
-  - type: dropdown
-    id: name6
-    attributes:
-      label: Extension name
-      multiple: true
-      options: 
-        - uBlock
-        - Adguard
-        - AdBlock (Plus)
-        - another adblocker -> (specify under `Extension version`)
-    validations: 
-      required: true
-  - type: input
-    id: name63
-    attributes: 
-      label: Browser version
-      placeholder: e.g.  96.0.1054.34 (Official build) (64-bits)
-    validations: 
-      required: true
-  - type: input
-    id: name64
-    attributes:
-      label: Extension version
-      placeholder: e.g.  1.39.0
-    validations: 
-      required: true
-      
-  - type: input
-    attributes: 
-      label: Operating System and Version
-      placeholder: Windows 10, 21H2
-    validations: 
-      required: true
-      
+
   - type: textarea
-    attributes: 
-      label: Settings
+    attributes:
+      label: Screenshot(s)
       description: |
-        *If you are using uBlock:* List all the changes you've made to uBO's default settings here, by copying the information given by uBO under `Support` --> `Troubleshooting Information`
-        *Als je uBlock gebruikt:* Geef hier een lijst van alle wijzigingen die u heeft aangebracht in de standaardinstellingen van uBO, door de informatie te kopiëren die door uBo is gegeven onder `Ondersteuning` --> `Probleemoplossingsinformatie` 
+        Screenshot(s) for **difficult to describe visual issues are mandatory**. 
+        Post **links** instead of inline images for screenshots containing **Adult material**.
+        Is het **Volwassen materiaal** post dan linkjes in plaats van **Inline Images**.
+      value: |
+        <details>
+        <summary>Screenshot(s)</summary>
+        
+        <!-- drag-and-drop screenshot here -->
+        
+        </details>
+    validations:
+      required: false
+
+  - type: textarea
+    attributes:
+      label: Configuration / Configuratie
+      description: | 
+        List all the changes you've made to uBO's default settings here, by copying the information given by uBO's Dashboard under `Support` --> `Troubleshooting Information`.
+        Geef hier een lijst van alle wijzigingen die u heeft aangebracht in de standaardinstellingen van uBO, door de informatie te kopiëren die door uBO's Dashboard is gegeven onder `Ondersteuning` --> `Probleemoplossingsinformatie`.
       value: |
         <details>
         <summary>Troubleshooting Information / Probleemoplossingsinformatie</summary>
@@ -130,15 +77,27 @@ body:
         ```
         </details>
     validations:
-      required: false
+      required: true
 
   - type: textarea
-    attributes: 
+    attributes:
       label: Notes
-      description: | 
-        Add here the result of whatever investigation work you have done: please investigate the issues you report -- this prevents burdening other volunteers. 
-        This is especially true for issues arising from settings which are very different from default ones. 
-        If you suspect certain filters mention it below (this helps spending time to debug it manually).
-      placeholder: Write here the result of whatever investigation work you have done
-    validations: 
+      description: |
+        Please investigate the issues you report -- this prevents burdening other volunteers. 
+        This is especially true for issues arising from settings which are very different from default ones.
+      placeholder: |
+        Write here the result of whatever investigation work you have done
+        Schrijf hier het resultaat van het onderzoekswerk dat je hebt gedaan
+    validations:
       required: false
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Privacy
+      description: |
+        By submitting this issue, you agree that this report does not contain private info, also not in the screenshots.
+        Dit issue bevat geen persoonlijke informatie, ook niet in de screenshots.
+      options:
+        - label: I agree to follow this condition / Ik ga akkoord met deze voorwaarde
+          required: true
