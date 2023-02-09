@@ -1,0 +1,34 @@
+name: Copy EasyDutch as Back-up
+
+on:
+  schedule:
+    - cron: "00 07 * * 3,6"
+  workflow_dispatch:
+
+# https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#example-only-cancel-in-progress-jobs-or-runs-for-the-current-workflow
+concurrency: 
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    name: Update EasyDutch
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone EasyDutch as Back-up
+        uses: actions/checkout@v3
+      - name: Copy EasyDutch to AdBlockFilters
+        run: |
+          TMPFILE=$(mktemp -d)
+          git clone --depth=1 --single-branch --branch=gh-pages https://github.com/EasyDutch-uBO/EasyDutch.git $TMPFILE
+          cp $TMPFILE/EasyDutch/*.txt easylistdutch/
+          cp $TMPFILE/EasyDutch.txt EasyDutch.txt
+      - name: Commit changes (if any)
+        run: |
+          if [[ -n $(git diff) ]]; then
+            git config user.name "JohnyP36"
+            git config user.email "<>"
+            git add -u EasyDutch/ EasyDutch.txt
+            git commit -m "Updated from @EasyDutch-uBO"
+            git push origin main
+          fi
