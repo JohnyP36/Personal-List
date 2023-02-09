@@ -1,16 +1,50 @@
-name: Greetings
+name: Deploy to gh-pages branch
 
-on: [pull_request, issues]
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'EasyDutch/**'
+      - 'EasyDutch.txt'
+
+# https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#example-only-cancel-in-progress-jobs-or-runs-for-the-current-workflow
+concurrency: 
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
-  greeting:
+  publish:
+    name: Publish lists
     runs-on: ubuntu-latest
-    permissions:
-      issues: write
-      pull-requests: write
     steps:
-    - uses: actions/first-interaction@main
-      with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: 'Hey @${{ github.actor }}! Thank you for contributing to my filterlist. Do you also like to sponsor this project?'
-        pr-message: 'Hey @${{ github.actor }}! Thanks for your first pull request in this repository. Would you consider to sponsor me?'
+      - name: Clone EasyDutch
+        uses: actions/checkout@v3
+        with:
+            ref: gh-pages
+      - name: Copy filter lists to gh-pages
+        run: |
+             TMPFILE=$(mktemp -d)
+             git clone --depth=1 https://github.com/EasyDutch-uBO/EasyDutch.git $TMPFILE
+             cp $TMPFILE/EasyDutch/*.txt EasyDutch/
+             cp $TMPFILE/EasyDutch.txt EasyDutch.txt
+      - name: Patch last-updated field
+        run: |
+          DATE=$(date -Ru)
+          for f in $(git diff --name-only); do
+            STAT=$(git diff --numstat $f | sed -r '/^1\s+1\s+/d')
+            if [[ -n $STAT ]]; then
+              sed -ir "0,/^! Last updated: /s/^\(! Last updated: \)%timestamp%/\\1$DATE/" $f
+            else
+              git checkout -q $f
+            fi
+          done
+      - name: Commit changes (if any)
+        run: |
+          if [[ -n $(git diff) ]]; then
+            git config user.name "GitHub-Actions"
+            git config user.email "<>"
+            git add -u EasyDutch/ EasyDutch.txt
+            git commit -m "Update modified filter lists"
+            git push origin gh-pages
+          fi
