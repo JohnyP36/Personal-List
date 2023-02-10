@@ -5,7 +5,9 @@ androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
 androidplanet.nl,iphoned.nl##div[data-name="dynamic-content-injected"]:upward(2)
 androidplanet.nl,iphoned.nl##header[data-name="featured-header"]
 blikopzeewolde.nl##.fusion-flex-container.fullwidth-box.fusion-fullwidth:has(:not(a[href^="https://www.blikopzeewolde.nl/"]) > .fusion-column-inner-bg-image)
+eindexamens.nu,gezondheid.be###leaderboard
 focusclub.nl##.funbox
+gezondheid.be###leaderboard_floor
 girlscene.nl##[id$="leaderboard-article"]
 girlscene.nl##[id$="top-ad-desktop"]
 hollandskroonnieuws.nl,wieringernieuws.nl###navleft > center:has-text(/advert/i)
@@ -688,7 +690,6 @@ dvhn.nl,lc.nl,meppelercourant.nl##.top__ad
 dwtonline.com###banner1
 edestad.nl##.mtb-50.pt-50.col-sm-12.col-lg-12.col-md-12.bg-grey:not(:has(div[class$="text-center"]))
 edestad.nl##.w-300x.RM5
-eindexamens.nu###leaderboard
 eindtijdklok.org##.widget_block:has(img[src*="/ad"])
 eindtijdklok.org##.wpa
 elkspel.nl,fiets.nl,fietsactief.nl,knipmode.nl,rootsmagazine.nl,seasons.nl,truckstar.nl,vorsten.nl,zin.nl##.banner-container
@@ -726,8 +727,6 @@ geile-sexverhalen.be,geile-sexverhalen.nl###footermiddle > .well:has-text(/adver
 geile-sexverhalen.nl##div.well:has(img[src*="sdcash.nl"])
 geileverhalen.nl##div.author-presentation-container:has([src^="https://go2.go2cloud.org/"])
 geldpedia.nl,manpedia.nl,vrouwpedia.nl##[id^="gridlove-module-"]:not(.module-type-posts):not(.module-type-cats)
-gezondheid.be###leaderbord
-gezondheid.be##[class^="gz-ads"]
 gfcnieuws.com##div.ai-viewport-1
 girlpics.nl##.cato_content:not(:has([href]))
 girlpics.nl###cato_top:has-text(/ads/i)
