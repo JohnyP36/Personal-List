@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - 'easylistdutch/**'
-      - 'Personal*.txt'
+      - 'Personal List (uBo).txt'
   workflow_dispatch:
 
 # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#example-only-cancel-in-progress-jobs-or-runs-for-the-current-workflow
@@ -44,7 +44,7 @@ jobs:
           if [[ -n $(git diff) ]]; then
             git config user.name "GitHub-Actions"
             git config user.email "<>"
-            git add -u Personal*.txt
+            git add -u Personal List (uBo).txt
             git commit -m "Update modified filter lists"
             git push origin gh-pages
           fi
