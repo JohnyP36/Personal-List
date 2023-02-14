@@ -1,4 +1,4 @@
-name: Deploy to gh-pages branch
+name: Deploy to cdn-page branch
 
 on:
   push:
@@ -22,12 +22,12 @@ jobs:
       - name: Clone easylistdutch
         uses: actions/checkout@v3
         with:
-            ref: gh-pages
+            ref: cdn-page
       - name: Copy filter lists to gh-pages
         run: |
              TMPFILE=$(mktemp -d)
              git clone --single-branch --branch=main https://github.com/JohnyP36/Personal-List.git $TMPFILE
-             cp $TMPFILE/Personal*List*uBo*.txt Personal*List*uBo*.txt
+             cp $TMPFILE/Personal List *uBo*.txt Personal List *uBo*.txt
       - name: Patch last-updated field
         run: |
           DATE=$(date -Ru)
@@ -46,5 +46,5 @@ jobs:
             git config user.email "<>"
             git add -u Personal List (uBo).txt
             git commit -m "Update modified filter lists"
-            git push origin gh-pages
+            git push origin cdn-page
           fi
