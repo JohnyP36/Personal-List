@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - 'easylistdutch/**'
-      - 'Personal%20List%20(uBo).txt'
+      - 'Personal*List*uBo*.txt'
   workflow_dispatch:
 
 # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#example-only-cancel-in-progress-jobs-or-runs-for-the-current-workflow
@@ -27,7 +27,7 @@ jobs:
         run: |
              TMPFILE=$(mktemp -d)
              git clone --depth=1 https://github.com/JohnyP36/Personal-List.git $TMPFILE
-             cp $TMPFILE/Personal%20List%20(uBo).txt Personal%20List%20(uBo).txt
+             cp $TMPFILE/Personal*List*uBo*.txt Personal*List*uBo*.txt
       - name: Patch last-updated field
         run: |
           DATE=$(date -Ru)
@@ -44,7 +44,7 @@ jobs:
           if [[ -n $(git diff) ]]; then
             git config user.name "GitHub-Actions"
             git config user.email "<>"
-            git add -u Personal%20List%20(uBo).txt
+            git add -u Personal*List*uBo*.txt
             git commit -m "Update modified filter lists"
             git push origin gh-pages
           fi
