@@ -22,7 +22,7 @@ jobs:
       - name: Clone easylistdutch
         uses: actions/checkout@v3
         with:
-            ref: gh-pages
+            ref: main
       - name: Copy filter lists to gh-pages
         run: |
              TMPFILE=$(mktemp -d)
