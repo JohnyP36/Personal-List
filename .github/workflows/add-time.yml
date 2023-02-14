@@ -25,6 +25,7 @@ jobs:
             ref: gh-pages
       - name: Copy filter lists to gh-pages
         run: |
+             git config --global init.defaultBranch main
              TMPFILE=$(mktemp -d)
              git clone --depth=1 https://github.com/JohnyP36/Personal-List.git $TMPFILE
              cp $TMPFILE/Personal List *uBo*.txt Personal List *uBo*.txt
