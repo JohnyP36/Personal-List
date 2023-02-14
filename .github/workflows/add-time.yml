@@ -18,7 +18,7 @@ jobs:
     name: Publish lists
     runs-on: ubuntu-latest
     steps:
-      - name: Clone EasyDutch
+      - name: Clone easylistdutch
         uses: actions/checkout@v3
         with:
             ref: gh-pages
@@ -33,7 +33,7 @@ jobs:
           for f in $(git diff --name-only); do
             STAT=$(git diff --numstat $f | sed -r '/^1\s+1\s+/d')
             if [[ -n $STAT ]]; then
-              sed -ir "0,/^! Last updated: /s/^\(! Last updated: \)%timestamp%/\\1$DATE/" $f
+              sed -ir "0,/^! Last modified: /s/^\(! Last updated: \)%timestamp%/\\1$DATE/" $f
             else
               git checkout -q $f
             fi
