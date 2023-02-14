@@ -26,7 +26,7 @@ jobs:
       - name: Copy filter lists to gh-pages
         run: |
              TMPFILE=$(mktemp -d)
-             git clone --depth=1 https://github.com/Personal-List.git $TMPFILE
+             git clone --depth=1 https://github.com/JohnyP36/Personal-List.git $TMPFILE
              cp $TMPFILE/Personal%20List%20(uBo).txt Personal%20List%20(uBo).txt
       - name: Patch last-updated field
         run: |
