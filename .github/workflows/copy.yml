@@ -28,10 +28,10 @@ jobs:
           cp $TMPFILE/.github/*.yml .github/
           cp $TMPFILE/.github/*.md .github/
           cp $TMPFILE/.github/ISSUE_TEMPLATE/*.yml .github/ISSUE_TEMPLATE/
-          cp $TMPFILE/.gitattributes .gitattributes
+          cp $TMPFILE/.gitattribute* .gitattributes
           cp $TMPFILE/CODE_OF_CONDUCT.md CODE_OF_CONDUCT.md
           cp $TMPFILE/CONTRIBUTING.md CONTRIBUTING.md
-          cp $TMPFILE/LICENSE LICENSE
+          cp $TMPFILE/LICENS* LICENSE
           cp $TMPFILE/README.md README.md
       - name: Commit changes (if any)
         run: |
@@ -40,5 +40,6 @@ jobs:
             git config user.email "<>"
             git add -u easylistdutch/ EasyDutch.txt .github/ .github/ISSUE_TEMPLATE/ .gitattributes CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE README.md 
             git commit -m "Updated from @EasyDutch-uBO"
+            git ls-files -z | while read -d '' path; do touch -d $(git log -1 --format="@%ct" "$path") "$path"; done
             git push origin master
           fi
