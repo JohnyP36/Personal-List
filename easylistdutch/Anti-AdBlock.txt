@@ -4,7 +4,7 @@
  !androidplanet.nl,iphoned.nl##.no-content-styles:has-text(/Steun Android Planet|Steun iPhoned|whitelist/)
 *$image,redirect-rule=2x2.png,domain=tweakers.net
 @@||tweakers.net^$generichide
-tweakers.net##+js(addEventListener-defuser, bannerLoadEvent, adblock)
+tweakers.net##+js(addEventListener-defuser, , adblock)
 tweakers.net##.noTrackingMessage
 ! 2022
 autoweek.nl##+js(set-constant, isAdBlockActive, false)
