@@ -994,6 +994,7 @@ telegraaf.nl##.ArticlePageWrapper__banner
 telegraaf.nl##.Banner
 telegraaf.nl##.ComponentRotation
 telegraaf.nl##.MainCuratedTeasersLayout__banner
+telegraaf.nl##.OutbrainWrapper
 telegraaf.nl##.SectionPage__bannerWrapper
 telegraaf.nl##.SportScoreboardPage__banner
 telegraaf.nl##.TextArticlePage__bannerWrapper
