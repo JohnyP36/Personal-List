@@ -2,6 +2,12 @@
 ! 2023
 @@/wp-content/*/scripts/adb.min.js$script,first-party,domain=androidplanet.nl|iphoned.nl
  !androidplanet.nl,iphoned.nl##.no-content-styles:has-text(/Steun Android Planet|Steun iPhoned|whitelist/)
+||goplay.be/js/sourcepoint/msg?v=
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect-rule=noopjs,domain=goplay.be
+@@||sdk.privacy-center.org^$script,domain=goplay.be
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=goplay.be
+@@||doubleclick.net^$xhr,domain=goplay.be
+goplay.be##+js(xml-prune, Period[id*="-roll-"][id*="-ad-"], , pubads.g.doubleclick.net/ondemand)
 *$image,redirect-rule=2x2.png,domain=tweakers.net
 @@||tweakers.net^$generichide
  !tweakers.net##+js(addEventListener-defuser, , adblock)
@@ -10,14 +16,6 @@ tweakers.net##.noTrackingMessage
 ! 2022
 autoweek.nl##+js(set-constant, isAdBlockActive, false)
 citaten.net#@##bottom-ad
-goplay.be##+js(no-fetch-if, pubads.g.doubleclick.net/gampad/ads)
-||goplay.be/js/sourcepoint/msg?v=
-||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect-rule=noopjs,domain=goplay.be
-@@||sdk.privacy-center.org^$script,domain=goplay.be
-!#if ext_abp
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=goplay.be
-@@||pubads.g.doubleclick.net/gampad/ads?*&output=vast&$domain=goplay.be
-!#endif
 hardware.info##^script:has-text(Inject=!)
 @@*&ad$xhr,domain=kijk.nl
 @@||ads-talpa.adhese.com/json/$xhr,domain=kijk.nl
