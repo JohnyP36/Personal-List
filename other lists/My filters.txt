@@ -99,33 +99,33 @@ www.google.*,rd.nl##html:style(overflow: visible !important)
 ||nrc.nl/paywall-api/$xhr,1p
 
 ! Cookie Banner e.d.
+bol.com##li.js_sponsored_product
 chamilo.etf.edu##.cookieUsageValidation
 christenenvoorisrael.nl##.diffuse_cookie-bar__container
 freebitco.in##.daily_jackpot_main_container_div
 freebitco.in###free_play_payout_table > div[id^="premium"][id*="membership"]
 gab.com#?#:matches-path(/\/home|\/groups/) span[class]:has-text(/^Upgrade/i):upward(3)
+!gab.com##a[href*="grow.gab.com/go"]:has(aside img[src*="grow.gab.com/galahad"])
 gab.com##aside a[href*="shop.dissenter.com/product/"]:has(img):upward(1)
 gab.com##h2[class]:has-text(Gab Voice):upward(aside)
 github.com###dashboard div[aria-labelledby="feed-original"] [class="body"]:has-text(github-actions):has-text(EasyDutch-uBO/EasyDutch):upward([classes^="push"])
-github.com###dashboard div[aria-labelledby="feed-original"] [class="body"]:has-text(pushed to):has-text(black7375/Firefox-UI-Fix):upward(.push)
-github.com###dashboard div[aria-labelledby="feed-original"] [class="body"]:has-text(pushed to):has-text(letsblockit/letsblockit):upward(.push)
+github.com###dashboard div[aria-labelledby="feed-original"] [class="body"]:has-text(github-actions):has-text(/JohnyP36\/Personal-List|EasyDutch-uBO\/EasyDutch/):upward([class^="push"])
+github.com###dashboard div[aria-labelledby="feed-original"] [class="body"]:has-text(pushed to):has-text(/black7375\/Firefox-UI-Fix|letsblockit\/letsblockit/):upward(.push)
 instagram.com##body:style(overflow: visible !important;)
 instagram.com##div[class][role="dialog"]:has([role="dialog"]:has(button):has-text(cookies)):upward(4)
-instagram.com##button:has(div[class]:has-text(/covid-19/i)):upward(1)
-instagram.com##article span:has-text(Fact-checkers):upward(5)
-  instagram.com#?#article button:has([aria-label*="Information icon"]):upward(1)
-  instagram.com#?#article button:has([aria-label*="Warning icon"]):upward(1)
-instagram.com#?#main > div > section > *:has(div):not(div[style^="left:"]):style(max-width: 550px !important;)
- !instagram.com##main section > div[style]:has-text(/About|Help/i):style(left:950px !important;)
+instagram.com#?#a:has([aria-label*="Information icon"]):upward(1)
+!instagram.com##button:has(div[class]:has-text(/covid-19/i)):upward(1)
+!instagram.com##article span:has-text(/Fact-checkers|Visit the World Health Organization for vaccine resources./):upward(5)
+instagram.com#?#main > div > section > div:has(div[style^="max-width"]):style(max-width: 550px !important; margin-left: 50px !important;)
+instagram.com#?#main > div > section div[style^="width"] > div[style^="max-width"]:style(max-width: 550px !important;)
 marktplaats.nl##.ReactModalPortal:has-text(Inloggen)
 marktplaats.nl##div[class$="LoginNudge"]
-mediamarkt.nl###mms-consent-portal-container
-mediamarkt.nl##[class*="StyledMasterAdBanner"]:has-text(/cookies|accepteer/i):upward(1)
-nos.nl###ccm_notification_wrapper
+mediamarkt.nl###mms-consent-portal-container, [class^="SkeletonWrapper"]
+nd.nl##.newsletter-modal
+nos.nl###ccm_notification_host
 nsinternational.*##.cookie-notice 
 nsinternational.*##.t-cookie-overlay-visible.t-cookie-overlay.cookie-overlay, .t-cookie-overlay.cookie-overlay.cookie-popup
-rd.nl##.tp-modal
-rd.nl##.tp-active.tp-backdrop
+rd.nl##.tp-modal, .tp-active.tp-backdrop
 speedtest.net##.notification-container > div > .notification
 speedtest.net###_evidon-barrier-wrapper
 tweakers.net##.notificationsContainer:has-text(/cookies op tweakers/i):style(display: none !important;)
@@ -200,8 +200,6 @@ tweakers.net##+js(set, tweakersConfig.wtConfig.scriptUrl, '')
 tweakers.net##+js(aost, btoa, send)
 reddit.com##+js(no-fetch-if, url:/^https:\/\/www\.reddit\.com$/ method:post)
 reddit.com##+js(no-xhr-if, method:POST url:/^https:\/\/www\.reddit\.com$/)
-!  uBlock filters - Unbreak
-!is in use now
 
 ! Rules from Adguard Spyware
 .demdex.net/id^$redirect=noop.txt,important,subdocument,stylesheet,script,xmlhttprequest,other
