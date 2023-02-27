@@ -1,5 +1,6 @@
 [uBlock Origin]
 ! 2023
+112amsterdam.nl##+js(abort-on-stack-trace, document.querySelectorAll, /(?=.*inlineScript)(?=^(?!.*(https)))/)
 @@/wp-content/*/scripts/adb.min.js$script,first-party,domain=androidplanet.nl|iphoned.nl
  !androidplanet.nl,iphoned.nl##.no-content-styles:has-text(/Steun Android Planet|Steun iPhoned|whitelist/)
 ||goplay.be/js/sourcepoint/msg?v=
