@@ -36,7 +36,7 @@
             window.removeEventListener(ev.type, setItem, true);
         }
         try {
-		    if (localStorage.getItem(key) !== null) { return; }
+            if (localStorage.getItem(key) !== null) { return; }
             localStorage.setItem(key, value);
         } catch { }
     };
@@ -81,4 +81,30 @@
             addEventListener('DOMContentLoaded', click);
         }
     }, timeout);
+})();
+
+// Taken from AdGuard
+/// click-element-observer.js
+/// alias ceo.js
+(() => {
+    let a = '{{1}}';
+    if ( a === '' || a === '{{1}}' ) {
+        return;
+    }
+    let b = '{{2}}';
+    if ( b === '{{2}}' ) {
+        b = '';
+    }
+    let c = parseInt(b, 10);
+    if ( isNaN(c) || isFinite(c) === false ) {
+        c = 10000;
+    }
+    const d = new MutationObserver(function() {
+        const e = document.querySelector(a);
+        e&&(d.disconnect(),e.click())
+    });
+    d.observe(document,{ childList:!0, subtree:!0 }),
+    setTimeout(function() {
+        e.disconnect()
+    }, c)
 })();
