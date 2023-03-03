@@ -2,8 +2,8 @@
 /// setCookie.js
 /// alias sc.js
 /// alias cs.js
-// example.com##+js(cs, name, value, age, domain, path, SameSite)
 // name and value are required, the others are options
+// example.com##+js(cs, name, value, max-age, domain, path, SameSite)
 (() => {
     'use strict';
     const cs = ev => {
@@ -76,12 +76,13 @@
 })();
 
 // based on https://github.com/NanoAdblocker/NanoFilters/blob/master/NanoFilters/NanoResources.txt#L283
-// You can optional set a timeout in milliseconds before it clicks.
-// If not set, it will click directly.
-// example.com##+js(ce, element)
-// example.com##+js(ce, element, timeout)
 /// click-element.js
 /// alias ce.js
+// [required] 1: element to click; 
+// [optional] 2: url should match given token; 3: should not click when certain cookie is already set; 4: timeout, if not set, it will click directly.
+// example.com##+js(ce, element)
+// example.com##+js(ce, element, href, cookie, timeout)
+// example.com##+js(ce, element, , , timeout)
 (() => {
     let selector = '{{1}}';
     if ( selector === '' || selector === '{{1}}' ) {
@@ -124,9 +125,11 @@
 // Taken from AdGuard
 /// click-element-observer.js
 /// alias ceo.js
+// [required] 1: element to click;
+// [optional] 2: url should match given token; 3: should not click when certain cookie is already set; 4: disconnectTimeout.
 // example.com##+js(ceo, element)
-// example.com##+js(ceo, element, hrefIndex, cookie, disconnectTimeout)
-// 1: element to click; 2: url should match given token; 3: should not click when certain cookie is already set; 4: disconnectTimeout.
+// example.com##+js(ceo, element, href, cookie, disconnectTimeout)
+// example.com##+js(ceo, element, , , disconnectTimeout)
 (() => {
     let aelem = '{{1}}';
     if ( aelem === '' || aelem === '{{1}}' ) {
