@@ -27,7 +27,7 @@ jobs:
         run: |
              TMPFILE=$(mktemp -d)
              git clone --single-branch --branch=main https://github.com/JohnyP36/Personal-List.git $TMPFILE
-             cp $TMPFILE/easylistdutch/*.txt esaylistdutch/
+             cp $TMPFILE/easylistdutch/*.txt easylistdutch/
              cp $TMPFILE/*.txt Personal List *uBo*.txt
       - name: Patch last-updated field
         run: |
