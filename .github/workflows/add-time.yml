@@ -28,7 +28,7 @@ jobs:
              TMPFILE=$(mktemp -d)
              git clone --single-branch --branch=main https://github.com/JohnyP36/Personal-List.git $TMPFILE
              cp $TMPFILE/easylistdutch/*.txt easylistdutch/
-             cp $TMPFILE/*.txt Personal List *uBo*.txt
+             cp $TMPFILE/*.txt Dutch_Filter_List_(uBo).txt
       - name: Patch last-updated field
         run: |
           DATE=$(date -Ru)
@@ -45,7 +45,7 @@ jobs:
           if [[ -n $(git diff) ]]; then
             git config user.name "GitHub-Actions"
             git config user.email "<>"
-            git add -u easylistdutch/ Personal List (uBo).txt
+            git add -u easylistdutch/ Dutch_Filter_List_(uBo).txt
             git commit -m "Update modified filter lists"
             git push origin cdn-page
           fi
