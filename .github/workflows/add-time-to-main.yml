@@ -29,8 +29,8 @@ jobs:
           if [[ -n $(git diff) ]]; then
             git config user.name "JohnyP36"
             git config user.email "<>"
-            git add -u Personal*List*(uBo).txt 
-            git commit -m "Add time stamp"
+            git add -u Personal*List*uBo*.txt 
+            git commit -m "Add time new stamp"
             git ls-files -z | while read -d '' path; do touch -d $(git log -1 --format="@%ct" "$path") "$path"; done
             git push origin main
           fi
