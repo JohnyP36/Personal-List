@@ -2,7 +2,7 @@ name: Copy modified file back to main branch
 
 on:
   schedule:
-    - cron: "00 06 2/7 * *"
+    - cron: "00 06 1/5 * *"
   workflow_dispatch:
 
 # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#example-only-cancel-in-progress-jobs-or-runs-for-the-current-workflow
@@ -23,7 +23,7 @@ jobs:
         run: |
           TMPFILE=$(mktemp -d)
           git clone --single-branch --branch=cdn-page https://github.com/JohnyP36/Personal-List.git $TMPFILE
-          cp $TMPFILE/Dutch_Filter_List_(uBo).txt Personal*List*(uBo).txt
+          cp $TMPFILE/Dutch_Filter_List_*uBo*.txt Personal*List*uBo*.txt
       - name: Commit changes (if any)
         run: |
           if [[ -n $(git diff) ]]; then
