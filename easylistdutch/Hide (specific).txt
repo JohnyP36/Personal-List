@@ -1,5 +1,6 @@
 [uBlock Origin]
 ! 2023
+alarmeringen.nl##.ad
 androidplanet.nl,iphoned.nl##.widget_offers
 androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
 androidplanet.nl,iphoned.nl##div[data-name="dynamic-content-injected"]:upward(2)
