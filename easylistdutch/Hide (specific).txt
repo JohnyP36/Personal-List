@@ -607,7 +607,7 @@ autosport.nl##.active.first:style(margin-top: 0px !important;)
 autosport.nl##.bigbanner
 autowereld.nl###banner-lister-top
 autowereld.nl###mainbanner
-autozine.nl,beleggersbelangen.nl,besteproduct.nl,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,radioluisterenlive.nl,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,wijlimburg.nl,xgn.nl##.ad
+autozine.nl,beleggersbelangen.nl,besteproduct.nl,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,wijlimburg.nl,xgn.nl##.ad
 azerty.nl##.block.mod_article > div a[href*="ictwaarborg.nl/"]
 baanwacht.nl##.shailan_banner_widget
 baarsclassicrock.nl##.widebanner
