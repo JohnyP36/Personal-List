@@ -35,9 +35,9 @@ jobs:
              cp $TMPFILE/easylistdutch/Block*3p*server*.txt easylistdutch/Block*3p*server*.txt
              cp $TMPFILE/easylistdutch/Block*3p*specific*.txt easylistdutch/Block*3p*specific*.txt
              cp $TMPFILE/easylistdutch/Block*3p*whitelist*.txt easylistdutch/Block*3p*whitelist*.txt
-             cp $TMPFILE/easylistdutch/Hide*general*.txt easylistdutch/Hide*general*.txt
-             cp $TMPFILE/easylistdutch/Hide*specific*.txt easylistdutch/Hide*specific*.txt
-             cp $TMPFILE/easylistdutch/Hide*whitelist*.txt easylistdutch/Hide*whitelist*.txt
+             cp $TMPFILE/easylistdutch/Hide*general*.txt easylistdutch/Hide_general.txt
+             cp $TMPFILE/easylistdutch/Hide*specific*.txt easylistdutch/Hide_specific.txt
+             cp $TMPFILE/easylistdutch/Hide*whitelist*.txt easylistdutch/Hide_whitelist.txt
              cp $TMPFILE/easylistdutch/block_first_party_popup.txt easylistdutch/block_first_party_popup.txt
              cp $TMPFILE/easylistdutch/block_third_party_popup.txt easylistdutch/block_third_party_popup.txt
              cp $TMPFILE/*.txt Dutch_Filter_List_*uBo*.txt
