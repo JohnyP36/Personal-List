@@ -29,6 +29,12 @@ nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
 tweakers.net##.widebnr
 tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
+wielerflits.be,wielerflits.nl###mm_hpa
+wielerflits.be,wielerflits.nl##.affiliate_links
+wielerflits.be,wielerflits.nl##.mm_container
+wielerflits.be,wielerflits.nl##.row [class^="widget"]:has(.mm_container)
+wielerflits.be,wielerflits.nl##div[id*="mm_leaderboard"]
+wielerflits.nl##.widget:has(.wf_headline:has-text(/Wielerdeals/i))
 ! 2022
 1001erotiekverhalen.nl##[href^="https://t.adating.link/"]:upward(2)
 1001erotiekverhalen.nl##aside[id^="block"]:has([src*="tools-affil2.com/rtb/index.php"])
@@ -528,11 +534,6 @@ wereldklokken.nl##.klokken:style(transform: translateX(-180px ) !important;)
 wettelijke-feestdagen.nl##.advertentieBanner
 wettelijke-feestdagen.nl###reclame
 whiskyprijzen.be,whiskyprijzen.nl,whiskyprix.be##.bnr.card
-wielerflits.be,wielerflits.nl###mm_hpa
-wielerflits.be,wielerflits.nl##.affiliate_links
-wielerflits.be,wielerflits.nl##.mm_container
-wielerflits.be,wielerflits.nl##.row [class^="widget"]:has(.mm_container)
-wielerflits.be,wielerflits.nl##div[id*="mm_leaderboard"]
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 wildfm.nl##[class*="avia-image-container"]:has(a[href])
 wildfm.nl##[id*="after_section"] > .container:has([class*="av-content"])
