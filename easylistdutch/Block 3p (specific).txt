@@ -1,4 +1,5 @@
 [uBlock Origin]
+! Last modified: %timestamp%
 ! 2023
 ||wieringernieuws.nl/gfx/ads$domain=hollandskroonnieuws.nl|wieringernieuws.nl
 ||viralize.tv/display/$domain=startpagina.nl
