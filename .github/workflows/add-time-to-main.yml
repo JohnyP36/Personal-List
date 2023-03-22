@@ -6,7 +6,7 @@ on:
     types:
       - completed
   schedule:
-    - cron: "00 06 1/5 * *"
+    - cron: "00 06 1/365 * *"
   workflow_dispatch:
 
 # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#example-only-cancel-in-progress-jobs-or-runs-for-the-current-workflow
