@@ -28,13 +28,13 @@ jobs:
              TMPFILE=$(mktemp -d)
              git clone --depth=1 --branch=main https://github.com/JohnyP36/Personal-List.git $TMPFILE
              cp $TMPFILE/easylistdutch/Anti-AdBlock.txt easylistdutch/Anti-AdBlock.txt
-             cp $TMPFILE/easylistdutch/Block*general*.txt easylistdutch/Block*general*.txt
-             cp $TMPFILE/easylistdutch/Block*1p*server*.txt easylistdutch/Block*1p*server*.txt
-             cp $TMPFILE/easylistdutch/Block*1p*specific*.txt easylistdutch/Block*1p*specific*.txt
-             cp $TMPFILE/easylistdutch/Block*1p*whitelist*.txt easylistdutch/Block*1p*whitelist*.txt
-             cp $TMPFILE/easylistdutch/Block*3p*server*.txt easylistdutch/Block*3p*server*.txt
-             cp $TMPFILE/easylistdutch/Block*3p*specific*.txt easylistdutch/Block*3p*specific*.txt
-             cp $TMPFILE/easylistdutch/Block*3p*whitelist*.txt easylistdutch/Block*3p*whitelist*.txt
+             cp $TMPFILE/easylistdutch/Block*general*.txt easylistdutch/Block_general.txt
+             cp $TMPFILE/easylistdutch/Block*1p*server*.txt easylistdutch/Block_1p-server.txt
+             cp $TMPFILE/easylistdutch/Block*1p*specific*.txt easylistdutch/Block_1p-specific.txt
+             cp $TMPFILE/easylistdutch/Block*1p*whitelist*.txt easylistdutch/Block_1p-whitelist.txt
+             cp $TMPFILE/easylistdutch/Block*3p*server*.txt easylistdutch/Block_3p-server.txt
+             cp $TMPFILE/easylistdutch/Block*3p*specific*.txt easylistdutch/Block_3p-specific.txt
+             cp $TMPFILE/easylistdutch/Block*3p*whitelist*.txt easylistdutch/Block_3p-whitelist.txt
              cp $TMPFILE/easylistdutch/Hide*general*.txt easylistdutch/Hide_general.txt
              cp $TMPFILE/easylistdutch/Hide*specific*.txt easylistdutch/Hide_specific.txt
              cp $TMPFILE/easylistdutch/Hide*whitelist*.txt easylistdutch/Hide_whitelist.txt
@@ -57,7 +57,8 @@ jobs:
           if [[ -n $(git diff) ]]; then
             git config user.name "GitHub-Actions"
             git config user.email "<>"
-            git add -u easylistdutch/ Dutch_Filter_List_*uBo*.txt
+            git add -u easylistdutch/ 
+            git add -u Dutch_Filter_List_*uBo*.txt
             git commit -m "Update modified filter lists"
             git push origin cdn-page
           fi
