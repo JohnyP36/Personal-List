@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Wed, 22 Mar 2023 10:47:52 +0000
+! Last modified: Thu, 23 Mar 2023 11:33:48 +0000
 ! 2023
 112amsterdam.nl##+js(abort-on-stack-trace, document.querySelectorAll, /(?=.*inlineScript)(?=^(?!.*(https)))/)
 @@/wp-content/*/scripts/adb.min.js$script,first-party,domain=androidplanet.nl|iphoned.nl
@@ -12,8 +12,8 @@
 goplay.be##+js(xml-prune, Period[id*="-roll-"][id*="-ad-"], , pubads.g.doubleclick.net/ondemand)
 *$image,redirect-rule=2x2.png,domain=tweakers.net
 @@||tweakers.net^$generichide
-||tweakers.net/x/build/components.*.js$script,first-party
-tweakers.net##+js(addEventListener-defuser, , handleAdblockDetect)
+!||tweakers.net/x/build/components.*.js$script,first-party
+tweakers.net##+js(addEventListener-defuser, , adblock)
 tweakers.net##.promotor:has([src*="whitelist_message"]):upward(1)
 ! 2022
 autoweek.nl##+js(set-constant, isAdBlockActive, false)
