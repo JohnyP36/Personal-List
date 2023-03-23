@@ -13,7 +13,7 @@ goplay.be##+js(xml-prune, Period[id*="-roll-"][id*="-ad-"], , pubads.g.doublecli
 *$image,redirect-rule=2x2.png,domain=tweakers.net
 @@||tweakers.net^$generichide
 !||tweakers.net/x/build/components.*.js$script,first-party
-tweakers.net##+js(addEventListener-defuser, , adblock)
+tweakers.net##+js(addEventListener-defuser, , handleAdblockDetect)
 tweakers.net##.promotor:has([src*="whitelist_message"]):upward(1)
 ! 2022
 autoweek.nl##+js(set-constant, isAdBlockActive, false)
