@@ -8,7 +8,7 @@
 <a align="center" href="https://github.com/JohnyP36/Personal-List/commits/master"><img src="https://img.shields.io/github/commit-activity/m/JohnyP36/Personal-List?label=Commits&color=succes&style=plastic" /></a>
 <a align="center" href="https://github.com/JohnyP36/Personal-List/issues"><img src="https://img.shields.io/github/issues/JohnyP36/Personal-List?label=Issues&color=red&style=plastic" /></a>
 <a align="center" href="https://github.com/JohnyP36/Personal-List/issues"><img src="https://img.shields.io/github/issues-closed/JohnyP36/Personal-List?color=yellowgreen&label=Issues&style=plastic" /></a>
-<a align="center" href="https://github.com/JohnyP36/Personal-List/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg?label=License&color=lightgrey&style=social" /></a>
+<a align="center" href="https://github.com/JohnyP36/Personal-List/blob/main/LICENSE"><img src="https://img.shields.io/github/license/JohnyP36/Personal-List?label=License&color=lightgrey&style=social" /></a>
 <a align="center" href="https://github.com/JohnyP36/Personal-List/actions/workflows/add-time.yml"><img src="https://img.shields.io/github/actions/workflow/status/JohnyP36/Personal-List/add-time.yml?color=informational&branch=main&event=push&label=Deploy%20to%20cdn-page%20branch&style=plastic" /></a>
 </p>
 
