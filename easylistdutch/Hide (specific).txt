@@ -26,6 +26,7 @@ letsgodigital.org##.product__wrapper:has(.adsbygoogle)
 loonwijzer.be##.main__bottom:has(div[id*="gpt-ad-"])
 loonwijzer.be##[class^="article__ad"]
 nd.nl##.page-header__inner__ad
+nederland.fm##[class*=adv]
 nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
 nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
@@ -833,8 +834,6 @@ ml5.nl##[class^="fl-row fl-row-"][data-node]:has(.fl-module-uabb-image-carousel)
 morningstar.*###ad_top_page
 motorfietsblog.nl##.cbcontent
 motorrijdenexpert.nl##div[class*="full-row relative-row"]:has([href]):has([class*="ignore"])
-!nederland.fm###xbtm > .shadow
-!nederland.fm###xttm > .shadow
 nederlandsexdate.nl##.card-header:has-text(Advertentie)
 nederlandsmedianieuws.nl##.sidebar:has-text(Advert)
 negerinnensexdating.eu##[class="rand nomobile"]:has(a[href*="net69.nl/genre"])
