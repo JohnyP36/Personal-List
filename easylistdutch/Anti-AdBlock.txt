@@ -16,6 +16,7 @@ tweakers.net##+js(addEventListener-defuser, , /^e=>.*\(e\)$/)
 tweakers.net##.promotor:has([src*="whitelist_message"]):upward(1)
 !@@||tweakers.net^$shide
 !@@||tweakers.nl^$xhr,domain=tweakers.net
+!tweakers.net##.widebnr:style(visibility: collapse !important; min-height: 0px !important;)
 ! 2022
 autoweek.nl##+js(set-constant, isAdBlockActive, false)
 citaten.net#@##bottom-ad
