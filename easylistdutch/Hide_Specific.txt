@@ -3,6 +3,27 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-03-28
+pokeren.nl##.sidebaritem:has-text(/partners|online casino/i)
+! 2023-03-27
+nederland.fm##[class*=adv]
+notebookcheck.nl###nbc_skys
+! 2023-03-23
+allecijfers.nl##div.card:has(.adsbygoogle)
+! 2023-03-22
+racingnews365.nl##.meta-format:has-text(Advert):upward(.card)
+! 2023-03-20
+weer.nl##div[class*="block"]:has(a[href*="www.voordeeluitjes.nl"])
+! 2023-03-16
+amateursexfilmss.nl,schaamlip.net,tubeclips.nl###buttonUnderVideoLink
+amateursextube.eu,camsexbabe.nl,fucking-tube.com,mijnpornotube.nl,pornosterneuken.nl,sexdatingtube.be,tubeseks.be##.video-sidebar
+creampievideos.nl##section:has(a[href^="https://pornoverhalen.org/reclame/"])
+seksfilms.eu##[id^="custom_html"]:has-text(Sexafspraakjes)
+seksfilms.eu##[id^="custom_html-"]:has([src*="pt.pctlwm.com/embed/"])
+agraaf.nl##.partners-carousel
+barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[id^="div-gpt-ad"]:upward(.component__plugin)
+barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center[advobject]:upward(2)
+wielerflits.nl##.widget:has(.wf_headline:has-text(/Wielerdeals/i))
 ! 2023-03-09
 alarmeringen.nl##.ad
 ! 2023-02-28
@@ -42,16 +63,6 @@ hardware.info##[data-testid^="banner"]
 hardware.info##^script:has-text(Inject=!)
 hardware.info##+js(nostif, .call(null), 10)
 hardware.info##article.overview-item:has-text(Sponsored)
-! https://github.com/uBlockOrigin/uAssets/issues/13494 
-! https://github.com/EasyDutch-uBO/EasyDutch/issues/22
-! https://github.com/uBlockOrigin/uAssets/issues/15963
-tweakers.net##.headline:has([title^=".Adv"])
-tweakers.net##.relatedItProContent > *:has(a[href*="doubleclick.net/"])
-tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
-tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
-tweakers.net###true
-tweakers.net##.reserveSpace
-tweakers.net##.widebnr
 ! 2023-01-10
 kutjeporno.com##div.thumb:has([href^="/hot/out.php"])
 nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
@@ -169,7 +180,6 @@ webcam-binnenvaart.nl##.d-md-block.d-none:has-text(Met dank aan)
 ! 2022-07-12
 appletips.nl###aanbblok
 ! 2022-07-06
-scattube.be,tubeclips.nl###buttonUnderVideoLink
 puuropreis.nl##.banneritem:not(:has([href^="/component/banners/click"]))
 omejoop.be##.widget:has-text(/Schijnwerpers|Partners/)
 palnws.be##.content-inner > .palnw-target:has([id^="div-gpt-ad"])
@@ -365,9 +375,6 @@ arenalokaal.nl##[advobject]:upward(.bg-gray-100)
 ! 2022-06-23
 knack.be##.js-partner-content
 ! 2022-06-22
-barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[class$="center"] > [id^="div-gpt-ad"]:upward(2)
-barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center:has-text(advert)
-barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center[advobject]:upward(2)
 binnenvaartkrant.nl,dartfreakz.nl,dbsuriname.com,regioinbedrijf.nl,westerwoldeactueel.nl##.g
 briefjevanjan.nl##[href^="https://partner.bol.com/"]
 investmentofficer.nl##.region-banner
@@ -495,7 +502,6 @@ thatsgaming.nl##[id^="menu-item"]:has-text(/gokken|casino/i)
 yourlittleblackbook.me##.simple-image > [href^="https://www.nsinternational.com/traintracker/"]
 yourlittleblackbook.me##[id*="banner"]
 ! 2022-04-26
-teen-sex.nl###tracking-url
 pornopower.nl##[id^="block"]:has([src$="/jads.js"])
 sexcam-mokkels.nl##[id^="custom_html-"]:has(iframe[data-src*="jygotubvpyguak.com"])
 sexcontact-xxx.be##.moduletable:has([src*="2k19.nl"])
@@ -693,7 +699,6 @@ willem-ii.nl###block-views-block-view-main-sponsor
 willem-ii.nl###block-views-block-view-shirt-sponsor
 asex.nl###bottum_ad
 takecare4.eu###branding > .clearfix
-amateursextube.eu,anaaltube.be,incesttube.eu,omatube.be,opasextube.nl,plassextube.com,schaamlip.net,seksfilmstube.be,sex-kamer.nl,smsextube.com,tienersextube.com###buttonUnderVideoLink
 indiexl.nl###carousel-indiexl_partners_carousel_widget
 girlpics.nl###cato_top:has-text(Ads)
 almere-nieuws.nl###containerx
@@ -759,14 +764,11 @@ marktplaats.nl,2dehands.be###top-banner-wrapper
 eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gaming-nieuws.nl,gazetvandaag.be,giganieuws.nl,grandprix.ws,hotstreams.nl,jupilerproleague.eu,krantvandaag.nl,nieuwsgigant.nl,recepten-vandaag.nl,voetbal-vandaag.nl###topbox
 starnieuws.com###topstory > div:has-text(Advertentie)
 hotradiohits.nl###tpl_banners
-hdtienersexfilms.nl,poepsexfilmstube.nl,rapetube.eu,tubeseks.be###tracking-url
 pornozot.com###video-right
 nlsexfilmpjes.com###videos_div_v > .clear_line
 dominant.be,sextoons.be,tiener-sex.be###video-sidebar-wrap
 petities.com###visible_ad_1
 rtl.be###w-leaderboard
-nederland.fm###xbtm > .shadow
-nederland.fm###xttm > .shadow
 tijd.be##.ac_paragraph:has(.bb_wrapper)
 beleggersbelangen.nl,bestereistijd.be,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,xgn.nl##.ad
 bestereistijd.be##.ad + .card-divider
@@ -1152,7 +1154,6 @@ telegraaf.nl##.VideoArticlePage__banner
 12milf.com##.video-description > .under-video-block
 sex-kamer.nl##.videoOverAdBig
 telegraaf.nl##.VideoPage__banner
-camsexbabe.nl,mijnpornotube.nl,pornosterneuken.nl,sexbios.net,sexdatingtube.be##.video-sidebar
 mo.be##.view-id-banners_top
 nnieuws.be##.view-vw-banners.view
 rubenweytjens.be##.view-weather-ads-view

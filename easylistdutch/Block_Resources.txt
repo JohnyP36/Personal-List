@@ -3,6 +3,10 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-03-28
+||pokeren.nl/assets/*banner
+! 2023-03-16
+||dailypic.nl/banners/$domain=voetensex.com
 ! 2023-02-18
 ||srv69.eu/smartlink/banner/$3p
 ||srv69.eu/b/$image,3p
@@ -15,8 +19,6 @@
 ||wieringernieuws.nl/gfx/ads/$domain=hollandskroonnieuws.nl|wieringernieuws.nl
 ||viralize.tv/display/$domain=startpagina.nl
 /^https?:\/\/(?:www\.)?webcams?\-?[a-z]+\.nl\/media\/banners2?\//$1p,image
-! 2023-01-12
-*$image,redirect-rule=2x2.png,domain=tweakers.net
 ! 2022-12-09
 ||dewestkrant.nl/wp-content/uploads/*/*Banner
 ||amsterdamsdagblad.nl/banner/
