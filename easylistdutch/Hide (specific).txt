@@ -42,6 +42,8 @@ wielerflits.be,wielerflits.nl##.mm_container
 wielerflits.be,wielerflits.nl##.row [class^="widget"]:has(.mm_container)
 wielerflits.be,wielerflits.nl##div[id*="mm_leaderboard"]
 wielerflits.nl##.widget:has(.wf_headline:has-text(/Wielerdeals/i))
+zozwanger.nl##.a-single
+zozwanger.nl##.gofollow
 ! 2022
 1001erotiekverhalen.nl##[href^="https://t.adating.link/"]:upward(2)
 1001erotiekverhalen.nl##aside[id^="block"]:has([src*="tools-affil2.com/rtb/index.php"])
