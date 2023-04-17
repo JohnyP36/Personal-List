@@ -1,11 +1,12 @@
 [uBlock Origin]
-! Last modified: Wed, 22 Mar 2023 10:51:05 +0000
+! Last modified: Mon, 17 Apr 2023 10:24:12 +0000
 ! 2023
 @@||awemwh.com/$image,domain=camsexbabe.nl
 @@||potwm.com/tube-player/?$frame,domain=camsexbabe.nl
 @@||potwm.com/api/video-promotion/v1/get-$xhr,domain=camsexbabe.nl|potwm.com
 @@||prtawe.com/embed/tbplyr/*$script,domain=camsexbabe.nl
 @@||cdn.bluebillywig.com/scripts/prebid/$script,domain=geenstijl.nl
+@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=goplay.be
 ! 2022 
 !@@||adserver.hollandcasino.nl^$popup,domain=onlinecasinoground.nl
 @@||2mdn.net/instream/html5/ima3.js$script,domain=omroepbrabant.nl
