@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Tue, 18 Apr 2023 14:03:58 +0000
+! Last modified: Tue, 18 Apr 2023 14:05:01 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -11,8 +11,8 @@ androidplanet.nl,iphoned.nl##header[data-name="featured-header"]
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[id^="div-gpt-ad"]:upward(.component__plugin)
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center[advobject]:upward(2)
 blikopzeewolde.nl##.fusion-flex-container.fullwidth-box.fusion-fullwidth:has(:not(a[href^="https://www.blikopzeewolde.nl/"]) > .fusion-column-inner-bg-image)
-dagblad010.nl##.advrow
-dagblad010.nl##.ddbad_wrapper
+dagblad010.nl,voorburgsdagblad.nl##.advrow
+dagblad010.nl,voorburgsdagblad.nl##.ddbad_wrapper
 eindexamens.nu,gezondheid.be###leaderboard
 focusclub.nl##.funbox
 gezondheid.be###leaderboard_floor
@@ -1047,7 +1047,6 @@ voetbaluitslagen.com##.cta
 voetbalvandaag.be##.adds
 voetbalvandaag.be##.panel-box:has(a[href^="http://unibet.me/"])
 voetbal-vandaag.nl###sidebar_aanbevelen
-voorburgsdagblad.nl##.advrow
 vrouwen-sexdate.be##.moduletable:has-text(Advert)
 waarzo.nl##.contentbox:has-text(Advertentie)
 waarzo.nl##.smallbox:has-text(Advertentie)
