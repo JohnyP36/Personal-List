@@ -11,8 +11,8 @@ androidplanet.nl,iphoned.nl##header[data-name="featured-header"]
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[id^="div-gpt-ad"]:upward(.component__plugin)
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center[advobject]:upward(2)
 blikopzeewolde.nl##.fusion-flex-container.fullwidth-box.fusion-fullwidth:has(:not(a[href^="https://www.blikopzeewolde.nl/"]) > .fusion-column-inner-bg-image)
-dagblad010.nl##.advrow
-dagblad010.nl##.ddbad_wrapper
+dagblad010.nl,voorburgsdagblad.nl##.advrow
+dagblad010.nl,voorburgsdagblad.nl##.ddbad_wrapper
 eindexamens.nu,gezondheid.be###leaderboard
 focusclub.nl##.funbox
 gezondheid.be###leaderboard_floor
@@ -1047,7 +1047,6 @@ voetbaluitslagen.com##.cta
 voetbalvandaag.be##.adds
 voetbalvandaag.be##.panel-box:has(a[href^="http://unibet.me/"])
 voetbal-vandaag.nl###sidebar_aanbevelen
-voorburgsdagblad.nl##.advrow
 vrouwen-sexdate.be##.moduletable:has-text(Advert)
 waarzo.nl##.contentbox:has-text(Advertentie)
 waarzo.nl##.smallbox:has-text(Advertentie)
