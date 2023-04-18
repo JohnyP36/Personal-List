@@ -15,6 +15,7 @@ albrandswaardsdagblad.nl,barendrechtsdagblad.nl,capelsdagblad.nl,dagblad010.nl,d
 albrandswaardsdagblad.nl,barendrechtsdagblad.nl,dagblad010.nl,dagblad070.nl,goudsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,voorburgsdagblad.nl,zoetermeersdagblad.nl##.ddbad_wrapper
 eindexamens.nu,gezondheid.be###leaderboard
 focusclub.nl##.funbox
+freeones.nl##.banner-placeholder
 gezondheid.be###leaderboard_floor
 girlscene.nl##[id$="leaderboard-article"]
 girlscene.nl##[id$="top-ad-desktop"]
