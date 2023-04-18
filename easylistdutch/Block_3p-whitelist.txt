@@ -1,6 +1,7 @@
 [uBlock Origin]
-! Last modified: Mon, 17 Apr 2023 10:24:12 +0000
+! Last modified: Tue, 18 Apr 2023 14:28:09 +0000
 ! 2023
+@@||assets.freeones.com/static-assets/istripper/istripper.js$script,domain=freeones.nl
 @@||awemwh.com/$image,domain=camsexbabe.nl
 @@||potwm.com/tube-player/?$frame,domain=camsexbabe.nl
 @@||potwm.com/api/video-promotion/v1/get-$xhr,domain=camsexbabe.nl|potwm.com
