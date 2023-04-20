@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Tue, 18 Apr 2023 14:28:09 +0000
+! Last modified: Thu, 20 Apr 2023 16:03:13 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -180,8 +180,6 @@ erotischemassages.com,poldertube.nl##.happy-footer
 eurogamer.nl##.desktop_mpu
 europa-bouwmachines.nl,europa-heftruck.nl,europa-landbouwmachines.nl,europa-vrachtwagens.nl##.pt-3.height-90:has([id^="div-gpt-ad"])
 !ewmagazine.nl##.widgets > .la-items:has(a[href$="/partners"])
-executive-people.nl##a.bannner
-executive-people.nl##li.banner:has([href*="bannerclick"])
 farmaline.be##.c-scroll-list:has(img[src*="farmaline.be/assets/banners/"])
 fcgroningen.nl##.sidebar__item--banner
 fcupdate.nl##.bet365
