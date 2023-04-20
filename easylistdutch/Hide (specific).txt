@@ -13,6 +13,7 @@ barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.t
 blikopzeewolde.nl##.fusion-flex-container.fullwidth-box.fusion-fullwidth:has(:not(a[href^="https://www.blikopzeewolde.nl/"]) > .fusion-column-inner-bg-image)
 albrandswaardsdagblad.nl,barendrechtsdagblad.nl,capelsdagblad.nl,dagblad010.nl,dagblad070.nl,goudsdagblad.nl,nissewaardsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,voorburgsdagblad.nl,zoetermeersdagblad.nl##.advrow
 albrandswaardsdagblad.nl,barendrechtsdagblad.nl,dagblad010.nl,dagblad070.nl,goudsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,voorburgsdagblad.nl,zoetermeersdagblad.nl##.ddbad_wrapper
+dutchitleaders.nl##a[target]:not(a[href*="dutchitleaders.nl"]):not(a[href*="linkedin.com"]):has(img[src*=".assets-servd.host/"])
 eindexamens.nu,gezondheid.be###leaderboard
 focusclub.nl##.funbox
 freeones.nl##.banner-placeholder
