@@ -180,8 +180,6 @@ erotischemassages.com,poldertube.nl##.happy-footer
 eurogamer.nl##.desktop_mpu
 europa-bouwmachines.nl,europa-heftruck.nl,europa-landbouwmachines.nl,europa-vrachtwagens.nl##.pt-3.height-90:has([id^="div-gpt-ad"])
 !ewmagazine.nl##.widgets > .la-items:has(a[href$="/partners"])
-executive-people.nl##a.bannner
-executive-people.nl##li.banner:has([href*="bannerclick"])
 farmaline.be##.c-scroll-list:has(img[src*="farmaline.be/assets/banners/"])
 fcgroningen.nl##.sidebar__item--banner
 fcupdate.nl##.bet365
