@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Mon, 24 Apr 2023 06:20:37 +0000
+! Last modified: Mon, 24 Apr 2023 08:26:59 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -110,7 +110,7 @@ autoweek.nl##.tile-category:has-text(/advert/i):upward(.aw-tile)
 autozine.nl##.ad300x1050
 basketballbelgium.be##.sidebar-inner aside:has(.carousel.slide)
 basketballbelgium.be###sidebar-top-content > .widget-area:has(img[width="970"][height="250"])
-bdsmleven.nl,dsdating.nl##[class*="random_banner"]
+bdsmleven.nl##[class*="random_banner"]
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-wrapper
 belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
 belegger.nl,beursgorilla.nl##article[class*="plus"]:contains(plus500)
@@ -168,7 +168,6 @@ dolcevia.com##.affiliatelink
 dolcevia.com##.bookingaff:upward(.card)
 drentsnieuws.nl##.shadow:has(#bannerCarousel)
 drimble.nl##.ASTAGQ_Billboard
-dsdating.nl##[href^="https://mt67.net/"]:upward(.elementor-section)
 dutchcryptotalk.com##.hootslider-image-wrapper
 dutchcryptotalk.com##[id^="media_image"]:has([href*="/bitvavo"])
 dutchcryptotalk.com##div[id^="dutch-"]:has(a[href^="https://bitvavo.com/"])
