@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Sat, 22 Apr 2023 06:48:36 +0000
+! Last modified: Mon, 24 Apr 2023 06:01:47 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -46,6 +46,7 @@ nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 notebookcheck.nl###nbc_skys
 pokeren.nl##.sidebaritem:has-text(/partners|online casino/i)
 pokeren.nl###onetime-popup
+retaildetail.be,retaildetail.nl##.ad-web .bsaProItem:has([style*="Banner"])
 serietotaal.nl##[class^="banner"]
 serietotaal.nl###adf-autonative
 tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
@@ -74,7 +75,7 @@ accountancyvanmorgen.nl,pensioenvanmorgen.nl,salarisvanmorgen.nl##aside > sectio
 accountancyvanmorgen.nl,fiscaalvanmorgen.nl,salarisvanmorgen.nl##div[class*="slideshow-wrapper"]:has-text(/vriend|partners|hoofdsponsor/i)
 actueel-nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
 ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,tubantia.nl,pzc.nl##.article__component--temptation
-afkortingen.nu,allradio.nl,amsterdamsdagblad.nl,broadcastmagazine.nl,creditexpo.nl,erotracks.nl,filmladder.nl,gezondheidsnet.nl,klasse.be,nieuweoogst.nl,nieuws.nl,nrc.nl,nu.nl,retaildetail.be,retaildetail.nl,sexfotodating.nl,startbewijs.nl,startkabel.nl,startpagina.nl,televizier.nl,telezien.nl,totaaltv.nl,truck1.be,truck1-nl.be,truck1.nl,tvgemist.be,tvgids.nl,unity.nu,uw-folder.nl,voetbalnieuws.be,waldnet.nl##.banner
+afkortingen.nu,allradio.nl,amsterdamsdagblad.nl,broadcastmagazine.nl,creditexpo.nl,erotracks.nl,filmladder.nl,gezondheidsnet.nl,klasse.be,nieuweoogst.nl,nieuws.nl,nrc.nl,nu.nl,sexfotodating.nl,startbewijs.nl,startkabel.nl,startpagina.nl,televizier.nl,telezien.nl,totaaltv.nl,truck1.be,truck1-nl.be,truck1.nl,tvgemist.be,tvgids.nl,unity.nu,uw-folder.nl,voetbalnieuws.be,waldnet.nl##.banner
 agriline.be,agriline.nl,autoline.be,autoline.nl,machineryline.be,machineryline.nl##.sales-cat-context
 ajaxreport.nl,psvreport.nl##[id^="text"][class$="sidebar-widget"]:has-text(/casino/i):not(:has(div[class="widget-title"]))
 ajaxreport.nl,feyenoordreport.nl,livolleyvlaanvestreamvandaag.be,onlinekraslotenrss.nl,onlinepokerrss.nl,psvreport.nl,sportweddenrss.nl,voetbalsnafu.nl##.widget_links
