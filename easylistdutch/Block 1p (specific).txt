@@ -8,7 +8,6 @@
 ||pokeren.nl/assets/*banner
 ! 2022
 /^https\:\/\/dutchitchannel\.nl\/media\/\d{6}\/\d{10}\.jpg$/$image
-/^https\:\/\/executive-people\.nl\/media\/\d{6}\/\d+\.jpg$/$image
 /*/TOTO*banner$domain=fcgroningen.nl|willem-ii.nl
 /banners/*$domain=2link.be|402automotive.com|autosport.nl|beveiligingnieuws.nl|brandweerspotters.nl|elektormagazine.nl|greenkeeper.nl|iex.nl|islive.nl|kavelplatform.nl|maarkelsnieuws.nl|metalfan.nl|mo.be|motocrossplanet.nl|netonline.be|nieuwsuitnijmegen.nl|radio.nl|tradeidee.nl|truck1.be|truck1.nl|truck1-nl.be|zilverengoudkopen.nl|rtvmaastricht.nl|sexamateurtjes.nl
 /cache/partners/$domain=coastline945fm.nl|coastlinefm.nl
