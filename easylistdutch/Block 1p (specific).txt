@@ -10,6 +10,9 @@
 ||pokeren.nl/assets/*banner
 ||transport-online.nl/site/includes/uploads/banner-
 ||services.adodenhaag.nl/fpbanner
+||xmissy.nl/skins/_customplayers/*/*footer$image
+||xmissy.nl/skins/_customplayers/*/*overlay$image
+||xmissy.nl/skins/_customplayers/*/*top$image
 !||zwaremetalen.com/wp-content/uploads/*/*-skyscraper-
 ||zwartewaterfm.nl/wp-content/uploads/*/SponsorenZwarteWaterFM
 ! 2022
@@ -290,7 +293,6 @@
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*/RO*?zoom=*&w=665
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*.gif*w=665$image
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*.jpg?w=665$image
-||xmissy.nl/skins/_customplayers/*/footer.jpg$image,first-party
 ! 2021
 ||apintie.sr/bannerz/*300x200.*$image
 ||audiobookbay.nl/images/bin.jpg$image,important
