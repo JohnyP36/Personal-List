@@ -11,6 +11,13 @@
 ||pokeren.nl/assets/*banner
 ||transport-online.nl/site/includes/uploads/banner-
 ||services.adodenhaag.nl/fpbanner
+||ucl-voetbal.nl/derden/
+||uecl-voetbal.nl/derden/
+||uel-voetbal.nl/derden/
+||unitednews.sr/wp-content/plugins/revslider/public/assets/assets/*
+||unity.nu/media/*/BANNERS/
+||vbro.be/wp-content/uploads/*/autoonderdelen24_
+||verkeerplaza.nl/js/banner.js
 ||vlietnieuws.nl/wp-content/plugins/custom-banners/*$script,first-party
 ||vlootschouw.nl/wp-content/uploads/*/bottom-banner*
 ||voetbalrotterdam.nl/wp-content/uploads/*/fidus$image
@@ -274,13 +281,6 @@
 ||tpo.nl/wp-content/themes/*/tpo-banner$image
 ||turksemedia.nl/logos/*.
 ||twentefm.nl/directcast/custom/rtvnot/playout/commercials/
-||ucl-voetbal.nl/derden/betcity-$image
-||uecl-voetbal.nl/derden/
-||uel-voetbal.nl/derden/
-||unitednews.sr/wp-content/plugins/revslider/public/assets/assets/*
-||unity.nu/media/*/BANNERS/
-||vbro.be/wp-content/uploads/*/autoonderdelen24_
-||verkeerplaza.nl/js/banner.js
 ||voetbalnieuws.be/*/images/website-takeover/*$image,first-party
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
