@@ -290,9 +290,6 @@
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
 ||wildfm.nl/wp-content/uploads/*/thumbnail_image002.png
 ||wp.com/gostreaming.nl/wp-content/uploads/*/*SOCIAL*_SNAP$image
-||wp.com/romagazine.nl/*/wp-content/uploads/*/*/RO*?zoom=*&w=665
-||wp.com/romagazine.nl/*/wp-content/uploads/*/*.gif*w=665$image
-||wp.com/romagazine.nl/*/wp-content/uploads/*/*.jpg?w=665$image
 ! 2021
 ||apintie.sr/bannerz/*300x200.*$image
 ||audiobookbay.nl/images/bin.jpg$image,important
