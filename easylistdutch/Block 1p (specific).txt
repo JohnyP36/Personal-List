@@ -281,7 +281,6 @@
 ||unity.nu/media/*/BANNERS/
 ||vbro.be/wp-content/uploads/*/autoonderdelen24_
 ||verkeerplaza.nl/js/banner.js
-||video18.nl/img/banners/$image
 ||voetbalnieuws.be/*/images/website-takeover/*$image,first-party
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
