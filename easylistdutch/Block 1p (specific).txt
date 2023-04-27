@@ -10,6 +10,7 @@
 ||pokeren.nl/assets/*banner
 ||transport-online.nl/site/includes/uploads/banner-
 ||services.adodenhaag.nl/fpbanner
+!||zwaremetalen.com/wp-content/uploads/*/*-skyscraper-
 ||zwartewaterfm.nl/wp-content/uploads/*/SponsorenZwarteWaterFM
 ! 2022
 /^https\:\/\/dutchitchannel\.nl\/media\/\d{6}\/\d{10}\.jpg$/$image
@@ -291,7 +292,6 @@
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*.jpg?w=665$image
 ||xmissy.nl/skins/_customplayers/*/footer.jpg$image,first-party
 ||zoekhulp.nl/img/bnr-
-||zwaremetalen.com/wp-content/uploads/*/*-skyscraper-
 ! 2021
 ||apintie.sr/bannerz/*300x200.*$image
 ||audiobookbay.nl/images/bin.jpg$image,important
