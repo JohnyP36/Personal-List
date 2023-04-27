@@ -310,5 +310,4 @@
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
 ||transport-online.nl/site/includes/uploads/banner-
-||vitesse.nl/generate/stores/Vitesse.nl/*/VriendenLoterij-banner-website.jpg$image
 ||wp.com/amsterdamactueel.nl/wp-content/uploads/*/728x60_
