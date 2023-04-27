@@ -1,11 +1,10 @@
 [uBlock Origin]
-! Last modified: Thu, 27 Apr 2023 11:54:22 +0000
+! Last modified: Thu, 27 Apr 2023 18:48:15 +0000
 ||a2.tijd.be^
 ||aa.hwigroup.com^
 ||ab.hwigroup.com^
 ||aa.tweakers.nl^
 ||ab.tweakers.nl^
-||adverteren.rd.nl^
 ||advertising-module.api.dpgmedia.cloud^
 ||content1.pu.nl^
 ||content1.wasmachines.nl^
