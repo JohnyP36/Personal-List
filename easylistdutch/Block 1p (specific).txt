@@ -284,7 +284,6 @@
 ||voetbalnieuws.be/*/images/website-takeover/*$image,first-party
 ||voetbalrotterdam.nl/wp-content/uploads/*/fidus$image
 ||voetbaluitslagen.com/wp-content/uploads/*/bet*$image
-||vrouwpedia.nl/wp-content/uploads/*/Maxaro-badkamers-tegels.png
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
 ! 2021
