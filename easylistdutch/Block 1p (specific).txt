@@ -293,7 +293,6 @@
 ! 2021
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
 ||a.scholieren.com/v/*$image,first-party
-||a1mediagroep.nl/content/*/company/*/banne*.*?width=290&height=150
 ||apintie.sr/bannerz/*300x200.*$image
 ||audiobookbay.nl/images/bin.jpg$image,important
 ||audiobookbay.nl/images/fr.jpg$image,important
