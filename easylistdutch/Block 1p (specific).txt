@@ -11,6 +11,8 @@
 ||pokeren.nl/assets/*banner
 ||transport-online.nl/site/includes/uploads/banner-
 ||services.adodenhaag.nl/fpbanner
+||vlietnieuws.nl/wp-content/plugins/custom-banners/*$script,first-party
+||vlootschouw.nl/wp-content/uploads/*/bottom-banner*
 ||voetbalrotterdam.nl/wp-content/uploads/*/fidus$image
 ||voetbaluitslagen.com/wp-content/uploads/*/bet*$image
 ||waarzo.nl/imagestore/banners/
@@ -281,8 +283,6 @@
 ||verkeerplaza.nl/js/banner.js
 ||video18.nl/img/banners/$image
 ||vives.nl/wp-content/uploads/Banner_
-||vlietnieuws.nl/wp-content/plugins/custom-banners/*$script,first-party
-||vlootschouw.nl/wp-content/uploads/*/bottom-banner*
 ||voetbalnieuws.be/*/images/website-takeover/*$image,first-party
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
