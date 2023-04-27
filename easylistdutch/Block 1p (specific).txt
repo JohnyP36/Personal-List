@@ -9,8 +9,10 @@
 ||a.scholieren.com/v/*$image
 ||escort46.nl/bg_images/*.gif
 ||pokeren.nl/assets/*banner
-||transport-online.nl/site/includes/uploads/banner-
 ||services.adodenhaag.nl/fpbanner
+||transport-online.nl/site/includes/uploads/banner-
+||turksemedia.nl/logos/*.
+||twentefm.nl/directcast/custom/rtvnot/playout/commercials/
 ||ucl-voetbal.nl/derden/
 ||uecl-voetbal.nl/derden/
 ||uel-voetbal.nl/derden/
@@ -279,8 +281,6 @@
 ||tennisvlaanderen.be/documents/*/*banner/
 ||touretappe.nl/images/xtra/
 ||tpo.nl/wp-content/themes/*/tpo-banner$image
-||turksemedia.nl/logos/*.
-||twentefm.nl/directcast/custom/rtvnot/playout/commercials/
 ||voetbalnieuws.be/*/images/website-takeover/*$image,first-party
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
