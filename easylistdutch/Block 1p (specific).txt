@@ -10,6 +10,10 @@
 ||escort46.nl/bg_images/*.gif
 ||pokeren.nl/assets/*banner
 ||services.adodenhaag.nl/fpbanner
+||teen-sex.nl/wp-content/uploads/*/900x250$image
+||teen-sex.nl/wp-content/uploads/*/SP1600x150.jpg$image
+||te-les-koop.nl/images/B_
+||touretappe.nl/images/xtra/
 ||transport-online.nl/site/includes/uploads/banner-
 ||turksemedia.nl/logos/*.
 ||twentefm.nl/directcast/custom/rtvnot/playout/commercials/
@@ -275,11 +279,7 @@
 ||statics.*.nl/js/advertising-$script,domain=ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
  ! 22-07-2021 https://github.com/BPower0036/AdBlockFilters/commit/c11105cced861d9edbf33e87aae4ceb7967c765d#diff-fc048d7e10fe1949b116223817a5fe2092d99d04ba533eb3c09e8b79c8723bef
  !/^https?:\/\/statics\.(?:ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
-||teen-sex.nl/wp-content/uploads/*/900x250$image
-||teen-sex.nl/wp-content/uploads/*/SP1600x150.jpg$image
-||te-les-koop.nl/images/B_
 ||tennisvlaanderen.be/documents/*/*banner/
-||touretappe.nl/images/xtra/
 ||tpo.nl/wp-content/themes/*/tpo-banner$image
 ||voetbalnieuws.be/*/images/website-takeover/*$image,first-party
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
