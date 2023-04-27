@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Wed, 22 Mar 2023 10:52:52 +0000
+! Last modified: Thu, 27 Apr 2023 13:12:36 +0000
 ! Uitzonderingen voor EasyList
 ajaxreport.nl,ajaxrss.nl,blockchainvandaag.com,casinoreport.nl,cryptobelegging.com,feyenoordreport.nl,formula1report.com,gamblingreport.nl,livestreamvandaag.be,onlinecasinorss.nl,onlinekraslotenrss.nl,onlinepokerrss.nl,psvreport.nl,sportweddenrss.nl,vergelijkbookmakers.nl,voetbalsnafu.nl,voetbalvisie.com,voetbalweddenrss.nl#@#.top-ads-block
 bokt.nl#@#.ad-body
@@ -8,6 +8,7 @@ bokt.nl#@#.node-ad
 dagelijksestandaard.nl#@#.wpInsertInPostAd
 directwonen.nl#@#.top-advert
 frontpage.fok.nl#@#.advertentie
+gratis.nl#@#a[href^="https://ndt5.net/"]
 gratisaftehalen.nl#@#.ads-image
 japan-webike.*#@#.img_ad
 lesoir.be#@##ultimedia_wrapper
