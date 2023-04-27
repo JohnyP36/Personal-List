@@ -126,7 +126,7 @@ belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
 belegger.nl,beursgorilla.nl##article[class*="plus"]:contains(plus500)
 belegger.nl##.Textads:upward(.ContentRightBlock)
 beleggersbelangen.nl##.promo
-belgiancycling.be,nieuwsfiets.nu,zoekhulp.nl###banner
+belgiancycling.be,nieuwsfiets.nu###banner
 belgischecasinos.be,newspower.nu##.gofollow
 besteproduct.nl##[id^="ad-block"]
 beursgorilla.nl##.js--billboard.ut--billboard
