@@ -300,7 +300,6 @@
 ||debestevpn.nl/wp-content/*-banner.
 ||dewereldmorgen.be/wp-content/banners/*
 ||ekvrouwen.nl/*/uploads/*/bookmaker-cta-$image
-||gratis.nl/wp-content/uploads/*/*/*-gratis.png$image
 ||regioonline.nl/wp-content/uploads/*/*-Ads.*
 ||rtvdordrecht.nl/cwm/fm/userfiles/banner/*
 ||rtvlansingerland.nl/wp-content/uploads/*/Zorgvilla.gif
