@@ -7,6 +7,7 @@
 ||escort46.nl/bg_images/*.gif
 ||pokeren.nl/assets/*banner
 ||transport-online.nl/site/includes/uploads/banner-
+||services.adodenhaag.nl/fpbanner
 ! 2022
 /^https\:\/\/dutchitchannel\.nl\/media\/\d{6}\/\d{10}\.jpg$/$image
 /*/TOTO*banner$domain=fcgroningen.nl|willem-ii.nl
@@ -306,7 +307,6 @@
 ||regioonline.nl/wp-content/uploads/*/*-Ads.*
 ||rtvdordrecht.nl/cwm/fm/userfiles/banner/*
 ||rtvlansingerland.nl/wp-content/uploads/*/Zorgvilla.gif
-||services.adodenhaag.nl/fpbanner
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
