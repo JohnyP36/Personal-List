@@ -285,8 +285,6 @@
 ||waarzo.nl/imagestore/banners/
 ||waarzo.nl/imagestore/site-banners/
 ||wanttoknow.nl^*Banner
-||webcamsexplaza.com/bannerwsp.$image
-||webcamsexplaza.com/images/shemaledating.gif
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
 ! 2021
