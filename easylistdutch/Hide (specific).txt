@@ -17,6 +17,7 @@ androidplanet.nl,iphoned.nl##header[data-name="featured-header"]
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[id^="div-gpt-ad"]:upward(.component__plugin)
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center[advobject]:upward(2)
 blikopzeewolde.nl##.fusion-flex-container.fullwidth-box.fusion-fullwidth:has(:not(a[href^="https://www.blikopzeewolde.nl/"]) > .fusion-column-inner-bg-image)
+bruzz.be,omroepflevoland.nl,pu.nl,sportuitslagen.org,trendalert.nl##.ad-container
 dutchitleaders.nl##a[target]:not(a[href*="dutchitleaders.nl"]):not(a[href*="linkedin.com"]):has(img[src*=".assets-servd.host/"])
 ecommercenews.nl##.ldrtop
 ecommercenews.nl##.sidebar > .widget-image-content-button:not(:has(a[href*="ecommercenews.nl"]))
@@ -651,7 +652,6 @@ bol-an.nl##section[id*="media_image"]:has-text(/sponsors/i)
 bollywood.nl##a[href^="https://www.onderdelenshop24.com/"]
 bollenstreekomroep.nl,omroepspakenburg.nl##.wpb_wrapper[data-td-block-uid^="tdi_"]:has(.owl-item)
 brandweerspotters.nl###banners:has-text(Sponsors)
-bruzz.be,omroepflevoland.nl,sportuitslagen.org,trendalert.nl##.ad-container
 buzzbie.nl##.TS_Banner_Spot
 cabla.nl##.ontwerp_ads
 camping-frankrijk.nl##div[class^="content-home"]:has([id*="HyperLinkBanner"])
