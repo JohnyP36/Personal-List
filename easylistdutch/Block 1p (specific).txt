@@ -291,7 +291,6 @@
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*.gif*w=665$image
 ||wp.com/romagazine.nl/*/wp-content/uploads/*/*.jpg?w=665$image
 ||xmissy.nl/skins/_customplayers/*/footer.jpg$image,first-party
-||zoekhulp.nl/img/bnr-
 ! 2021
 ||apintie.sr/bannerz/*300x200.*$image
 ||audiobookbay.nl/images/bin.jpg$image,important
