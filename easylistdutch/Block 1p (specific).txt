@@ -311,5 +311,4 @@
 ||tijd.be/ad/
 ||transport-online.nl/site/includes/uploads/banner-
 ||vitesse.nl/generate/stores/Vitesse.nl/*/VriendenLoterij-banner-website.jpg$image
-||voetbalnederland.nl/img/bravo.gif
 ||wp.com/amsterdamactueel.nl/wp-content/uploads/*/728x60_
