@@ -6,6 +6,7 @@
 /wp-content/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|bdsmleven.nl|biflatie.nl|blikopzeewolde.nl|cryptobenelux.com|dagbladdewest.com|decibel.nl|dekrantvantynaarlo.nl|deoudrotterdammer.nl|destreekkrant.nu|dekrantnieuws.nl|dewestkrant.nl|dordtcentraal.nl|duurzaam-actueel.nl|genemuidenactueel.nl|goedkoopstekeukensduitsland.nl|hoekschnieuws.nl|katholiek.nl|linuxmag.nl|maaslandradio.nl|mannennieuws.nl|nljug.org|noordkopcentraal.nl|omroepalmere.nl|oogtv.nl|pen.nl|radiocontinu.nl|radiovisie.eu|railhobby.nl|regionoordkop.nl|retaildetail.be|retaildetail.nl|sleutelstad.nl|thekinkyweb.nl|voetbalrotterdam.nl|wegdamnieuws.nl
 ||escort46.nl/bg_images/*.gif
 ||pokeren.nl/assets/*banner
+||transport-online.nl/site/includes/uploads/banner-
 ! 2022
 /^https\:\/\/dutchitchannel\.nl\/media\/\d{6}\/\d{10}\.jpg$/$image
 /*/TOTO*banner$domain=fcgroningen.nl|willem-ii.nl
@@ -309,5 +310,4 @@
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
-||transport-online.nl/site/includes/uploads/banner-
 ||wp.com/amsterdamactueel.nl/wp-content/uploads/*/728x60_
