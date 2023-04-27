@@ -13,7 +13,6 @@
 ||content2.besteproduct.nl^
 ||content2.kieskeurig.nl^
 ||content2.nrc.nl^
-||content2.pu.nl^
 ||content2.wasmachines.nl^
 ||content2.zoom.nl^
 ||mooieplaatjes.bierdopje.com^
