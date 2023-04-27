@@ -11,6 +11,8 @@
 ||pokeren.nl/assets/*banner
 ||transport-online.nl/site/includes/uploads/banner-
 ||services.adodenhaag.nl/fpbanner
+||wettelijke-feestdagen.nl/Images/advertentie$image
+||wettelijke-feestdagen.nl/Images/banner$image
 ||xmissy.nl/skins/_customplayers/*/*footer$image
 ||xmissy.nl/skins/_customplayers/*/*overlay$image
 ||xmissy.nl/skins/_customplayers/*/*top$image
@@ -285,8 +287,6 @@
 ||webcamsexplaza.com/bannerwsp.$image
 ||webcamsexplaza.com/images/shemaledating.gif
 ||wereldstopcontacten.nl/wp-content/uploads/*/image-aff-*.jpg
-||wettelijke-feestdagen.nl/Images/advertentie$image
-||wettelijke-feestdagen.nl/Images/banner$image
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
 ! 2021
