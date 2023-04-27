@@ -66,7 +66,7 @@ serietotaal.nl###adf-autonative
 tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
 tweakers.net##.widebnr
 tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
-voetbalrotterdam.nl##.lshowcase-flex:has(img)
+voetbalrotterdam.nl##.lshowcase-logos:has(img)
 weer.nl##div[class*="block"]:has(a[href*="www.voordeeluitjes.nl"])
 wielerflits.be,wielerflits.nl###mm_hpa
 wielerflits.be,wielerflits.nl##.affiliate_links
