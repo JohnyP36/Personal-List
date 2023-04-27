@@ -11,6 +11,9 @@
 ||pokeren.nl/assets/*banner
 ||transport-online.nl/site/includes/uploads/banner-
 ||services.adodenhaag.nl/fpbanner
+||waarzo.nl/imagestore/banners/
+||waarzo.nl/imagestore/site-banners/
+||wanttoknow.nl^*Banner
 ||wereldstopcontacten.nl/wp-content/uploads/*/image-aff-*.jpg
 ||wettelijke-feestdagen.nl/Images/advertentie$image
 ||wettelijke-feestdagen.nl/Images/banner$image
@@ -282,9 +285,6 @@
 ||voetbalrotterdam.nl/wp-content/uploads/*/fidus$image
 ||voetbaluitslagen.com/wp-content/uploads/*/bet*$image
 ||vrouwpedia.nl/wp-content/uploads/*/Maxaro-badkamers-tegels.png
-||waarzo.nl/imagestore/banners/
-||waarzo.nl/imagestore/site-banners/
-||wanttoknow.nl^*Banner
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
 ! 2021
