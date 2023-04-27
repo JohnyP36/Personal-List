@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Thu, 27 Apr 2023 16:44:49 +0000
+! Last modified: Thu, 27 Apr 2023 18:12:48 +0000
 ! 2023
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
 /banner/*$domain=alkmaarsdagblad.nl|almelosdagblad.nl|almeredagblad.nl|amstelveensdagblad.nl|amsterdamsdagblad.nl|arnhemmerdagblad.nl|assensdagblad.nl|bergensdagblad.nl|beverwijkerdagblad.nl|bloemendaalsdagblad.nl|bosschedagblad.nl|bredasdagblad.nl|castricumsdagblad.nl|dagbladdijkenwaard.nl|dagbladeindhoven.nl|dagbladgroningen.nl|dagbladutrecht.nl|denheldersdagblad.nl|deventersdagblad.nl|doetinchemsdagblad.nl|dokkumerdagblad.nl|dordrechtsdagblad.nl|drechterlandsdagblad.nl|drontensdagblad.nl|emmensdagblad.nl|enkhuizerdagblad.nl|enschedesdagblad.nl|gooischdagblad.nl|haagsdagblad.nl|haarlemmerdagblad.nl|haarlemmermeerdagblad.nl|harlingerdagblad.nl|heemskerkerdagblad.nl|heerenveensdagblad.nl|heerhugowaardsdagblad.nl|heerlensdagblad.nl|heilooerdagblad.nl|helmondsdagblad.nl|hilversumsdagblad.nl|hollandskroondagblad.nl|hoornsdagblad.nl|ijmuidensdagblad.nl|jouresdagblad.nl|katwijksdagblad.nl|kennemerdagblad.nl|koggenlandsdagblad.nl|langedijkerdagblad.nl|leeuwarderdagblad.nl|lelystadsdagblad.nl|lemsterdagblad.nl|maastrichterdagblad.nl|medembliksdagblad.nl|middelburgsdagblad.nl|nieuwsuitwestfriesland.nl|nijmeegsedagblad.nl|noordlimburgsdagblad.nl|noordoostpoldersdagblad.nl|noordwijkerdagblad.nl|nunspeetsdagblad.nl|opmeerderdagblad.nl|purmerendsdagblad.nl|rodensdagblad.nl|roermondsdagblad.nl|rotterdammerdagblad.nl|sassenheimsdagblad.nl|schagerdagblad.nl|schermerdagblad.nl|sittardsdagblad.nl|sneekerdagblad.nl|stedebroecsdagblad.nl|texelsdagblad.nl|tielsdagblad.nl|tilburgsdagblad.nl|uitgeesterdagblad.nl|volendamsdagblad.nl|wassenaarsdagblad.nl|waterlandsdagblad.nl|westlandsdagblad.nl|wieringerdagblad.nl|wormersdagblad.nl|zaandamsdagblad.nl|zandvoortsdagblad.nl|zeewoldesdagblad.nl|zwolledagblad.nl|motocrossplanet.nl
@@ -10,6 +10,10 @@
 ||escort46.nl/bg_images/*.gif
 ||pokeren.nl/assets/*banner
 ||services.adodenhaag.nl/fpbanner
+||teen-sex.nl/wp-content/uploads/*/900x250$image
+||teen-sex.nl/wp-content/uploads/*/SP1600x150.jpg$image
+||te-les-koop.nl/images/B_
+||touretappe.nl/images/xtra/
 ||transport-online.nl/site/includes/uploads/banner-
 ||turksemedia.nl/logos/*.
 ||twentefm.nl/directcast/custom/rtvnot/playout/commercials/
@@ -275,11 +279,7 @@
 ||statics.*.nl/js/advertising-$script,domain=ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
  ! 22-07-2021 https://github.com/BPower0036/AdBlockFilters/commit/c11105cced861d9edbf33e87aae4ceb7967c765d#diff-fc048d7e10fe1949b116223817a5fe2092d99d04ba533eb3c09e8b79c8723bef
  !/^https?:\/\/statics\.(?:ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
-||teen-sex.nl/wp-content/uploads/*/900x250$image
-||teen-sex.nl/wp-content/uploads/*/SP1600x150.jpg$image
-||te-les-koop.nl/images/B_
 ||tennisvlaanderen.be/documents/*/*banner/
-||touretappe.nl/images/xtra/
 ||tpo.nl/wp-content/themes/*/tpo-banner$image
 ||voetbalnieuws.be/*/images/website-takeover/*$image,first-party
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
