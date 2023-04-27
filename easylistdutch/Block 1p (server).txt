@@ -5,7 +5,6 @@
 ||ab.hwigroup.com^
 ||aa.tweakers.nl^
 ||ab.tweakers.nl^
-||adverteren.rd.nl^
 ||advertising-module.api.dpgmedia.cloud^
 ||content1.pu.nl^
 ||content1.wasmachines.nl^
