@@ -13,6 +13,9 @@
 ||partyflock.nl/images/*/*_i*_$image
 ||pokeren.nl/assets/*banner
 ||services.adodenhaag.nl/fpbanner
+||srherald.com/wp-content/banners/
+||startlinken.nl/images/banner-$image,first-party
+||startlinken.nl/javascript/BannerRotation*$script,first-party
 ||teen-sex.nl/wp-content/uploads/*/900x250$image
 ||teen-sex.nl/wp-content/uploads/*/SP1600x150.jpg$image
 ||te-les-koop.nl/images/B_
@@ -271,9 +274,6 @@
 ||spike-source.com/wp-admin/admin-ajax.php?action=select&p=onder-filmpje$subdocument
 ||spike-source.com/wp-admin/admin-ajax.php?action=select&p=rechts-menu-onder$subdocument
 ||sproeiendekutjes.nl/wp-content/uploads/*/spannende-afspraakjes.webm$media,first-party
-||srherald.com/wp-content/banners/
-||startlinken.nl/images/banner-$image,first-party
-||startlinken.nl/javascript/BannerRotation*$script,first-party
 ||tennisvlaanderen.be/documents/*/*banner/
 ||tpo.nl/wp-content/themes/*/tpo-banner$image
 ||voetbalnieuws.be/*/images/website-takeover/*$image,first-party
