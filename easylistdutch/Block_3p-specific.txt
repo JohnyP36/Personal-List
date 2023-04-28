@@ -1,7 +1,7 @@
 [uBlock Origin]
-! Last modified: Fri, 28 Apr 2023 07:14:43 +0000
+! Last modified: Fri, 28 Apr 2023 07:24:52 +0000
 ! 2023
-||cdn-radio.dpgmedia.net/*/*/*banner*$image.domain=qmusic.nl
+||cdn-radio.dpgmedia.net/*/*/*banner*$image.domain=qmusic.be|qmusic.nl
 ||qmusic.medialaancdn.be/*/*/*banner*$image,domain=qmusic.nl
 ||wieringernieuws.nl/gfx/ads$domain=hollandskroonnieuws.nl|wieringernieuws.nl
 ||viralize.tv/display/$domain=startpagina.nl
