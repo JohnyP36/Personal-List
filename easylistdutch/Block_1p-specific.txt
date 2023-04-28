@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Fri, 28 Apr 2023 07:30:16 +0000
+! Last modified: Fri, 28 Apr 2023 07:32:34 +0000
 ! 2023
 /^https?:\/\/statics\.(?:7sur7|ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
   !||statics.*.*/js/advertising-$script,domain=7sur7.be|ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
@@ -52,7 +52,7 @@
 /images/banners/*$image,domain=adodenhaag.nl|bodemvondstenwereld.nl|dolcevia.com|drentsnieuws.nl|focusclub.nl|h2owaternetwerk.nl|halstadcentraal.nl|lokaleomroepzeewolde.nl|niedziela.nl|risallah.com|sexdate-xxx.be|streekstadcentraal.nl|abcsuriname.com|deperfecte-sexdate.be|neukengratis.be|neuk-sexcontact.be|puurnaturisme.nl|racingnews365.nl|sexcontact-xxx.be|visserijnieuws.nl
 /images/bdsmsexcontact$image,domain=adulttop50.nl|neukadressen.com|sexadvertentiesonline.nl|sexfotodating.nl|zinineensexdate.com
 /img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|zoekertjesbelgie.be|stout-contact.be|stout-contact.nl
-/voicebericht/assets/images/verdien-geld-met-anoniem-thuiswerk.$image,domain=1on1.nl|beeldbellen.xxx|geilegids.nl|privecam.nl|privesexlijn.nl|telefoonsex.xxx|tienersex.nl|videochat.nl|erowerk.nl
+/voicebericht/assets/images/verdien-geld-met-anoniem-thuiswerk.$image,domain=1on1.nl|beeldbellen.be|beeldbellen.xxx|geilegids.nl|privecam.nl|privesexlijn.nl|telefoonsex.xxx|tienersex.nl|videochat.nl|erowerk.nl
 /voicebericht/assets/images/videochat277x$image,domain=geilegids.nl|privecam.nl|privesexlijn.nl|telefoonsex.xxx|tienersex.nl|beeldbellen.xxx|erowerk.nl|videochat.nl
 /wp-content/*/img/banners/*$image,domain=aafm.nl|aavisie.nl
 /wp-content/*banner$image,domain=accountancyvanmorgen.nl|baarsclassicrock.nl|bol-an.nl|curacao.nu|dartfreakz.nl|loemedia.nl|luister.nl|salarisvanmorgen.nl|simone.nl|spreekbuis.nl|streamwijzer.be|tradeidee.nl|volleyvlaanderen.be|waterkant.net
