@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Fri, 28 Apr 2023 07:11:15 +0000
+! Last modified: Fri, 28 Apr 2023 07:30:16 +0000
 ! 2023
 /^https?:\/\/statics\.(?:7sur7|ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
   !||statics.*.*/js/advertising-$script,domain=7sur7.be|ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
@@ -274,10 +274,6 @@
 ||srherald.com/wp-content/banners/
 ||startlinken.nl/images/banner-$image,first-party
 ||startlinken.nl/javascript/BannerRotation*$script,first-party
-||static.sexcamsites.nl/dsx/voicebericht/assets/images/*.gif$image
-||static.sexcamsites.nl/dsx/voicebericht/assets/images/sex-bnrs$image
-||static.sexcamsites.nl/dsx/voicebericht/assets/images/sexlijnen-saldo-opwaarderen
-||static.sexcamsites.nl/dsx/voicebericht/assets/images/startpaginabnr$image
 ||tennisvlaanderen.be/documents/*/*banner/
 ||tpo.nl/wp-content/themes/*/tpo-banner$image
 ||voetbalnieuws.be/*/images/website-takeover/*$image,first-party
