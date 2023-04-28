@@ -274,10 +274,6 @@
 ||srherald.com/wp-content/banners/
 ||startlinken.nl/images/banner-$image,first-party
 ||startlinken.nl/javascript/BannerRotation*$script,first-party
-||static.sexcamsites.nl/dsx/voicebericht/assets/images/*.gif$image
-||static.sexcamsites.nl/dsx/voicebericht/assets/images/sex-bnrs$image
-||static.sexcamsites.nl/dsx/voicebericht/assets/images/sexlijnen-saldo-opwaarderen
-||static.sexcamsites.nl/dsx/voicebericht/assets/images/startpaginabnr$image
 ||tennisvlaanderen.be/documents/*/*banner/
 ||tpo.nl/wp-content/themes/*/tpo-banner$image
 ||voetbalnieuws.be/*/images/website-takeover/*$image,first-party
