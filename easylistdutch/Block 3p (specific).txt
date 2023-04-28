@@ -1,6 +1,8 @@
 [uBlock Origin]
 ! Last modified: %timestamp%
 ! 2023
+||cdn-radio.dpgmedia.net/*/*/*banner*$image.domain=qmusic.nl
+||qmusic.medialaancdn.be/*/*/*banner*$image,domain=qmusic.nl
 ||wieringernieuws.nl/gfx/ads$domain=hollandskroonnieuws.nl|wieringernieuws.nl
 ||viralize.tv/display/$domain=startpagina.nl
 ! 2022
