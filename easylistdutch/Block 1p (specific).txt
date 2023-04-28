@@ -8,6 +8,7 @@
 /wp-content/uploads/*.gif$image,domain=gostreaming.nl
 ||a.scholieren.com/v/*$image
 ||escort46.nl/bg_images/*.gif
+||partyflock.nl/images/*/*_i*_$image
 ||pokeren.nl/assets/*banner
 ||services.adodenhaag.nl/fpbanner
 ||teen-sex.nl/wp-content/uploads/*/900x250$image
