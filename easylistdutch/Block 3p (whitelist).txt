@@ -1,6 +1,12 @@
 [uBlock Origin]
 ! Last modified: %timestamp%
 ! 2023
+ ! sproeiendekutjes.nl
+@@/https\:\/\/pt\.[\w]{6}\.com\/tube-player\//$subdocument,domain=sproeiendekutjes.nl
+@@/https\:\/\/pt\.[\w]{6}\.com\/embed\/tbplyr\//$script,domain=sproeiendekutjes.nl
+@@/https\:\/\/pt\.[\w]{6}\.com\/api\/video-promotion\/v1\/get-content-url\//$xhr,domain=/pt\.[\w]{6}\.com/
+@@||awemdia.com/*.mp4$media,domain=/pt\.[\w]{6}\.com/,third-party
+@@||awemdia.com/*.$image,domain=/pt\.[\w]{6}\.com/,third-party
 @@||assets.freeones.com/static-assets/istripper/istripper.js$script,domain=freeones.nl
 @@||awemwh.com/$image,domain=camsexbabe.nl
 @@||potwm.com/tube-player/?$frame,domain=camsexbabe.nl
@@ -18,7 +24,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,third-party,redirect-rule,domain=vrt.be
 @@||img.sedoparking.com/templates/bg/arrows-curved.png$image,third-party,domain=meetplaza.be
 @@||massariuscdn.com/pubs/*/*_hb_setup.js$script,domain=dailybuzz.nl|radio.nl|welingelichtekringen.nl
-@@||pt.pctlwm.com/embed/tbplyr/*$script,domain=sproeiendekutjes.nl
 @@||weerstation-markelo.nl/weer/banners/weerbanner$domain=maarkelsnieuws.nl
 @@||widgets.spklw.com/v1/data/*$xhr,domain=dagelijksestandaard.nl|nieuws.nl
 @@||widgets.sprinklecontent.com/v2/*$script,xhr,domain=dagelijksestandaard.nl|nieuws.nl
