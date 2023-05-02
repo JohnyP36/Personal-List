@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Tue, 02 May 2023 18:01:44 +0000
+! Last modified: Tue, 02 May 2023 18:02:21 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -60,6 +60,7 @@ nederland.fm##[class*=adv]
 nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
 nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 notebookcheck.nl###nbc_skys
+overstrandherald.co.za##.wpb_widgetised_column .widget_text
 pokeren.nl##.sidebaritem:has-text(/partners|online casino/i)
 pokeren.nl###onetime-popup
 republikein.com.na##.articleBody > aside
