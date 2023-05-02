@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Fri, 28 Apr 2023 08:28:41 +0000
+! Last modified: Tue, 02 May 2023 17:58:13 +0000
 ! 2023
 /^https?:\/\/statics\.(?:7sur7|ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
   !||statics.*.*/js/advertising-$script,domain=7sur7.be|ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
@@ -9,6 +9,7 @@
 /wp-content/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|bdsmleven.nl|biflatie.nl|blikopzeewolde.nl|cryptobenelux.com|dagbladdewest.com|decibel.nl|dekrantvantynaarlo.nl|deoudrotterdammer.nl|destreekkrant.nu|dekrantnieuws.nl|dewestkrant.nl|dordtcentraal.nl|duurzaam-actueel.nl|genemuidenactueel.nl|goedkoopstekeukensduitsland.nl|hoekschnieuws.nl|katholiek.nl|linuxmag.nl|maaslandradio.nl|mannennieuws.nl|nljug.org|noordkopcentraal.nl|omroepalmere.nl|oogtv.nl|pen.nl|radiocontinu.nl|radiovisie.eu|railhobby.nl|regionoordkop.nl|retaildetail.be|retaildetail.nl|sleutelstad.nl|thekinkyweb.nl|vives.nl|voetbalrotterdam.nl|wegdamnieuws.nl
 /wp-content/uploads/*.gif$image,domain=gostreaming.nl
 ||a.scholieren.com/v/*$image
+||diecourant.co.za/wp-content/uploads/*-20*-1024x*.jpg^$image
 ||escort46.nl/bg_images/*.gif
 ||partyflock.nl/images/*/*_i*_$image
 ||pokeren.nl/assets/*banner
