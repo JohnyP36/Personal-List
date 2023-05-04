@@ -64,6 +64,7 @@ overstrandherald.co.za##.wpb_widgetised_column .widget_text
 pokeren.nl##.sidebaritem:has-text(/partners|online casino/i)
 pokeren.nl###onetime-popup
 pretoriafm.co.za##.bannerswidget
+radioeenhoorn.nl##.module_round_box:not(:has([href*="/word-donateur"]))
 recreatief.nl##.widget-a-wrap
 republikein.com.na##.articleBody > aside
 republikein.com.na##.topBanner
@@ -928,7 +929,6 @@ radio182.nl##section.elementor-element:has(h3:has-text(/mogelijk gemaakt door:/i
 radioacacia.nl##table[width="680"]:has(img[src^="sponsoren/"])
 radiocontinu.nl##.eskimo-slider-img:upward(5)
 radiocontinu.nl##.eskimo-slider-img:upward(11) + div[class]:has([id^="div-gpt-ad"])
-radioeenhoorn.nl##.module_round_box
 radiopros.be##.inside-left-sidebar
 radioreflex.be##aside:has-text(/sponsor/i)
 radiozenders.fm##.banner-rectangle:not(:nth-of-type(3))
