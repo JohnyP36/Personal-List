@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Thu, 04 May 2023 11:21:39 +0000
+! Last modified: Thu, 04 May 2023 11:42:48 +0000
 ! 2023
 /^https?:\/\/statics\.(?:7sur7|ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
   !||statics.*.*/js/advertising-$script,domain=7sur7.be|ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
@@ -266,8 +266,6 @@
 ||sexchatlounge.nl/bannerrechts.html$subdocument
 ||sexcam-mokkels.nl/wp-content/uploads/*/sexafspraakje-$image
 ||sexcontactadressen.nl/assets/img/*.gif$image
-||sexervaringendelen.nl/porno/$image
-||sexverhalen.com/vriendschap/
 ||simone.nl/wp-content/uploads/*/*-onderdelenexpert.nl-
 ||simone.nl/wp-content/uploads/*besteonderdelen.nl
 ||solarmagazine.nl/u/edwin/
