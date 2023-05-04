@@ -15,6 +15,8 @@
 ||partyflock.nl/images/*/*_i*_$image
 ||pokeren.nl/assets/*banner
 ||rickfm.nl/cwm/fm/userfiles/banner/thumb
+||rtvnof.nl/prowurk/
+||schuttevaer.nl/partnersites/
 ||services.adodenhaag.nl/fpbanner
 ||seksmet.nl/wp-content/uploads/*/*xplezier*.jpg
 ||sexchatlounge.nl/bannerlinks.html$subdocument
@@ -263,8 +265,6 @@
 ||radioeenhoorn.nl/images/Maxaro-badkamers-tegels.png
 ||radiolelystad.nl/images/stories/Banners/
 !||recreatief.nl/kerstarrangementen.gif
-||rtvnof.nl/prowurk/
-||schuttevaer.nl/partnersites/
 ||search-result.com^*/klokad2.js
 ||simone.nl/wp-content/uploads/*/*-onderdelenexpert.nl-
 ||simone.nl/wp-content/uploads/*besteonderdelen.nl
