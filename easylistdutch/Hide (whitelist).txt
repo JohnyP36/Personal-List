@@ -28,6 +28,7 @@ radiozuidrand.be#@#.advertisement-content
 radiozuidrand.be#@#.single_ad_300x250
 radiozuidrand.be#@#.widget_300x250_advertisement
 radiozuidrand.be#@#.widget_728x90_advertisement
+rotterdam-nesselande.nl#@#ins.adsbygoogle
 sexervaringdelen.com#@#.footer-ad
 sexverhalen.com#@#.widget_ads
 speurdeals.nl#@#.ad_description
