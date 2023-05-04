@@ -14,6 +14,7 @@
 @@||prtawe.com/embed/tbplyr/*$script,domain=camsexbabe.nl
 @@||cdn.bluebillywig.com/scripts/prebid/$script,domain=geenstijl.nl
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=goplay.be
+@@||pagead2.googlesyndication.com/pagead/$script,domain=rotterdam-nesselande.nl
 ! 2022 
 !@@||adserver.hollandcasino.nl^$popup,domain=onlinecasinoground.nl
 @@||2mdn.net/instream/html5/ima3.js$script,domain=omroepbrabant.nl
