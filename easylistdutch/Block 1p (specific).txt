@@ -268,7 +268,6 @@
 ||sexcontactadressen.nl/assets/img/*.gif$image
 ||sexervaringendelen.nl/porno/$image
 ||sexverhalen.com/vriendschap/
-||shespot.nl/wp-content/uploads/*/womanizer-*.jpg$image
 ||simone.nl/wp-content/uploads/*/*-onderdelenexpert.nl-
 ||simone.nl/wp-content/uploads/*besteonderdelen.nl
 ||solarmagazine.nl/u/edwin/
