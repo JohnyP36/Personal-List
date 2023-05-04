@@ -266,8 +266,6 @@
 ||sexchatlounge.nl/bannerrechts.html$subdocument
 ||sexcam-mokkels.nl/wp-content/uploads/*/sexafspraakje-$image
 ||sexcontactadressen.nl/assets/img/*.gif$image
-||sexervaringendelen.nl/porno/$image
-||sexverhalen.com/vriendschap/
 ||simone.nl/wp-content/uploads/*/*-onderdelenexpert.nl-
 ||simone.nl/wp-content/uploads/*besteonderdelen.nl
 ||solarmagazine.nl/u/edwin/
