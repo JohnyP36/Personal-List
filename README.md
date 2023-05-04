@@ -10,6 +10,7 @@
 <a align="center" href="https://github.com/JohnyP36/Personal-List/issues"><img src="https://img.shields.io/github/issues-closed/JohnyP36/Personal-List?color=yellowgreen&label=Issues&style=plastic" /></a>
 <a align="center" href="https://github.com/JohnyP36/Personal-List/blob/main/LICENSE"><img src="https://img.shields.io/github/license/JohnyP36/Personal-List?label=License&color=lightgrey&style=social" /></a>
 <a align="center" href="https://github.com/JohnyP36/Personal-List/actions/workflows/add-time.yml"><img src="https://img.shields.io/github/actions/workflow/status/JohnyP36/Personal-List/add-time.yml?color=informational&event=push&label=Deploy%20to%20cdn-page%20branch&style=plastic" /></a>
+<a align="center" href="https://www.jsdelivr.com/package/gh/JohnyP36/Personal-List"><img src="https://data.jsdelivr.com/v1/package/gh/JohnyP36/Personal-List/badge?&style=plastic" /></a>
 </p>
 
 ***
