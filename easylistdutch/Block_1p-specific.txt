@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Thu, 04 May 2023 12:04:45 +0000
+! Last modified: Thu, 04 May 2023 13:43:23 +0000
 ! 2023
 /^https?:\/\/statics\.(?:7sur7|ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
   !||statics.*.*/js/advertising-$script,domain=7sur7.be|ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
@@ -262,7 +262,6 @@
 ||radiolelystad.nl/images/stories/Banners/
 !||recreatief.nl/kerstarrangementen.gif
 ||rickfm.nl/cwm/fm/userfiles/banner/
-||rotterdam-nesselande.nl/*/wp-content/webpc-passthru.php?src=*.gif
 ||rtvnof.nl/prowurk/
 ||schuttevaer.nl/partnersites/
 ||search-result.com^*/klokad2.js
