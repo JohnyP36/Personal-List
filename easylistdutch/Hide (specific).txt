@@ -65,6 +65,7 @@ pokeren.nl##.sidebaritem:has-text(/partners|online casino/i)
 pokeren.nl###onetime-popup
 pretoriafm.co.za##.bannerswidget
 rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
+recreatief.nl##.widget-a-wrap
 republikein.com.na##.articleBody > aside
 republikein.com.na##.topBanner
 republikein.com.na##.hidden-xs.az-adverts h2:has-text(/Advert/i)
