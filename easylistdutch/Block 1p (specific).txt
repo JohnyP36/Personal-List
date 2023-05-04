@@ -14,6 +14,10 @@
 ||escort46.nl/bg_images/*.gif
 ||partyflock.nl/images/*/*_i*_$image
 ||pokeren.nl/assets/*banner
+||racingnews365.nl/images/logos/odds/unibet/
+||racingnews365.nl/images/logos/partners/*/$image
+||radioacacia.nl/sponsoren/
+||radiolelystad.nl/images/stories/Banners/
 ||rickfm.nl/cwm/fm/userfiles/banner/thumb
 ||rtvnof.nl/prowurk/
 ||schuttevaer.nl/partnersites/
@@ -259,10 +263,6 @@
 ||racesport.nl/wp-content/uploads/*/TK_Kickoff.jpg$image
 ||racexpress.nl/advertising/
 ||racexpress.nl/img/sponsors/
-||racingnews365.nl/images/logos/odds/unibet/
-||racingnews365.nl/images/logos/partners/*/$image,first-party
-||radioacacia.nl/sponsoren/
-||radiolelystad.nl/images/stories/Banners/
 ||search-result.com^*/klokad2.js
 ||simone.nl/wp-content/uploads/*/*-onderdelenexpert.nl-
 ||simone.nl/wp-content/uploads/*besteonderdelen.nl
