@@ -14,6 +14,11 @@
 ||escort46.nl/bg_images/*.gif
 ||partyflock.nl/images/*/*_i*_$image
 ||pokeren.nl/assets/*banner
+||psv.nl/upload/*_Soccerlab_Logo.png$image
+||psv.nl/upload/*SponsorVrouwenGOED-300x75.jpg$image
+||qassa.nl/images/*/wallpaper$image
+||racexpress.nl/advertising/
+||racexpress.nl/img/sponsors/
 ||racingnews365.nl/images/logos/odds/unibet/
 ||racingnews365.nl/images/logos/partners/*/$image
 ||radioacacia.nl/sponsoren/
@@ -256,12 +261,6 @@
 ||profielactueel.nl/content/modules/catalog/4/*.gif$image
 ||promootjesite.nl/images/affliateBanner/$image
 ||proshop.nl/Images/*Top-Banner
-||psv.nl/upload/*_image*.gif$image
-||psv.nl/upload/*_Soccerlab_Logo.png$image
-||psv.nl/upload/*SponsorVrouwenGOED-300x75.jpg$image
-||qassa.nl/images/*/wallpaper$image
-||racexpress.nl/advertising/
-||racexpress.nl/img/sponsors/
 ||search-result.com^*/klokad2.js
 ||simone.nl/wp-content/uploads/*/*-onderdelenexpert.nl-
 ||simone.nl/wp-content/uploads/*besteonderdelen.nl
