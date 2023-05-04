@@ -262,7 +262,6 @@
 ||radiolelystad.nl/images/stories/Banners/
 !||recreatief.nl/kerstarrangementen.gif
 ||rickfm.nl/cwm/fm/userfiles/banner/
-||rotterdam-nesselande.nl/*/wp-content/webpc-passthru.php?src=*.gif
 ||rtvnof.nl/prowurk/
 ||schuttevaer.nl/partnersites/
 ||search-result.com^*/klokad2.js
