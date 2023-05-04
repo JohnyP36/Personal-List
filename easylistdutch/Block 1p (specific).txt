@@ -262,7 +262,6 @@
 ||racingnews365.nl/images/logos/odds/unibet/
 ||racingnews365.nl/images/logos/partners/*/$image,first-party
 ||radioacacia.nl/sponsoren/
-||radioeenhoorn.nl/images/Maxaro-badkamers-tegels.png
 ||radiolelystad.nl/images/stories/Banners/
 ||search-result.com^*/klokad2.js
 ||simone.nl/wp-content/uploads/*/*-onderdelenexpert.nl-
