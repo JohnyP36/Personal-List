@@ -54,7 +54,7 @@ jobs:
           if [[ -n $(git diff) ]]; then
             git config user.name "GitHub-Actions"
             git config user.email "<>"
-            git add -u Personal%20List%20(uBo).all.txt
+            git add -u Personal%20List%20*uBo*.all.txt
             git commit -m "Update timestamp"
             git push origin main
           fi
