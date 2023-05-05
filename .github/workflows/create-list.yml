@@ -13,15 +13,20 @@ concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
+permissions:
+  contents: read
+
 jobs:
   publish:
+    permissions:
+      contents: write  # for Git to git push
     name: Publish lists
     runs-on: ubuntu-latest
     steps:
       - name: Clone filter list
         uses: actions/checkout@v3
         with:
-            ref: cdn-page
+            ref: main
       - name: Copy filter lists to gh-pages
         run: |
           TMPFILE=$(mktemp -d)
