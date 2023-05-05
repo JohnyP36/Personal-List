@@ -1,0 +1,58 @@
+[uBlock Origin]
+! Title: Dutch Filter List
+! Description:  
+!     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
+!     mainly for uBlock and Adguard users
+! Expires: 3 days (update frequency)
+! Homepage: https://github.com/JohnyP36/Personal-List
+! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
+! Last modified: %timestamp%
+
+! Github issues: https://github.com/JohnyP36/Personal-List/issues
+
+! This list is a forked Easylist Dutch,
+!  because the original list is outdated and they don't update it often
+
+
+!===================== FIRST LIST =====================!
+! Alleen voor advertenties op Nederlandstalige sites!
+! Rapporteer gevonden advertenties of fouten op Github!
+
+!--------Algemene blokkeerregels--------!
+%include easylistdutch/Block%20(general).txt%
+
+!--------Advertentiedomeinen (derden)--------!
+%include easylistdutch/Block%203p%20(server).txt%
+
+!--------Advertentiedomeinen--------!
+%include easylistdutch/Block%201p%20(server).txt%
+
+!--------Specifieke blokkeerregels (derden)--------!
+%include easylistdutch/Block%203p%20(specific).txt%
+
+!--------Specifieke blokkeerregels--------!
+%include easylistdutch/Block%201p%20(specific).txt%
+
+!--------Popups (derden)--------!
+%include easylistdutch/block_third_party_popup.txt%
+
+!--------Popups--------!
+%include easylistdutch/block_first_party_popup.txt%
+
+!--------Uitzonderingen (derden)--------!
+%include easylistdutch/Block%203p%20(whitelist).txt%
+
+!--------Uitzonderingen--------!
+%include easylistdutch/Block%201p%20(whitelist).txt%
+
+!--------Algemene verbergregels--------!
+%include easylistdutch/Hide%20(general).txt%
+
+!--------Specifieke verbergregels--------!
+%include easylistdutch/Hide%20(specific).txt%
+
+!--------Uitzonderingen (verbergregels)--------!
+%include easylistdutch/Hide%20(whitelist).txt%
+
+!-----------------Anti-AdBlock-----------------!
+%include easylistdutch/Anti-AdBlock.txt%
