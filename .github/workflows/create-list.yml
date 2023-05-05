@@ -5,6 +5,7 @@ on:
     branches:
       - main
     paths:
+      - 'easylistdutch/**'
       - 'tools/dutch-filter-list.template'
   workflow_dispatch:
 
