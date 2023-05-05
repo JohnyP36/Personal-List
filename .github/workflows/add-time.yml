@@ -1,4 +1,4 @@
-name: Deploy to cdn-page branch
+name: Add time - Deploy to cdn-page branch
 
 on:
   push:
@@ -19,7 +19,7 @@ jobs:
     name: Publish lists
     runs-on: ubuntu-latest
     steps:
-      - name: Clone easylistdutch
+      - name: Clone filter list
         uses: actions/checkout@v3
         with:
             ref: cdn-page
