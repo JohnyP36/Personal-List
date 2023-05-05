@@ -37,7 +37,7 @@ jobs:
           echo "*** Dutch Filter List: Assembling Personal%20List%20*uBo*.txt"
           node ./tools/make-list.js in=tools/dutch-filter-list.template out=Personal%20List%20*uBo*.all.txt
           popd > /dev/null
-          cp $TMPFILE/Personal%20List%20(uBo).all.txt Personal%20List%20*uBo*.all.txt
+          cp $TMPFILE/Personal%20List%20*uBo*.all.txt Personal%20List%20*uBo*.all.txt
       - name: Patch last-updated field
         run: |
           DATE=$(date -Ru)
