@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Thu, 04 May 2023 14:37:41 +0000
+! Last modified: Fri, 05 May 2023 06:56:53 +0000
 ! 2023
 /^https?:\/\/statics\.(?:7sur7|ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
   !||statics.*.*/js/advertising-$script,domain=7sur7.be|ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
@@ -14,6 +14,7 @@
 ||escort46.nl/bg_images/*.gif
 ||partyflock.nl/images/*/*_i*_$image
 ||pokeren.nl/assets/*banner
+||proshop.nl/Images/Topbanner
 ||psv.nl/upload/*_Soccerlab_Logo.png$image
 ||psv.nl/upload/*SponsorVrouwenGOED-300x75.jpg$image
 ||qassa.nl/images/*/wallpaper$image
@@ -260,7 +261,6 @@
 ||pornoexpert.nl/img/950x250_*.gif$image
 ||profielactueel.nl/content/modules/catalog/4/*.gif$image
 ||promootjesite.nl/images/affliateBanner/$image
-||proshop.nl/Images/*Top-Banner
 ||search-result.com^*/klokad2.js
 ||simone.nl/wp-content/uploads/*/*-onderdelenexpert.nl-
 ||simone.nl/wp-content/uploads/*besteonderdelen.nl
