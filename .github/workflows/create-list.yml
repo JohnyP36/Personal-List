@@ -34,7 +34,7 @@ jobs:
           git clone --depth=1 --branch=main https://github.com/JohnyP36/Personal-List.git $TMPFILE
           pushd $TMPFILE > /dev/null
           # ./tools/make-easydutch.sh
-          echo "*** Dutch Filter List: Assembling Personal%20List%20(uBo).txt"
+          echo "*** Dutch Filter List: Assembling Personal%20List%20*uBo*.txt"
           node ./tools/make-list.js in=tools/dutch-filter-list.template out=Personal%20List%20*uBo*.all.txt
           popd > /dev/null
           cp $TMPFILE/Personal%20List%20(uBo).all.txt Personal%20List%20*uBo*.all.txt
