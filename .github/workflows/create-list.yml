@@ -34,10 +34,10 @@ jobs:
           git clone --depth=1 --branch=main https://github.com/JohnyP36/Personal-List.git $TMPFILE
           pushd $TMPFILE > /dev/null
           # ./tools/make-easydutch.sh
-          echo "*** Dutch Filter List: Assembling Personal*.txt"
-          node ./tools/make-list.js in=tools/dutch-filter-list.template out=Personal*.all.txt
+          echo "*** Dutch Filter List: Assembling Personal*uBo*.txt"
+          node ./tools/make-list.js in=tools/dutch-filter-list.template out=Personal*uBo*.all.txt
           popd > /dev/null
-          cp $TMPFILE/Personal*.all.txt Personal*.all.txt
+          cp $TMPFILE/Personal*uBo*.all.txt Personal*uBo*.all.txt
       - name: Patch last-updated field
         run: |
           DATE=$(date -Ru)
@@ -54,7 +54,7 @@ jobs:
           if [[ -n $(git diff) ]]; then
             git config user.name "GitHub-Actions"
             git config user.email "<>"
-            git add -u Personal*.all.txt
+            git add -u Personal*uBo*.all.txt
             git commit -m "Update timestamp"
             git push origin main
           fi
