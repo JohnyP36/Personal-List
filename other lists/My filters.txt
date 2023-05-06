@@ -4,7 +4,6 @@
 
 !https://www.reddit.com/r/privacytoolsIO/comments/g9hjrd/using_ublock_origin_to_abort_possible_browser/
 *,~hangouts.google.com,~hcaptcha.com,~freebitco.in##+js(nowebrtc)
-*##+js(no-floc)
 *##+js(set, history.length, 2)
 *##+js(window.name-defuser)
 !*,~calendar.google.com,~contacts.google.com,~disqus.com,~dumpert.nl##+js(set, window.name, null)
@@ -12,26 +11,31 @@
 
 !Remove Parameters from urls ($queryprune of $removeparam)   - ! utm parameters: 
     ! utm_campaign|utm_channel|utm_cid|utm_content|utm_medium|utm_name|utm_place|utm_pubreferrer|utm_reader|utm_referrer|utm_social|utm_social-type|utm_source|utm_swu|utm_term|utm_userid|utm_viz_id|
-utm_$queryprune=/^utm_/i
-fb*$queryprune=/^(fb_action_ids|fb_actions_types|fb_ref|fb_source|fbclid)/i
-$removeparam=/^(dpg_source|dpg_campaign|dpg_medium|dpg_content|dclid|gclid|gclsrc|guccounter|guce_referrer|guce_referrer_sig|yclid|__twitter_impression|original_referer)=/
+$removeparam=/^utm_/i
+$removeparam=/^(dpg_source|dpg_campaign|dpg_medium|dpg_content|dclid|gbraid|gclid|gclsrc|guccounter|guce_referrer|guce_referrer_sig|yclid|__twitter_impression|original_referer|usqp|wbraid)=/
+$removeparam=/^(fb_action_ids|fb_actions_types|fb_ref|fb_source|fbclid)/i
+$removeparam=/^(referrer)=/,domain=ad.nl|autoweek.nl|gelderlander.nl|livios.nl|volkskrant.nl|vtm.be
 $removeparam=source,domain=googleusercontent.com
-!||google.*/search,~consent.google.com/ml$queryprune=~/^(q|tbm|chips|tbs)/,domain=google.*
 ||google.*/search$removeparam=/^(aqs|bih|biw|client|cshid|dpr|ei|gs_lcp|hl|ie|sa|sclient|source|sourceid|uact|vet|ved)=/,domain=~consent.google.com
 ||google.*^$removeparam=/^(tab)=/
 ||www.google.com/url?$removeparam=ved
-||youtube.com$queryprune=/(ab_channel|cbr|cbrver|cos|cplatform|delay|feature|kw|tab)/
-@@||consent.youtube.com$queryprune
+||youtube.com$removeparam=/(ab_channel|cbr|cbrver|cos|cplatform|delay|feature|gclid|kw|tab)/
+@@/^https?:\/\/(docs|accounts)\.google(\.[a-z]{2,}){1,}/$removeparam
+@@||consent.youtube.com$removeparam
+@@||youtube.com/signin?$removeparam
 @@||youtube.com/subscribe_embed$removeparam
 ||www.msn.com$removeparam
-$removeparam=/^(referrer)=/,domain=ad.nl|autoweek.nl|gelderlander.nl|livios.nl|volkskrant.nl|vtm.be
 ||blckbx.tv$removeparam=/^(ss_source|ss_campaign_id|ss_email_id|ss_campaign_name|ss_campaign_sent_date)=/
 ||bol.com^$removeparam=Referrer
+!coolblue.nl$removeparam=/(clickref|cmt|PHGref|ref)/
+||download.mozilla.org^$removeparam=/(attribution_code|attribution_sig)/
 ||duckduckgo.com^$removeparam=t
 ||github.com^$removeparam=/^(email_source|email_token)=/
-||instagram.com^$removeparam=igshid
-||reddit.com^$removeparam=/(deep_link|original_url)/
-||reddit.com^$removeparam=/^(_branch_match_id|correlation_id|ref_campaign|ref_source)=/
+||instagram.com^$removeparam=/(ig_rid|igshid)
+||quora.com/qemail/tc?$removeparam=/(al_imp|uid)/
+||reddit.com^$removeparam=/(_branch_match_id|_branch_referrer|deep_link|correlation_id|original_url|post_fullname|ref|ref_campaign|ref_source)/
+||services.addons.mozilla.org^$removeparam=telemetry-client-id
+||tiktok.com^$removeparam=/(embed_source|refer|referer_url|sec_uid|share_app_id|share_author_id|tt_from|web_id)/
 ||tweakers.net^$removeparam=/^(nb|u)=/
 ||twitter.com^$removeparam=/^(cn|ref_url|ref_src|s)=/
 
@@ -68,7 +72,6 @@ www.youtube.com###comment-teaser
 youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope:has([class*="promo-renderer"])
 www.youtube.com#@##merch-shelf
 www.youtube.com#@#.ytd-merch-shelf-renderer
-youtube.com##+js(href-sanitizer, a[href^="https://www.youtube.com/redirect?"])
 !:style(overscroll-behavior: none; !important)
   ! Gmail tracking
   /cleardot.gif$image,xhr,redirect=1x1.gif
@@ -227,8 +230,11 @@ reddit.com##+js(no-xhr-if, method:POST url:/^https:\/\/www\.reddit\.com$/)
 !@@||browserleaks.com/*/1.gif?v=$domain=browserleaks.com
 !https://github.com/JohnyP36/Personal-List/blob/main/Personal%20List%20(uBo).txt
 
+instagram##+js(href-sanitizer, a[href^="https://l.instagram.com/?"])
+youtube.com##+js(href-sanitizer, a[href^="https://www.youtube.com/redirect?"])
+
 bol.com##+js(ceo, #js-reject-all-button, , 5000)
-dpgmedia.nl,alarmeringen.nl,nu.nl##+js(ceo, button[title="Akkoord"], , 15000)
+dpgmedia.be,dpgmedia.nl,alarmeringen.nl,nu.nl##+js(ceo, button[title="Akkoord"], , 15000)
 mediamarkt.nl##+js(ceo, #mms-consent-portal-container button[data-test$="save-settings"], , 15000)
 rijnmond.nl,privacymanager.io##+js(ceo, button[id="manageSettings"], , 15000)
 rijnmond.nl,privacymanager.io##+js(ceo, button[id="saveAndExit"], , 15000)
