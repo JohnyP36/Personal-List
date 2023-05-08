@@ -20,7 +20,6 @@ tweakers.net##.widebnr:style(visibility: collapse !important; min-height: 1.5px 
 !@@||tweakers.net^$shide
 @@||aa.tweakers.nl/json*$xhr,domain=tweakers.net
 @@||ab.tweakers.nl/pool/lib/*.gif$xhr,domain=tweakers.net
-tweakers.net##.widebnr:style(visibility: collapse !important; min-height: 1.5px !important;)
 ! 2022
 autoweek.nl##+js(set-constant, isAdBlockActive, false)
 citaten.net#@##bottom-ad
