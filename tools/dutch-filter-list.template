@@ -19,19 +19,19 @@
 ! Rapporteer gevonden advertenties of fouten op Github!
 
 !--------Algemene blokkeerregels--------!
-%include easylistdutch:easylistdutch/Block%20(general).txt%
+%include easylistdutch:easylistdutch/Block (general).txt%
 
 !--------Advertentiedomeinen (derden)--------!
-%include easylistdutch:easylistdutch/Block%203p%20(server).txt%
+%include easylistdutch:easylistdutch/Block 3p (server).txt%
 
 !--------Advertentiedomeinen--------!
-%include easylistdutch:easylistdutch/Block%201p%20(server).txt%
+%include easylistdutch:easylistdutch/Block 1p (server).txt%
 
 !--------Specifieke blokkeerregels (derden)--------!
-%include easylistdutch:easylistdutch/Block%203p%20(specific).txt%
+%include easylistdutch:easylistdutch/Block 3p (specific).txt%
 
 !--------Specifieke blokkeerregels--------!
-%include easylistdutch:easylistdutch/Block%201p%20(specific).txt%
+%include easylistdutch:easylistdutch/Block 1p (specific).txt%
 
 !--------Popups (derden)--------!
 %include easylistdutch:easylistdutch/block_third_party_popup.txt%
@@ -40,19 +40,19 @@
 %include easylistdutch:easylistdutch/block_first_party_popup.txt%
 
 !--------Uitzonderingen (derden)--------!
-%include easylistdutch:easylistdutch/Block%203p%20(whitelist).txt%
+%include easylistdutch:easylistdutch/Block 3p (whitelist).txt%
 
 !--------Uitzonderingen--------!
-%include easylistdutch:easylistdutch/Block%201p%20(whitelist).txt%
+%include easylistdutch:easylistdutch/Block 1p (whitelist).txt%
 
 !--------Algemene verbergregels--------!
-%include easylistdutch:easylistdutch/Hide%20(general).txt%
+%include easylistdutch:easylistdutch/Hide (general).txt%
 
 !--------Specifieke verbergregels--------!
-%include easylistdutch:easylistdutch/Hide%20(specific).txt%
+%include easylistdutch:easylistdutch/Hide (specific).txt%
 
 !--------Uitzonderingen (verbergregels)--------!
-%include easylistdutch:easylistdutch/Hide%20(whitelist).txt%
+%include easylistdutch:easylistdutch/Hide (whitelist).txt%
 
 !-----------------Anti-AdBlock-----------------!
 %include easylistdutch:easylistdutch/Anti-AdBlock.txt%
