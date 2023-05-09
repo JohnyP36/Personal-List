@@ -6,7 +6,7 @@
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Thu, 25 Apr 2023 13:58:09 +0000
+! Last modified: Thu, 25 Apr 2023 13:58:09
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
