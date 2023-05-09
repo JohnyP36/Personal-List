@@ -2,7 +2,7 @@ name: Copy modified file back to main branch
 
 on:
   workflow_run:
-    workflows: [Deploy to cdn-page branch]
+    workflows: [Add time - Deploy to cdn-page branch]
     types:
       - completed
   schedule:
