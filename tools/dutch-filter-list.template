@@ -19,40 +19,40 @@
 ! Rapporteer gevonden advertenties of fouten op Github!
 
 !--------Algemene blokkeerregels--------!
-%include easylistdutch/Block_general.txt%
+%include easylistdutch:easylistdutch/Block_general.txt%
 
 !--------Advertentiedomeinen (derden)--------!
-%include easylistdutch/Block_3p-server.txt%
+%include easylistdutch:easylistdutch/Block_3p-server.txt%
 
 !--------Advertentiedomeinen--------!
-%include easylistdutch/Block_1p-server.txt%
+%include easylistdutch:easylistdutch/Block_1p-server.txt%
 
 !--------Specifieke blokkeerregels (derden)--------!
-%include easylistdutch/Block_3p-specific.txt%
+%include easylistdutch:easylistdutch/Block_3p-specific.txt%
 
 !--------Specifieke blokkeerregels--------!
-%include easylistdutch/Block_1p-specific.txt%
+%include easylistdutch:easylistdutch/Block_1p-specific.txt%
 
 !--------Popups (derden)--------!
-%include easylistdutch/block_third_party_popup.txt%
+%include easylistdutch:easylistdutch/block_third_party_popup.txt%
 
 !--------Popups--------!
-%include easylistdutch/block_first_party_popup.txt%
+%include easylistdutch:easylistdutch/block_first_party_popup.txt%
 
 !--------Uitzonderingen (derden)--------!
-%include easylistdutch/Block_3p-whitelist.txt%
+%include easylistdutch:easylistdutch/Block_3p-whitelist.txt%
 
 !--------Uitzonderingen--------!
-%include easylistdutch/Block_1p-whitelist.txt%
+%include easylistdutch:easylistdutch/Block_1p-whitelist.txt%
 
 !--------Algemene verbergregels--------!
-%include easylistdutch/Hide_general.txt%
+%include easylistdutch:easylistdutch/Hide_general.txt%
 
 !--------Specifieke verbergregels--------!
-%include easylistdutch/Hide_specific.txt%
+%include easylistdutch:easylistdutch/Hide_specific.txt%
 
 !--------Uitzonderingen (verbergregels)--------!
-%include easylistdutch/Hide_whitelist.txt%
+%include easylistdutch:easylistdutch/Hide_whitelist.txt%
 
 !-----------------Anti-AdBlock-----------------!
-%include easylistdutch/Anti-AdBlock.txt%
+%include easylistdutch:easylistdutch/Anti-AdBlock.txt%
