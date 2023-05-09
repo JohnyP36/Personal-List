@@ -6,7 +6,7 @@ on:
     types:
       - completed
   schedule:
-    - cron: "00 06 1/365 * *"
+    - cron: "00 03 1/31 * *"
   workflow_dispatch:
 
 # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#example-only-cancel-in-progress-jobs-or-runs-for-the-current-workflow
@@ -27,14 +27,15 @@ jobs:
         run: |
           TMPFILE=$(mktemp -d)
           git clone --single-branch --branch=cdn-page https://github.com/JohnyP36/Personal-List.git $TMPFILE
-          cp $TMPFILE/Dutch_Filter_List_*uBo*.txt Personal*List*uBo*.txt
+          # cp $TMPFILE/Dutch_Filter_List_*uBo*.txt Personal*List*uBo*.txt
+          cp $TMPFILE/Dutch-Filter-List.txt Personal*List*uBo*.txt
       - name: Commit changes (if any)
         run: |
           if [[ -n $(git diff) ]]; then
             git config user.name "JohnyP36"
             git config user.email "<>"
             git add -u Personal*List*uBo*.txt 
-            git commit -m "Add time new stamp"
+            git commit -m "Add new timestamp"
             git ls-files -z | while read -d '' path; do touch -d $(git log -1 --format="@%ct" "$path") "$path"; done
             git push origin main
           fi
