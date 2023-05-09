@@ -27,8 +27,8 @@ jobs:
         run: |
           TMPFILE=$(mktemp -d)
           git clone --single-branch --branch=cdn-page https://github.com/JohnyP36/Personal-List.git $TMPFILE
-          # cp $TMPFILE/Dutch_Filter_List_*uBo*.txt Personal*List*uBo*.txt
-          cp $TMPFILE/Dutch-Filter-List.txt Personal*List*uBo*.txt
+          cp $TMPFILE/Dutch_Filter_List_*uBo*.txt Personal*List*uBo*.txt
+          # cp $TMPFILE/Dutch-Filter-List.txt Personal*List*uBo*.txt
       - name: Commit changes (if any)
         run: |
           if [[ -n $(git diff) ]]; then
