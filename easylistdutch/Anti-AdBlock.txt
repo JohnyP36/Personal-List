@@ -13,7 +13,7 @@ goplay.be##+js(xml-prune, Period[id*="-roll-"][id*="-ad-"], , pubads.g.doublecli
 *$image,redirect-rule=2x2.png,domain=tweakers.net
 @@||tweakers.net^$generichide
 tweakers.net##+js(no-fetch-if, /a[ab]\.tweakers\.nl/)
-tweakers.net##+js(addEventListener-defuser, nTabXZkTGnrzHDkv)
+tweakers.net##+js(addEventListener-defuser, /[\w]{16}/, /^e=>.*\(e\)$/)
 tweakers.net##.promotor:has([src*="whitelist_message"]):upward(1)
 !tweakers.net#@#.widebnr
 !tweakers.net##.widebnr:style(visibility: collapse !important; min-height: 1.5px !important;)
