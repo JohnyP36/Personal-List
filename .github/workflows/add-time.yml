@@ -72,7 +72,7 @@ jobs:
             git config user.name "GitHub-Actions"
             git config user.email "<>"
             git add -u easylistdutch/ 
-            git add -u Dutch_Filter_List_*uBo*.txt
+            git add -u Dutch_Filter_List_.txt
             git add -u Dutch-Filter-List.txt
             git commit -m "Update modified filter lists"
             git push origin cdn-page
