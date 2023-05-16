@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Tue, 16 May 2023 04:57:21 +0000
+! Last modified: Tue, 16 May 2023 04:59:17 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -18,7 +18,7 @@
 ! Alleen voor advertenties op Nederlandstalige sites!
 ! Rapporteer gevonden advertenties of fouten op Github!
 !
-!--------Algemene blokkeerregels--------
+!--------Algemene blokkeerregels--------!
 
 ! *** easylistdutch:easylistdutch/Block (general).txt ***
 [uBlock Origin]
@@ -66,7 +66,7 @@ _336x120.$image,domain=~www.dekrantvantoen.nl
 _advertentie300x250_
 _advertentieleaderboardhome.
 !
-!--------Advertentiedomeinen (derden)--------
+!--------Advertentiedomeinen (derden)--------!
 
 ! *** easylistdutch:easylistdutch/Block 3p (server).txt ***
 [uBlock Origin]
@@ -154,7 +154,7 @@ _advertentieleaderboardhome.
 ||webcash.nl^$third-party
 ||xpartners.nl^$third-party
 !
-!--------Advertentiedomeinen--------
+!--------Advertentiedomeinen--------!
 
 ! *** easylistdutch:easylistdutch/Block 1p (server).txt ***
 [uBlock Origin]
@@ -176,7 +176,7 @@ _advertentieleaderboardhome.
 ||mooieplaatjes.bierdopje.com^
 ||kechtube.com^$popunder
 !
-!--------Specifieke blokkeerregels (derden)--------
+!--------Specifieke blokkeerregels (derden)--------!
 
 ! *** easylistdutch:easylistdutch/Block 3p (specific).txt ***
 [uBlock Origin]
@@ -277,7 +277,7 @@ _advertentieleaderboardhome.
 ||powerconnect.be^*/poweractie.jpg$third-party
 ||totaalwijzer.nl/widget/$third-party
 !
-!--------Specifieke blokkeerregels--------
+!--------Specifieke blokkeerregels--------!
 
 ! *** easylistdutch:easylistdutch/Block 1p (specific).txt ***
 [uBlock Origin]
@@ -570,19 +570,19 @@ _advertentieleaderboardhome.
 ||tijd.be/ad/
 ||wp.com/amsterdamactueel.nl/wp-content/uploads/*/728x60_
 !
-!--------Popups (derden)--------
+!--------Popups (derden)--------!
 
 ! *** easylistdutch:easylistdutch/block_third_party_popup.txt ***
 [uBlock Origin]
 ! Last modified: %timestamp%
 !
-!--------Popups--------
+!--------Popups--------!
 
 ! *** easylistdutch:easylistdutch/block_first_party_popup.txt ***
 [uBlock Origin]
 ! Last modified: %timestamp%
 !
-!--------Uitzonderingen (derden)--------
+!--------Uitzonderingen (derden)--------!
 
 ! *** easylistdutch:easylistdutch/Block 3p (whitelist).txt ***
 [uBlock Origin]
@@ -660,7 +660,7 @@ _advertentieleaderboardhome.
 @@||ultimedia.com/js/common/smart.js$script,domain=lesoir.be
 @@||videoplaza.tv/*/pulse-sdk-html5/*$script,domain=rtl.be
 !
-!--------Uitzonderingen--------
+!--------Uitzonderingen--------!
 
 ! *** easylistdutch:easylistdutch/Block 1p (whitelist).txt ***
 [uBlock Origin]
@@ -684,7 +684,7 @@ _advertentieleaderboardhome.
 @@||zilverengoudkopen.nl/banners/header
 @@||zilverengoudkopen.nl/banners/onder
 !
-!--------Algemene verbergregels--------
+!--------Algemene verbergregels--------!
 
 ! *** easylistdutch:easylistdutch/Hide (general).txt ***
 [uBlock Origin]
@@ -713,7 +713,7 @@ _advertentieleaderboardhome.
 ##.sponsorbalk
 ##a[href^="http://adserver.webads.nl/adclick/"]
 !
-!--------Specifieke verbergregels--------
+!--------Specifieke verbergregels--------!
 
 ! *** easylistdutch:easylistdutch/Hide (specific).txt ***
 [uBlock Origin]
@@ -1811,7 +1811,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
 !
-!--------Uitzonderingen (verbergregels)--------
+!--------Uitzonderingen (verbergregels)--------!
 
 ! *** easylistdutch:easylistdutch/Hide (whitelist).txt ***
 [uBlock Origin]
@@ -1854,7 +1854,7 @@ veeteelt.nl#@#.advertorial
 wereldklokken.nl#@#.adsbygoogle
 wereldreizigers.nl#@#.gridlove-ad
 !
-!-----------------Anti-AdBlock-----------------
+!-----------------Anti-AdBlock-----------------!
 
 ! *** easylistdutch:easylistdutch/Anti-AdBlock.txt ***
 [uBlock Origin]
