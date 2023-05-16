@@ -18,41 +18,41 @@
 ! Alleen voor advertenties op Nederlandstalige sites!
 ! Rapporteer gevonden advertenties of fouten op Github!
 !
-!--------Algemene blokkeerregels--------
+!--------Algemene blokkeerregels--------!
 %include easylistdutch:easylistdutch/Block (general).txt%
 !
-!--------Advertentiedomeinen (derden)--------
+!--------Advertentiedomeinen (derden)--------!
 %include easylistdutch:easylistdutch/Block 3p (server).txt%
 !
-!--------Advertentiedomeinen--------
+!--------Advertentiedomeinen--------!
 %include easylistdutch:easylistdutch/Block 1p (server).txt%
 !
-!--------Specifieke blokkeerregels (derden)--------
+!--------Specifieke blokkeerregels (derden)--------!
 %include easylistdutch:easylistdutch/Block 3p (specific).txt%
 !
-!--------Specifieke blokkeerregels--------
+!--------Specifieke blokkeerregels--------!
 %include easylistdutch:easylistdutch/Block 1p (specific).txt%
 !
-!--------Popups (derden)--------
+!--------Popups (derden)--------!
 %include easylistdutch:easylistdutch/block_third_party_popup.txt%
 !
-!--------Popups--------
+!--------Popups--------!
 %include easylistdutch:easylistdutch/block_first_party_popup.txt%
 !
-!--------Uitzonderingen (derden)--------
+!--------Uitzonderingen (derden)--------!
 %include easylistdutch:easylistdutch/Block 3p (whitelist).txt%
 !
-!--------Uitzonderingen--------
+!--------Uitzonderingen--------!
 %include easylistdutch:easylistdutch/Block 1p (whitelist).txt%
 !
-!--------Algemene verbergregels--------
+!--------Algemene verbergregels--------!
 %include easylistdutch:easylistdutch/Hide (general).txt%
 !
-!--------Specifieke verbergregels--------
+!--------Specifieke verbergregels--------!
 %include easylistdutch:easylistdutch/Hide (specific).txt%
 !
-!--------Uitzonderingen (verbergregels)--------
+!--------Uitzonderingen (verbergregels)--------!
 %include easylistdutch:easylistdutch/Hide (whitelist).txt%
 !
-!-----------------Anti-AdBlock-----------------
+!-----------------Anti-AdBlock-----------------!
 %include easylistdutch:easylistdutch/Anti-AdBlock.txt%
