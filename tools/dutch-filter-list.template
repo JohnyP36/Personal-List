@@ -7,52 +7,52 @@
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
 ! Last modified: %timestamp%
-
+!
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
-
+!
 ! This list is a forked Easylist Dutch,
 !  because the original list is outdated and they don't update it often
-
-
+!
+!
 !===================== FIRST LIST =====================!
 ! Alleen voor advertenties op Nederlandstalige sites!
 ! Rapporteer gevonden advertenties of fouten op Github!
-
+!
 !--------Algemene blokkeerregels--------!
 %include easylistdutch:easylistdutch/Block (general).txt%
-
+!
 !--------Advertentiedomeinen (derden)--------!
 %include easylistdutch:easylistdutch/Block 3p (server).txt%
-
+!
 !--------Advertentiedomeinen--------!
 %include easylistdutch:easylistdutch/Block 1p (server).txt%
-
+!
 !--------Specifieke blokkeerregels (derden)--------!
 %include easylistdutch:easylistdutch/Block 3p (specific).txt%
-
+!
 !--------Specifieke blokkeerregels--------!
 %include easylistdutch:easylistdutch/Block 1p (specific).txt%
-
+!
 !--------Popups (derden)--------!
 %include easylistdutch:easylistdutch/block_third_party_popup.txt%
-
+!
 !--------Popups--------!
 %include easylistdutch:easylistdutch/block_first_party_popup.txt%
-
+!
 !--------Uitzonderingen (derden)--------!
 %include easylistdutch:easylistdutch/Block 3p (whitelist).txt%
-
+!
 !--------Uitzonderingen--------!
 %include easylistdutch:easylistdutch/Block 1p (whitelist).txt%
-
+!
 !--------Algemene verbergregels--------!
 %include easylistdutch:easylistdutch/Hide (general).txt%
-
+!
 !--------Specifieke verbergregels--------!
 %include easylistdutch:easylistdutch/Hide (specific).txt%
-
+!
 !--------Uitzonderingen (verbergregels)--------!
 %include easylistdutch:easylistdutch/Hide (whitelist).txt%
-
+!
 !-----------------Anti-AdBlock-----------------!
 %include easylistdutch:easylistdutch/Anti-AdBlock.txt%
