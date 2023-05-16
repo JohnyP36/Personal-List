@@ -6,18 +6,18 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Mon, 15 May 2023 15:58:02 +0000
-
+! Last modified: Tue, 16 May 2023 04:55:19 +0000
+!
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
-
+!
 ! This list is a forked Easylist Dutch,
 !  because the original list is outdated and they don't update it often
-
-
+!
+!
 !===================== FIRST LIST =====================!
 ! Alleen voor advertenties op Nederlandstalige sites!
 ! Rapporteer gevonden advertenties of fouten op Github!
-
+!
 !--------Algemene blokkeerregels--------!
 
 ! *** easylistdutch:easylistdutch/Block (general).txt ***
@@ -65,6 +65,7 @@
 _336x120.$image,domain=~www.dekrantvantoen.nl
 _advertentie300x250_
 _advertentieleaderboardhome.
+!
 !--------Advertentiedomeinen (derden)--------!
 
 ! *** easylistdutch:easylistdutch/Block 3p (server).txt ***
@@ -152,6 +153,7 @@ _advertentieleaderboardhome.
 ||vpscash.nl^$third-party
 ||webcash.nl^$third-party
 ||xpartners.nl^$third-party
+!
 !--------Advertentiedomeinen--------!
 
 ! *** easylistdutch:easylistdutch/Block 1p (server).txt ***
@@ -173,6 +175,7 @@ _advertentieleaderboardhome.
 ||content2.zoom.nl^
 ||mooieplaatjes.bierdopje.com^
 ||kechtube.com^$popunder
+!
 !--------Specifieke blokkeerregels (derden)--------!
 
 ! *** easylistdutch:easylistdutch/Block 3p (specific).txt ***
@@ -273,6 +276,7 @@ _advertentieleaderboardhome.
 ||enviedeplus.be^*_banner_$third-party
 ||powerconnect.be^*/poweractie.jpg$third-party
 ||totaalwijzer.nl/widget/$third-party
+!
 !--------Specifieke blokkeerregels--------!
 
 ! *** easylistdutch:easylistdutch/Block 1p (specific).txt ***
@@ -565,16 +569,19 @@ _advertentieleaderboardhome.
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
 ||wp.com/amsterdamactueel.nl/wp-content/uploads/*/728x60_
+!
 !--------Popups (derden)--------!
 
 ! *** easylistdutch:easylistdutch/block_third_party_popup.txt ***
 [uBlock Origin]
 ! Last modified: %timestamp%
+!
 !--------Popups--------!
 
 ! *** easylistdutch:easylistdutch/block_first_party_popup.txt ***
 [uBlock Origin]
 ! Last modified: %timestamp%
+!
 !--------Uitzonderingen (derden)--------!
 
 ! *** easylistdutch:easylistdutch/Block 3p (whitelist).txt ***
@@ -652,6 +659,7 @@ _advertentieleaderboardhome.
 @@||tools.vpscash.nl/webcams/promo/plug_play_webcams/*$subdocument,domain=beeldbelsex.com
 @@||ultimedia.com/js/common/smart.js$script,domain=lesoir.be
 @@||videoplaza.tv/*/pulse-sdk-html5/*$script,domain=rtl.be
+!
 !--------Uitzonderingen--------!
 
 ! *** easylistdutch:easylistdutch/Block 1p (whitelist).txt ***
@@ -675,6 +683,7 @@ _advertentieleaderboardhome.
 @@||vinatera.be/wp-content/uploads/*_300x600.$image,first-party
 @@||zilverengoudkopen.nl/banners/header
 @@||zilverengoudkopen.nl/banners/onder
+!
 !--------Algemene verbergregels--------!
 
 ! *** easylistdutch:easylistdutch/Hide (general).txt ***
@@ -703,6 +712,7 @@ _advertentieleaderboardhome.
 ##.reclamekop
 ##.sponsorbalk
 ##a[href^="http://adserver.webads.nl/adclick/"]
+!
 !--------Specifieke verbergregels--------!
 
 ! *** easylistdutch:easylistdutch/Hide (specific).txt ***
@@ -1800,6 +1810,7 @@ westerwoldeactueel.nl##.adr-wrapper
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+!
 !--------Uitzonderingen (verbergregels)--------!
 
 ! *** easylistdutch:easylistdutch/Hide (whitelist).txt ***
@@ -1842,6 +1853,7 @@ vakantieplaats.nl#@#.topAds
 veeteelt.nl#@#.advertorial
 wereldklokken.nl#@#.adsbygoogle
 wereldreizigers.nl#@#.gridlove-ad
+!
 !-----------------Anti-AdBlock-----------------!
 
 ! *** easylistdutch:easylistdutch/Anti-AdBlock.txt ***
