@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Wed, 24 May 2023 17:38:53 +0000
+! Last modified: Wed, 24 May 2023 17:39:51 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -749,6 +749,7 @@ ecommercenews.nl##.widget-partners
 eindexamens.nu,gezondheid.be###leaderboard
 focusclub.nl##.funbox
 freeones.nl##.banner-placeholder
+gamer.nl,id.nl##.adunitContainer:upward(.items-center)
 gezondheid.be###leaderboard_floor
 girlscene.nl##[id$="leaderboard-article"]
 girlscene.nl##[id$="top-ad-desktop"]
@@ -757,7 +758,6 @@ gpblog.com##.betting.dossier-module
 gpblog.com##.promo-element
 hollandskroonnieuws.nl,wieringernieuws.nl###navleft > center:has-text(/advert/i)
 hollandskroonnieuws.nl,wieringernieuws.nl##div#block-blue:has-text(/advert/i)
-id.nl##.adunitContainer:upward(.items-center)
 id.nl##.rounded-md:has(p[class^="call-to-action"]):not(:has-text(/Akkoord en door naar/i))
 juf-milou.nl##.adverteerdersblok
 juf-milou.nl##.content_blok_reclame
