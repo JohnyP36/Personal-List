@@ -76,6 +76,40 @@
     }
 })();
 
+// https://github.com/uBlock-user/uBO-Scriptlets/blob/master/scriptlets.js#L3
+/// remove-shadowroot-elem.js
+/// alias rsre.js
+// example.com##+js(rsre, [selector])
+function removeShadowRootElem(  
+	selector = '' 
+) {
+	  if ( selector === '' ) { return; }
+	  const queryShadowRootElement = (shadowRootElement, rootElement) => {
+		if (!rootElement) {
+		    return queryShadowRootElement(shadowRootElement, document.documentElement);
+		}
+		const els = rootElement.querySelectorAll(shadowRootElement);
+		for (const el of els) { if (el) { return el; } }
+		const probes = rootElement.querySelectorAll('*');
+		for (const probe of probes) {
+		     if (probe.shadowRoot) {
+			 const shadowElement = queryShadowRootElement(shadowRootElement, probe.shadowRoot);
+			 if (shadowElement) { return shadowElement; }
+		     }
+		}
+		return null;
+	  };
+	  const rmshadowelem = () => {
+		try {
+			const elem = queryShadowRootElement(selector);
+			if (elem) { elem.remove(); }
+		} catch { }
+	  };
+	  const observer = new MutationObserver(rmshadowelem);
+	  observer.observe(document.documentElement, { attributes: true, childList: true, subtree: true, });
+	  if ( document.readyState === "complete" ) { self.setTimeout(observer.disconnect(), 67);  }
+}
+
 // based on https://github.com/NanoAdblocker/NanoFilters/blob/master/NanoFilters/NanoResources.txt#L283
 /// click-element.js
 /// alias ce.js
