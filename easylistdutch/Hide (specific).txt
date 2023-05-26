@@ -99,6 +99,7 @@ wielerflits.be,wielerflits.nl##.row [class^="widget"]:has(.mm_container)
 wielerflits.be,wielerflits.nl##div[id*="mm_leaderboard"]
 wielerflits.nl##.widget:has(.wf_headline:has-text(/Wielerdeals/i))
 xmissy.nl##div[data-awe-container-id$="container"][style]
+yachtfocus.com##.av
 zozwanger.nl##.a-single
 zozwanger.nl##.gofollow
 ! 2022
