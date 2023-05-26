@@ -65,6 +65,7 @@
 ||xmissy.nl/skins/_customplayers/*/*footer$image
 ||xmissy.nl/skins/_customplayers/*/*overlay$image
 ||xmissy.nl/skins/_customplayers/*/*top$image
+||yachtfocus.com/wp-content/*/images/bnr/
 !||zwaremetalen.com/wp-content/uploads/*/*-skyscraper-
 ||zwartewaterfm.nl/wp-content/uploads/*/SponsorenZwarteWaterFM
 ! 2022
