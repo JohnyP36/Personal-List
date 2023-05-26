@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Fri, 26 May 2023 15:26:21 +0000
+! Last modified: Fri, 26 May 2023 15:31:10 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -347,6 +347,7 @@ _advertentieleaderboardhome.
 ||xmissy.nl/skins/_customplayers/*/*footer$image
 ||xmissy.nl/skins/_customplayers/*/*overlay$image
 ||xmissy.nl/skins/_customplayers/*/*top$image
+||yachtfocus.com/wp-content/*/images/bnr/
 !||zwaremetalen.com/wp-content/uploads/*/*-skyscraper-
 ||zwartewaterfm.nl/wp-content/uploads/*/SponsorenZwarteWaterFM
 ! 2022
