@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Fri, 26 May 2023 15:16:47 +0000
+! Last modified: Fri, 26 May 2023 15:18:40 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -292,6 +292,7 @@ _advertentieleaderboardhome.
 /wp-content/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|bdsmleven.nl|biflatie.nl|blikopzeewolde.nl|boottesten.nl|cryptobenelux.com|dagbladdewest.com|decibel.nl|dekrantvantynaarlo.nl|deoudrotterdammer.nl|destreekkrant.nu|dekrantnieuws.nl|dewestkrant.nl|dordtcentraal.nl|duurzaam-actueel.nl|genemuidenactueel.nl|goedkoopstekeukensduitsland.nl|hoekschnieuws.nl|katholiek.nl|linuxmag.nl|maaslandradio.nl|mannennieuws.nl|nljug.org|noordkopcentraal.nl|omroepalmere.nl|oogtv.nl|pen.nl|racesport.nl|radiocontinu.nl|radiovisie.eu|railhobby.nl|regionoordkop.nl|retaildetail.be|retaildetail.nl|seksmet.nl|sleutelstad.nl|thekinkyweb.nl|vives.nl|voetbalrotterdam.nl|wegdamnieuws.nl
 /wp-content/uploads/*.gif$image,domain=gostreaming.nl|racesport.nl
 ||a.scholieren.com/v/*$image
+||boottesten.nl/wp-content/uploads/*/*Ad.gif
 ||diecourant.co.za/wp-content/uploads/*-20*-1024x*.jpg^$image
 ||escort46.nl/bg_images/*.gif
 ||partyflock.nl/images/*/*_i*_$image
