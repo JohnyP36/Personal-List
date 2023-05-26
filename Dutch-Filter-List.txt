@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Fri, 26 May 2023 07:10:52 +0000
+! Last modified: Fri, 26 May 2023 07:19:18 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -755,9 +755,8 @@ gezondheid.be###leaderboard_floor
 girlscene.nl##[id$="leaderboard-article"]
 girlscene.nl##[id$="top-ad-desktop"]
 gocar.be###rossel-imu-middle:upward([class*="bg-gray-200"])
-gocar.be###rossel-imu-top
-gocar.be##.pub-text_container
-gocar.be##div[id^="rossel-leader"]:upward(div[class^="container"])
+gocar.be##.container-leaderboard
+gocar.be##.pub-text:upward(2)
 gpblog.com##.articles > li.article:has(.betting)
 gpblog.com##.betting.dossier-module
 gpblog.com##.promo-element
