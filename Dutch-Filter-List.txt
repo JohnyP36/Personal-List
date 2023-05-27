@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Sat, 27 May 2023 08:31:33 +0000
+! Last modified: Sat, 27 May 2023 08:32:45 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -787,6 +787,7 @@ marktplaats.nl,2dehands.be##.hz-Page-content:style(max-width: 1300px!important;)
 marktplaats.nl,2dehands.be##.right-banner-root-container
 marktplaats.nl,2dehands.be##.vip-banner-top-sticky-container
 marktplaats.nl,2dehands.be##div[class*="admarktTitle"]:upward(1)
+motorboot.com##.logo
 nd.nl##.page-header__inner__ad
 nederland.fm##[class*=adv]
 nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
