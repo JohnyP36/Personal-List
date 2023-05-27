@@ -60,6 +60,7 @@
 ||waarzo.nl/imagestore/banners/
 ||waarzo.nl/imagestore/site-banners/
 ||wanttoknow.nl^*Banner
+||watersport-tv.nl/content/*/pages/clnt/*_org$image
 ||wereldstopcontacten.nl/wp-content/uploads/*/image-aff-*.jpg
 ||wettelijke-feestdagen.nl/Images/advertentie$image
 ||wettelijke-feestdagen.nl/Images/banner$image
