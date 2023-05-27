@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Sat, 27 May 2023 09:38:32 +0000
+! Last modified: Sat, 27 May 2023 09:42:44 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,bright.nl,gpblog.com,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -28,6 +28,10 @@ deondernemer.nl##.tile-advert:upward(.tile-wrapper)
 diecourant.co.za##section[id^=smartslider]
 diecourant.co.za###secondary
 dutchitleaders.nl##a[target]:not(a[href*="dutchitleaders.nl"]):not(a[href*="linkedin.com"]):has(img[src*=".assets-servd.host/"])
+duurzaamnieuws.nl##.adv-link:not(a[href$="aanmelden-gratis-nieuwsbrief/"])
+duurzaamnieuws.nl##[class^="av_textblock"]:has-text(/advert/i)
+duurzaamnieuws.nl##aside section[class$="widget_text"]:has-text(wordt mede mogelijk gemaakt door)
+duurzaamnieuws.nl##section[class^="avia_codeblock"]:has-text(wordt mede mogelijk gemaakt door)
 ecommercenews.nl##.ldrtop
 ecommercenews.nl##.sidebar > .widget-image-content-button:not(:has(a[href*="ecommercenews.nl"]))
 ecommercenews.nl##.widget-partners
@@ -214,10 +218,6 @@ dutchcryptotalk.com##[id^="media_image"]:has([href*="/bitvavo"])
 dutchcryptotalk.com##div[id^="dutch-"]:has(a[href^="https://bitvavo.com/"])
 duurzaam-actueel.nl##[class*="bd-block"]:has(a[href]):has(img[src*="wp-content/uploads/"])
 duurzaam-actueel.nl##header + section:has([class*="logo-showcase-slider"])
-duurzaamnieuws.nl##.adv-link
-duurzaamnieuws.nl##[class^="av_textblock"]:has-text(/advert/i)
-duurzaamnieuws.nl##aside section[class$="widget_text"]:has-text(wordt mede mogelijk gemaakt door)
-duurzaamnieuws.nl##section[class^="avia_codeblock"]:has-text(wordt mede mogelijk gemaakt door)
 easyfm.nl,rbsradio.be##.qt-sponsors
 edelmetaal-info.nl##section:has(.masonry-item:not(:has(a[href*="edelmetaal-info.nl"])))
 edelmetaal-info.nl##.figure-image[data-links=""]:not(a[href*="edelmetaal-info.nl"])
