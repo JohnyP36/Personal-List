@@ -67,6 +67,8 @@ marktplaats.nl,2dehands.be##.right-banner-root-container
 marktplaats.nl,2dehands.be##.vip-banner-top-sticky-container
 marktplaats.nl,2dehands.be##div[class*="admarktTitle"]:upward(1)
 motorboot.com##.logo
+nauticlink.com##.adv-link:upward(.nauti-target)
+nauticlink.com##.elementor-section:has-text(partners)
 nd.nl##.page-header__inner__ad
 nederland.fm##[class*=adv]
 nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
