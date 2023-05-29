@@ -2,6 +2,32 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-05-27
+calorieenverbranden.nl##[id^="amzn-assoc-ad"]:upward([id^="block"])
+! 2023-05-26
+daemesenheeren.nl##.widget_media_image
+dehavengids.nl##.elementor-widget-container:has(.g)
+dehavengids.nl##.g
+duurzaamnieuws.nl##.adv-link:not(a[href$="aanmelden-gratis-nieuwsbrief/"])
+gocar.be##.container-leaderboard
+gocar.be##.pub-imu:upward(2)
+gocar.be##.pub-text:upward(2)
+motorboot.com##.logo
+nauticlink.com##.adv-link
+nauticlink.com##.elementor-section:has-text(partners)
+yachtfocus.com##.av
+zeilwereld.nl##.adv-link:upward(.fl-row):has-text(/advert/i):not(:has(article))
+! 2023-05-25
+deondernemer.nl##.section-branded
+deondernemer.nl##.tile-advert:upward(.tile-wrapper)
+gamer.nl,id.nl##.adunitContainer:upward(.items-center)
+id.nl##.rounded-md:has(p[class^="call-to-action"]):not(:has-text(/Akkoord en door naar/i))
+! 2023-05-23
+looopings.nl##.contentBillboard
+looopings.nl##[class*="r89"][style="min-height:250px;"]
+looopings.nl##[class*="r89"][style="min-height:90px;"]
+! 2023-05-15
+bright.nl##.ad
 ! 2023-05-09
 buienradar.be##[class^="AdSlot_AdContainer"]
 ! 2023-05-05
@@ -67,8 +93,6 @@ amateursexstart.nl##.et_pb_module:has(img[src*=".gif"])
 amateursexstart.nl##.g
 apintie.sr###left-inside > div[style$="px;"]:not(:has(a[href]))
 erotischemassages.com##.widget:has(iframe[data-src*="banner"]):upward(.footer-widget-zone)
-id.nl##.adunitContainer:upward(div[class^="flex items-center"])
-id.nl##.rounded-md:has(p[class^="call-to-action"])
 kinkysexcontactonline.nl,privesexgids.nl,zinomteneuken.nl###homebanners
 kicxstart.nl##.elementor-widget-container > a:not([href*="https://kicxstart.nl/"]) > img:upward(.elementor-widget-image)
 klapjes.nl##a[href*="/adverteren"]:upward(2)
@@ -1000,7 +1024,6 @@ menttv.be##.cta-container
 touretappe.nl##.desktopad
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,goedgevoel.be,hln.be,pzc.nl,tubantia.nl##.dfp-space
 autobahn.eu##.d-none.mb-3:has(a[target="_blank"][rel="noopener"])
-duurzaamnieuws.nl##.duurz-content:has([data-advadstrackid])
 turksemedia.nl##.easingslider
 decibel.nl##.edgtf-carousel-holder
 paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
@@ -1131,7 +1154,6 @@ synoniemen.net##.promoblok
 oneworld.nl##.promotion-block
 openingsurengids.be##.promSB
 hetnieuwsvandaag.be,mijn-tv-gids.be##.pub
-gocar.be##.pub-leaderboard-top
 oozo.nl##.rcntctr
 motocrossplanet.nl##.rcol-titel:has-text(Advert)
 rd.nl##.rdnl__adds

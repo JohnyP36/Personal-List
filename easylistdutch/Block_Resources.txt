@@ -2,6 +2,16 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-05-26
+||boottesten.nl/wp-content/uploads/*/*Ad.gif
+||boottesten.nl/wp-content/uploads/*/banner$image
+||dehavengids.nl/wordpress/wp-content/uploads/*/*Banner$image
+||motorboot.com/wp-content/uploads/*/*banner
+||motorboot.com/wp-content/uploads/*/ad-logo
+||nauticlink.com/wp-content/uploads/*/*banner
+||watersport-tv.nl/content/*/pages/clnt/*_org$image
+||yachtfocus.com/wp-content/*/images/bnr/
+||zeilwereld.nl/wp-content/uploads/*/*banner
 ! 2023-05-05
 ||proshop.nl/Images/Topbanner$image
 ! 2023-05-03
