@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Fri, 09 Jun 2023 07:57:06 +0000
+! Last modified: Fri, 09 Jun 2023 14:38:51 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -296,6 +296,7 @@ _advertentieleaderboardhome.
 ||diecourant.co.za/wp-content/uploads/*-20*-1024x*.jpg^$image
 ||escort46.nl/bg_images/*.gif
 ||motorboot.com/wp-content/uploads/*/ad-logo
+||onlinecorrectie.nl/cnc/$image
 ||partyflock.nl/images/*/*_i*_$image
 ||pokeren.nl/assets/*banner
 ||proshop.nl/Images/Topbanner
