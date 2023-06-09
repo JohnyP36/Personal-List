@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Tue, 30 May 2023 13:51:48 +0000
+! Last modified: Fri, 09 Jun 2023 07:57:06 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -1885,7 +1885,7 @@ wereldreizigers.nl#@#.gridlove-ad
 @@||sdk.privacy-center.org^$script,domain=goplay.be
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=goplay.be
 @@||doubleclick.net^$xhr,domain=goplay.be
-goplay.be##+js(json-prune, ads)
+goplay.be##+js(json-prune, ads time_events_url)
 goplay.be##+js(xml-prune, Period[id*="-roll-"][id*="-ad-"], , pubads.g.doubleclick.net/ondemand)
 goplay.be##.theoplayer div > div > div > div[class][style^="left"][style*="width"][style$="px;"]
 *$image,redirect-rule=2x2.png,domain=tweakers.net
