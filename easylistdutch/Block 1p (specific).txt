@@ -14,6 +14,7 @@
 ||diecourant.co.za/wp-content/uploads/*-20*-1024x*.jpg^$image
 ||escort46.nl/bg_images/*.gif
 ||motorboot.com/wp-content/uploads/*/ad-logo
+||onlinecorrectie.nl/cnc/$image
 ||partyflock.nl/images/*/*_i*_$image
 ||pokeren.nl/assets/*banner
 ||proshop.nl/Images/Topbanner
