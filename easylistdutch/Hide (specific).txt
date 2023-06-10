@@ -60,7 +60,7 @@ letsgodigital.org##.product__wrapper:has(.adsbygoogle)
 loonwijzer.be##.main__bottom:has(div[id*="gpt-ad-"])
 loonwijzer.be##[class^="article__ad"]
 looopings.nl##[class*="r89"][style="min-height:250px;"]
-looopings.nl##div[class^="r89-desktop"]
+looopings.nl,scientias.nl##div[class^="r89-desktop"]
 marktplaats.nl,2dehands.be###adsense-container
 marktplaats.nl,2dehands.be##.banner-top-dt
 marktplaats.nl,2dehands.be##.BannerBottom-root
