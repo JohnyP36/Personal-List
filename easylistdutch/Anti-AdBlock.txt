@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Sat, 10 Jun 2023 07:05:46 +0000
+! Last modified: Sat, 10 Jun 2023 07:12:11 +0000
 ! 2023
 112amersfoort.nl,112amsterdam.nl,112apeldoorn.nl,112arnhem.nl,112barneveld.nl,112bunschoten.nl,112doetinchem.nl,112ede.nl,112harderwijk.nl,112hilversum.nl,112inbeeld.nl,112nijkerk.nl,112ridderkerk.nl,112rotterdam.nl,112scherpenzeel.nl,112schiedam.nl,112vallei.nl,112veenendaal.nl,112wageningen.nl,112zeewolde.nl,112zwolle.nl##+js(noeval-if, /chp_?ad/)
 @@/wp-content/*/scripts/adb.min.js$script,first-party,domain=androidplanet.nl|iphoned.nl
@@ -35,7 +35,6 @@ notebookcheck.nl##+js(abort-current-inline-script, document.getElementById, AAds
 radiowereld.nl##+js(no-setInterval-if, adb)
 ! vandaaginside.nl
 @@||static.kijk.nl/prebid/ad.gif$xhr,first-party,domain=embed.kijk.nl
-@@||cmp.quantcast.com/choice/*/*vi.nl/choice.js$script,domain=vi.nl
 @@||fwmrm.net/ad/*$xhr,domain=embed.viaplay.com|racingnews365.nl
 @@||fwmrm.net/crossdomain.xml$xhr,domain=embed.viaplay.com|racingnews365.nl
 ! 2022-10-13 https://github.com/uBlockOrigin/uAssets/issues/14999
