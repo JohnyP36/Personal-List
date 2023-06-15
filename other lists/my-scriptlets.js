@@ -1,3 +1,4 @@
+// THIS MAY NOT BE NEEDED ANYMORE, because of https://github.com/gorhill/uBlock/commit/27a54c084556f657522b06484d2e28b21e1fac5a
 // https://github.com/uBlock-user/uBO-Scriptlets/commit/3d1f48573749ac85b20031f78e0d5f7c7bb0f3af#
 /// setCookie.js
 /// alias sc.js
