@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Fri, 09 Jun 2023 14:38:51 +0000
+! Last modified: Sat, 01 Jul 2023 09:23:37 +0000
 ! 2023
 /^https?:\/\/statics\.(?:7sur7|ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
   !||statics.*.*/js/advertising-$script,domain=7sur7.be|ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
@@ -62,6 +62,7 @@
 ||waarzo.nl/imagestore/site-banners/
 ||wanttoknow.nl^*Banner
 ||watersport-tv.nl/content/*/pages/clnt/*_org$image
+||webstick.nl/images/images-ads/$image
 ||wereldstopcontacten.nl/wp-content/uploads/*/image-aff-*.jpg
 ||wettelijke-feestdagen.nl/Images/advertentie$image
 ||wettelijke-feestdagen.nl/Images/banner$image
