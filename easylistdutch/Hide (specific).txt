@@ -40,6 +40,7 @@ eindexamens.nu,gezondheid.be###leaderboard
 focusclub.nl##.funbox
 freeones.nl##.banner-placeholder
 gamer.nl,id.nl##.adunitContainer:upward(.items-center)
+gebruikershandleiding.com##[class^="adserver-container"]
 gezondheid.be###leaderboard_floor
 girlscene.nl##[id$="leaderboard-article"]
 girlscene.nl##[id$="top-ad-desktop"]
