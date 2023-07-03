@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Sat, 01 Jul 2023 09:22:17 +0000
+! Last modified: Mon, 03 Jul 2023 11:04:29 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,bright.nl,gpblog.com,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -40,6 +40,7 @@ eindexamens.nu,gezondheid.be###leaderboard
 focusclub.nl##.funbox
 freeones.nl##.banner-placeholder
 gamer.nl,id.nl##.adunitContainer:upward(.items-center)
+gebruikershandleiding.com##[class^="adserver-container"]
 gezondheid.be###leaderboard_floor
 girlscene.nl##[id$="leaderboard-article"]
 girlscene.nl##[id$="top-ad-desktop"]
