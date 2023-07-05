@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Wed, 05 Jul 2023 07:27:52 +0000
+! Last modified: Wed, 05 Jul 2023 07:29:56 +0000
 ! 2023
 /^https?:\/\/statics\.(?:7sur7|ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
   !||statics.*.*/js/advertising-$script,domain=7sur7.be|ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
@@ -11,7 +11,9 @@
 /wp-content/uploads/*.gif$image,domain=gostreaming.nl|racesport.nl
 ||a.scholieren.com/v/*$image
 ||autonieuws.be/templates/yootheme/cache/*/*Banni%C3%A8re*Autonieuws_$image
+||autonieuws.be/templates/yootheme/cache/*/325_x_325_NL-$image
 ||autonieuws.be/templates/yootheme/cache/*/800_x_172_px_NL-$image
+||autonieuws.be/templates/yootheme/cache/*/Athlon_logo-$image
 ||autonieuws.be/templates/yootheme/cache/*/BEL_*_325x325_nl-$image
 ||autonieuws.be/templates/yootheme/cache/*/BEL_*_800x172_nl$image
 ||autonieuws.be/templates/yootheme/cache/*Banner$image
