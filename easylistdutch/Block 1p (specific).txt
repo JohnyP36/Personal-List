@@ -11,7 +11,9 @@
 /wp-content/uploads/*.gif$image,domain=gostreaming.nl|racesport.nl
 ||a.scholieren.com/v/*$image
 ||autonieuws.be/templates/yootheme/cache/*/*Banni%C3%A8re*Autonieuws_$image
+||autonieuws.be/templates/yootheme/cache/*/325_x_325_NL-$image
 ||autonieuws.be/templates/yootheme/cache/*/800_x_172_px_NL-$image
+||autonieuws.be/templates/yootheme/cache/*/Athlon_logo-$image
 ||autonieuws.be/templates/yootheme/cache/*/BEL_*_325x325_nl-$image
 ||autonieuws.be/templates/yootheme/cache/*/BEL_*_800x172_nl$image
 ||autonieuws.be/templates/yootheme/cache/*Banner$image
