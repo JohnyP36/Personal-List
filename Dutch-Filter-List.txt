@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Wed, 05 Jul 2023 07:29:56 +0000
+! Last modified: Wed, 05 Jul 2023 12:20:47 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -834,6 +834,7 @@ tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
 tweakers.net##.widebnr
 tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
 voetbalrotterdam.nl##.lshowcase-logos:has(img)
+vriendin.nl##[id^="adf-autonative"]
 webstick.nl##p > a[href][rel$="sponsored"] img[src^="images/images-ads/"]:upward(aside > section)
 webstick.nl##p.center2:has-text(/advert/i)
 weer.nl##div[class*="block"]:has(a[href*="www.voordeeluitjes.nl"])
