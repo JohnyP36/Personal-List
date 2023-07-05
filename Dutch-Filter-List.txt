@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Mon, 03 Jul 2023 11:04:29 +0000
+! Last modified: Wed, 05 Jul 2023 07:27:52 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -292,6 +292,11 @@ _advertentieleaderboardhome.
 /wp-content/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|bdsmleven.nl|biflatie.nl|blikopzeewolde.nl|boottesten.nl|cryptobenelux.com|dagbladdewest.com|decibel.nl|dehavengids.nl|dekrantvantynaarlo.nl|deoudrotterdammer.nl|destreekkrant.nu|dekrantnieuws.nl|dewestkrant.nl|dordtcentraal.nl|duurzaam-actueel.nl|genemuidenactueel.nl|goedkoopstekeukensduitsland.nl|hoekschnieuws.nl|katholiek.nl|linuxmag.nl|maaslandradio.nl|mannennieuws.nl|motorboot.com|nauticlink.com|nljug.org|noordkopcentraal.nl|omroepalmere.nl|oogtv.nl|pen.nl|racesport.nl|radiocontinu.nl|radiovisie.eu|railhobby.nl|regionoordkop.nl|retaildetail.be|retaildetail.nl|seksmet.nl|sleutelstad.nl|thekinkyweb.nl|vives.nl|voetbalrotterdam.nl|wegdamnieuws.nl|zeilwereld.nl
 /wp-content/uploads/*.gif$image,domain=gostreaming.nl|racesport.nl
 ||a.scholieren.com/v/*$image
+||autonieuws.be/templates/yootheme/cache/*/*Banni%C3%A8re*Autonieuws_$image
+||autonieuws.be/templates/yootheme/cache/*/800_x_172_px_NL-$image
+||autonieuws.be/templates/yootheme/cache/*/BEL_*_325x325_nl-$image
+||autonieuws.be/templates/yootheme/cache/*/BEL_*_800x172_nl$image
+||autonieuws.be/templates/yootheme/cache/*Banner$image
 ||boottesten.nl/wp-content/uploads/*/*Ad.gif
 ||diecourant.co.za/wp-content/uploads/*-20*-1024x*.jpg^$image
 ||escort46.nl/bg_images/*.gif

@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Sat, 01 Jul 2023 09:23:37 +0000
+! Last modified: Wed, 05 Jul 2023 07:27:52 +0000
 ! 2023
 /^https?:\/\/statics\.(?:7sur7|ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
   !||statics.*.*/js/advertising-$script,domain=7sur7.be|ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
@@ -10,6 +10,11 @@
 /wp-content/*banner$image,domain=alblasserdamsnieuws.nl|baanwacht.nl|bdsmleven.nl|biflatie.nl|blikopzeewolde.nl|boottesten.nl|cryptobenelux.com|dagbladdewest.com|decibel.nl|dehavengids.nl|dekrantvantynaarlo.nl|deoudrotterdammer.nl|destreekkrant.nu|dekrantnieuws.nl|dewestkrant.nl|dordtcentraal.nl|duurzaam-actueel.nl|genemuidenactueel.nl|goedkoopstekeukensduitsland.nl|hoekschnieuws.nl|katholiek.nl|linuxmag.nl|maaslandradio.nl|mannennieuws.nl|motorboot.com|nauticlink.com|nljug.org|noordkopcentraal.nl|omroepalmere.nl|oogtv.nl|pen.nl|racesport.nl|radiocontinu.nl|radiovisie.eu|railhobby.nl|regionoordkop.nl|retaildetail.be|retaildetail.nl|seksmet.nl|sleutelstad.nl|thekinkyweb.nl|vives.nl|voetbalrotterdam.nl|wegdamnieuws.nl|zeilwereld.nl
 /wp-content/uploads/*.gif$image,domain=gostreaming.nl|racesport.nl
 ||a.scholieren.com/v/*$image
+||autonieuws.be/templates/yootheme/cache/*/*Banni%C3%A8re*Autonieuws_$image
+||autonieuws.be/templates/yootheme/cache/*/800_x_172_px_NL-$image
+||autonieuws.be/templates/yootheme/cache/*/BEL_*_325x325_nl-$image
+||autonieuws.be/templates/yootheme/cache/*/BEL_*_800x172_nl$image
+||autonieuws.be/templates/yootheme/cache/*Banner$image
 ||boottesten.nl/wp-content/uploads/*/*Ad.gif
 ||diecourant.co.za/wp-content/uploads/*-20*-1024x*.jpg^$image
 ||escort46.nl/bg_images/*.gif
