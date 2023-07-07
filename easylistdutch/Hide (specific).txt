@@ -22,6 +22,8 @@ autonieuws.be##.uk-width-1-2\@m:has(.uk-slider-items [target="_blank"] picture)
 autonieuws.be###nieuwsbrief + .uk-section:has(.uk-slider-items [target="_blank"] picture)
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[id^="div-gpt-ad"]:upward(.component__plugin)
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center[advobject]:upward(2)
+belegger.nl,beursduivel.be,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-wrapper
+belegger.nl,beursduivel.be,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
 blikopzeewolde.nl##.fusion-flex-container.fullwidth-box.fusion-fullwidth:has(:not(a[href^="https://www.blikopzeewolde.nl/"]) > .fusion-column-inner-bg-image)
 bruzz.be,omroepflevoland.nl,pu.nl,sportuitslagen.org,trendalert.nl##.ad-container
 calorieenverbranden.nl##[id^="amzn-assoc-ad"]:upward([id^="block"])
@@ -164,8 +166,6 @@ autozine.nl##.ad300x1050
 basketballbelgium.be##.sidebar-inner aside:has(.carousel.slide)
 basketballbelgium.be###sidebar-top-content > .widget-area:has(img[width="970"][height="250"])
 bdsmleven.nl##[class*="random_banner"]
-belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-wrapper
-belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
 belegger.nl,beursgorilla.nl##article[class*="plus"]:contains(plus500)
 belegger.nl##.Textads:upward(.ContentRightBlock)
 beleggersbelangen.nl##.promo
