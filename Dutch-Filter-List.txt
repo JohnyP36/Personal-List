@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Wed, 12 Jul 2023 05:28:00 +0000
+! Last modified: Wed, 12 Jul 2023 05:53:29 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -834,6 +834,21 @@ rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
 serietotaal.nl##[class^="banner"]
 serietotaal.nl###adf-autonative
 sexervaringendelen.nl##[class^=" lazyload"][data-src*="banner"]:upward(2)
+telegraaf.nl##.ArticleBodyBlocks__bannerWrapper
+telegraaf.nl##.ArticlePageWrapper__banner
+telegraaf.nl##.Banner
+telegraaf.nl##.OutbrainWrapper
+telegraaf.nl##.Section__topBanner
+telegraaf.nl##.TextArticlePage__bannerWrapper
+telegraaf.nl##.withBanners
+telegraaf.nl##.ComponentRotation
+telegraaf.nl##.MainCuratedTeasersLayout__banner
+telegraaf.nl##.SectionPage__bannerWrapper
+telegraaf.nl##.SportScoreboardPage__banner
+telegraaf.nl##.VideoArticlePage__banner
+telegraaf.nl##.VideoPage__banner
+telegraaf.nl##.WebpushOptin__main
+telegraaf.nl##.withBanners + .ComponentRotation
 tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
 tweakers.net##.widebnr
 tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
@@ -1771,20 +1786,6 @@ tcroomburg.nl##.hpitem:has(h3:has-text(Partner))
 techpulse.be##.td-banner-wrap-full
 techzine.nl###lead
 telefoonboek.nl##[class*="organic-"]:has-text(Advertentie)
-telegraaf.nl##.ArticleBodyBlocks__bannerWrapper
-telegraaf.nl##.ArticlePageWrapper__banner
-telegraaf.nl##.Banner
-telegraaf.nl##.ComponentRotation
-telegraaf.nl##.MainCuratedTeasersLayout__banner
-telegraaf.nl##.OutbrainWrapper
-telegraaf.nl##.SectionPage__bannerWrapper
-telegraaf.nl##.SportScoreboardPage__banner
-telegraaf.nl##.TextArticlePage__bannerWrapper
-telegraaf.nl##.VideoArticlePage__banner
-telegraaf.nl##.VideoPage__banner
-telegraaf.nl##.WebpushOptin__main
-telegraaf.nl##.withBanners
-telegraaf.nl##.withBanners + .ComponentRotation
 tellows.nl###lb_header
 tiener-sexverhalen.nl##aside[id^="block"]:has(img[src*="/wp-content/uploads/"][src$=".gif"])
 !topgear.nl##.theme-advertorial
