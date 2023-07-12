@@ -41,6 +41,8 @@ ecommercenews.nl##.ldrtop
 ecommercenews.nl##.sidebar > .widget-image-content-button:not(:has(a[href*="ecommercenews.nl"]))
 ecommercenews.nl##.widget-partners
 eindexamens.nu,gezondheid.be###leaderboard
+fcupdate.nl##.betting_partner
+fcupdate.nl##[id*="web_billboard"]
 focusclub.nl##.funbox
 freeones.nl##.banner-placeholder
 gamer.nl,id.nl##.adunitContainer:upward(.items-center)
@@ -244,7 +246,6 @@ europa-bouwmachines.nl,europa-heftruck.nl,europa-landbouwmachines.nl,europa-vrac
 !ewmagazine.nl##.widgets > .la-items:has(a[href$="/partners"])
 farmaline.be##.c-scroll-list:has(img[src*="farmaline.be/assets/banners/"])
 fcgroningen.nl##.sidebar__item--banner
-fcupdate.nl##.bet365
 feestdagen-be.be,feestdagen-nl.nl##aside:has(.adsbygoogle)
 feestdagen-be.be,feestdagen-nl.nl##div[class]:has(>.adsbygoogle):upward(1)
 feestdagen-nederland.nl###ad-top-desktop
