@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Wed, 12 Jul 2023 08:09:54 +0000
+! Last modified: Sat, 22 Jul 2023 12:02:11 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -777,6 +777,7 @@ eindexamens.nu,gezondheid.be###leaderboard
 fcupdate.nl##.betting_partner
 fcupdate.nl##[id*="web_billboard"]
 focusclub.nl##.funbox
+fok.nl,looopings.nl,scientias.nl##div[class^="r89-desktop"]
 freeones.nl##.banner-placeholder
 gamer.nl,id.nl##.adunitContainer:upward(.items-center)
 gebruikershandleiding.com##[class^="adserver-container"]
@@ -801,7 +802,6 @@ letsgodigital.org##.product__wrapper:has(.adsbygoogle)
 loonwijzer.be##.main__bottom:has(div[id*="gpt-ad-"])
 loonwijzer.be##[class^="article__ad"]
 looopings.nl##[class*="r89"][style="min-height:250px;"]
-looopings.nl,scientias.nl##div[class^="r89-desktop"]
 marktplaats.nl,2dehands.be###adsense-container
 marktplaats.nl,2dehands.be##.banner-top-dt
 marktplaats.nl,2dehands.be##.BannerBottom-root
