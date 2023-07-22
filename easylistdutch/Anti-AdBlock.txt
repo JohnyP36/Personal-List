@@ -13,6 +13,7 @@ aimsolutions.nl##+js(noeval-if, adsBlocked)
 goplay.be##+js(json-prune, ads time_events_url)
 goplay.be##+js(xml-prune, Period[id*="-roll-"][id*="-ad-"], , pubads.g.doubleclick.net/ondemand)
 goplay.be##.theoplayer div > div > div > div[class][style^="left"][style*="width"][style$="px;"]
+@@||www.looopings.nl/taboola_ads.js$script,first-party
 *$image,redirect-rule=2x2.png,domain=tweakers.net
 @@||tweakers.net^$generichide
 tweakers.net##+js(no-fetch-if, /a[ab]\.tweakers\.nl/)
@@ -30,7 +31,6 @@ hardware.info##^script:has-text(Inject=!)
 @@*&ad$xhr,domain=kijk.nl
 @@||ads-talpa.adhese.com/json/$xhr,domain=kijk.nl
 *$image,domain=kijk.nl,redirect-rule=1x1.gif
-@@||looopings.nl/peel1.js
 meerdangewenst.nl##[class*="footer-section"] > *:style(display: none !important;)
 notebookcheck.nl##+js(abort-current-inline-script, document.getElementById, AAdsspaCe)
 radiowereld.nl##+js(no-setInterval-if, adb)
