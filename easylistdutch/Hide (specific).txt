@@ -46,6 +46,7 @@ eindexamens.nu,gezondheid.be###leaderboard
 fcupdate.nl##.betting_partner
 fcupdate.nl##[id*="web_billboard"]
 focusclub.nl##.funbox
+fok.nl,looopings.nl,scientias.nl##div[class^="r89-desktop"]
 freeones.nl##.banner-placeholder
 gamer.nl,id.nl##.adunitContainer:upward(.items-center)
 gebruikershandleiding.com##[class^="adserver-container"]
@@ -70,7 +71,6 @@ letsgodigital.org##.product__wrapper:has(.adsbygoogle)
 loonwijzer.be##.main__bottom:has(div[id*="gpt-ad-"])
 loonwijzer.be##[class^="article__ad"]
 looopings.nl##[class*="r89"][style="min-height:250px;"]
-looopings.nl,scientias.nl##div[class^="r89-desktop"]
 marktplaats.nl,2dehands.be###adsense-container
 marktplaats.nl,2dehands.be##.banner-top-dt
 marktplaats.nl,2dehands.be##.BannerBottom-root
