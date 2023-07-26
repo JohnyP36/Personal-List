@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Sat, 22 Jul 2023 12:13:11 +0000
+! Last modified: Wed, 26 Jul 2023 08:34:00 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -1911,13 +1911,11 @@ looopings.nl##+js(abort-current-inline-script, document.getElementById, .style.d
 *$image,redirect-rule=2x2.png,domain=tweakers.net
 @@||tweakers.net^$generichide
 tweakers.net##+js(no-fetch-if, /a[ab]\.tweakers\.nl/)
-tweakers.net##+js(addEventListener-defuser, /[\w]{16}/, /^e=>.*\(e\)$/)
+tweakers.net##+js(addEventListener-defuser, /[\w]{16}/, /^e=>.*/)
+!tweakers.net##+js(addEventListener-defuser, /[\w]{16}/, /^e=>.*\(e\)$/)
 tweakers.net##.promotor:has([src*="whitelist_message"]):upward(1)
 !tweakers.net#@#.widebnr
 !tweakers.net##.widebnr:style(visibility: collapse !important; min-height: 1.5px !important;)
-!@@||tweakers.net^$shide
-!@@||aa.tweakers.nl/json*$xhr,domain=tweakers.net
-!@@||ab.tweakers.nl/pool/lib/*.gif$xhr,domain=tweakers.net
 ! 2022
 autoweek.nl##+js(set-constant, isAdBlockActive, false)
 citaten.net#@##bottom-ad
