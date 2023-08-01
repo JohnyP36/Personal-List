@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Tue, 01 Aug 2023 07:27:37 +0000
+! Last modified: Tue, 01 Aug 2023 07:28:27 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -316,6 +316,7 @@ _advertentieleaderboardhome.
 ||racingnews365.nl/images/logos/partners/*/$image
 ||radioacacia.nl/sponsoren/
 ||radiolelystad.nl/images/stories/Banners/
+||reformatorischeomroep.nl/*/*banner$image
 ||rickfm.nl/cwm/fm/userfiles/banner/thumb
 ||rtvnof.nl/prowurk/
 ||schuttevaer.nl/partnersites/
