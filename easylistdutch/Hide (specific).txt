@@ -138,6 +138,7 @@ wielerflits.nl##.widget:has(.wf_headline:has-text(/Wielerdeals/i))
 xmissy.nl##div[data-awe-container-id$="container"][style]
 yachtfocus.com##.av
 zeilwereld.nl##.adv-link:upward(.fl-row):has-text(/advert/i):not(:has(article))
+zita.be###shopsuiteApplication
 zita.be##[id^="rossel-leaderboard"]:upward(.tdc-row)
 zozwanger.nl##.a-single
 zozwanger.nl##.gofollow
