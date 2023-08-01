@@ -124,6 +124,8 @@ telegraaf.nl##.withBanners + .ComponentRotation
 tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
 tweakers.net##.widebnr
 tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
+voetbalvandaag.be##.adds
+voetbalvandaag.be##.embed-responsive:has(iframe[src*="banners"])
 voetbalrotterdam.nl##.lshowcase-logos:has(img)
 vriendin.nl##[id^="adf-autonative"]
 vrouwen-sexdate.be##.elementor-widget:has(.lazyloading[data-src*="index.php"])
@@ -1088,8 +1090,6 @@ voetbal.com##.adbox
 voetbal4u.com##.widget_text:has(h4):has-text(/crypto/i)
 voetbalcentraal.nl##.blok:has(h3:has-text(Partners))
 voetbaluitslagen.com##.cta
-voetbalvandaag.be##.adds
-voetbalvandaag.be##.panel-box:has(a[href^="http://unibet.me/"])
 voetbal-vandaag.nl###sidebar_aanbevelen
 waarzo.nl##.contentbox:has-text(Advertentie)
 waarzo.nl##.smallbox:has-text(Advertentie)
