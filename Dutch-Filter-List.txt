@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Tue, 01 Aug 2023 10:37:23 +0000
+! Last modified: Tue, 01 Aug 2023 11:10:38 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -855,6 +855,7 @@ telegraaf.nl##.VideoArticlePage__banner
 telegraaf.nl##.VideoPage__banner
 telegraaf.nl##.WebpushOptin__main
 telegraaf.nl##.withBanners + .ComponentRotation
+transport-online.nl##.widget:has(.advertisement-new:not(:has(a[href$="/adverteerdersinformatie/"])))
 trucks.nl##.highlighted-advertisers:upward(.row)
 trucks.nl##.trucks_ros_alpha_rectangle-halfpage
 trucks.nl##.trucks_ros_leaderboard-billboard
@@ -1825,7 +1826,6 @@ tiener-sexverhalen.nl##aside[id^="block"]:has(img[src*="/wp-content/uploads/"][s
 !topgear.nl##.theme-advertorial
 touretappe.nl##.desktopad
 transfermarkt.nl##.werbung
-transport-online.nl##.widget:has(.advertisement-new:not(:has(a[href$="/adverteerdersinformatie/"])))
 treinreiziger.nl##div[class*="ads-adsense-"]
 turksemedia.nl##.easingslider
 twentefm.nl##.bannerzone_728x90:has-text(/advert/i)
