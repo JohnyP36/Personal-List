@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Tue, 01 Aug 2023 11:54:14 +0000
+! Last modified: Tue, 01 Aug 2023 12:30:53 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -840,6 +840,9 @@ rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
 serietotaal.nl##[class^="banner"]
 serietotaal.nl###adf-autonative
 sexervaringendelen.nl##[class^=" lazyload"][data-src*="banner"]:upward(2)
+techpulse.be###page-content > section.wpb_row.height_medium:has(.wpb_wrapper div[id^="gpt-ad"])
+techpulse.be##.wpb_wrapper > div[id^="techp"]:upward(.g-cols.wpb_row)
+techpulse.be##.wpb_wrapper:has( > div[class^="g"]):upward(section[class$="wpb_row height_small"]):not(:nth-of-type(1))
 telefoonboek.nl###tbresult-top
 telefoonboek.nl##[class^="detail-leaderbord"]:has(.adsbygoogle)
 telegraaf.nl##.ArticleBodyBlocks__bannerWrapper
@@ -1826,7 +1829,6 @@ synoniemen.net##.promoblok
 takecare4.eu###branding > .clearfix
 tameteo.nl##div[id*="banner"]:upward(2)
 tcroomburg.nl##.hpitem:has(h3:has-text(Partner))
-techpulse.be##.td-banner-wrap-full
 techzine.nl###lead
 transfermarkt.nl##.werbung
 treinreiziger.nl##div[class*="ads-adsense-"]
