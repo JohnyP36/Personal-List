@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Tue, 01 Aug 2023 09:37:31 +0000
+! Last modified: Tue, 01 Aug 2023 09:42:54 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -1830,7 +1830,6 @@ vagina.nl##[id$="fish-hooks"]:has-text(Advertenties)
 velt.be##.simpleads:has-text(/sponsor/i)
 veto.be##div[class*="spacer block"]:has([href][id*="advert"])
 villamedia.nl##[href^="https://www.anp.nl/start"]
-visserijnieuws.nl##[class^="row advertentie-"]:not([class*="advertentie-1"])
 vivatube.com##.mt15.container:has-text(Advert)
 vlietnieuws.nl##.banner_wrapper
 voetbal.com##.adbox
