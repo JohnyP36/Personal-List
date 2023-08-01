@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Tue, 01 Aug 2023 08:28:31 +0000
+! Last modified: Tue, 01 Aug 2023 08:33:38 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -780,7 +780,7 @@ fcupdate.nl##[id*="web_billboard"]
 focusclub.nl##.funbox
 fok.nl,looopings.nl,scientias.nl##div[class^="r89-desktop"]
 freeones.nl##.banner-placeholder
-gamer.nl,id.nl##.adunitContainer:upward(.items-center)
+gamer.nl,id.nl,wasmachines.nl##.adunitContainer:upward(.items-center)
 gebruikershandleiding.com##[class^="adserver-container"]
 gezondheid.be###leaderboard_floor
 girlscene.nl##[id$="leaderboard-article"]
@@ -1831,7 +1831,6 @@ wanttoknow.nl###right-sidebar > *:has(.mb-3:has-text(Advert))
 wanttoknow.nl###right-sidebar > .mb-3:has(img[src*="banner"])
 wanttoknow.nl##.float-right
 wanttoknow.nl##.mb-3:has-text(Advert)
-wasmachines.nl##.rectangle
 webwereld.nl##.leaderBoardHolder
 weeronline.nl##div[class^="styled__AdWrapper-"]
 weeronline.nl##div[class^="styled__FooterAdWrapper-"]
