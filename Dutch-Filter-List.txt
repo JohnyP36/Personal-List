@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Tue, 01 Aug 2023 10:27:58 +0000
+! Last modified: Tue, 01 Aug 2023 10:32:31 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -1826,7 +1826,6 @@ transport-online.nl##.widget:has(.advertisement-new:not(:has(a[href$="/adverteer
 treinreiziger.nl##div[class*="ads-adsense-"]
 trucks.nl##.trucks_ros_alpha_rectangle-halfpage
 trucks.nl##.trucks_ros_leaderboard-billboard
-turkinfo.nl##.img_position_left:has([src*=adsbygoogle])
 turksemedia.nl##.easingslider
 twentefm.nl##.bannerzone_728x90:has-text(/advert/i)
 veto.be##div[class*="spacer block"]:has([href][id*="advert"])

@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Tue, 01 Aug 2023 10:27:58 +0000
+! Last modified: Tue, 01 Aug 2023 10:32:31 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,bright.nl,gpblog.com,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -1093,7 +1093,6 @@ transport-online.nl##.widget:has(.advertisement-new:not(:has(a[href$="/adverteer
 treinreiziger.nl##div[class*="ads-adsense-"]
 trucks.nl##.trucks_ros_alpha_rectangle-halfpage
 trucks.nl##.trucks_ros_leaderboard-billboard
-turkinfo.nl##.img_position_left:has([src*=adsbygoogle])
 turksemedia.nl##.easingslider
 twentefm.nl##.bannerzone_728x90:has-text(/advert/i)
 veto.be##div[class*="spacer block"]:has([href][id*="advert"])
