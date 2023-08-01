@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Tue, 01 Aug 2023 07:59:18 +0000
+! Last modified: Tue, 01 Aug 2023 08:07:56 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -867,6 +867,7 @@ wielerflits.be,wielerflits.nl##.mm_container
 wielerflits.be,wielerflits.nl##.row [class^="widget"]:has(.mm_container)
 wielerflits.be,wielerflits.nl##div[id*="mm_leaderboard"]
 wielerflits.nl##.widget:has(.wf_headline:has-text(/Wielerdeals/i))
+willem-ii.nl##.sponsors-block
 xmissy.nl##div[data-awe-container-id$="container"][style]
 yachtfocus.com##.av
 zakenreisnieuws.nl##[id*="web_billboard"]:upward(article > .field)
@@ -1016,7 +1017,7 @@ fleet-mobility.nl##.spotlight:has-text(Partners)
 flexnieuws.nl##.header-ads__custom-ad
 floranews.com##td[align="center"]:has(> hr):has([href^="/banner"])
 floranews.com##td[rowspan="2"][width="590"]:has(a[href^="/banner"]):not(:has(img[src*="Hier kan uw banner staan"]))
-folderz.nl,intermediair.nl,spel.nl,spelletjes.nl,willem-ii.nl##.advert
+folderz.nl,intermediair.nl,spel.nl,spelletjes.nl##.advert
 footballtransfers.com##div[id*="leaderboard-billboard"]
 forum.scholieren.com###posts .thead:has-text(/advert/i)
 forum.scholieren.com##div[data-advert-placeholder-size]
