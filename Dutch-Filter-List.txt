@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Wed, 26 Jul 2023 08:34:00 +0000
+! Last modified: Tue, 01 Aug 2023 07:27:37 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -1247,7 +1247,6 @@ radio0511.com##.leftColumn.cell > div:has(.sponsorImg)
 radionl.fm##.desktop_mobile:not(a[href*="radionl.fm"])
 radioviainternet.be##.banner-size-leaderbord
 radiozuidrand.be##aside:has-text(/advert/i)
-reformatorischeomroep.nl##section:has(.item-banner)
 rickfm.nl###advertisement
 risallah.com##[class^="zijbalk"] > table > tbody:has-text(Advertentie)
 rtlboulevard.nl,rtlnieuws.nl###dfp-billboard-wrapper
