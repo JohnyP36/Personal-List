@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Tue, 01 Aug 2023 09:04:55 +0000
+! Last modified: Tue, 01 Aug 2023 09:12:06 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -1821,7 +1821,6 @@ vlietnieuws.nl##.banner_wrapper
 voetbal.com##.adbox
 voetbal4u.com##.widget_text:has(h4):has-text(/crypto/i)
 voetbalcentraal.nl##.blok:has(h3:has-text(Partners))
-voetbaluitslagen.com##.cta
 voetbal-vandaag.nl###sidebar_aanbevelen
 waarzo.nl##.contentbox:has-text(Advertentie)
 waarzo.nl##.smallbox:has-text(Advertentie)
