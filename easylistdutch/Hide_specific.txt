@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Tue, 01 Aug 2023 08:14:05 +0000
+! Last modified: Tue, 01 Aug 2023 08:18:27 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,bright.nl,gpblog.com,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -129,6 +129,7 @@ vriendin.nl##[id^="adf-autonative"]
 webstick.nl##p > a[href][rel$="sponsored"] img[src^="images/images-ads/"]:upward(aside > section)
 webstick.nl##p.center2:has-text(/advert/i)
 weer.nl##div[class*="block"]:has(a[href*="www.voordeeluitjes.nl"])
+weertdegekste.nl##.banner-right
 wielerflits.be,wielerflits.nl###mm_hpa
 wielerflits.be,wielerflits.nl##.affiliate_links
 wielerflits.be,wielerflits.nl##.mm_container
@@ -1105,9 +1106,6 @@ webwereld.nl##.leaderBoardHolder
 weeronline.nl##div[class^="styled__AdWrapper-"]
 weeronline.nl##div[class^="styled__FooterAdWrapper-"]
 !weerplaza.nl##.hf-widget
-weertdegekste.nl##.banner-right
-weertdegekste.nl##.infeed-outer
-weertdegekste.nl##.infeed-wrap
 westerwoldeactueel.nl##.adr-wrapper
 
 !#if env_mobile
