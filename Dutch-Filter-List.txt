@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Tue, 01 Aug 2023 12:30:53 +0000
+! Last modified: Tue, 01 Aug 2023 12:58:01 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -840,9 +840,13 @@ rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
 serietotaal.nl##[class^="banner"]
 serietotaal.nl###adf-autonative
 sexervaringendelen.nl##[class^=" lazyload"][data-src*="banner"]:upward(2)
+takecare4.eu###branding > .clearfix
+tameteo.nl##div[id*="banner"]:upward(2)
+tcroomburg.nl##.hpitem:has(h3:has-text(Partner))
 techpulse.be###page-content > section.wpb_row.height_medium:has(.wpb_wrapper div[id^="gpt-ad"])
 techpulse.be##.wpb_wrapper > div[id^="techp"]:upward(.g-cols.wpb_row)
 techpulse.be##.wpb_wrapper:has( > div[class^="g"]):upward(section[class$="wpb_row height_small"]):not(:nth-of-type(1))
+techzine.nl###lead
 telefoonboek.nl###tbresult-top
 telefoonboek.nl##[class^="detail-leaderbord"]:has(.adsbygoogle)
 telegraaf.nl##.ArticleBodyBlocks__bannerWrapper
@@ -866,10 +870,12 @@ tiener-sexverhalen.nl##aside[id^="block"]:has(img[src*="/wp-content/uploads/"][s
 topgear.nl##div:has( > div[style]:has-text(/advert/i):has(div[id]))
 touretappe.nl###right .desktopad[id*="TOURETAPPE_300"]:upward(1)
 touretappe.nl##.desktopad
+transfermarkt.nl##.werbung
 transport-online.nl##.widget:has(.advertisement-new:not(:has(a[href$="/adverteerdersinformatie/"])))
 trucks.nl##.highlighted-advertisers:upward(.row)
 trucks.nl##.trucks_ros_alpha_rectangle-halfpage
 trucks.nl##.trucks_ros_leaderboard-billboard
+turksemedia.nl##.easingslider
 tvgids24.nl###shortads
 tvgids24.nl##.adBoxbig
 tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
@@ -882,6 +888,8 @@ vagina.nl##.video-fish-hook:has-text(/sluit en speel af/i)
 vagina.nl##[id$="fish-hooks"]:has-text(Advertenties)
 velt.nu##.region-sponsors
 villamedia.nl##.header-intro
+vivatube.com##.mt15.container:has-text(Advert)
+vlietnieuws.nl##.banner_wrapper
 voetbal-vandaag.nl###sidebar_aanbevelen
 voetbal4u.com##.widget_text:has(h4):has-text(/crypto/i)
 voetbalcentraal.nl##.blok:has(h3:has-text(Partners))
@@ -1826,17 +1834,9 @@ startpagina.nl##.top-banner
 streamwijzer.be##.widget:has(a[href*=".bn5x.net/"])
 surfplaza.be##td.di1:has(img[src$="/yourad.gif"])
 synoniemen.net##.promoblok
-takecare4.eu###branding > .clearfix
-tameteo.nl##div[id*="banner"]:upward(2)
-tcroomburg.nl##.hpitem:has(h3:has-text(Partner))
-techzine.nl###lead
-transfermarkt.nl##.werbung
 treinreiziger.nl##div[class*="ads-adsense-"]
-turksemedia.nl##.easingslider
 twentefm.nl##.bannerzone_728x90:has-text(/advert/i)
 veto.be##div[class*="spacer block"]:has([href][id*="advert"])
-vivatube.com##.mt15.container:has-text(Advert)
-vlietnieuws.nl##.banner_wrapper
 voetbal.com##.adbox
 
 !#if env_mobile
