@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Tue, 01 Aug 2023 11:45:05 +0000
+! Last modified: Tue, 01 Aug 2023 11:54:14 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -840,6 +840,8 @@ rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
 serietotaal.nl##[class^="banner"]
 serietotaal.nl###adf-autonative
 sexervaringendelen.nl##[class^=" lazyload"][data-src*="banner"]:upward(2)
+telefoonboek.nl###tbresult-top
+telefoonboek.nl##[class^="detail-leaderbord"]:has(.adsbygoogle)
 telegraaf.nl##.ArticleBodyBlocks__bannerWrapper
 telegraaf.nl##.ArticlePageWrapper__banner
 telegraaf.nl##.Banner
@@ -1826,7 +1828,6 @@ tameteo.nl##div[id*="banner"]:upward(2)
 tcroomburg.nl##.hpitem:has(h3:has-text(Partner))
 techpulse.be##.td-banner-wrap-full
 techzine.nl###lead
-telefoonboek.nl##[class*="organic-"]:has-text(Advertentie)
 transfermarkt.nl##.werbung
 treinreiziger.nl##div[class*="ads-adsense-"]
 turksemedia.nl##.easingslider
