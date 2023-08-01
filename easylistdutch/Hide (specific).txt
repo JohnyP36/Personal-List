@@ -124,16 +124,30 @@ telegraaf.nl##.withBanners + .ComponentRotation
 tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
 tweakers.net##.widebnr
 tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
+voetbal-vandaag.nl###sidebar_aanbevelen
+voetbal4u.com##.widget_text:has(h4):has-text(/crypto/i)
+voetbalcentraal.nl##.blok:has(h3:has-text(Partners))
 voetbalvandaag.be##.adds
 voetbalvandaag.be##.embed-responsive:has(iframe[src*="banners"])
 voetbalrotterdam.nl##.lshowcase-logos:has(img)
 vriendin.nl##[id^="adf-autonative"]
 vrouwen-sexdate.be##.elementor-widget:has(.lazyloading[data-src*="index.php"])
+waarzo.nl##.contentbox:has-text(Advertentie)
+waarzo.nl##.smallbox:has-text(Advertentie)
 waldnet.nl##.adsbygoogle:upward(div[style*="height"])
+want.nl##.sticky-banner-container
+wanttoknow.nl###right-sidebar > *:has(.mb-3:has-text(Advert))
+wanttoknow.nl###right-sidebar > .mb-3:has(img[src*="banner"])
+wanttoknow.nl##.float-right
+wanttoknow.nl##.mb-3:has-text(Advert)
 webstick.nl##p > a[href][rel$="sponsored"] img[src^="images/images-ads/"]:upward(aside > section)
 webstick.nl##p.center2:has-text(/advert/i)
+webwereld.nl##.leaderBoardHolder
 weer.nl##div[class*="block"]:has(a[href*="www.voordeeluitjes.nl"])
+weeronline.nl##div[class^="styled__AdWrapper-"]
+weeronline.nl##div[class^="styled__FooterAdWrapper-"]
 weertdegekste.nl##.banner-right
+westerwoldeactueel.nl##.adr-wrapper
 wielerflits.be,wielerflits.nl###mm_hpa
 wielerflits.be,wielerflits.nl##.affiliate_links
 wielerflits.be,wielerflits.nl##.mm_container
@@ -1087,20 +1101,6 @@ vivatube.com##.mt15.container:has-text(Advert)
 vivocyclo.com##div[id*="media"][id*="image"]:has(a[href]):has(img[src*="vivocyclo.com/wp-content/uploads/"])
 vlietnieuws.nl##.banner_wrapper
 voetbal.com##.adbox
-voetbal4u.com##.widget_text:has(h4):has-text(/crypto/i)
-voetbalcentraal.nl##.blok:has(h3:has-text(Partners))
-voetbal-vandaag.nl###sidebar_aanbevelen
-waarzo.nl##.contentbox:has-text(Advertentie)
-waarzo.nl##.smallbox:has-text(Advertentie)
-want.nl##.sticky-banner-container
-wanttoknow.nl###right-sidebar > *:has(.mb-3:has-text(Advert))
-wanttoknow.nl###right-sidebar > .mb-3:has(img[src*="banner"])
-wanttoknow.nl##.float-right
-wanttoknow.nl##.mb-3:has-text(Advert)
-webwereld.nl##.leaderBoardHolder
-weeronline.nl##div[class^="styled__AdWrapper-"]
-weeronline.nl##div[class^="styled__FooterAdWrapper-"]
-westerwoldeactueel.nl##.adr-wrapper
 
 !#if env_mobile
 nu.nl##div[data-type="tealium"]
