@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Tue, 01 Aug 2023 07:40:07 +0000
+! Last modified: Tue, 01 Aug 2023 07:59:18 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -869,6 +869,8 @@ wielerflits.be,wielerflits.nl##div[id*="mm_leaderboard"]
 wielerflits.nl##.widget:has(.wf_headline:has-text(/Wielerdeals/i))
 xmissy.nl##div[data-awe-container-id$="container"][style]
 yachtfocus.com##.av
+zakenreisnieuws.nl##[id*="web_billboard"]:upward(article > .field)
+zakenreisnieuws.nl##[id^="zakenreisnieuws.nl_web"]:not(:upward(article)):upward(.block)
 zeilwereld.nl##.adv-link:upward(.fl-row):has-text(/advert/i):not(:has(article))
 zita.be###shopsuiteApplication
 zita.be##[id^="rossel-leaderboard"]:upward(.tdc-row)
@@ -1361,9 +1363,6 @@ xgn.nl##.bs
 xxxdump.nl###reclame-eroads
 yourlittleblackbook.me##.simple-image > [href^="https://www.nsinternational.com/traintracker/"]
 yourlittleblackbook.me##[id*="banner"]
-zakenreisnieuws.nl##[id^="block-block"]:has([id^="div-gpt-ad"])
-zakenreisnieuws.nl##div[class*="block-block"]:has(.adsbygoogle)
-zakenreisnieuws.nl##div[style*="padding:10px"]:has(div[id^="div-gpt-ad"])
 zeelandnet.nl##.article-bnr-first
 zeelandnet.nl##.as__bottom-banner
 zeelandnet.nl##.row--bnr-between
