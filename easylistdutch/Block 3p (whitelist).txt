@@ -17,6 +17,7 @@
 !@@||fundingchoicesmessages.google.com/*/$script,domain=racingnews365.nl
 !@@||mmcdn.nl/tags/racingnews365.nl/artikel.js$script,domain=racingnews365.nl
 @@||pagead2.googlesyndication.com/pagead/$script,domain=rotterdam-nesselande.nl
+@@||cijfers.spikker.nl/js/plausible.js$script,domain=visserijnieuws.nl
 ! 2022 
 !@@||adserver.hollandcasino.nl^$popup,domain=onlinecasinoground.nl
 @@||2mdn.net/instream/html5/ima3.js$script,domain=omroepbrabant.nl
