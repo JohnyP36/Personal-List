@@ -125,6 +125,9 @@ telegraaf.nl##.withBanners + .ComponentRotation
 tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
 tweakers.net##.widebnr
 tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
+vagina.nl##.list-item:has(script[src*="realsrv.com"])
+vagina.nl##.video-fish-hook:has-text(/sluit en speel af/i)
+vagina.nl##[id$="fish-hooks"]:has-text(Advertenties)
 velt.nu##.region-sponsors
 villamedia.nl##.header-intro
 voetbal-vandaag.nl###sidebar_aanbevelen
@@ -1093,9 +1096,6 @@ twentefm.nl##.bannerzone_728x90:has-text(/advert/i)
 ucl-voetbal.nl##[src^="/derden/betcity-"]
 uecl-voetbal.nl,uel-voetbal.nl##.uitgelichtbox
 uitzendinggemist.net##.serie_info_adbox
-vagina.nl##.list-item:has(script[src*="realsrv.com"])
-vagina.nl##.video-fish-hook:has-text(/sluit en speel af/i)
-vagina.nl##[id$="fish-hooks"]:has-text(Advertenties)
 veto.be##div[class*="spacer block"]:has([href][id*="advert"])
 vivatube.com##.mt15.container:has-text(Advert)
 vlietnieuws.nl##.banner_wrapper
