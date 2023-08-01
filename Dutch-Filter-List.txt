@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Tue, 01 Aug 2023 08:21:06 +0000
+! Last modified: Tue, 01 Aug 2023 08:28:31 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -798,7 +798,7 @@ insideflyer.nl##.adsbymanatee
 juf-milou.nl##.adverteerdersblok
 juf-milou.nl##.content_blok_reclame
 juf-milou.nl##div[id^="content"]:not(:has(a[href^="index.php?"])):not(:has-text(/\b/i))
-leerzaam.com,radiovisie.eu,stopdebankiers.com##[id^="custom_html"]:has(.adsbygoogle)
+leerzaam.com,radiovisie.eu,stopdebankiers.com,watchfaces.be##[id^="custom_html"]:has(.adsbygoogle)
 letsgodigital.org##.product__wrapper:has(.adsbygoogle)
 loonwijzer.be##.main__bottom:has(div[id*="gpt-ad-"])
 loonwijzer.be##[class^="article__ad"]
@@ -1832,8 +1832,6 @@ wanttoknow.nl###right-sidebar > .mb-3:has(img[src*="banner"])
 wanttoknow.nl##.float-right
 wanttoknow.nl##.mb-3:has-text(Advert)
 wasmachines.nl##.rectangle
-watchfaces.be##[id^="text"]:has(.adsbygoogle)
-watchfaces.be##div.google
 webwereld.nl##.leaderBoardHolder
 weeronline.nl##div[class^="styled__AdWrapper-"]
 weeronline.nl##div[class^="styled__FooterAdWrapper-"]
