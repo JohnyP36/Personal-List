@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Tue, 01 Aug 2023 09:31:52 +0000
+! Last modified: Tue, 01 Aug 2023 09:37:31 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -618,6 +618,7 @@ _advertentieleaderboardhome.
 !@@||fundingchoicesmessages.google.com/*/$script,domain=racingnews365.nl
 !@@||mmcdn.nl/tags/racingnews365.nl/artikel.js$script,domain=racingnews365.nl
 @@||pagead2.googlesyndication.com/pagead/$script,domain=rotterdam-nesselande.nl
+@@||cijfers.spikker.nl/js/plausible.js$script,domain=visserijnieuws.nl
 ! 2022 
 !@@||adserver.hollandcasino.nl^$popup,domain=onlinecasinoground.nl
 @@||2mdn.net/instream/html5/ima3.js$script,domain=omroepbrabant.nl
