@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Tue, 01 Aug 2023 07:38:07 +0000
+! Last modified: Tue, 01 Aug 2023 07:40:07 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,bright.nl,gpblog.com,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -138,6 +138,7 @@ wielerflits.nl##.widget:has(.wf_headline:has-text(/Wielerdeals/i))
 xmissy.nl##div[data-awe-container-id$="container"][style]
 yachtfocus.com##.av
 zeilwereld.nl##.adv-link:upward(.fl-row):has-text(/advert/i):not(:has(article))
+zita.be###shopsuiteApplication
 zita.be##[id^="rossel-leaderboard"]:upward(.tdc-row)
 zozwanger.nl##.a-single
 zozwanger.nl##.gofollow
