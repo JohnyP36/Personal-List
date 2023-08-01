@@ -34,6 +34,7 @@
 ||racingnews365.nl/images/logos/partners/*/$image
 ||radioacacia.nl/sponsoren/
 ||radiolelystad.nl/images/stories/Banners/
+||reformatorischeomroep.nl/*/*banner$image
 ||rickfm.nl/cwm/fm/userfiles/banner/thumb
 ||rtvnof.nl/prowurk/
 ||schuttevaer.nl/partnersites/
