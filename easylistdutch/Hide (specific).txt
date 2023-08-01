@@ -138,6 +138,7 @@ wielerflits.nl##.widget:has(.wf_headline:has-text(/Wielerdeals/i))
 xmissy.nl##div[data-awe-container-id$="container"][style]
 yachtfocus.com##.av
 zeilwereld.nl##.adv-link:upward(.fl-row):has-text(/advert/i):not(:has(article))
+zita.be##[id^="rossel-leaderboard"]:upward(.tdc-row)
 zozwanger.nl##.a-single
 zozwanger.nl##.gofollow
 zuidenvelder.info##.component__pubble-banner
@@ -634,7 +635,6 @@ zeelandnet.nl##.article-bnr-first
 zeelandnet.nl##.as__bottom-banner
 zeelandnet.nl##.row--bnr-between
 zeelandnet.nl##aside:has([id^="div-gpt-ad"])
-zita.be##[id^="custom_html-"]:has-text(Ad)
 zoom.nl##div[class^="display-ad_container"]
 ! 2021
 112achterhoek-nieuws.nl###sidebar
