@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Tue, 01 Aug 2023 08:33:38 +0000
+! Last modified: Tue, 01 Aug 2023 08:43:15 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -858,6 +858,7 @@ tweakers.net##.widebnr
 tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
 voetbalrotterdam.nl##.lshowcase-logos:has(img)
 vriendin.nl##[id^="adf-autonative"]
+waldnet.nl##.adsbygoogle:upward(div[style*="height"])
 webstick.nl##p > a[href][rel$="sponsored"] img[src^="images/images-ads/"]:upward(aside > section)
 webstick.nl##p.center2:has-text(/advert/i)
 weer.nl##div[class*="block"]:has(a[href*="www.voordeeluitjes.nl"])
@@ -1824,8 +1825,6 @@ voetbal-vandaag.nl###sidebar_aanbevelen
 vrouwen-sexdate.be##.moduletable:has-text(Advert)
 waarzo.nl##.contentbox:has-text(Advertentie)
 waarzo.nl##.smallbox:has-text(Advertentie)
-waldnet.nl##div.kolom_haad_cntr > div.kolom_haad > div[style="height: 300px;"]
-waldnet.nl##div[style$="0px;"]:has(.adsbygoogle)
 want.nl##.sticky-banner-container
 wanttoknow.nl###right-sidebar > *:has(.mb-3:has-text(Advert))
 wanttoknow.nl###right-sidebar > .mb-3:has(img[src*="banner"])
