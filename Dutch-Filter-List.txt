@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Tue, 01 Aug 2023 08:50:35 +0000
+! Last modified: Tue, 01 Aug 2023 08:59:37 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -858,6 +858,7 @@ tweakers.net##.widebnr
 tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
 voetbalrotterdam.nl##.lshowcase-logos:has(img)
 vriendin.nl##[id^="adf-autonative"]
+vrouwen-sexdate.be##.elementor-widget:has(.lazyloading[data-src*="index.php"])
 waldnet.nl##.adsbygoogle:upward(div[style*="height"])
 webstick.nl##p > a[href][rel$="sponsored"] img[src^="images/images-ads/"]:upward(aside > section)
 webstick.nl##p.center2:has-text(/advert/i)
@@ -1822,7 +1823,6 @@ voetbaluitslagen.com##.cta
 voetbalvandaag.be##.adds
 voetbalvandaag.be##.panel-box:has(a[href^="http://unibet.me/"])
 voetbal-vandaag.nl###sidebar_aanbevelen
-vrouwen-sexdate.be##.moduletable:has-text(Advert)
 waarzo.nl##.contentbox:has-text(Advertentie)
 waarzo.nl##.smallbox:has-text(Advertentie)
 want.nl##.sticky-banner-container
