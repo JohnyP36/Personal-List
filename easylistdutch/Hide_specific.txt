@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Tue, 01 Aug 2023 11:22:49 +0000
+! Last modified: Tue, 01 Aug 2023 11:29:19 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,bright.nl,gpblog.com,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -122,6 +122,7 @@ telegraaf.nl##.VideoArticlePage__banner
 telegraaf.nl##.VideoPage__banner
 telegraaf.nl##.WebpushOptin__main
 telegraaf.nl##.withBanners + .ComponentRotation
+topgear.nl##div:has( > div[style]:has-text(/advert/i):has(div[id]))
 touretappe.nl###right .desktopad[id*="TOURETAPPE_300"]:upward(1)
 touretappe.nl##.desktopad
 transport-online.nl##.widget:has(.advertisement-new:not(:has(a[href$="/adverteerdersinformatie/"])))
@@ -1092,7 +1093,6 @@ techzine.nl###lead
 telefoonboek.nl##[class*="organic-"]:has-text(Advertentie)
 tellows.nl###lb_header
 tiener-sexverhalen.nl##aside[id^="block"]:has(img[src*="/wp-content/uploads/"][src$=".gif"])
-!topgear.nl##.theme-advertorial
 transfermarkt.nl##.werbung
 treinreiziger.nl##div[class*="ads-adsense-"]
 turksemedia.nl##.easingslider
