@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Tue, 01 Aug 2023 11:38:31 +0000
+! Last modified: Tue, 01 Aug 2023 11:45:05 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,bright.nl,gpblog.com,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -122,6 +122,7 @@ telegraaf.nl##.VideoArticlePage__banner
 telegraaf.nl##.VideoPage__banner
 telegraaf.nl##.WebpushOptin__main
 telegraaf.nl##.withBanners + .ComponentRotation
+tellows.nl###lb_header
 tiener-sexverhalen.nl##aside[id^="block"]:has([src*="/wp-content/uploads/"][src$=".webm"])
 tiener-sexverhalen.nl##aside[id^="block"]:has(img[src*="/wp-content/uploads/"][src$=".gif"])
 topgear.nl##div:has( > div[style]:has-text(/advert/i):has(div[id]))
@@ -1046,7 +1047,7 @@ secretcircle.com##.column:has(.advert)
 seksverhalen.org##header:style(height:100px !important;)
 sex-kamer.nl##.videoOverAdBig
 sexafspraakonline.nl##.d-lg-block.d-none > .card:has-text(Advert)
-sexcam-mokkels.nl,tellows.nl##.entry-content > div
+sexcam-mokkels.nl##.entry-content > div
 sexdating-vrouwen.be##.moduletable:has-text(/Advertentie/i):not(#aside > :has(iframe[data-src*="affilaxy.com"])):not(:has-text(/vrouwen/i))
 sexervaringdelen.com##center > center:has(iframe[width="900"][height="250"])
 sexervaringdelen.com##section[id^="block"]:has([width="300"][height="250"])
@@ -1093,7 +1094,6 @@ tcroomburg.nl##.hpitem:has(h3:has-text(Partner))
 techpulse.be##.td-banner-wrap-full
 techzine.nl###lead
 telefoonboek.nl##[class*="organic-"]:has-text(Advertentie)
-tellows.nl###lb_header
 transfermarkt.nl##.werbung
 treinreiziger.nl##div[class*="ads-adsense-"]
 turksemedia.nl##.easingslider
