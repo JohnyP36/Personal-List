@@ -122,6 +122,7 @@ telegraaf.nl##.VideoArticlePage__banner
 telegraaf.nl##.VideoPage__banner
 telegraaf.nl##.WebpushOptin__main
 telegraaf.nl##.withBanners + .ComponentRotation
+topgear.nl##div:has( > div[style]:has-text(/advert/i):has(div[id]))
 touretappe.nl###right .desktopad[id*="TOURETAPPE_300"]:upward(1)
 touretappe.nl##.desktopad
 transport-online.nl##.widget:has(.advertisement-new:not(:has(a[href$="/adverteerdersinformatie/"])))
@@ -1092,7 +1093,6 @@ techzine.nl###lead
 telefoonboek.nl##[class*="organic-"]:has-text(Advertentie)
 tellows.nl###lb_header
 tiener-sexverhalen.nl##aside[id^="block"]:has(img[src*="/wp-content/uploads/"][src$=".gif"])
-!topgear.nl##.theme-advertorial
 transfermarkt.nl##.werbung
 treinreiziger.nl##div[class*="ads-adsense-"]
 turksemedia.nl##.easingslider
