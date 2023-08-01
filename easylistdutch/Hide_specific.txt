@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Tue, 01 Aug 2023 09:54:43 +0000
+! Last modified: Tue, 01 Aug 2023 09:55:28 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,bright.nl,gpblog.com,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -125,7 +125,7 @@ telegraaf.nl##.withBanners + .ComponentRotation
 tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
 tweakers.net##.widebnr
 tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
-velt.be##.region-sponsors
+velt.nu##.region-sponsors
 villamedia.nl##.header-intro
 voetbal-vandaag.nl###sidebar_aanbevelen
 voetbal4u.com##.widget_text:has(h4):has-text(/crypto/i)

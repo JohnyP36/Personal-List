@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Tue, 01 Aug 2023 09:54:43 +0000
+! Last modified: Tue, 01 Aug 2023 09:55:28 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -858,7 +858,7 @@ telegraaf.nl##.withBanners + .ComponentRotation
 tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
 tweakers.net##.widebnr
 tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
-velt.be##.region-sponsors
+velt.nu##.region-sponsors
 villamedia.nl##.header-intro
 voetbal-vandaag.nl###sidebar_aanbevelen
 voetbal4u.com##.widget_text:has(h4):has-text(/crypto/i)
