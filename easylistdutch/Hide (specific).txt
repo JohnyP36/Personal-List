@@ -1105,7 +1105,6 @@ watchfaces.be##div.google
 webwereld.nl##.leaderBoardHolder
 weeronline.nl##div[class^="styled__AdWrapper-"]
 weeronline.nl##div[class^="styled__FooterAdWrapper-"]
-!weerplaza.nl##.hf-widget
 westerwoldeactueel.nl##.adr-wrapper
 
 !#if env_mobile
