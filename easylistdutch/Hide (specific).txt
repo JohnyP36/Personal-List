@@ -139,6 +139,7 @@ yachtfocus.com##.av
 zeilwereld.nl##.adv-link:upward(.fl-row):has-text(/advert/i):not(:has(article))
 zozwanger.nl##.a-single
 zozwanger.nl##.gofollow
+zuidenvelder.info##.component__pubble-banner
 ! 2022
 1001erotiekverhalen.nl##[href^="https://t.adating.link/"]:upward(2)
 1001erotiekverhalen.nl##aside[id^="block"]:has([src*="tools-affil2.com/rtb/index.php"])
@@ -634,7 +635,6 @@ zeelandnet.nl##.row--bnr-between
 zeelandnet.nl##aside:has([id^="div-gpt-ad"])
 zita.be##[id^="custom_html-"]:has-text(Ad)
 zoom.nl##div[class^="display-ad_container"]
-!zuidenvelder.info##.bg-grey.mb-20:has([advobject])
 ! 2021
 112achterhoek-nieuws.nl###sidebar
 123video.nl##.page-load-switch
