@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Tue, 01 Aug 2023 08:08:40 +0000
+! Last modified: Tue, 01 Aug 2023 08:14:05 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -868,6 +868,7 @@ wielerflits.be,wielerflits.nl##.row [class^="widget"]:has(.mm_container)
 wielerflits.be,wielerflits.nl##div[id*="mm_leaderboard"]
 wielerflits.nl##.widget:has(.wf_headline:has-text(/Wielerdeals/i))
 willem-ii.nl##.sponsors-block
+wintersport.nl##.wintersport-banner
 xmissy.nl##div[data-awe-container-id$="container"][style]
 yachtfocus.com##.av
 zakenreisnieuws.nl##[id*="web_billboard"]:upward(article > .field)
@@ -1351,8 +1352,6 @@ wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 wildfm.nl##[class*="avia-image-container"]:has(a[href])
 wildfm.nl##[id*="after_section"] > .container:has([class*="av-content"])
 wildfm.nl##img[width="699"][height="90"]
-wintersport.nl##.mq-banner > .never-visited:not(:has-text(/reisverzekering/i))
-wintersport.nl##.mq-banner > div[class*="card"]
 wkdarts.nl##.vcex-module:has-text(/advert/i)
 wkdarts.nl##[href="https://www.loketkansspel.nl/"]
 woorden.org##div[style] [id*="728x90"]:upward(3)
