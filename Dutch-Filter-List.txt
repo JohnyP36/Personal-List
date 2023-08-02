@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Tue, 01 Aug 2023 12:58:01 +0000
+! Last modified: Wed, 02 Aug 2023 05:47:26 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -790,9 +790,7 @@ girlscene.nl##[id$="top-ad-desktop"]
 gocar.be###rossel-imu-middle:upward([class*="bg-gray-200"])
 gocar.be##.container-leaderboard
 gocar.be##.pub-text:upward(2)
-gpblog.com##.articles > li.article:has(.betting)
-gpblog.com##.betting.dossier-module
-gpblog.com##.promo-element
+gpblog.com##aside[class^="Ad_"]:style(position: absolute !important; left: -3000px !important;)
 hollandskroonnieuws.nl,wieringernieuws.nl###navleft > center:has-text(/advert/i)
 hollandskroonnieuws.nl,wieringernieuws.nl##div#block-blue:has-text(/advert/i)
 id.nl##.rounded-md:has(p[class^="call-to-action"]):not(:has-text(/Akkoord en door naar/i))
