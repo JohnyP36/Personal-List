@@ -6,6 +6,7 @@
 *,~hangouts.google.com,~hcaptcha.com,~freebitco.in##+js(nowebrtc)
 *##+js(set, history.length, 2)
 *##+js(window.name-defuser)
+*,~hangouts.google.com,~youtube.com,~youtube-nocookie.com##+js(aopr, navigator.getBattery)
 !*,~calendar.google.com,~contacts.google.com,~disqus.com,~dumpert.nl##+js(set, window.name, null)
 !*,~acounts.google.*,~google.*,~youtube.com,~googlevideo.com,~bol.com,~freebitco.in,~gab.com,~instagram.com,~y8.com##+js(cookie-remover)
 
@@ -13,31 +14,49 @@
     ! utm_campaign|utm_channel|utm_cid|utm_content|utm_medium|utm_name|utm_place|utm_pubreferrer|utm_reader|utm_referrer|utm_social|utm_social-type|utm_source|utm_swu|utm_term|utm_userid|utm_viz_id|
 $removeparam=/^utm_/i
 $removeparam=/^(dpg_source|dpg_campaign|dpg_medium|dpg_content|dclid|gbraid|gclid|gclsrc|guccounter|guce_referrer|guce_referrer_sig|yclid|__twitter_impression|original_referer|usqp|wbraid)=/
-$removeparam=/^(fb_action_ids|fb_actions_types|fb_ref|fb_source|fbclid)/i
 $removeparam=/^(referrer)=/,domain=ad.nl|autoweek.nl|gelderlander.nl|livios.nl|volkskrant.nl|vtm.be
 $removeparam=source,domain=googleusercontent.com
 ||google.*/search$removeparam=/^(aqs|bih|biw|client|cshid|dpr|ei|gs_lcp|hl|ie|sa|sclient|source|sourceid|uact|vet|ved)=/,domain=~consent.google.com
 ||google.*^$removeparam=/^(tab)=/
 ||www.google.com/url?$removeparam=ved
 ||youtube.com$removeparam=/(ab_channel|cbr|cbrver|cos|cplatform|delay|feature|gclid|kw|tab)/
+||youtube.com/redirect?$removeparam=/(event|redir_token|v)/
 @@/^https?:\/\/(docs|accounts)\.google(\.[a-z]{2,}){1,}/$removeparam
 @@||consent.youtube.com$removeparam
 @@||youtube.com/signin?$removeparam
 @@||youtube.com/subscribe_embed$removeparam
-||www.msn.com$removeparam
+||aliexpress.$removeparam=/^(af|aff_fcid|aff_fsk|aff_request_id|aff_trace_key|algo_expid|algo_pvid|btsid|cv|dp|gps-id|mall_affr|pvid|sk|spm|terminal_id|utparam|ws_ab_test)=/
+||aliexpress.$removeparam=/^scm[_a-z-]*=/
+||amazon.$removeparam=/^(_encoding|aaxitk|ac_md|adgrpid|asc_contentid|asc_contenttype|asc_item|ascsubtag|AssociateTag|c|camp|channel|colid|coliid|content-id|creative|creativeAISN|crid|cstrackid|dchild|field-lbr_brands_browse-bin|geniuslink|hsa_cr_id|hvadid|hvbmt|hvdev|hvdevhvlocphy|hvdvcmdl|hvexid|hvlocint|hvlocphy|hvnetw|hvpone|hvpos|hvptwo|hvqmt|hvrand|hvtargid|hydadcr|imprToken|ingress|initialIssue|keywords|linkCode|lp_asins|lp_page_asin|lp_slot|m|maas|ms3_c|orig|plattr|qualifier|qid|qsid|qu|refRID|refinements|ref-refURL|rnid|s|sbo|sig|sigts|smid|spIA|sprefix|sr|sres|srpt|store_ref|SubscriptionId|tag|th|trk|trkCampaign|ts_id|twitchToken|visitId|vt)=/
+||amazon.$removeparam=/^(__mk_[a-z]{1,3}_[a-z]{1,3}|[a-z%0-9]*ie|[^a-z%0-9]adId|adgrpid|colii?d|cv_ct_[a-z]+|p[fd]_rd_[a-z]*|ref_?|sb-ci-[a-z]+|srs?)=/
+||amazon.*^/aa$removeparam=bitCampaignCode
+||amazon.*^/dp/$removeparam=/^(rps|s)=/,document
+@@||amazon.*/gp/slredirect/picassoRedirect.html^$removeparam
+@@||amazon.*/message-us?$removeparam
 ||blckbx.tv$removeparam=/^(ss_source|ss_campaign_id|ss_email_id|ss_campaign_name|ss_campaign_sent_date)=/
 ||bol.com^$removeparam=Referrer
-!coolblue.nl$removeparam=/(clickref|cmt|PHGref|ref)/
+||coolblue.nl$removeparam=/(clickref|cmt|PHGref|ref)/
 ||download.mozilla.org^$removeparam=/(attribution_code|attribution_sig)/
 ||duckduckgo.com^$removeparam=t
+||facebook.*$removeparam=/^(fb_action_ids|fb_actions_types|fb_ref|fb_source|fbclid)/i
 ||github.com^$removeparam=/^(email_source|email_token)=/
 ||instagram.com^$removeparam=/(ig_rid|igshid)
+||microsoft.com^$removeparam=/^(epi|irclickid|ocid|ranEAID|ranSiteID|tduid)=/
+||www.msn.com$removeparam
+||office.com^$removeparam=ocid
+||open.spotify.com^$removeparam=/^(%243p|_branch_referrer|algo|imp_id|gmt|nd|referral|si)=/
+||open.spotify.com^$removeparam=/advertising_partner_name=/i
 ||quora.com/qemail/tc?$removeparam=/(al_imp|uid)/
 ||reddit.com^$removeparam=/(_branch_match_id|_branch_referrer|deep_link|correlation_id|original_url|post_fullname|ref|ref_campaign|ref_source)/
 ||services.addons.mozilla.org^$removeparam=telemetry-client-id
-||tiktok.com^$removeparam=/(embed_source|refer|referer_url|sec_uid|share_app_id|share_author_id|tt_from|web_id)/
+||shein.com^$removeparam=/^(_t|adp|from_country|ici|icn|is_from_origin_btn|is_manual_change_site|rep|ret|scici|srctype|tag_ids|userpath)=/
+||tiktok.com^$removeparam=/^(_d|_r|checksum|embed_source|is_copy_url|is_from_webapp|preview_pb|sec_uid|share_ab_group|share_app_id|share_author_id|share_item_id|share_link_id|sender_device|sender_web_id|tt_from|u_code)=/
+||tiktok.com^$removeparam=/^(refer|referer_video_id|referer_url)=/,~xhr
+||tiktok.com^$removeparam=/^(user_id|sec_user_id)=/,document
+||tiktok.com^$removeparam=/^(web_id\d+)/
 ||tweakers.net^$removeparam=/^(nb|u)=/
 ||twitter.com^$removeparam=/^(cn|ref_url|ref_src|s)=/
+@@||twitter.com/i/redirect$removeparam
 
 ! Anti-Google Chrome pop-up messagge in Edge
 ||ogs.google.*/widget/callout*&origin=*.google.*=callout*
@@ -61,20 +80,23 @@ www.google.*##div[data-crl="true"][data-id^="CarouselPLA-"]:not(:has(.Rn1jbe))
 google.*##.USRMqe
 www.google.*##div.section-cardbox:has-text(/Covid-19 info/i):matches-path(/maps/)
 mail.google.com##div[data-tooltip="Ruimtes"]:style(height: 10px !important;)
-www.youtube.com###clarify-box
-www.youtube.com##ytd-shorts .disclaimer-container:upward(#info-panel)
+youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope:has([class*="promo-renderer"])
+www.youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
+www.youtube.com##ytd-rich-grid-renderer:style(--ytd-rich-grid-items-per-row: 4 !important;)
+www.youtube.com##ytd-rich-grid-renderer:style(--ytd-rich-grid-items-per-row: 5 !important;):matches-path(/@)
 www.youtube.com###thumbnail[class*="thumbnail"]:upward([class$="renderer"]):matches-path(/results?search_query):style(max-width: 250px !important;)
 www.youtube.com##ytd-watch-metadata #actions button [class*="button-text-content"]:not(:has-text(/\d/)):remove()
-www.youtube.com##ytd-watch-metadata ytd-button-renderer div[class$="icon"]:style(margin-right: -6px !important; margin-left: -6px !important;)
-  www.youtube.com###info > * [id^="top-level-buttons"] [class*="button-renderer"] [id="text"]:not(:has-text(/\d/))
-  www.youtube.com##.ytd-watch-metadata > .top-level-buttons #text:not(:has-text(/[\d]/))
+ !www.youtube.com###actions.ytd-watch-metadata button > div[class$="text-content"]:not(:has-text(/[\d]/)):remove()
+www.youtube.com##ytd-watch-metadata ytd-menu-renderer div[class$="icon"]:not(:upward(ytd-segmented-like-dislike-button-renderer)):not(:upward(ytd-video-description-infocards-section-renderer)):style(margin-right: -6px !important; margin-left: -6px !important;)
 www.youtube.com###comment-teaser
-youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope:has([class*="promo-renderer"])
+www.youtube.com###clarify-box
+www.youtube.com##ytd-shorts .disclaimer-container:upward(#info-panel)
+www.youtube.com###structured-description ytd-video-description-infocards-section-renderer
 www.youtube.com#@##merch-shelf
 www.youtube.com#@#.ytd-merch-shelf-renderer
 !:style(overscroll-behavior: none; !important)
-  ! Gmail tracking
-  /cleardot.gif$image,xhr,redirect=1x1.gif
+! Gmail tracking
+/cleardot.gif$image,xhr,redirect=1x1.gif
 
 ! Privacy Banners on Google and subdomains (and login banners)
 www.google.*##+js(acis, document.cookie, YES+)
@@ -107,8 +129,9 @@ www.google.*,rd.nl##html:style(overflow: visible !important)
 ! Cookie Banner e.d.
 blckbx.tv##.absolute.container:has-text(/Ik ga akkoord/i)
 chamilo.etf.edu##.cookieUsageValidation
+chamilo.etf.edu##div.btn-default > a[href]:remove-attr(target):matches-path(/courses/)
 christenenvoorisrael.nl##.diffuse_cookie-bar__container
-freebitco.in##.daily_jackpot_main_container_div
+freebitco.in##.daily_jackpot_main_container_div, #deposit_promo_message_regular
 freebitco.in##.reveal-modal-bg, #myModal22.open.reveal-modal
 freebitco.in###free_play_payout_table > div[id^="premium"][id*="membership"]
 gab.com#?#:matches-path(/\/home|\/groups/) span[class]:has-text(/^Upgrade/i):upward(3)
@@ -118,12 +141,10 @@ gab.com##h2[class]:has-text(Gab Voice):upward(aside)
 github.com###dashboard div[aria-labelledby="feed-original"] [class="body"]:has-text(github-actions):has-text(/JohnyP36\/Personal-List|EasyDutch-uBO\/EasyDutch/)
 github.com###dashboard div[aria-labelledby="feed-original"] [class="body"]:has-text(pushed to):has-text(/black7375\/Firefox-UI-Fix|letsblockit\/letsblockit/):upward(.push)
 instagram.com##body:style(overflow: visible !important;)
-instagram.com##div[class][role="dialog"]:has([role="dialog"]:has(button):has-text(cookies)):upward(4)
+instagram.com##div[class][role="dialog"]:has([role="dialog"]:has(button):has-text(cookies)):not(:has(a[href="/accounts/cookie_settings/"])):upward(4)
 instagram.com#?#a:has([aria-label*="Information icon"]):upward(1)
 instagram.com##button:has(div[class]:has-text(/fact-checkers/i)):upward(1)
 !instagram.com##article span:has-text(/Fact-checkers|Visit the World Health Organization for vaccine resources./):upward(5)
-instagram.com#?#main > div > section > div:has(div[style^="max-width"]):style(max-width: 550px !important; margin-left: 50px !important;)
-instagram.com#?#main > div > section div[style^="width"] > div[style^="max-width"]:style(max-width: 550px !important;)
 marktplaats.nl##.ReactModalPortal:has-text(Inloggen)
 marktplaats.nl##div[class$="LoginNudge"]
 mediamarkt.nl##section > div:has-text(/cookies halen uit beste uit jouw bezoek/i)
@@ -140,8 +161,7 @@ ad.nl##.article__wrapper [class*="temptation"]
 trouw.nl,volkskrant.nl##article[id*="LOGIN_BIG_BOTTOM"] > div[class*="tm-body"]
 startpage.com#@#.ad.widget
 
-!!-----ALGEMEEN-----!!
-||doubleclick.net/instream/ad_status.js$script,redirect=doubleclick.net/instream/ad_status.js
+! Enable right click and text select
 debijbel.nl,theorieexamen.nl##*:style(user-select: text !important; -ms-user-select: text !important;)
 calorielijst.nl##+js(abort-on-property-write, clickIE)
 theorieexamen.nl##+js(addEventListener-defuser, contextmenu)
@@ -168,27 +188,31 @@ theorieexamen.nl##+js(addEventListener-defuser, contextmenu)
 ||www.facebook.com/plugins/*.php
 @@||facebook.com^$websocket,domain=instagram.com
 @@||fbcdn.net^$image,domain=instagram.com
+@@||star.c10r.facebook.com$domain=instagram.com,strict3p
+@@||static.xx.fbcdn.net$domain=instagram.com,strict3p
 @@||www.facebook.com/plugins/video.php$subdocument
 /cdn-cgi/pe/bag2?*connect.facebook.
 ###facebook
 ##.fb-share-button
 
 ! Rules copied from uBlock (standard) filterlists [20 rules]
-!  uBlock filters - Privacy [12 rules + 10]
+!  uBlock filters - Privacy [25 rules + 6]
+||doubleclick.net/instream/ad_status.js$script,redirect=doubleclick.net/instream/ad_status.js
 ||adblockanalytics.com^$third-party
 ||addthis.com^$important,3p,domain=~missingkids.com|~missingkids.org|~sainsburys.jobs|~sitecore.com|~amd.com
 ||addthis.com/*/addthis_widget.js$script,redirect=addthis.com/addthis_widget.js,important
 ||docs.google.com/*/logImpressions?$xhr,redirect=nooptext,domain=docs.google.com
+||jsdelivr.net^*/fp.min.js$script,redirect-rule=fingerprint3.js:10
 ||jsdelivr.net/npm/skx@*/optical.js
 /jquery.js?*&rx=*&foxtail=$image,1p
-||google-analytics.com/analytics.js$script,redirect=google-analytics.com/analytics.js,important
-||google-analytics.com/cx/api.js$script,redirect=google-analytics.com/cx/api.js,important
-||google-analytics.com/ga.js$script,redirect=google-analytics.com/ga.js,important
-||googletagmanager.com/gtm.js$script,redirect=googletagmanager.com/gtm.js,important
-||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices.com/gpt.js,important
-||pagead2.googlesyndication.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js,important
-||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js,important
-||widgets.outbrain.com/outbrain.js$script,redirect=widgets.outbrain.com/outbrain.js,important
+||google-analytics.com/analytics.js$script,redirect=google-analytics_analytics.js:5,important
+||google-analytics.com/cx/api.js$script,redirect=google-analytics.com/cx/api.js:5,important
+||google-analytics.com/ga.js$script,redirect=google-analytics.com/ga.js:5,important
+||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js:5,important
+||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices.com/gpt.js:5,important
+||pagead2.googlesyndication.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js:5,important
+||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js:5,important
+||widgets.outbrain.com/outbrain.js$script,redirect=outbrain-widget.js:5,important
 !in Fanboy Complete without ,3p --------------------------!/analytics/analytics.$~xmlhttprequest,3p
 !in Fanboy Complete without $3p, but that's a 'badfilter' !/ga_setup.js$3p
 !in Fanboy Complete ------------------------------------- !/google-analytics.$3p
@@ -205,6 +229,8 @@ tweakers.net##+js(set, tweakersConfig.wtConfig.scriptUrl, '')
 tweakers.net##+js(aost, btoa, send)
 reddit.com##+js(no-fetch-if, url:/^https:\/\/www\.reddit\.com$/ method:post)
 reddit.com##+js(no-xhr-if, method:POST url:/^https:\/\/www\.reddit\.com$/)
+!  uBlock filters - Annoyances [1 rule]
+geeksforgeeks.org##+js(acs, showAdblockerModal)
 
 ! Rules from Adguard Spyware
 .demdex.net/id^$redirect=noop.txt,important,subdocument,stylesheet,script,xmlhttprequest,other
@@ -232,8 +258,8 @@ reddit.com##+js(no-xhr-if, method:POST url:/^https:\/\/www\.reddit\.com$/)
 
 instagram##+js(href-sanitizer, a[href^="https://l.instagram.com/?"])
 youtube.com##+js(href-sanitizer, a[href^="https://www.youtube.com/redirect?"])
-
-bol.com##+js(ceo, #js-reject-all-button, , 5000)
+!mns.com##+js(rsre, div[class="shopping-carousel-wrapper"])
+bol.com##+js(ceo, button[id="js-reject-all-button"], , 5000)
 dpgmedia.be,dpgmedia.nl,alarmeringen.nl,nu.nl##+js(ceo, button[title="Akkoord"], , 15000)
 mediamarkt.nl##+js(ceo, #mms-consent-portal-container button[data-test$="save-settings"], , 15000)
 rijnmond.nl,privacymanager.io##+js(ceo, button[id="manageSettings"], , 15000)
