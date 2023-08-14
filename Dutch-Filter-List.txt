@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Wed, 02 Aug 2023 05:47:26 +0000
+! Last modified: Mon, 14 Aug 2023 15:17:24 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -1912,6 +1912,7 @@ tweakers.net##+js(addEventListener-defuser, /[\w]{16}/, /^e=>.*/)
 tweakers.net##.promotor:has([src*="whitelist_message"]):upward(1)
 !tweakers.net#@#.widebnr
 !tweakers.net##.widebnr:style(visibility: collapse !important; min-height: 1.5px !important;)
+vtmgo.be##+js(no-fetch-if, v.fwmrm.net)
 ! 2022
 autoweek.nl##+js(set-constant, isAdBlockActive, false)
 citaten.net#@##bottom-ad
