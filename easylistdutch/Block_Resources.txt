@@ -2,6 +2,10 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-08-01
+||riskcompliance.nl/wp-content/uploads/*/*banner.gif
+||reformatorischeomroep.nl/*/*banner$image
+||villamedia.nl/images/banners/
 ! 2023-07-04
 ||autonieuws.be/templates/yootheme/cache/*/1MG_Banni%C3%A8re_Autonieuws_V1-*$image
 ||autonieuws.be/templates/yootheme/cache/*/325_x_325_NL-*$image
@@ -101,7 +105,6 @@
 ||persberichten.com/Actueel_Images*/*.gif$image
 ||persinfo.org/assets/front/images/website/multimmo*.mp4
 ||cdn-radio.dpgmedia.net/b/*_Banner_$image,domain=qmusic.be
-||reformatorischeomroep.nl/*Banner*.gif
 ||reliwiki.nl/img/banner$image
 ||rickfm.nl/cwm/fm/userfiles/banner/foto/thumb$image
 ||rickfm.nl/views/rickfm/images/*.gif$image
@@ -292,7 +295,7 @@
 ! 2022-03-17 crimesite.nl
 ||strafrechtadvocaten.nl/media/banner/$3p
 ! 2022-03-12
-/images/*.gif$image,domain=123video.nl|geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexdatingholland.com|sexfun.nl|sexverhalencams.com|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
+/images/*.gif$image,domain=123video.nl|geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
 ! 2022-03-11
 ||maarkelsnieuws.nl/banners/$image
 ! 2022-02-14
