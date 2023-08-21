@@ -22,7 +22,10 @@ tweakers.net##+js(addEventListener-defuser, /[\w]{16}/, /^e=>.*/)
 tweakers.net##.promotor:has([src*="whitelist_message"]):upward(1)
 !tweakers.net#@#.widebnr
 !tweakers.net##.widebnr:style(visibility: collapse !important; min-height: 1.5px !important;)
-vtmgo.be##+js(no-fetch-if, v.fwmrm.net)
+! 2023-08-21 https://github.com/uBlockOrigin/uAssets/issues/19295
+@@||v.fwmrm.net/ad/$xhr,domain=vtmgo.be
+||gabe.hit.gemius.pl/gplayer.js$script,domain=vtmgo.be,redirect=noopjs,important
+||mssl.fwmrm.net/*/AdManager.js$script,domain=vtmgo.be,redirect=noopjs,important
 ! 2022
 autoweek.nl##+js(set-constant, isAdBlockActive, false)
 citaten.net#@##bottom-ad
