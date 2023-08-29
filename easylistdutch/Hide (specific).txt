@@ -180,6 +180,7 @@ weeronline.nl##div[class^="styled__AdWrapper-"]
 weeronline.nl##div[class^="styled__FooterAdWrapper-"]
 weertdegekste.nl##.banner-right
 westerwoldeactueel.nl##.adr-wrapper
+wibnet.nl##.default-banner-size
 wielerflits.be,wielerflits.nl###mm_hpa
 wielerflits.be,wielerflits.nl##.affiliate_links
 wielerflits.be,wielerflits.nl##.mm_container
