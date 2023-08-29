@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Wed, 23 Aug 2023 16:42:04 +0000
+! Last modified: Tue, 29 Aug 2023 14:37:47 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -913,6 +913,7 @@ weeronline.nl##div[class^="styled__AdWrapper-"]
 weeronline.nl##div[class^="styled__FooterAdWrapper-"]
 weertdegekste.nl##.banner-right
 westerwoldeactueel.nl##.adr-wrapper
+wibnet.nl##.default-banner-size
 wielerflits.be,wielerflits.nl###mm_hpa
 wielerflits.be,wielerflits.nl##.affiliate_links
 wielerflits.be,wielerflits.nl##.mm_container
