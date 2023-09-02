@@ -1093,7 +1093,6 @@ seksverhalen.org##header:style(height:100px !important;)
 sex-kamer.nl##.videoOverAdBig
 sexafspraakonline.nl##.d-lg-block.d-none > .card:has-text(Advert)
 sexcam-mokkels.nl##.entry-content > div
-sexdating-vrouwen.be##.moduletable:has-text(/Advertentie/i):not(#aside > :has(iframe[data-src*="affilaxy.com"])):not(:has-text(/vrouwen/i))
 
 sexervaringdelen.com##center > center:has(iframe[width="900"][height="250"])
 sexervaringdelen.com##section[id^="block"]:has([width="300"][height="250"])
