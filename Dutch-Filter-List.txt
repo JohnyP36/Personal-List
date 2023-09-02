@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Tue, 29 Aug 2023 14:37:47 +0000
+! Last modified: Sat, 02 Sep 2023 04:05:27 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -836,6 +836,7 @@ republikein.com.na##.hidden-xs.az-adverts > aside:has(a[href*="//nmh.my.na/adver
 republikein.com.na##aside[style] ~ aside:not([style])
 retaildetail.be,retaildetail.nl##.ad-web .bsaProItem:has([style*="Banner"])
 rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
+security.nl##.banner_leaderboard
 serietotaal.nl##[class^="banner"]
 serietotaal.nl###adf-autonative
 sexervaringendelen.nl##[class^=" lazyload"][data-src*="banner"]:upward(2)
