@@ -106,6 +106,7 @@ rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
 security.nl##.banner_leaderboard
 serietotaal.nl##[class^="banner"]
 serietotaal.nl###adf-autonative
+sex-kamer.nl##.videoOverAdBig
 sexervaringendelen.nl##[class^=" lazyload"][data-src*="banner"]:upward(2)
 sexfun.nl##[href^="https://ads.v1d305.com/redirect/"]
 sexjobs.nl##.banner-wrapper
@@ -1090,10 +1091,9 @@ schaefer-shop.nl##.pda > .row > [class]:has(.sfr-pdp-section[id$="crossseller"])
 schiedamsnieuws.nl##[class*="sidebar"] > section:has(a[href]):has(img[src^="https://i1.wp.com/www.schiedamsnieuws.nl/"][srcset])
 secretcircle.com##.column:has(.advert)
 seksverhalen.org##header:style(height:100px !important;)
-sex-kamer.nl##.videoOverAdBig
+
 sexafspraakonline.nl##.d-lg-block.d-none > .card:has-text(Advert)
 sexcam-mokkels.nl##.entry-content > div
-
 sexervaringdelen.com##center > center:has(iframe[width="900"][height="250"])
 sexervaringdelen.com##section[id^="block"]:has([width="300"][height="250"])
 spelersvrouw.nl##.widget_text.gridlove-box
