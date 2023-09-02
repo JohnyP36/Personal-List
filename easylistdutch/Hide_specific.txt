@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Sat, 02 Sep 2023 08:33:13 +0000
+! Last modified: Sat, 02 Sep 2023 08:43:55 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,bright.nl,gpblog.com,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -26,7 +26,7 @@ belegger.nl,beursduivel.be,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-w
 belegger.nl,beursduivel.be,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
 blikopzeewolde.nl##.fusion-flex-container.fullwidth-box.fusion-fullwidth:has(:not(a[href^="https://www.blikopzeewolde.nl/"]) > .fusion-column-inner-bg-image)
 bnr.nl##div[class*="BNRAd_ad_"]
-bruzz.be,omroepflevoland.nl,pu.nl,sportuitslagen.org,trendalert.nl##.ad-container
+bruzz.be,omroepflevoland.nl,pu.nl,soccernews.nl,sportuitslagen.org,trendalert.nl##.ad-container
 buttkicken.nl##a[href] > img[src*="wp.com"]:upward(.wp-block-image):not(:has(a[href*="backme.org"]))
 buttkicken.nl##p.has-small-font-size:has-text(Advertentie)
 calorieenverbranden.nl##[id^="amzn-assoc-ad"]:upward([id^="block"])
@@ -107,6 +107,8 @@ security.nl##.banner_leaderboard
 serietotaal.nl##[class^="banner"]
 serietotaal.nl###adf-autonative
 sexervaringendelen.nl##[class^=" lazyload"][data-src*="banner"]:upward(2)
+soccernews.nl###r89-mobile-rectangle-mid
+soccernews.nl###r89-takeover
 solarmagazine.nl##.sols
 solarmagazine.nl##[id]:has(.company-add)
 sozio.nl##.adchannel
@@ -1094,8 +1096,6 @@ sexylingerie-winkel.be##.homepage-seo-footer
 shespot.nl##.dw-card-inner:has-text(/advertentie/i)
 shespot.nl##[id^="text"]:has([src^="https://www.shespot.nl/wp-content/uploads/"]):has-text(/advertentie/i)
 slam.nl##.holder-ads
-soccernews.nl###r89-mobile-rectangle-mid
-soccernews.nl###r89-takeover
 softonic.nl##.sam-slot
 
 spelersvrouw.nl##.widget_text.gridlove-box
