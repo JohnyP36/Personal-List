@@ -107,6 +107,13 @@ security.nl##.banner_leaderboard
 serietotaal.nl##[class^="banner"]
 serietotaal.nl###adf-autonative
 sexervaringendelen.nl##[class^=" lazyload"][data-src*="banner"]:upward(2)
+solarmagazine.nl##.sols
+solarmagazine.nl##[id]:has(.company-add)
+sozio.nl##.adchannel
+spaargids.be###latest_news_above:has(.sponsored-right-bottom):has([rel="sponsored"])
+speeleiland.nl##.banner-sky
+speeleiland.nl##.leader-below-game
+speeleiland.nl##.row-1-game > :has-text(/advert/i)
 spel.nl,spelletjes.nl##.game-page-sidebar
 spelletje.nl##.adv
 spermatube.be,swingerstube.be,xxx-tube.be##[id^="text-"]:has(img[src*="hotlinkie.com/"])
@@ -616,7 +623,6 @@ sexvoorgeldadvertenties.nl##[class]:has-text(Gesponsorde):upward(aside)
 simone.nl##section:has(div[class*="sponsorcarousel"])
 skoften.net##.promoted
 skoften.net##.promoted-entry-in-content
-solarmagazine.nl##[id]:has(.company-add)
 spidersolitairespelen.nl##.spel_b1
 spidersolitairespelen.nl##.spel_b2
 sproeiendekutjes.nl##aside.widget:has(a[href*="trff9links.com/"])
@@ -1091,12 +1097,6 @@ slam.nl##.holder-ads
 soccernews.nl###r89-mobile-rectangle-mid
 soccernews.nl###r89-takeover
 softonic.nl##.sam-slot
-solarmagazine.nl##.sols
-sozio.nl##.adchannel
-spaargids.be###latest_news_above:has(.sponsored-right-bottom):has([rel="sponsored"])
-speeleiland.nl##.banner-sky
-speeleiland.nl##.leader-below-game
-speeleiland.nl##.row-1-game > :has-text(/advert/i)
 
 spelersvrouw.nl##.widget_text.gridlove-box
 surfplaza.be##td.di1:has(img[src$="/yourad.gif"])
