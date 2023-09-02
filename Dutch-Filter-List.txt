@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Sat, 02 Sep 2023 07:11:36 +0000
+! Last modified: Sat, 02 Sep 2023 07:31:48 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -842,6 +842,7 @@ security.nl##.banner_leaderboard
 serietotaal.nl##[class^="banner"]
 serietotaal.nl###adf-autonative
 sexervaringendelen.nl##[class^=" lazyload"][data-src*="banner"]:upward(2)
+spel.nl,spelletjes.nl##.game-page-sidebar
 spelletje.nl##.adv
 spermatube.be,swingerstube.be,xxx-tube.be##[id^="text-"]:has(img[src*="hotlinkie.com/"])
 sportinnederland.com##.menu-item > [href="https://www.onlinecasinos-nederland.nl/"]
@@ -1831,7 +1832,6 @@ spaargids.be###latest_news_above:has(.sponsored-right-bottom):has([rel="sponsore
 speeleiland.nl##.banner-sky
 speeleiland.nl##.leader-below-game
 speeleiland.nl##.row-1-game > :has-text(/advert/i)
-spel.nl,spelletjes.nl##.game-page-sidebar
 
 spelersvrouw.nl##.widget_text.gridlove-box
 surfplaza.be##td.di1:has(img[src$="/yourad.gif"])
