@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Sat, 02 Sep 2023 04:05:27 +0000
+! Last modified: Sat, 02 Sep 2023 04:37:35 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -1827,14 +1827,14 @@ srherald.com##.gsrhera
 srnieuws.com##.card-view:has(h5.bold > a[href][target="_blank"])
 srnieuws.com##.centered.card-view:has([id^="taboola"])
 standaard.be##.ad--button
-standaard.be##.ad--halfpageskyscraper
 starnieuws.com###topstory > div:has-text(Advertentie)
 startlijstjes.nl##.advertentieblock
 startlijstjes.nl##.item:has([class^="item_special"]:has-text(tradetracker.net))
 startpagina.nl##.top-banner
 streamwijzer.be##.widget:has(a[href*=".bn5x.net/"])
-surfplaza.be##td.di1:has(img[src$="/yourad.gif"])
 synoniemen.net##.promoblok
+
+surfplaza.be##td.di1:has(img[src$="/yourad.gif"])
 treinreiziger.nl##div[class*="ads-adsense-"]
 twentefm.nl##.bannerzone_728x90:has-text(/advert/i)
 veto.be##div[class*="spacer block"]:has([href][id*="advert"])
