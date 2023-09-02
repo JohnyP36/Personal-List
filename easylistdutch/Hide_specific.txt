@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Sat, 02 Sep 2023 04:59:46 +0000
+! Last modified: Sat, 02 Sep 2023 07:11:36 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,bright.nl,gpblog.com,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -107,6 +107,8 @@ security.nl##.banner_leaderboard
 serietotaal.nl##[class^="banner"]
 serietotaal.nl###adf-autonative
 sexervaringendelen.nl##[class^=" lazyload"][data-src*="banner"]:upward(2)
+spelletje.nl##.adv
+spermatube.be,swingerstube.be,xxx-tube.be##[id^="text-"]:has(img[src*="hotlinkie.com/"])
 sportinnederland.com##.menu-item > [href="https://www.onlinecasinos-nederland.nl/"]
 srherald.com##.gsrhera
 srnieuws.com##[id^="taboola-below-article"]:upward(.card-view)
@@ -1095,10 +1097,8 @@ speeleiland.nl##.banner-sky
 speeleiland.nl##.leader-below-game
 speeleiland.nl##.row-1-game > :has-text(/advert/i)
 spel.nl,spelletjes.nl##.game-page-sidebar
-spelersvrouw.nl##.widget_text.gridlove-box
-spelletje.nl##.adv
-spermatube.be,swingerstube.be,xxx-tube.be##[id^="text-"]:has(img[src*="hotlinkie.com/"])
 
+spelersvrouw.nl##.widget_text.gridlove-box
 surfplaza.be##td.di1:has(img[src$="/yourad.gif"])
 treinreiziger.nl##div[class*="ads-adsense-"]
 twentefm.nl##.bannerzone_728x90:has-text(/advert/i)
