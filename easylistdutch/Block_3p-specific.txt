@@ -1,9 +1,10 @@
 [uBlock Origin]
-! Last modified: Thu, 04 May 2023 07:30:36 +0000
+! Last modified: Sat, 02 Sep 2023 07:00:23 +0000
 ! 2023
 ||cdn-radio.dpgmedia.net/*/*/*banner*$image,domain=qmusic.be|qmusic.nl
 ||qmusic.medialaancdn.be/*/*/*banner*$image,domain=qmusic.nl
 ||wieringernieuws.nl/gfx/ads$domain=hollandskroonnieuws.nl|wieringernieuws.nl
+||srv69.eu/b/*.gif$image,domain=spermatube.be
 ||viralize.tv/display/$domain=startpagina.nl
 ! 2022
 .nl/remote/https/agfstorage.blob.core.windows.net/banners/$image,domain=agf.nl|bpnieuws.nl|groentennieuws.nl|uiennieuws.nl
