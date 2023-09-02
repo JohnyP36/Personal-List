@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Sat, 02 Sep 2023 09:37:03 +0000
+! Last modified: Sat, 02 Sep 2023 09:40:31 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -840,6 +840,7 @@ retaildetail.be,retaildetail.nl##.ad-web .bsaProItem:has([style*="Banner"])
 rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
 schiedamsnieuws.nl##[class*="sidebar"] > section:has(a[href]):has(img[src*="wp.com/www.schiedamsnieuws.nl/"][srcset])
 security.nl##.banner_leaderboard
+seksverhalen.org##header:style(height:100px !important;)
 serietotaal.nl##[class^="banner"]
 serietotaal.nl###adf-autonative
 sex-kamer.nl##.videoOverAdBig
@@ -1822,11 +1823,10 @@ rtvkrimpenerwaard.nl##[id^="pg-1407"]:has-text(Vrienden):has([class^="sp-logo-ca
 rtvpapendrecht.nl##div[class^="vc_column"]:has-text(/reclame/i)
 rubenweytjens.be##.block-ad-banner
 rubenweytjens.be##.view-weather-ads-view
+
 salvora.nl##.avia-content-slider:has-text(/sponsor/i)
 schaefer-shop.nl##.pda > .row > [class]:has(.sfr-pdp-section[id$="crossseller"])
 secretcircle.com##.column:has(.advert)
-seksverhalen.org##header:style(height:100px !important;)
-
 sexafspraakonline.nl##.d-lg-block.d-none > .card:has-text(Advert)
 sexcam-mokkels.nl##.entry-content > div
 sexervaringdelen.com##center > center:has(iframe[width="900"][height="250"])
