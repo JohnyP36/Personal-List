@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Sat, 02 Sep 2023 04:37:35 +0000
+! Last modified: Sat, 02 Sep 2023 04:46:13 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -840,6 +840,7 @@ security.nl##.banner_leaderboard
 serietotaal.nl##[class^="banner"]
 serietotaal.nl###adf-autonative
 sexervaringendelen.nl##[class^=" lazyload"][data-src*="banner"]:upward(2)
+srnieuws.com##[id^="taboola-below-article"]:upward(.card-view)
 takecare4.eu###branding > .clearfix
 tameteo.nl##div[id*="banner"]:upward(2)
 tcroomburg.nl##.hpitem:has(h3:has-text(Partner))
@@ -1824,8 +1825,6 @@ spermatube.be,swingerstube.be,xxx-tube.be##[id^="text-"]:has(img[src*="hotlinkie
 sportinnederland.com##.af-main-header-container
 sportinnederland.com##.widget-area:has([id^="custom_html-"]:has(.adsbygoogle))
 srherald.com##.gsrhera
-srnieuws.com##.card-view:has(h5.bold > a[href][target="_blank"])
-srnieuws.com##.centered.card-view:has([id^="taboola"])
 standaard.be##.ad--button
 starnieuws.com###topstory > div:has-text(Advertentie)
 startlijstjes.nl##.advertentieblock
