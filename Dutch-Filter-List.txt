@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Sat, 02 Sep 2023 04:54:29 +0000
+! Last modified: Sat, 02 Sep 2023 04:59:46 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -841,7 +841,15 @@ serietotaal.nl##[class^="banner"]
 serietotaal.nl###adf-autonative
 sexervaringendelen.nl##[class^=" lazyload"][data-src*="banner"]:upward(2)
 sportinnederland.com##.menu-item > [href="https://www.onlinecasinos-nederland.nl/"]
+srherald.com##.gsrhera
 srnieuws.com##[id^="taboola-below-article"]:upward(.card-view)
+standaard.be##.ad--button
+starnieuws.com###topstory > div:has-text(Advertentie)
+startlijstjes.nl##.advertentieblock
+startlijstjes.nl##.item:has([class^="item_special"]:has-text(tradetracker.net))
+startpagina.nl##.top-banner
+streamwijzer.be##.widget:has(a[href*=".bn5x.net/"])
+synoniemen.net##.promoblok
 takecare4.eu###branding > .clearfix
 tameteo.nl##div[id*="banner"]:upward(2)
 tcroomburg.nl##.hpitem:has(h3:has-text(Partner))
@@ -1823,14 +1831,6 @@ spel.nl,spelletjes.nl##.game-page-sidebar
 spelersvrouw.nl##.widget_text.gridlove-box
 spelletje.nl##.adv
 spermatube.be,swingerstube.be,xxx-tube.be##[id^="text-"]:has(img[src*="hotlinkie.com/"])
-srherald.com##.gsrhera
-standaard.be##.ad--button
-starnieuws.com###topstory > div:has-text(Advertentie)
-startlijstjes.nl##.advertentieblock
-startlijstjes.nl##.item:has([class^="item_special"]:has-text(tradetracker.net))
-startpagina.nl##.top-banner
-streamwijzer.be##.widget:has(a[href*=".bn5x.net/"])
-synoniemen.net##.promoblok
 
 surfplaza.be##td.di1:has(img[src$="/yourad.gif"])
 treinreiziger.nl##div[class*="ads-adsense-"]
