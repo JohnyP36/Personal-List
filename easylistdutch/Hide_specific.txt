@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Sat, 02 Sep 2023 04:46:13 +0000
+! Last modified: Sat, 02 Sep 2023 04:54:29 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,bright.nl,gpblog.com,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -107,6 +107,7 @@ security.nl##.banner_leaderboard
 serietotaal.nl##[class^="banner"]
 serietotaal.nl###adf-autonative
 sexervaringendelen.nl##[class^=" lazyload"][data-src*="banner"]:upward(2)
+sportinnederland.com##.menu-item > [href="https://www.onlinecasinos-nederland.nl/"]
 srnieuws.com##[id^="taboola-below-article"]:upward(.card-view)
 takecare4.eu###branding > .clearfix
 tameteo.nl##div[id*="banner"]:upward(2)
@@ -1089,8 +1090,6 @@ spel.nl,spelletjes.nl##.game-page-sidebar
 spelersvrouw.nl##.widget_text.gridlove-box
 spelletje.nl##.adv
 spermatube.be,swingerstube.be,xxx-tube.be##[id^="text-"]:has(img[src*="hotlinkie.com/"])
-sportinnederland.com##.af-main-header-container
-sportinnederland.com##.widget-area:has([id^="custom_html-"]:has(.adsbygoogle))
 srherald.com##.gsrhera
 standaard.be##.ad--button
 starnieuws.com###topstory > div:has-text(Advertentie)
