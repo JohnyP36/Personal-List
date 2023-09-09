@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Sat, 02 Sep 2023 09:40:31 +0000
+! Last modified: Sat, 09 Sep 2023 04:48:21 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -106,6 +106,7 @@ _advertentieleaderboardhome.
 ||cleafs.nl^$third-party
 ||conversive.nl^$third-party
 ||crnsgngrpj.nl^$third-party
+||cryptobeneluxbanner.care^$domain=cryptobenelux.com
 ||csmcampagne.consumind.nl^$third-party
 ||daisycon.com^$third-party
 ||datingcash.eu^$third-party
