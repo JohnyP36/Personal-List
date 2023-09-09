@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Sat, 02 Sep 2023 09:40:31 +0000
+! Last modified: Sat, 09 Sep 2023 04:49:17 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,bright.nl,gpblog.com,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -31,6 +31,7 @@ buttkicken.nl##a[href] > img[src*="wp.com"]:upward(.wp-block-image):not(:has(a[h
 buttkicken.nl##p.has-small-font-size:has-text(Advertentie)
 calorieenverbranden.nl##[id^="amzn-assoc-ad"]:upward([id^="block"])
 cyclingmedia.eu##div[class*="section-sidebar"] figure:has-text(/advert/i)
+cryptobenelux.com##.clickout-banner-regular_native_box
 daemesenheeren.nl##.widget_media_image
 dehavengids.nl##.elementor-widget-container:has(.g)
 deondernemer.nl##.tile-advert:upward(.tile-wrapper)

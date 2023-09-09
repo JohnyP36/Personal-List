@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Sat, 09 Sep 2023 04:48:21 +0000
+! Last modified: Sat, 09 Sep 2023 04:49:17 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -767,6 +767,7 @@ buttkicken.nl##a[href] > img[src*="wp.com"]:upward(.wp-block-image):not(:has(a[h
 buttkicken.nl##p.has-small-font-size:has-text(Advertentie)
 calorieenverbranden.nl##[id^="amzn-assoc-ad"]:upward([id^="block"])
 cyclingmedia.eu##div[class*="section-sidebar"] figure:has-text(/advert/i)
+cryptobenelux.com##.clickout-banner-regular_native_box
 daemesenheeren.nl##.widget_media_image
 dehavengids.nl##.elementor-widget-container:has(.g)
 deondernemer.nl##.tile-advert:upward(.tile-wrapper)
