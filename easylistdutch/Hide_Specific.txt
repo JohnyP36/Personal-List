@@ -2,7 +2,12 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
-! 2023-08-029
+! 2023-09-08
+cryptobenelux.com##.clickout-banner-regular_native_box
+! 2023-09-01
+security.nl##.banner_leaderboardcryptobenelux.com##.clickout-banner-regular_native_box
+sportinnederland.com##.menu-item > [href="https://www.onlinecasinos-nederland.nl/"]
+! 2023-08-29
 wibnet.nl##.default-banner-size
 ! 2023-08-23
 bnr.nl##div[class*="BNRAd_ad_"]
@@ -116,7 +121,6 @@ leerlingen.com##.sponsors
 radioeenhoorn.nl##.module_round_box:not(:has([href*="/word-donateur"]))
 recreatief.nl##.widget-a-wrap
 rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
-srnieuws.com##.card-view:has(h5.bold > a[href][target="_blank"])
 srnieuws.com##div.card-view:has([id^="taboola"])
 waterkant.net##div.td-all-devices
 ! 2023-05-03
@@ -960,7 +964,6 @@ nieuwsmotor.nl##.add-background
 voetbalvandaag.be##.adds
 kinkymedia.nl##.adguru-ad-banner
 kinkymedia.nl##.adguru-zone-wrap
-standaard.be##.ad--halfpageskyscraper
 koopplein.nl##.ad-item-container
 westerwoldeactueel.nl##.adr-wrapper
 androidworld.nl,cinenews.be,handbal.nl,openrotterdam.nl,webmastersunited.com##.ads
@@ -977,7 +980,6 @@ autoweek.nl##.advertise
 7sur7.be,ad.nl,bd.nl,bnnvara.nl,destentor.nl,ed.nl,elektormagazine.nl,gelderlander.nl,hln.be,hpdetijd.nl,kieskeurig.nl,modekoninginmaxima.nl,ovpro.nl,tankpro.nl,tubantia.nl,zijaanzij.nl##.advertisement
 goodbye.be,sporza.be##.advertising
 dagblad010.nl,voorburgsdagblad.nl##.advrow
-sportinnederland.com##.af-main-header-container
 gfcnieuws.com##.ai-viewport-1
 alblasserdamsnieuws.nl##.albla-widget
 alblasserdamsnieuws.nl##.albla-zijkant:has(.adv-link)
@@ -1295,7 +1297,6 @@ rtvideaal.nl##.widget_random_banner_widget
 culturescope.nl##.widget_sp_image:has([onclick^="javascript:window.open("] > img[width][height])
 radioreflex.be##.widget_sponsors_widget
 emerce.nl##.widget_text:has(img[src*="/hosted-by-true-"])
-sportinnederland.com##.widget-area:has([id^="custom_html-"]:has(.adsbygoogle))
 digitaalburg.com##.widget-area-bottom.align-center:has(.adsbygoogle)
 onderwijsland.com##.widgetbar > div.row > :has(.widget-partners)
 onderwijsland.com##.widgetbar > div.row > :has-text(Advert)
