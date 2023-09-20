@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Tue, 01 Aug 2023 09:49:14 +0000
+! Last modified: Wed, 20 Sep 2023 13:37:13 +0000
 ! 2023
 /^https?:\/\/statics\.(?:7sur7|ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
   !||statics.*.*/js/advertising-$script,domain=7sur7.be|ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
@@ -19,6 +19,7 @@
 ||autonieuws.be/templates/yootheme/cache/*Banner$image
 ||boottesten.nl/wp-content/uploads/*/*Ad.gif
 ||diecourant.co.za/wp-content/uploads/*-20*-1024x*.jpg^$image
+||ecobioliving.eu/*bol.com/nl/upload/partnerprogramma/$image
 ||escort46.nl/bg_images/*.gif
 ||motorboot.com/wp-content/uploads/*/ad-logo
 ||onlinecorrectie.nl/cnc/$image
