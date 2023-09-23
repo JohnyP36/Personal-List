@@ -55,6 +55,10 @@ fok.nl,looopings.nl,scientias.nl##div[class^="r89-desktop"]
 freeones.nl##.banner-placeholder
 gamer.nl,id.nl,wasmachines.nl##.adunitContainer:upward(.items-center)
 gebruikershandleiding.com##[class^="adserver-container"]
+gewoonvoorhem.nl##[id^="below-article-rectangle"]
+gewoonvoorhem.nl##[id$="ad-desktop"]
+gewoonvoorhem.nl##[id$="leaderboard-article"]
+gewoonvoorhem.nl###below-article-leaderboard
 gezondheid.be###leaderboard_floor
 girlscene.nl##[id$="leaderboard-article"]
 girlscene.nl##[id$="top-ad-desktop"]
