@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Sun, 15 Oct 2023 13:48:09 +0000
+! Last modified: Sun, 15 Oct 2023 13:50:37 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -1799,7 +1799,6 @@ openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
 openingstijden.com###adsense_CSA
 openingsurengids.be##.promSB
 opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
-osuradio.nl##.wdslider
 paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
 peoplesphere.be##[id^="text-"]:not(:has(a[href^="https://peoplesphere.be/"])):not(:has(.twitter-timeline))
 petities.com###visible_ad_1

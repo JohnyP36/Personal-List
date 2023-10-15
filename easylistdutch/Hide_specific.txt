@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Sun, 15 Oct 2023 13:48:09 +0000
+! Last modified: Sun, 15 Oct 2023 13:50:37 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,bright.nl,gpblog.com,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -1068,7 +1068,6 @@ openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
 openingstijden.com###adsense_CSA
 openingsurengids.be##.promSB
 opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
-osuradio.nl##.wdslider
 paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
 peoplesphere.be##[id^="text-"]:not(:has(a[href^="https://peoplesphere.be/"])):not(:has(.twitter-timeline))
 petities.com###visible_ad_1
