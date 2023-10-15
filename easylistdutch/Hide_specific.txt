@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Sun, 15 Oct 2023 07:06:04 +0000
+! Last modified: Sun, 15 Oct 2023 07:19:50 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,bright.nl,gpblog.com,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -110,6 +110,7 @@ republikein.com.na##.hidden-xs.az-adverts > aside:has(a[href*="//nmh.my.na/adver
 republikein.com.na##aside[style] ~ aside:not([style])
 retaildetail.be,retaildetail.nl##.ad-web .bsaProItem:has([style*="Banner"])
 rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
+rtvgo.nl##.thanksto
 rubenweytjens.be##.block-ad-banner:not(:has([href*="weerpush.be/"])):not(:has(iframe[src*="meteo-be.net"]))
 rubenweytjens.be##.view-weather-ads-view
 schiedamsnieuws.nl##[class*="sidebar"] > section:has(a[href]):has(img[src*="wp.com/www.schiedamsnieuws.nl/"][srcset])
@@ -1090,7 +1091,6 @@ rtvdrenthe.nl##div[class^="col"]:has([class*="adcontainer"])
 rtveen.nl###advertenties
 rtveen.nl##div.category:has-text(/advert/i)
 rtveen.nl##li:has-text(reclame)
-rtvgo.nl##.footeradd
 rtvideaal.nl##.widget_random_banner_widget
 rtvkrimpenerwaard.nl##.art-positioncontrol
 rtvkrimpenerwaard.nl##[id^="pg-1407"]:has-text(Vrienden):has([class^="sp-logo-carousel"] .sp-lcp-logo-wrapper):has(img[src])
