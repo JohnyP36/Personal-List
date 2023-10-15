@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Sun, 15 Oct 2023 13:50:37 +0000
+! Last modified: Sun, 15 Oct 2023 13:58:14 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -828,6 +828,7 @@ nederland.fm##[class*=adv]
 nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
 nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 notebookcheck.nl###nbc_skys
+osurtv.nl##.wdslider:has-text(/Sponsor|partners/i)
 overstrandherald.co.za##.wpb_widgetised_column .widget_text
 parool.nl,trouw.nl##.oortje-wrapper
 pikanterooieoortjes.nl##.widget_custom_html:has([src^="//aweproto.com/"])
