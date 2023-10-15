@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Sun, 15 Oct 2023 14:08:39 +0000
+! Last modified: Sun, 15 Oct 2023 14:26:42 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -1784,7 +1784,6 @@ omroepalmere.nl##.widget_carousel_slider:has-text(Partners)
 omroepalmere.nl##[id^="media_image"]:not(:has-text(Met dank aan)):not(#media_image-24):not(#media_image-28)
 omroepbrabant.nl##div[class^="ad-"]
 omroepbrabant.nl,reclamefolder.nl##div[class^="ad_"]
-omroeprsh.nl##[id*="media"]:has(img[width="300"]):not(:has([href*="youtube"]))
 omroepwest.nl,omroepzeeland.nl##.adcontainer
 oneworld.nl##.promotion-block
 online-omzetten.nl##.clearfix.entry > small
