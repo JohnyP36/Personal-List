@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Sun, 15 Oct 2023 11:57:44 +0000
+! Last modified: Sun, 15 Oct 2023 12:11:39 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -834,6 +834,7 @@ pokeren.nl###onetime-popup
 pretoriafm.co.za##.bannerswidget
 radioeenhoorn.nl##.module_round_box:not(:has([href*="/word-donateur"]))
 recreatief.nl##.widget-a-wrap
+redbot.frl##.container.slider:has(.twelvecol:has-text(partners))
 republikein.com.na##.articleBody > aside
 republikein.com.na##.topBanner
 republikein.com.na##.hidden-xs.az-adverts h2:has-text(/Advert/i)
@@ -1812,7 +1813,6 @@ radiozenders.fm##.marqueeItem:has(a[href^="https://partner.bol.com/"])
 rd.nl##.codalt-container
 rd.nl##.infotainment:has(a[href^="/advert"])
 rd.nl##.rdnl__adds
-redbot.frl###content .container:has(.twelvecol:has-text(partners))
 refoweb.nl##.bannercontainer
 regionoordkop.nl##.regio-widget
 regioonline.nl##.td-a-rec
