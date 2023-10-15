@@ -98,6 +98,7 @@ nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
 nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 notebookcheck.nl###nbc_skys
 overstrandherald.co.za##.wpb_widgetised_column .widget_text
+parool.nl,trouw.nl##.oortje-wrapper
 pikanterooieoortjes.nl##.widget_custom_html:has([src^="//aweproto.com/"])
 pokeren.nl##.sidebaritem:has-text(/partners|online casino/i)
 pokeren.nl###onetime-popup
@@ -1069,7 +1070,6 @@ openingsurengids.be##.promSB
 opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
 osuradio.nl##.wdslider
 paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
-parool.nl,trouw.nl##.ad--section
 peoplesphere.be##[id^="text-"]:not(:has(a[href^="https://peoplesphere.be/"])):not(:has(.twitter-timeline))
 petities.com###visible_ad_1
 
