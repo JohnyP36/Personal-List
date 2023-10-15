@@ -1051,7 +1051,6 @@ nuus.be##.widget-area.sidebar:has([data-advadstrackid])
 nzbindex.nl##.inner:has(a[href])
 omroepalmere.nl##.widget_carousel_slider:has-text(Partners)
 omroepalmere.nl##[id^="media_image"]:not(:has-text(Met dank aan)):not(#media_image-24):not(#media_image-28)
-omroepbrabant.nl##div[class^="ad-"]
 omroepbrabant.nl,reclamefolder.nl##div[class^="ad_"]
 omroepwest.nl,omroepzeeland.nl##.adcontainer
 oneworld.nl##.promotion-block
