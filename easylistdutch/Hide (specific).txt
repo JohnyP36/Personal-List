@@ -103,6 +103,7 @@ pokeren.nl###onetime-popup
 pretoriafm.co.za##.bannerswidget
 radioeenhoorn.nl##.module_round_box:not(:has([href*="/word-donateur"]))
 recreatief.nl##.widget-a-wrap
+redbot.frl##.container.slider:has(.twelvecol:has-text(partners))
 republikein.com.na##.articleBody > aside
 republikein.com.na##.topBanner
 republikein.com.na##.hidden-xs.az-adverts h2:has-text(/Advert/i)
@@ -1081,7 +1082,6 @@ radiozenders.fm##.marqueeItem:has(a[href^="https://partner.bol.com/"])
 rd.nl##.codalt-container
 rd.nl##.infotainment:has(a[href^="/advert"])
 rd.nl##.rdnl__adds
-redbot.frl###content .container:has(.twelvecol:has-text(partners))
 refoweb.nl##.bannercontainer
 regionoordkop.nl##.regio-widget
 regioonline.nl##.td-a-rec
