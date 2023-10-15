@@ -371,7 +371,7 @@ dekrantvantynaarlo.nl##div[class^="module-etads"]
 deoudrotterdammer.nl##[class$="advertentie"] + div:has([id^="deoud-"])
 detelefoongids.nl##.static-map
 detelefoongids.nl##.wrapper:has-text(Youvia)
-dissident.one,mariabode.nl##[id^="custom_html"]:has-text(/advert/i)
+dissident.one,mariabode.nl,omroepzilt.nl##[id^="custom_html"]:has-text(/advert/i)
 ditjesendatjes.nl##.c-partners
 ditjesendatjes.nl##div[class^="article-page__sidebar"] a[href]:not(a[href*="ditjesendatjes.nl"]):not(a[href="#"]):has(img[src])
 dolcevia.com##.affiliatelink
