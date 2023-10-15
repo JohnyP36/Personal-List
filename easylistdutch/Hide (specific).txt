@@ -1070,9 +1070,6 @@ opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
 osuradio.nl##.wdslider
 paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
 parool.nl,trouw.nl##.ad--section
-pcmweb.nl##.site__sidebar > .block:has(div.banner)
-pcmweb.nl##div.block:has([id^="div-gpt-ad"])
-pcmweb.nl##div.block:has-text(Vacatures)
 peoplesphere.be##[id^="text-"]:not(:has(a[href^="https://peoplesphere.be/"])):not(:has(.twitter-timeline))
 petities.com###visible_ad_1
 
