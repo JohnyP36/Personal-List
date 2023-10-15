@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Sun, 15 Oct 2023 14:56:28 +0000
+! Last modified: Sun, 15 Oct 2023 15:00:18 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -830,10 +830,26 @@ nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
 nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 notebookcheck.nl###nbc_skys
 omroepalmere.nl##aside.widget_block[id^="block"]:not(:has([href*="omroepalmere.nl"])):not(:has-text(/Informatie/i))
+omroepbrabant.nl,reclamefolder.nl##div[class^="ad_"]
+online-omzetten.nl##.clearfix.entry > small
+online-omzetten.nl##[style^="margin"]:has(.adsbygoogle)
+online-radio.nl###top_ad-360
+online-radio.nl##[id^="AdvertMid"]
+online-radio.nl##[id^="containersitead"]
+onschuldigemeiden.nl##.widget:has([href^="https://short1.nl/smart/"])
+oops.nl###dropinboxv2cover
+oops.nl##[src="http://www.oops.nl/banner/bannerindex.html"]
+oops.nl##table[cellspacing="30"]
 oozo.nl##.hdrcontainer > .adsbybinq
+openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
+openingstijden.com###adsense_CSA
+openingsurengids.be##.promSB
+opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
 osurtv.nl##.wdslider:has-text(/Sponsor|partners/i)
 overstrandherald.co.za##.wpb_widgetised_column .widget_text
+paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
 parool.nl,trouw.nl##.oortje-wrapper
+peoplesphere.be##[id^="text-"]:not(:has(a[href^="https://peoplesphere.be/"])):not(:has(.twitter-timeline))
 pikanterooieoortjes.nl##.widget_custom_html:has([src^="//aweproto.com/"])
 pokeren.nl##.sidebaritem:has-text(/partners|online casino/i)
 pokeren.nl###onetime-popup
@@ -1782,26 +1798,10 @@ nos.nl##.ster-banner
 nos.nl##.teletekst__banner
 nuus.be##.widget-area.sidebar:has([data-advadstrackid])
 nzbindex.nl##.inner:has(a[href])
-omroepbrabant.nl,reclamefolder.nl##div[class^="ad_"]
+
 omroepwest.nl,omroepzeeland.nl##.adcontainer
 oneworld.nl##.promotion-block
-online-omzetten.nl##.clearfix.entry > small
-online-omzetten.nl##[style^="margin"]:has(.adsbygoogle)
-online-radio.nl###top_ad-360
-online-radio.nl##[id^="AdvertMid"]
-online-radio.nl##[id^="containersitead"]
-onschuldigemeiden.nl##.widget:has([href^="https://short1.nl/smart/"])
-oops.nl###dropinboxv2cover
-oops.nl##[src="http://www.oops.nl/banner/bannerindex.html"]
-oops.nl##table[cellspacing="30"]
-openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
-openingstijden.com###adsense_CSA
-openingsurengids.be##.promSB
-opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
-paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
-peoplesphere.be##[id^="text-"]:not(:has(a[href^="https://peoplesphere.be/"])):not(:has(.twitter-timeline))
 petities.com###visible_ad_1
-
 pornolekker.nl##[class^="Scl"]:has([src^="//ads"])
 proximus.be##.col.pix-sidebar
 quickclaims.nl##.overlay:has([src^="blob:https://quickclaims.nl/"])
