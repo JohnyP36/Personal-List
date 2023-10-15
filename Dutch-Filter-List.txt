@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Sun, 15 Oct 2023 12:51:13 +0000
+! Last modified: Sun, 15 Oct 2023 12:58:43 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -831,6 +831,8 @@ notebookcheck.nl###nbc_skys
 overstrandherald.co.za##.wpb_widgetised_column .widget_text
 pokeren.nl##.sidebaritem:has-text(/partners|online casino/i)
 pokeren.nl###onetime-popup
+pornozot.com###video-right
+pornozot.com##.abbcn-footer
 pretoriafm.co.za##.bannerswidget
 prewarcar.nl##.banner-holder
 prewarcar.nl##img[width="160"][height="92"]
@@ -1808,8 +1810,6 @@ pornoplekje.nl###exitpopup-modal
 pornopower.nl##.code-block-1
 pornopower.nl##[id^="custom_html"]:has([src^="https://chainadvertising.eu/"])
 pornopower.nl##[id^="custom_html"]:has([src^="https://www.2k19.nl/"])
-pornozot.com###video-right
-pornozot.com##[id$="iframe"]:has-text(/Reclame/i)
 proximus.be##.col.pix-sidebar
 quickclaims.nl##.overlay:has([src^="blob:https://quickclaims.nl/"])
 rd.nl##.codalt-container
