@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Sun, 15 Oct 2023 12:35:18 +0000
+! Last modified: Sun, 15 Oct 2023 12:42:27 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -832,19 +832,31 @@ overstrandherald.co.za##.wpb_widgetised_column .widget_text
 pokeren.nl##.sidebaritem:has-text(/partners|online casino/i)
 pokeren.nl###onetime-popup
 pretoriafm.co.za##.bannerswidget
-radioeenhoorn.nl##.module_round_box:not(:has([href*="/word-donateur"]))
-radiozenders.fm##[id^="div-gpt-rectangle"]:upward(.banner-rectangle)
 recreatief.nl##.widget-a-wrap
+radio182.nl##section.elementor-element:has(h3:has-text(/mogelijk gemaakt door:/i))
+radioacacia.nl##table[width="680"]:has(img[src^="sponsoren/"])
+radiocontinu.nl##.eskimo-slider-img:upward(5)
+radiocontinu.nl##.eskimo-slider-img:upward(11) + div[class]:has([id^="div-gpt-ad"])
+radioeenhoorn.nl##.module_round_box:not(:has([href*="/word-donateur"]))
+radiopros.be##.inside-left-sidebar
+radioreflex.be##aside:has-text(/sponsor/i)
+radiozenders.fm##[id^="div-gpt-rectangle"]:upward(.banner-rectangle)
 redbot.frl##.container.slider:has(.twelvecol:has-text(partners))
+refoweb.nl##.bannercontainer
+regionoordkop.nl##.regio-widget
+regioonline.nl##.td-a-rec
+rendez-vous.be##.leaderBoard
 republikein.com.na##.articleBody > aside
 republikein.com.na##.topBanner
 republikein.com.na##.hidden-xs.az-adverts h2:has-text(/Advert/i)
 republikein.com.na##.hidden-xs.az-adverts > aside:has(a[href*="//nmh.my.na/advert"])
 republikein.com.na##aside[style] ~ aside:not([style])
 retaildetail.be,retaildetail.nl##.ad-web .bsaProItem:has([style*="Banner"])
+rkcwaalwijk.nl##.flex.carousel--default.carousel
 riskcompliance.nl##.banner-container
 riskcompliance.nl##a[onclick*="Banner"]:not(a[href*="riskcompliance.nl"]):upward(article)
 rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
+rotterdambasketbal.nl##.gdlr-core-pbf-wrapper:has(img[title^="roba_sponosor_"])
 roulettefm.nl,rtvstichtsevecht.nl##body > .content:has-text(/advert/i)
 rtvalbrandswaard.com##section:has-text(/steun ons/i)
 rtveen.nl##.row [id^="block"]:not(:has(a[href*="rtveen.nl"])):not(:has(.popular-posts))
@@ -1801,24 +1813,12 @@ prewarcar.nl##img[width="160"][height="92"]
 proximus.be##.col.pix-sidebar
 qseks.nl###black-studio-tinymce-2:has-text(Advertentie)
 quickclaims.nl##.overlay:has([src^="blob:https://quickclaims.nl/"])
-radio182.nl##section.elementor-element:has(h3:has-text(/mogelijk gemaakt door:/i))
-radioacacia.nl##table[width="680"]:has(img[src^="sponsoren/"])
-radiocontinu.nl##.eskimo-slider-img:upward(5)
-radiocontinu.nl##.eskimo-slider-img:upward(11) + div[class]:has([id^="div-gpt-ad"])
-radiopros.be##.inside-left-sidebar
-radioreflex.be##aside:has-text(/sponsor/i)
 rd.nl##.codalt-container
 rd.nl##.infotainment:has(a[href^="/advert"])
 rd.nl##.rdnl__adds
-refoweb.nl##.bannercontainer
-regionoordkop.nl##.regio-widget
-regioonline.nl##.td-a-rec
-rendez-vous.be##.leaderBoard
-rkcwaalwijk.nl##.flex.carousel--default.carousel
+
 romagazine.nl##[id^="text-"]:has-text(Partners)
 romagazine.nl##aside > .textwidget [src*="wp.com/romagazine.nl/"][src*="/wp-content/uploads/"][src$="?w=665"]
-rotterdambasketbal.nl##.gdlr-core-pbf-wrapper:has(img[title^="roba_sponosor_"])
-
 rtvdordrecht.nl##.bannerContainer
 rtvdrenthe.nl###recommendations-above-ad
 rtvdrenthe.nl##div[class^="col"]:has([class*="adcontainer"])
