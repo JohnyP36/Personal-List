@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Sun, 15 Oct 2023 10:39:34 +0000
+! Last modified: Sun, 15 Oct 2023 11:11:21 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -1815,7 +1815,6 @@ romagazine.nl##[id^="text-"]:has-text(Partners)
 romagazine.nl##aside > .textwidget [src*="wp.com/romagazine.nl/"][src*="/wp-content/uploads/"][src$="?w=665"]
 rotterdambasketbal.nl##.gdlr-core-pbf-wrapper:has(img[title^="roba_sponosor_"])
 roulettefm.nl,rtvstichtsevecht.nl##body > .content:has-text(/advert/i)
-rtl.be###w-leaderboard
 rtvalbrandswaard.com##section:has-text(/steun ons/i)
 rtvdordrecht.nl##.bannerContainer
 rtvdrenthe.nl###recommendations-above-ad
