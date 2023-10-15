@@ -1070,8 +1070,6 @@ prewarcar.nl##img[width="160"][height="92"]
 proximus.be##.col.pix-sidebar
 qseks.nl###black-studio-tinymce-2:has-text(Advertentie)
 quickclaims.nl##.overlay:has([src^="blob:https://quickclaims.nl/"])
-racingnews365.nl##.branded-countdown__content__partner-wrapper
-racingnews365.nl##.homepage-casino-wrapper
 radio182.nl##section.elementor-element:has(h3:has-text(/mogelijk gemaakt door:/i))
 radioacacia.nl##table[width="680"]:has(img[src^="sponsoren/"])
 radiocontinu.nl##.eskimo-slider-img:upward(5)
