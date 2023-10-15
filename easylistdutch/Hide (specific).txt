@@ -1080,7 +1080,6 @@ pornozot.com##[id$="iframe"]:has-text(/Reclame/i)
 prewarcar.nl##.banner-holder
 prewarcar.nl##img[width="160"][height="92"]
 proximus.be##.col.pix-sidebar
-qseks.nl###black-studio-tinymce-2:has-text(Advertentie)
 quickclaims.nl##.overlay:has([src^="blob:https://quickclaims.nl/"])
 rd.nl##.codalt-container
 rd.nl##.infotainment:has(a[href^="/advert"])
