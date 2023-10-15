@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Sun, 15 Oct 2023 12:11:39 +0000
+! Last modified: Sun, 15 Oct 2023 12:21:09 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,bright.nl,gpblog.com,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -102,6 +102,7 @@ pokeren.nl##.sidebaritem:has-text(/partners|online casino/i)
 pokeren.nl###onetime-popup
 pretoriafm.co.za##.bannerswidget
 radioeenhoorn.nl##.module_round_box:not(:has([href*="/word-donateur"]))
+radiozenders.fm##[id^="div-gpt-rectangle"]:upward(.banner-rectangle)
 recreatief.nl##.widget-a-wrap
 redbot.frl##.container.slider:has(.twelvecol:has-text(partners))
 republikein.com.na##.articleBody > aside
@@ -1077,8 +1078,6 @@ radiocontinu.nl##.eskimo-slider-img:upward(5)
 radiocontinu.nl##.eskimo-slider-img:upward(11) + div[class]:has([id^="div-gpt-ad"])
 radiopros.be##.inside-left-sidebar
 radioreflex.be##aside:has-text(/sponsor/i)
-radiozenders.fm##.banner-rectangle:not(:nth-of-type(3))
-radiozenders.fm##.marqueeItem:has(a[href^="https://partner.bol.com/"])
 rd.nl##.codalt-container
 rd.nl##.infotainment:has(a[href^="/advert"])
 rd.nl##.rdnl__adds
