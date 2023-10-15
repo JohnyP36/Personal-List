@@ -109,6 +109,7 @@ republikein.com.na##.hidden-xs.az-adverts h2:has-text(/Advert/i)
 republikein.com.na##.hidden-xs.az-adverts > aside:has(a[href*="//nmh.my.na/advert"])
 republikein.com.na##aside[style] ~ aside:not([style])
 retaildetail.be,retaildetail.nl##.ad-web .bsaProItem:has([style*="Banner"])
+riskcompliance.nl##.banner-container
 riskcompliance.nl##a[onclick*="Banner"]:not(a[href*="riskcompliance.nl"]):upward(article)
 rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
 roulettefm.nl,rtvstichtsevecht.nl##body > .content:has-text(/advert/i)
