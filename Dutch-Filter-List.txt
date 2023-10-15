@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Sun, 15 Oct 2023 12:58:43 +0000
+! Last modified: Sun, 15 Oct 2023 13:00:14 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -1807,9 +1807,6 @@ pornokartel.nl##[href*="pornokartel.nl/adverteren"]
 pornolekker.nl##[class^="Scl"]:has([src^="//ads"])
 pornomilf.nl##[id^="custom_html"]:has-text(Hier aanmelden)
 pornoplekje.nl###exitpopup-modal
-pornopower.nl##.code-block-1
-pornopower.nl##[id^="custom_html"]:has([src^="https://chainadvertising.eu/"])
-pornopower.nl##[id^="custom_html"]:has([src^="https://www.2k19.nl/"])
 proximus.be##.col.pix-sidebar
 quickclaims.nl##.overlay:has([src^="blob:https://quickclaims.nl/"])
 rd.nl##.codalt-container
