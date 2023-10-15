@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Sun, 15 Oct 2023 13:12:07 +0000
+! Last modified: Sun, 15 Oct 2023 13:23:15 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -1801,9 +1801,6 @@ opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
 osuradio.nl##.wdslider
 paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
 parool.nl,trouw.nl##.ad--section
-pcmweb.nl##.site__sidebar > .block:has(div.banner)
-pcmweb.nl##div.block:has([id^="div-gpt-ad"])
-pcmweb.nl##div.block:has-text(Vacatures)
 peoplesphere.be##[id^="text-"]:not(:has(a[href^="https://peoplesphere.be/"])):not(:has(.twitter-timeline))
 petities.com###visible_ad_1
 
