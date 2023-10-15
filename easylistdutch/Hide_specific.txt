@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Sun, 15 Oct 2023 12:46:51 +0000
+! Last modified: Sun, 15 Oct 2023 12:51:13 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,bright.nl,gpblog.com,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -101,6 +101,8 @@ overstrandherald.co.za##.wpb_widgetised_column .widget_text
 pokeren.nl##.sidebaritem:has-text(/partners|online casino/i)
 pokeren.nl###onetime-popup
 pretoriafm.co.za##.bannerswidget
+prewarcar.nl##.banner-holder
+prewarcar.nl##img[width="160"][height="92"]
 recreatief.nl##.widget-a-wrap
 radio182.nl##section.elementor-element:has(h3:has-text(/mogelijk gemaakt door:/i))
 radioacacia.nl##table[width="680"]:has(img[src^="sponsoren/"])
@@ -1077,8 +1079,6 @@ pornopower.nl##[id^="custom_html"]:has([src^="https://chainadvertising.eu/"])
 pornopower.nl##[id^="custom_html"]:has([src^="https://www.2k19.nl/"])
 pornozot.com###video-right
 pornozot.com##[id$="iframe"]:has-text(/Reclame/i)
-prewarcar.nl##.banner-holder
-prewarcar.nl##img[width="160"][height="92"]
 proximus.be##.col.pix-sidebar
 quickclaims.nl##.overlay:has([src^="blob:https://quickclaims.nl/"])
 rd.nl##.codalt-container
