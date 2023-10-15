@@ -6,7 +6,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/JohnyP36/Personal-List
 ! License: https://github.com/JohnyP36/Personal-List/blob/main/LICENSE
-! Last modified: Sun, 15 Oct 2023 14:26:42 +0000
+! Last modified: Sun, 15 Oct 2023 14:36:26 +0000
 !
 ! Github issues: https://github.com/JohnyP36/Personal-List/issues
 !
@@ -1102,7 +1102,7 @@ dekrantvantynaarlo.nl##div[class^="module-etads"]
 deoudrotterdammer.nl##[class$="advertentie"] + div:has([id^="deoud-"])
 detelefoongids.nl##.static-map
 detelefoongids.nl##.wrapper:has-text(Youvia)
-dissident.one,mariabode.nl##[id^="custom_html"]:has-text(/advert/i)
+dissident.one,mariabode.nl,omroepzilt.nl##[id^="custom_html"]:has-text(/advert/i)
 ditjesendatjes.nl##.c-partners
 ditjesendatjes.nl##div[class^="article-page__sidebar"] a[href]:not(a[href*="ditjesendatjes.nl"]):not(a[href="#"]):has(img[src])
 dolcevia.com##.affiliatelink
