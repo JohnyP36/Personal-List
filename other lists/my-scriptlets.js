@@ -154,7 +154,7 @@ function removeShadowRootElem(
     }
 })();
 
-// Taken from AdGuard
+// THIS MAY NOT BE NEEDED ANYMORE, because of https://github.com/gorhill/uBlock/commit/7af88b025d ('trusted-click-element') [Taken from AdGuard]
 /// click-element-observer.js
 /// alias ceo.js
 // [required] 1: element to click;
