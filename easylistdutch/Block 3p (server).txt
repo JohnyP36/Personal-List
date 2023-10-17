@@ -36,6 +36,7 @@
 ||conversive.nl^$third-party
 ||crnsgngrpj.nl^$third-party
 ||cryptobeneluxbanner.care^$domain=cryptobenelux.com
+||cryptosplash.care^$domain=bitcoinmagazine.nl
 ||csmcampagne.consumind.nl^$third-party
 ||daisycon.com^$third-party
 ||datingcash.eu^$third-party
