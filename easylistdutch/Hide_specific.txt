@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Tue, 17 Oct 2023 17:55:36 +0000
+! Last modified: Tue, 17 Oct 2023 18:01:30 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,bright.nl,gpblog.com,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -24,13 +24,14 @@ barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[id^=
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center[advobject]:upward(2)
 belegger.nl,beursduivel.be,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-wrapper
 belegger.nl,beursduivel.be,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
+bitcoinmagazine.nl##div[style="height:52px;"]
+bitcoinmagazine.nl,cryptobenelux.com##.clickout-banner-regular_native_box
 blikopzeewolde.nl##.fusion-flex-container.fullwidth-box.fusion-fullwidth:has(:not(a[href^="https://www.blikopzeewolde.nl/"]) > .fusion-column-inner-bg-image)
 bnr.nl##div[class*="BNRAd_ad_"]
 bruzz.be,omroepflevoland.nl,pu.nl,soccernews.nl,sportuitslagen.org,trendalert.nl##.ad-container
 buttkicken.nl##a[href] > img[src*="wp.com"]:upward(.wp-block-image):not(:has(a[href*="backme.org"]))
 buttkicken.nl##p.has-small-font-size:has-text(Advertentie)
 cryptobenelux.com##.elementor-widget-image:has(a[href*="banner"])
-cryptobenelux.com##.clickout-banner-regular_native_box
 cryptobenelux.com##iframe[src*="Bitcoin_Kopen"]:upward(.elementor-widget[data-element_type="widget"])
 calorieenverbranden.nl##[id^="amzn-assoc-ad"]:upward([id^="block"])
 cyclingmedia.eu##div[class*="section-sidebar"] figure:has-text(/advert/i)
@@ -849,7 +850,6 @@ berekenhet.nl##.bh-ads
 bierdopje.com##div[class=block]:has-text(/advert/i)
 biertijd.xxx###sidebarcontainer > h2:not(:has-text(/bierbroeders/i)):not(:has-text(partners))
 biflatie.nl##div[class*="elementor-widget-button"]:has-text(Advert)
-bitcoinmagazine.nl##div[style="height:52px;"]
 blikopnieuws.nl##.ligatus-sidebar-block
 blikopnieuws.nl##[id^="block-block-"]:has([target="_blank"] > img.media-element)
 bodylifebenelux.nl##.bnrrow
