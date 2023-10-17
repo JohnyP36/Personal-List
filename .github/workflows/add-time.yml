@@ -40,7 +40,6 @@ jobs:
           echo "*** Dutch Filter List: Assembling 'Personal List (uBo).txt'"
           node ./tools/make-list.js in=./tools/dutch-filter-list.template out=./Dutch-Filter-List.txt
           popd > /dev/null
-          cp $TMPFILE/Dutch-Filter-List.txt Dutch-Filter-List.txt
           cp $TMPFILE/easylistdutch/Anti-AdBlock.txt easylistdutch/Anti-AdBlock.txt
           cp $TMPFILE/easylistdutch/Block*general*.txt easylistdutch/Block_general.txt
           cp $TMPFILE/easylistdutch/Block*1p*server*.txt easylistdutch/Block_1p-server.txt
@@ -54,7 +53,7 @@ jobs:
           cp $TMPFILE/easylistdutch/Hide*whitelist*.txt easylistdutch/Hide_whitelist.txt
           cp $TMPFILE/easylistdutch/block_first_party_popup.txt easylistdutch/block_first_party_popup.txt
           cp $TMPFILE/easylistdutch/block_third_party_popup.txt easylistdutch/block_third_party_popup.txt
-          cp $TMPFILE/Personal*.txt Dutch_Filter_List_.txt
+          cp $TMPFILE/Personal*List*uBo*.txt Dutch_Filter_List_.txt
       - name: Patch last-updated field
         run: |
           DATE=$(date -Ru)
