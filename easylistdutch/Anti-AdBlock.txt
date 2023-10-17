@@ -14,6 +14,7 @@ goplay.be##+js(json-prune, ads time_events_url)
 goplay.be##+js(xml-prune, Period[id*="-roll-"][id*="-ad-"], , pubads.g.doubleclick.net/ondemand)
 goplay.be##.theoplayer div > div > div > div[class][style^="left"][style*="width"][style$="px;"]
 looopings.nl##+js(abort-current-inline-script, document.getElementById, .style.display=)
+moppen.nl#@#ins.adsbygoogle
 *$image,redirect-rule=2x2.png,domain=tweakers.net
 @@||tweakers.net^$generichide
 tweakers.net##+js(no-fetch-if, /a[ab]\.tweakers\.nl/)
