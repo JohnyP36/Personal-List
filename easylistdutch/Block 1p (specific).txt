@@ -85,7 +85,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ! 2022
 /^https\:\/\/dutchitchannel\.nl\/media\/\d{6}\/\d{10}\.jpg$/$image
 /*/TOTO*banner$domain=fcgroningen.nl
-/banners/*$domain=2link.be|402automotive.com|autosport.nl|beveiligingnieuws.nl|brandweerspotters.nl|elektormagazine.nl|greenkeeper.nl|iex.nl|islive.nl|kavelplatform.nl|maarkelsnieuws.nl|metalfan.nl|mo.be|motocrossplanet.nl|netonline.be|nieuwsuitnijmegen.nl|radio.nl|tradeidee.nl|truck1.be|truck1.nl|truck1-nl.be|zilverengoudkopen.nl|rtvmaastricht.nl|sexamateurtjes.nl
+/banners/*$domain=2link.be|402automotive.com|autosport.nl|beveiligingnieuws.nl|brandweerspotters.nl|ecdn.menselijklichaam.nl|elektormagazine.nl|greenkeeper.nl|iex.nl|islive.nl|kavelplatform.nl|maarkelsnieuws.nl|metalfan.nl|mo.be|motocrossplanet.nl|netonline.be|nieuwsuitnijmegen.nl|radio.nl|tradeidee.nl|truck1.be|truck1.nl|truck1-nl.be|zilverengoudkopen.nl|rtvmaastricht.nl|sexamateurtjes.nl
 /cache/partners/$domain=coastline945fm.nl|coastlinefm.nl
 /images/*.gif$image,domain=123video.nl|18plussexdating.nl|30plussexdate.nl|datingsexgids.nl|eroticdate.be|geheimesexdate.be|geile-adressen.nl|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|kinkysexcontactonline.nl|leukesexcontactjes.nl|milflive.nl|neukafspraakjes.com|neukplaza.nl|pornopret.com|privesexgids.nl|seksdatemet-milfs.be|sexadvertentiesonline.nl|sexdatingholland.com|sexpret.com|sexstartnet.nl|vindsexcontact.nl|vlaanderen-sexdate.be|xxxcontactengids.nl|xxxlivesex.nl|zinineensexdate.com|zinomteneuken.nl|studentesexcontact.nl|tienersexpret.nl
 /images/*banner$domain=h2owaternetwerk.nl|reliwiki.nl|schie.nu
