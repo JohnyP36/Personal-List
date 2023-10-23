@@ -15,6 +15,7 @@
 @@||showmodeluitverkoop.nl/upload/advertentie/
 @@||sliedrecht24.nl/wp-content/uploads/*/Banner-300x250*.jpg$image,first-party
 @@||te-les-koop.nl/advertenties.php
+@@||vandale.nl/*/images/*_300x250.$image,first-party
 @@||vinatera.be/wp-content/uploads/*_300x600.$image,first-party
 @@||zilverengoudkopen.nl/banners/header
 @@||zilverengoudkopen.nl/banners/onder
