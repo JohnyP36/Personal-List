@@ -291,8 +291,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
 ! 2021
 ||apintie.sr/bannerz/*300x200.*$image
-||audiobookbay.nl/images/bin.jpg$image,important
-||audiobookbay.nl/images/fr.jpg$image,important
 ||debestevpn.nl/wp-content/*-banner.
 ||dewereldmorgen.be/wp-content/banners/*
 ||ekvrouwen.nl/*/uploads/*/bookmaker-cta-$image
