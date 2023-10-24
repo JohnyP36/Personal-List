@@ -948,8 +948,6 @@ geile-sexverhalen.nl##div.well:has(img[src*="sdcash.nl"])
 geileverhalen.nl##div.author-presentation-container:has([src^="https://go2.go2cloud.org/"])
 geldpedia.nl,manpedia.nl,vrouwpedia.nl##[id^="gridlove-module-"]:not(.module-type-posts):not(.module-type-cats)
 gfcnieuws.com##div.ai-viewport-1
-girlpics.nl##.cato_content:not(:has([href]))
-girlpics.nl###cato_top:has-text(/ads/i)
 girlpowerradio.nl##[class*="sponsorcarousel"]
 gloednieuw.nl##.vc_raw_html.td_block_wrap.wpb_wrapper
 glutenvrij.nl##.Article__inner > .Article__title:has-text(Advert)
