@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Tue, 24 Oct 2023 05:29:01 +0000
+! Last modified: Tue, 24 Oct 2023 09:13:50 +0000
 ! 2023
  ! sproeiendekutjes.nl
 @@/https\:\/\/pt\.[\w]{6}\.com\/tube-player\//$subdocument,domain=sproeiendekutjes.nl
@@ -16,7 +16,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=goplay.be
 !@@||fundingchoicesmessages.google.com/*/$script,domain=racingnews365.nl
 @@||mmcdn.nl/tags/racingnews365.nl/artikel.js$script,domain=racingnews365.nl
-@@||pagead2.googlesyndication.com/pagead/$script,domain=rotterdam-nesselande.nl
 @@||mmcdn.nl/tags/vkmag.com/pagina.js$script,domain=vkmag.com
 @@||cijfers.spikker.nl/js/plausible.js$script,domain=visserijnieuws.nl
 ! 2022 
