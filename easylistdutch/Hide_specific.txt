@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Tue, 24 Oct 2023 09:34:24 +0000
+! Last modified: Tue, 24 Oct 2023 09:40:38 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,bright.nl,gpblog.com,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -825,8 +825,6 @@ assercourant.nl##div[class^="col-sm-"]:has(.ad-item)
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,tenniskrant.be,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.imu
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,peoplesphere.be,sciencelink.net,sneeuwhoogte.nl,sport-planet.eu,sportid.be,tenniskrant.be,volleybalkrant.be,voetbalkrant.com,vrouwenvoetbalkrant.be,wielerkrant.be##.leaderboard
 atv.be,robtv.be,tvl.be,tvoost.be##.leaderboardWrap
-audiobookbay.nl###rsidebar > ul > li > h2:has-text(/ad/i)
-audiobookbay.nl#$#[src="http://audiobookbay.nl/images/dir.gif"]{ width: 100px !important }
 autobahn.eu##li[class*="block"] > div[class*="block mb-3"]:has(a[href][rel="noopener"][target="_blank"])
 autosport.nl###liggende-banner
 autosport.nl##.active.first:style(margin-top: 0px !important;)
