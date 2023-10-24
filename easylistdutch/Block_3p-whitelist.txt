@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Tue, 24 Oct 2023 09:13:50 +0000
+! Last modified: Tue, 24 Oct 2023 09:32:57 +0000
 ! 2023
  ! sproeiendekutjes.nl
 @@/https\:\/\/pt\.[\w]{6}\.com\/tube-player\//$subdocument,domain=sproeiendekutjes.nl
@@ -54,7 +54,6 @@
 @@||nextday.media^$third-party,domain=vi.nl
 @@||plista.com/async$script,domain=totaaltv.nl
 @@||promotools.islive.nl/ads/nieuws_en_updates_230x135/vijf-updates/txt.js$script,domain=kutscheetje.nl
-@@||promotools.islive.nl/cam_ms/*$subdocument,domain=girlpics.nl
 @@||pt.protoawe.com/embed/tbplyr/*$script,domain=lekkerewebcams.nl|gratispornofilm.nl|teen-sex.nl
 @@||ptwmstc.com/*/tube-player/script/*$script,domain=pt.potwm.com
 @@||quantcast.mgr.consensu.org/tcfv2/cmp2.js$script,domain=clint.be
