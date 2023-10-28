@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Tue, 24 Oct 2023 09:39:54 +0000
+! Last modified: Sat, 28 Oct 2023 09:26:36 +0000
 ! 2023
 /^https?:\/\/statics\.(?:7sur7|ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
   !||statics.*.*/js/advertising-$script,domain=7sur7.be|ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
@@ -85,7 +85,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ! 2022
 /^https\:\/\/dutchitchannel\.nl\/media\/\d{6}\/\d{10}\.jpg$/$image
 /*/TOTO*banner$domain=fcgroningen.nl
-/banners/*$domain=2link.be|402automotive.com|autosport.nl|beveiligingnieuws.nl|brandweerspotters.nl|ecdn.menselijklichaam.nl|elektormagazine.nl|greenkeeper.nl|iex.nl|islive.nl|kavelplatform.nl|maarkelsnieuws.nl|metalfan.nl|mo.be|motocrossplanet.nl|netonline.be|nieuwsuitnijmegen.nl|radio.nl|tradeidee.nl|truck1.be|truck1.nl|truck1-nl.be|zilverengoudkopen.nl|rtvmaastricht.nl|sexamateurtjes.nl
+/banners/*$domain=2link.be|402automotive.com|autosport.nl|beveiligingnieuws.nl|brandweerspotters.nl|menselijklichaam.nl|elektormagazine.nl|greenkeeper.nl|iex.nl|islive.nl|kavelplatform.nl|maarkelsnieuws.nl|metalfan.nl|mo.be|motocrossplanet.nl|netonline.be|nieuwsuitnijmegen.nl|radio.nl|tradeidee.nl|truck1.be|truck1.nl|truck1-nl.be|zilverengoudkopen.nl|rtvmaastricht.nl|sexamateurtjes.nl
 /cache/partners/$domain=coastline945fm.nl|coastlinefm.nl
 /images/*.gif$image,domain=123video.nl|18plussexdating.nl|30plussexdate.nl|datingsexgids.nl|eroticdate.be|geheimesexdate.be|geile-adressen.nl|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|kinkysexcontactonline.nl|leukesexcontactjes.nl|milflive.nl|neukafspraakjes.com|neukplaza.nl|pornopret.com|privesexgids.nl|seksdatemet-milfs.be|sexadvertentiesonline.nl|sexdatingholland.com|sexpret.com|sexstartnet.nl|vindsexcontact.nl|vlaanderen-sexdate.be|xxxcontactengids.nl|xxxlivesex.nl|zinineensexdate.com|zinomteneuken.nl|studentesexcontact.nl|tienersexpret.nl
 /images/*banner$domain=h2owaternetwerk.nl|reliwiki.nl|schie.nu
