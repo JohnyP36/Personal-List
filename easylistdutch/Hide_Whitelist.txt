@@ -22,19 +22,13 @@ radiozuidrand.be#@#.advertisement_728x90
 radiozuidrand.be#@#.advertisement-content
 radiozuidrand.be#@#.single_ad_300x250
 radiozuidrand.be#@#.widget_300x250_advertisement
-radiozuidrand.be#@#.widget_728x90_advertisement
 ! 2022-06-28
-gratisaftehalen.nl#@#.ads-image
 palnws.be#@#.adlink
 palnws.be#@#.ads-wrapper
-palnws.be#@#.jeg_ad
-palnws.be#@#.jeg_ad_top
 ! 2022-06-14
 marktnet.nl#@#.ad-description
 ! 2022-05-27
 wereldreizigers.nl#@#.gridlove-ad
-! 2022-04-26
-speurdeals.nl#@#.ad_description
 ! 2022-04-14
 mechanisatiemarkt.nl#@#.advert-container
 mechanisatiemarkt.nl#@#.advert-title
