@@ -1048,7 +1048,6 @@ motorfietsblog.nl##.cbcontent
 motorrijdenexpert.nl##div[class*="full-row relative-row"]:has([href]):has([class*="ignore"])
 nederlandsexdate.nl##.card-header:has-text(Advertentie)
 nederlandsmedianieuws.nl##.sidebar:has-text(Advert)
-negerinnensexdating.eu##[class="rand nomobile"]:has(a[href*="net69.nl/genre"])
 niburu.co##.sponsers
 nieuwnieuws.nl##.article-page__bumper
 nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
