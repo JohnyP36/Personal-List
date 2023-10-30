@@ -287,6 +287,8 @@ wielerflits.be,wielerflits.nl##.mm_container
 wielerflits.be,wielerflits.nl##.row [class^="widget"]:has(.mm_container)
 wielerflits.be,wielerflits.nl##div[id*="mm_leaderboard"]
 wielerflits.nl##.widget:has(.wf_headline:has-text(/Wielerdeals/i))
+wijwedden.net##.bookies.stream-preview
+wijwedden.net##.top-bookmaker-widget
 willem-ii.nl##.sponsors-block
 wintersport.nl##.wintersport-banner
 xmissy.nl##div[data-awe-container-id$="container"][style]
