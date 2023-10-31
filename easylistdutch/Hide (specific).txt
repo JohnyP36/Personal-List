@@ -35,7 +35,7 @@ cryptobenelux.com##.elementor-widget-image:has(a[href*="banner"])
 cryptobenelux.com##iframe[src*="Bitcoin_Kopen"]:upward(.elementor-widget[data-element_type="widget"])
 calorieenverbranden.nl##[id^="amzn-assoc-ad"]:upward([id^="block"])
 cyclingmedia.eu##div[class*="section-sidebar"] figure:has-text(/advert/i)
-cvandaagg.nl##a[href*="/api/advertise-deliver/"]:not(:has-text(/gesponsord/i))
+cvandaag.nl##a[href*="/api/advertise-deliver/"]:not(:has-text(/gesponsord/i))
 daemesenheeren.nl##.widget_media_image
 dehavengids.nl##.elementor-widget-container:has(.g)
 deondernemer.nl##.tile-advert:upward(.tile-wrapper)
