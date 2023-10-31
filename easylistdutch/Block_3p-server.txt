@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Tue, 17 Oct 2023 18:03:11 +0000
+! Last modified: Tue, 31 Oct 2023 06:30:52 +0000
 ||2k19.nl^$third-party
 ||2k21.nl^$third-party
 ||2k23.nl^$third-party
@@ -34,7 +34,6 @@
 ||chainadvertising.eu^$third-party
 ||cleafs.nl^$third-party
 ||conversive.nl^$third-party
-||crnsgngrpj.nl^$third-party
 ||cryptobeneluxbanner.care^$domain=cryptobenelux.com
 ||cryptosplash.care^$domain=bitcoinmagazine.nl
 ||csmcampagne.consumind.nl^$third-party
