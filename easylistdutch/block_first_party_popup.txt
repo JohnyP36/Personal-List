@@ -1,2 +1,0 @@
-[uBlock Origin]
-! Last modified: %timestamp%
