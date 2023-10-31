@@ -240,6 +240,8 @@ tellows.nl###lb_header
 tiener-sexverhalen.nl##aside[id^="block"]:has([src*="/wp-content/uploads/"][src$=".webm"])
 tiener-sexverhalen.nl##aside[id^="block"]:has(img[src*="/wp-content/uploads/"][src$=".gif"])
 topgear.nl##div:has( > div[style]:has-text(/advert/i):has(div[id]))
+tostrams.nl##[class*="banner"]
+tostrams.nl,yourlittleblackbook.me##[id*="banner"]
 touretappe.nl###right .desktopad[id*="TOURETAPPE_300"]:upward(1)
 touretappe.nl##.desktopad
 transfermarkt.nl##.werbung
@@ -782,7 +784,6 @@ wradio.be##.c-advertiser-logos
 xgn.nl##.bs
 xxxdump.nl###reclame-eroads
 yourlittleblackbook.me##.simple-image > [href^="https://www.nsinternational.com/traintracker/"]
-yourlittleblackbook.me##[id*="banner"]
 zeelandnet.nl##.article-bnr-first
 zeelandnet.nl##.as__bottom-banner
 zeelandnet.nl##.row--bnr-between
