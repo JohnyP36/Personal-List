@@ -75,6 +75,8 @@ gpfans.com,playboy.nl##a[href^="https://casinoscout.nl/"]
 hollandskroonnieuws.nl,wieringernieuws.nl###navleft > center:has-text(/advert/i)
 hollandskroonnieuws.nl,wieringernieuws.nl##div#block-blue:has-text(/advert/i)
 id.nl##.rounded-md:has(p[class^="call-to-action"]):not(:has-text(/Akkoord en door naar/i))
+iexprofs.nl##.tagwrapper:upward(.row__item)
+iexprofs.nl##[class*="banner"]:not(.banner)
 insideflyer.nl##.adsbymanatee
 juf-milou.nl##.adverteerdersblok
 juf-milou.nl##.content_blok_reclame
@@ -508,9 +510,6 @@ iex.nl##.network:has-text(Gesponsorde links)
 iex.nl##[class^="billboardwrap"]
 iex.nl##[class^="rectangle"]
 iex.nl##section:has-text(advertentie)
-iexprofs.nl##.banner__side
-iexprofs.nl##.banner__wrap
-iexprofs.nl##.tagwrapper:upward(.row__item)
 ijshockeynederland.nl##.adswiper:upward(1)
 ijshockeynederland.nl##div[class^="column col"]:has(img[src*="/uploads/ads"])
 immo.vlan.be,vakantieweb.be##[id^="rossel-leaderboard"]
