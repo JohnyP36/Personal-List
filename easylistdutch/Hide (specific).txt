@@ -142,6 +142,9 @@ pretoriafm.co.za##.bannerswidget
 prewarcar.nl##.banner-holder
 prewarcar.nl##img[width="160"][height="92"]
 recreatief.nl##.widget-a-wrap
+racesport.nl##.hthb-notification
+racesport.nl##.rs_sponsorbanners_widget:upward(1)
+racesport.nl##a[class*="image-wrapper"] img[src*="racesport.nl/wp-content/uploads/"][src*="1120x250"]:upward(.tdc-row)
 radio182.nl##section.elementor-element:has(h3:has-text(/mogelijk gemaakt door:/i))
 radioacacia.nl##table[width="680"]:has(img[src^="sponsoren/"])
 radiocontinu.nl##.eskimo-slider-img:upward(5)
@@ -671,8 +674,6 @@ psv.nl##.toto
 puurnaturisme.nl##aside div:has(.bannergroup_noborder)
 puuropreis.nl##.banneritem:not(:has([href^="/component/banners/click"]))
 qmusic.nl##.inline-partners
-racesport.nl##.hthb-notification
-racesport.nl##.rs_sponsorbanners_widget:upward(1)
 racexpress.nl##.article-side-block:has(a[href][target="_blank"]):has(img[width="310"][height="200"])
 racexpress.nl##img[src^="/img/sponsors"]:upward(.article-photo)
 radio.nl###xttm > .shadow
