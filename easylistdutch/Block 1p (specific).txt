@@ -19,6 +19,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||autonieuws.be/templates/yootheme/cache/*/BEL_*_800x172_nl$image
 ||autonieuws.be/templates/yootheme/cache/*Banner$image
 ||boottesten.nl/wp-content/uploads/*/*Ad.gif
+||cvandaag.nl/api/advertise-deliver/deliver?adtypes=banners$xhr
 ||diecourant.co.za/wp-content/uploads/*-20*-1024x*.jpg^$image
 ||ecobioliving.eu/*bol.com/nl/upload/partnerprogramma/$image
 ||escort46.nl/bg_images/*.gif
