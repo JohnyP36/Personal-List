@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Tue, 31 Oct 2023 07:24:24 +0000
+! Last modified: Tue, 31 Oct 2023 16:25:46 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,bright.nl,gpblog.com,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -75,6 +75,7 @@ gpblog.com##aside[class^="Ad_"]:style(position: absolute !important; left: -3000
 gpfans.com##.leaderboardbg
 gpfans.com##.taboonews
 gpfans.com,playboy.nl##a[href^="https://casinoscout.nl/"]
+hockey.nl##[class^="advertisement"]:upward(li.card)
 hollandskroonnieuws.nl,wieringernieuws.nl###navleft > center:has-text(/advert/i)
 hollandskroonnieuws.nl,wieringernieuws.nl##div#block-blue:has-text(/advert/i)
 id.nl##.rounded-md:has(p[class^="call-to-action"]):not(:has-text(/Akkoord en door naar/i))
