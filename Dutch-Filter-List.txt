@@ -1,8 +1,8 @@
 [uBlock Origin]
 ! Title: Dutch Filter List
-! Last modified: Wed, 01 Nov 2023 11:25:38 +0000
+! Last modified: Wed, 01 Nov 2023 11:34:45 +0000
 ! Expires: 5 days (update frequency)
-! Diff-Path: %diffpath%
+! Diff-Path: patches/2023.11.1.694.patch
 ! Diff-Name: dutchfilterlist
 ! Diff-Expires: 24 hours
 ! Description:  
@@ -714,7 +714,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ! *** easylistdutch:easylistdutch/Hide (specific).txt ***
 [uBlock Origin]
 ! Last modified: %timestamp%
-! 2023
+!2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,bright.nl,gpblog.com,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
 albrandswaardsdagblad.nl,barendrechtsdagblad.nl,capelsdagblad.nl,dagblad010.nl,dagblad070.nl,goudsdagblad.nl,nissewaardsdagblad.nl,ridderkerksdagblad.nl,rijswijksdagblad.nl,voorburgsdagblad.nl,zoetermeersdagblad.nl##.advrow
