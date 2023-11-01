@@ -1,8 +1,8 @@
 [uBlock Origin]
 ! Title: Dutch Filter List
-! Last modified: Wed, 01 Nov 2023 13:53:01 +0000
+! Last modified: Wed, 01 Nov 2023 15:07:44 +0000
 ! Expires: 5 days (update frequency)
-! Diff-Path: patches/2023.11.1.833.patch
+! Diff-Path: patches/2023.11.1.907.patch
 ! Diff-Name: dutchfilterlist
 ! Diff-Expires: 24 hours
 ! Description:  
@@ -308,6 +308,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||feyenoord.nl/*/media/*partnerships/$image
 ||motorboot.com/wp-content/uploads/*/ad-logo
 ||noordernieuws.nl/wp-content/uploads/*/casino$image
+||nnieuws.be/sites/default/files/images/ads/
 ||onlinecorrectie.nl/cnc/$image
 ||partyflock.nl/images/*/*_i*_$image
 ||pokeren.nl/assets/*banner
@@ -832,6 +833,8 @@ neuk-sexcontact.be###aside > .moduletable:has(.bannergroup)
 niburu.co##.sponsers
 nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
 nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
+nnieuws.be##[class*="blockpartners"]
+nnieuws.be##[id^="block-billboard"]:has([class*="banner"])
 notebookcheck.nl###nbc_skys
 nuus.be##.adv-link:upward(.sidebar)
 nzbindex.nl##form + div a[href^="/"]:has(img)
@@ -1354,7 +1357,6 @@ nl.motorsport.com##.ms-side-widget--custom-links__wrapper
 nl-nieuwsonline.nl###content-footer-section:has(.adsbygoogle)
 nljug.org##.widget:has(.capegroep-banner)
 nljug.org##[id^="custom_html-"]:has-text(Kennispartners):has(a[href] > img)
-nnieuws.be##.content > .box:has(#partner-slider)
 nnp.nl##div[class^="p-4"]:has([class*="gray"]):has(a[data-source^="banner"])
 noordkopcentraal.nl##.bannerListWidget
 noordkopcentraal.nl##.ewic-slider-pro-widget
@@ -1779,12 +1781,9 @@ nieuwnieuws.nl##.article-page__bumper
 nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
 nieuwslog.nl##.wp-block-genesis-blocks-gb-columns:has(a[href*="/go/www.bet365.nl/"])
 nieuwsmotor.nl##.add-background
-nnieuws.be##.banner-silver
-nnieuws.be##.region-banner-diamond
-nnieuws.be##.view-vw-banners.view
+
 nos.nl##.ster-banner
 nos.nl##.teletekst__banner
-
 omroepwest.nl,omroepzeeland.nl##.adcontainer
 oneworld.nl##.promotion-block
 petities.com###visible_ad_1
