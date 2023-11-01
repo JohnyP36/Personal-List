@@ -1,8 +1,8 @@
 [uBlock Origin]
 ! Title: Dutch Filter List
-! Last modified: Wed, 01 Nov 2023 10:44:57 +0000
+! Last modified: Wed, 01 Nov 2023 11:06:17 +0000
 ! Expires: 5 days (update frequency)
-! Diff-Path: %diffpath%
+! Diff-Path: patches/2023.11.1.666.patch
 ! Diff-Name: dutchfilterlist
 ! Diff-Expires: 24 hours
 ! Description:  
@@ -832,6 +832,7 @@ niburu.co##.sponsers
 nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
 nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 notebookcheck.nl###nbc_skys
+nzbindex.nl##form + div a[href^="/"]:has(img)
 omroepalmere.nl##aside.widget_block[id^="block"]:not(:has([href*="omroepalmere.nl"])):not(:has-text(/Informatie/i))
 omroepbrabant.nl,reclamefolder.nl##div[class^="ad_"]
 online-omzetten.nl##.clearfix.entry > small

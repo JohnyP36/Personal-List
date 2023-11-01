@@ -1,0 +1,9 @@
+diff name:dutchfilterlist lines:8 checksum:8d7bc05afb
+d3 1
+a3 1
+! Last modified: Wed, 01 Nov 2023 11:06:17 +0000
+d5 1
+a5 1
+! Diff-Path: patches/2023.11.1.666.patch
+a834 1
+nzbindex.nl##form + div a[href^="/"]:has(img)
