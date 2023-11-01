@@ -1,8 +1,8 @@
 [uBlock Origin]
 ! Title: Dutch Filter List
-! Last modified: Wed, 01 Nov 2023 12:40:38 +0000
+! Last modified: Wed, 01 Nov 2023 12:49:45 +0000
 ! Expires: 5 days (update frequency)
-! Diff-Path: patches/2023.11.1.760.patch
+! Diff-Path: patches/2023.11.1.769.patch
 ! Diff-Name: dutchfilterlist
 ! Diff-Expires: 24 hours
 ! Description:  
@@ -307,6 +307,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||ecobioliving.eu/*bol.com/nl/upload/partnerprogramma/$image
 ||escort46.nl/bg_images/*.gif
 ||motorboot.com/wp-content/uploads/*/ad-logo
+||noordernieuws.nl/wp-content/uploads/*/casino$image
 ||onlinecorrectie.nl/cnc/$image
 ||partyflock.nl/images/*/*_i*_$image
 ||pokeren.nl/assets/*banner
@@ -1781,7 +1782,6 @@ nieuwsmotor.nl##.add-background
 nnieuws.be##.banner-silver
 nnieuws.be##.region-banner-diamond
 nnieuws.be##.view-vw-banners.view
-noordernieuws.nl##[id^="slideshowwidget"]:has(img[src$=".gif"])
 nos.nl##.ster-banner
 nos.nl##.teletekst__banner
 
