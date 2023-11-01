@@ -88,11 +88,11 @@ jobs:
           done
       - name: Create new patch
         run: |
-          # chmod 755 ./make-diffpatch.sh
+          chmod 755 ./make-diffpatch.sh
           ./make-diffpatch.sh "${{ env.TAGNAME }}"
       - name: Update existing patch
         run: |
-          # chmod 755 ./update-diffpatches.sh
+          chmod 755 ./update-diffpatches.sh
           ./update-diffpatches.sh "${{ env.TAGNAME }}"
       - name: Commit changes (if any)
         run: |
