@@ -26,6 +26,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||feyenoord.nl/*/media/*partnerships/$image
 ||motorboot.com/wp-content/uploads/*/ad-logo
 ||noordernieuws.nl/wp-content/uploads/*/casino$image
+||nnieuws.be/sites/default/files/images/ads/
 ||onlinecorrectie.nl/cnc/$image
 ||partyflock.nl/images/*/*_i*_$image
 ||pokeren.nl/assets/*banner
