@@ -60,7 +60,7 @@ jobs:
           git clone --depth=1 --branch=main https://github.com/JohnyP36/Personal-List.git $TMPFILE
           pushd $TMPFILE > /dev/null
           echo "*** Dutch Filter List: Assembling 'Personal List (uBo).txt'"
-          node ./tools/make-list.js in=./tools/dutch-filter-list.template out=./Dutch-Filter-List.txt
+          node ./tools/make-list.js in=./tools/dutch-filter-list.template out=./Dutch-Filter-List.txt minify=1
           popd > /dev/null
           cp $TMPFILE/Dutch-Filter-List.txt Dutch-Filter-List.txt
           cp $TMPFILE/easylistdutch/Anti-AdBlock.txt easylistdutch/Anti-AdBlock.txt
