@@ -85,6 +85,7 @@ insideflyer.nl##.adsbymanatee
 juf-milou.nl##.adverteerdersblok
 juf-milou.nl##.content_blok_reclame
 juf-milou.nl##div[id^="content"]:not(:has(a[href^="index.php?"])):not(:has-text(/\b/i))
+kinkysexcontactonline.nl,privesexgids.nl###homebanners
 leerzaam.com,radiovisie.eu,stopdebankiers.com,watchfaces.be##[id^="custom_html"]:has(.adsbygoogle)
 letsgodigital.org##.product__wrapper:has(.adsbygoogle)
 loonwijzer.be##.main__bottom:has(div[id*="gpt-ad-"])
