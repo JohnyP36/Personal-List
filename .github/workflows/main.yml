@@ -34,6 +34,9 @@ jobs:
             exit 1
           fi
           exit 0
+      #- name: Sleep for 2 minutes
+      #  run: sleep 120s
+      #  shell: bash
       - name: Clone easylistdutch
         uses: actions/checkout@v3
         with:
@@ -102,3 +105,9 @@ jobs:
             git tag ${{ env.TAGNAME }}
             git push origin cdn-page
           fi
+          git config user.name "GitHub-Actions"
+          git config user.email "<>"
+          git commit -m "Update modified filter lists to ${{ env.TAGNAME }}"
+          git push origin gh-pages
+          git tag ${{ env.TAGNAME }}
+          git push origin ${{ env.TAGNAME }}
