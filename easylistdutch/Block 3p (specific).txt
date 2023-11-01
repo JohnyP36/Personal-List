@@ -58,7 +58,6 @@
 ||blob.core.windows.net/*/content/regiovoetbal/*_banner.*$image,domain=regio-voetbal.nl
 ||bnmedia.jentcdn.net/media/*/shared/*/fm/*/1*_*.png$domain=feyenoordpings.nl
 ||cdn.shopsuite.com/js/layer.js$script,domain=franska.nl
-||cloudfront.net/-/media/6-parnerships/$domain=feyenoord.nl
 ||cloudfront.net/banners/$domain=eredivisie.nl
 ||clubxmissy.nl/banners/*$image,domain=biertijd.xxx
 ||cryptoprijzen.com/cryptoprijzen-widget/$domain=cryptobenelux.com
