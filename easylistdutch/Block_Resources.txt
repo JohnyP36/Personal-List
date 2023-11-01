@@ -2,6 +2,20 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-10-31
+||admin.ditjesendatjes.nl/wp-content/uploads/Vignet_Cover$image
+||admin.ditjesendatjes.nl/wp-content/uploads/*-footer-DenD.png$image
+||admin.ditjesendatjes.nl/wp-content/uploads/dirk$image
+||admin.ditjesendatjes.nl/wp-content/uploads/Logo_Dirck$image
+||alphens.nl/resize/upload/*/*banner$image
+||alphens.nl/resize/upload/*/*Leaderbord$image
+||alphens.nl/upload/*/*banner$image
+||cvandaag.nl/api/advertise-deliver/deliver?adtypes=banners$xhr
+||cvandaag.nl/api/advertise-deliver/deliver?adtypes=natives,advertorials$xhr,urltransform=/api/advertise-deliver/deliver?adtypes=natives
+||hockey.be/wp-content/uploads/Banners/$image
+||startlinken.nl/oud/images/banner-$image,1p
+||startlinken.nl/oud/javascript/BannerRotation*$script,1p
+||uitslagen.nl/banner/img$image
 ! 2023-10-23
 ||b-cdn.net/w_/*-banner-$image,domain=dtvnieuws.nl|omroephorstaandemaas.nl|omroepvenlo.nl|roulettefm.nl|rtvstichtsevecht.nl|wos.nl
 ||ecdn.menselijklichaam.nl/banners/$image
@@ -47,14 +61,9 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||zeilwereld.nl/wp-content/uploads/*/*banner
 ! 2023-05-05
 ||proshop.nl/Images/Topbanner$image
-! 2023-05-03
-||cvandaag.nl/resources/uploads/banner/$image
 ! 2023-05-02
 ||cmtt.nl/Advertisement/$image,domain=advocatie.nl
 ||advocatie.nl/content/uploads//Mediation-Basis$image
-||alphens.nl/resize/upload/*/*banner$image
-||alphens.nl/resize/upload/*/Leaderbord$image
-||alphens.nl/upload/*/*banner$image
 ||diecourant.co.za/wp-content/uploads/*-20*-1024x*.jpg^$image
 ||diecourant.co.za/wp-content/uploads/*/*-banner
 ||pen.nl/wp-content/uploads/*/cityplaza360x96.jpg$image
@@ -65,11 +74,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||wegdamnieuws.nl/wp-content/uploads/*/*/*.gif$image
 ! 2023-05-01
 ||culturescope.nl/wp-content/uploads/2016/11/FAIRY-*.png$image
-||admin.ditjesendatjes.nl/wp-content/uploads/Vignet_CoverOBlente-1.jpg$image
-||admin.ditjesendatjes.nl/wp-content/uploads/Vignet_LekkerDoenLente.jpg$image
-||admin.ditjesendatjes.nl/wp-content/uploads/*-footer-DenD.png$image
-||admin.ditjesendatjes.nl/wp-content/uploads/dirk$image
-||admin.ditjesendatjes.nl/wp-content/uploads/Logo_Dirck$image
 ! 2023-04-28
 /https\:\/\/nieuwsfiets\.nu\/wp-content\/uploads\/.*\/.*(?:banner-(?!mis|tip).*|\.gif)/
 ||qmusic.medialaancdn.be/*/*/*banner*$image,domain=qmusic.nl
@@ -269,16 +273,12 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ! 2022-02-14
 ||123inkt.nl/images/oren/*$image
 ! 2022-02-08
-||startlinken.nl/images/banner-$image,1p
-||startlinken.nl/javascript/BannerRotation*$script,1p
 ||waarzo.nl/imagestore/site-banners/
 ! 2022-01-26
 ||tpo.nl/wp-content/themes/*/tpo-banner$image
 ! 2022-01-18
 ||wettelijke-feestdagen.nl/Images/advertentie$image
 ||wettelijke-feestdagen.nl/Images/banner$image
-! 2022-01-17
-||cip.nl/resources/uploads/vakantie/*$image,1p
 ! 2022-01-14
 ||biernet.nl/bja/$subdocument
 ||biernet.nl/images/extra-bja_camp-bnr/$image
@@ -475,11 +475,9 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||widget.vpnnederland.nl/VPNNederland-widget.js$domain=nzbserver.com
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
-||wp.com/amsterdamactueel.nl/wp-content/uploads/*/728x60_
 ||xingo.nl/bannermanagement/
 ||xsnews.nl/aff/$image,domain=nzbindex.nl
 ||zilverengoudkopen.nl/banners/
-||zwaremetalen.com/wp-content/uploads/*/*-skyscraper-$image
 
 ! NSFW Sites
 *$3p,image,domain=kinkymedia.nl

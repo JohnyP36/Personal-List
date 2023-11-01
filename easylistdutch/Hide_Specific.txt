@@ -2,6 +2,36 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-10-31
+beurs.nl##.addslot
+beurs.nl##.wrapper--topbanner
+cvandaag.nl##a[href^="https://cvandaag.nl/api/advertise-deliver/click/"]:upward(app-article-presentation)
+cvandaag.nl##div.sponsored:has-text(Gerelateerd)
+ditjesendatjes.nl##aside h2:has-text(DenD Promoties),
+ditjesendatjes.nl##aside h2:has-text(DenD Promoties) + [class]
+ditjesendatjes.nl##h2:has-text(DenD Partners):upward(section)
+footballtransfers.com##div[id*="leaderboard-billboard"]
+footballtransfers.com##[id*="rectangle-halfpage"]:upward(1)
+hockey.nl##[class^="advertisement"]:upward(li.card)
+racesport.nl##a[class*="image-wrapper"] img[src*="racesport.nl/wp-content/uploads/"][src*="1120x250"]:upward(.tdc-row)
+tostrams.nl##[class*="banner"]
+tostrams.nl##[id*="banner"]
+truck1.be,truck1.nl,truck1-nl.be##.top-banner-container:upward(1)
+truck1.be,truck1.nl,truck1-nl.be##div.banners-container
+truck1.be,truck1.nl,truck1-nl.be###aside-banners
+wielerflits.be,wielerflits.nl###mm_hpa
+wielerflits.be,wielerflits.nl##.advertisement
+wielerflits.nl##.widget-container:has(.h3:has-text(Wielerdeals))
+wielerflits.nl##li.list-item.list-item-aside:has(.badge:has-text(Ad))
+wielerflits.nl##li.list-item.list-item-default:has(span:has-text(Ad))
+zeilwereld.nl##.adv-link:upward([id^="zeilw"])
+zeilwereld.nl##.adv-link:upward(.fl-row):has-text(/advert/i):not(:has(article))
+! 2024-10-30
+gpfans.com##.taboonews
+iexprofs.nl##.tagwrapper:upward(.row__item)
+iexprofs.nl##[class*="banner"]:not(.banner)
+wijwedden.net##.bookies.stream-preview
+wijwedden.net##.top-bookmaker-widget
 ! 2024-10-24
 geenstijl.nl##.pgAdWrapper
 geenstijl.nl##.article-premium-promotion-block
@@ -42,8 +72,6 @@ citaten.net##.googleinpage
 nieuwsblad.be##.ad--cba[data-ad="cba"]:upward(.widget):has-text(partners)
 ! 2023-10-10
 webwoordenboek.nl##.layout__main-ads
-wielerflits.be,wielerflits.nl###mm_hpa
-wielerflits.be,wielerflits.nl##.advertisement
 wegdamnieuws.nl##.fixed-ad
 ! 2023-09-23
 gewoonvoorhem.nl##[id^="below-article-rectangle"]
@@ -148,7 +176,6 @@ motorboot.com##.logo
 nauticlink.com##.adv-link
 nauticlink.com##.elementor-section:has-text(partners)
 yachtfocus.com##.av
-zeilwereld.nl##.adv-link:upward(.fl-row):has-text(/advert/i):not(:has(article))
 ! 2023-05-25
 deondernemer.nl##.section-branded
 deondernemer.nl##.tile-advert:upward(.tile-wrapper)
@@ -172,8 +199,6 @@ recreatief.nl##.widget-a-wrap
 srnieuws.com##div.card-view:has([id^="taboola"])
 waterkant.net##div.td-all-devices
 ! 2023-05-03
-cvandaag.nl##.article-view [href^="https://cvandaag.nl/ad/click"]:upward(.d-none)
-cvandaag.nl##[class^="news"] [href^="https://cvandaag.nl/ad/click"]:upward(div)
 noordkopcentraal.nl##.home .koptitel:has-text(Advert)
 noordkopcentraal.nl##.home .koptitel:has-text(Advert) ~ div
 noordkopcentraal.nl##.home .koptitel:has-text(Advert) ~ hr
@@ -200,8 +225,6 @@ wegdamnieuws.nl##.ads-stack
 ! 2023-05-01
 belgiancycling.be##.logo-slider
 cryptosjop.nl##iframe[src^="https://bitvavo.com/assets/static/widget/trade.html"]:upward(.td_block_wrap)
-ditjesendatjes.nl##h2:has-text(DenD Promoties):upward(aside)
-ditjesendatjes.nl##h2:has-text(DenD Partners):upward(section)
 luchtvaartnieuws.nl##[id^="luchtvaartnieuws.nl_mob_mobilerectangle"]:upward(div[style])
 luchtvaartnieuws.nl##.content > [id^="luchtvaartnieuws.nl_web_"]:upward(.block)
 poki.be##.sc-tbf0fc-2:has-text(/Advert/i):upward(div[class])
@@ -235,8 +258,6 @@ tameteo.nl###bannerDerPC
 tameteo.nl##.megabanner
 nuus.be##.adv-link:upward(.sidebar)
 nuus.be###masthead:style(height:90px!important;)
-truck1.be,truck1.nl,truck1-nl.be##.banners
-truck1.be,truck1.nl,truck1-nl.be##.splitter-banner
 bierdopje.com##.content-rechts-ad
 ! 2023-04-25
 ecommercenews.nl##.ldrtop
@@ -380,8 +401,6 @@ ensie.nl##.top-banner:style(min-height: 0px !important)
 ! 2022-10-14
 vastgoedjournaal.nl##[href]:has([src*="media.prdn.nl"])
 vastgoedjournaal.nl##aside:has([class]:has-text(/advert/i)):has([href]:has([src*="media.prdn.nl"]))
-! 2022-10-13
-footballtransfers.com##div[id*="leaderboard-billboard"]
 ! 2022-10-12 https://github.com/uBlockOrigin/uAssets/issues/11038
 vtm.be##+js(rc, pui__root--no-seekbar, .pui__root--no-seekbar, stay)
 vtm.be##.pe__container__ads
@@ -411,9 +430,6 @@ lekkercryptisch.nl##.p-footer__randomPartner
 iex.nl##.strossle-widget
 iex.nl##.publisher-sh-spot
 iex.nl##.rectanglemid
-iexprofs.nl##.banner__side
-iexprofs.nl##.banner__wrap
-iexprofs.nl##.tagwrapper:upward(.row__item)
 ! 2022-07-13
 uw-folder.nl##.banner
 webcam-binnenvaart.nl##.d-md-block.d-none:has-text(Met dank aan)
