@@ -1070,7 +1070,6 @@ oneworld.nl##.promotion-block
 petities.com###visible_ad_1
 pornolekker.nl##[class^="Scl"]:has([src^="//ads"])
 proximus.be##.col.pix-sidebar
-quickclaims.nl##.overlay:has([src^="blob:https://quickclaims.nl/"])
 rd.nl##.codalt-container
 rd.nl##.infotainment:has(a[href^="/advert"])
 rd.nl##.rdnl__adds
