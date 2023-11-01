@@ -642,7 +642,6 @@ nl.motorsport.com##.ms-side-widget--custom-links__wrapper
 nl-nieuwsonline.nl###content-footer-section:has(.adsbygoogle)
 nljug.org##.widget:has(.capegroep-banner)
 nljug.org##[id^="custom_html-"]:has-text(Kennispartners):has(a[href] > img)
-nnieuws.be##.content > .box:has(#partner-slider)
 nnp.nl##div[class^="p-4"]:has([class*="gray"]):has(a[data-source^="banner"])
 noordkopcentraal.nl##.bannerListWidget
 noordkopcentraal.nl##.ewic-slider-pro-widget
