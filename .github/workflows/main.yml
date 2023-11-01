@@ -43,6 +43,12 @@ jobs:
           TAGNAME=$(date -u "+%Y.%-m.%-d.")$(date -u "+%H*60+%M" | bc)
           echo "TAGNAME=$TAGNAME" >> $GITHUB_ENV
           echo "Version string is $TAGNAME"
+      - name: Copy shell script from JohnyP36/Personal-List
+        run: |
+          TMPDIR=$(mktemp -d)
+          git clone --depth=1 --single-branch --branch=main https://github.com/JohnyP36/Personal-List.git $TMPDIR
+          cp -v $TMPDIR/tools/make-diffpatch.sh .
+          cp -v $TMPDIR/tools/update-diffpatches.sh .
       # - name: Change permissions
       #  run: git update-index --chmod=+x ./tools/make-dutchfilterlist.sh
       - name: Copy filter lists to gh-pages
@@ -77,6 +83,14 @@ jobs:
               git checkout -q $f
             fi
           done
+      - name: Create new patch
+        run: |
+          chmod 755 ./make-diffpatch.sh
+          ./make-diffpatch.sh "${{ env.TAGNAME }}"
+      - name: Update existing patch
+        run: |
+          chmod 755 ./update-diffpatches.sh
+          ./update-diffpatches.sh "${{ env.TAGNAME }}"
       - name: Commit changes (if any)
         run: |
           if [[ -n $(git diff) ]]; then
