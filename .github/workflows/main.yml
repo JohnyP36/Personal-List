@@ -105,9 +105,9 @@ jobs:
             git tag ${{ env.TAGNAME }}
             git push origin cdn-page
           fi
-          git config user.name "GitHub-Actions"
-          git config user.email "<>"
-          git commit -m "Update modified filter lists to ${{ env.TAGNAME }}"
-          git push origin cdn-page
-          git tag ${{ env.TAGNAME }}
-          git push origin ${{ env.TAGNAME }}
+         # git config user.name "GitHub-Actions"
+         # git config user.email "<>"
+         # git commit -m "Update modified filter lists to ${{ env.TAGNAME }}"
+         # git push origin cdn-page
+         # git tag ${{ env.TAGNAME }}
+         # git push origin ${{ env.TAGNAME }}
