@@ -59,6 +59,7 @@ ecommercenews.nl##.widget-partners
 eindexamens.nu,gezondheid.be###leaderboard
 fcupdate.nl##.betting_partner
 fcupdate.nl##[id*="web_billboard"]
+feyenoord.nl##.banner-carousel:has([src*="partnerships"])
 feyenoord.nl##.totoOdds
 focusclub.nl##.funbox
 fok.nl,looopings.nl,scientias.nl##div[class^="r89-desktop"]
