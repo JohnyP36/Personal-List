@@ -52,8 +52,6 @@ jobs:
           cp $TMPFILE/easylistdutch/Hide*general*.txt easylistdutch/Hide_general.txt
           cp $TMPFILE/easylistdutch/Hide*specific*.txt easylistdutch/Hide_specific.txt
           cp $TMPFILE/easylistdutch/Hide*whitelist*.txt easylistdutch/Hide_whitelist.txt
-          cp $TMPFILE/easylistdutch/block_first_party_popup.txt easylistdutch/block_first_party_popup.txt
-          cp $TMPFILE/easylistdutch/block_third_party_popup.txt easylistdutch/block_third_party_popup.txt
           cp $TMPFILE/Personal*.txt Dutch_Filter_List_.txt
       - name: Patch last-updated field
         run: |
