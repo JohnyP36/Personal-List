@@ -33,11 +33,11 @@ for PATCH_FILE in "${PATCH_FILES[@]}"; do
     # This will receive a clone of an old version of the current repo
     echo "Fetching repo at $PREVIOUS_VERSION version"
     OLD_REPO=$(mktemp -d)
-    git clone -q --single-branch --branch=gh-pages $PREVIOUS_VERSION --depth=1 https://github.com/JohnyP36/Personal-List.git "$OLD_REPO" 2>/dev/null
+    git clone -q --single-branch --branch=cdn-page $PREVIOUS_VERSION --depth=1 https://github.com/JohnyP36/Personal-List.git "$OLD_REPO" 2>/dev/null
 
     > "$NEW_PATCH_FILE"
 
-    FILTER_LISTS=( $(ls -1 EasyDutch.all.txt) )
+    FILTER_LISTS=( $(ls -1 Dutch-Filter-List.txt) )
     for FILTER_LIST in "${FILTER_LISTS[@]}"; do
 
         if [ ! -f $OLD_REPO/$FILTER_LIST ]; then continue; fi
