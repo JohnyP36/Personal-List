@@ -85,6 +85,7 @@ insideflyer.nl##.adsbymanatee
 juf-milou.nl##.adverteerdersblok
 juf-milou.nl##.content_blok_reclame
 juf-milou.nl##div[id^="content"]:not(:has(a[href^="index.php?"])):not(:has-text(/\b/i))
+kinkysexcontactonline.nl,neukplaza.nl,privesexgids.nl,zinomteneuken.nl##[class="rand nomobile"]:has(img[src^="/images/"]):not(:has(a[href*="islive"]))
 kinkysexcontactonline.nl,privesexgids.nl###homebanners
 leerzaam.com,radiovisie.eu,stopdebankiers.com,watchfaces.be##[id^="custom_html"]:has(.adsbygoogle)
 letsgodigital.org##.product__wrapper:has(.adsbygoogle)
@@ -1001,7 +1002,6 @@ kinderspelletjes.be,kinderspelletjes.nl##div[style*="width:970px"]:has-text(Recl
 kinderspelletjes.be,kinderspelletjes.nl##div[style^="width:336px;height:290px"]:has-text(Reclame)
 kinderspelletjes.nl###adBoven
 kinderspelletjes.nl###adRechts2
-kinkysexcontactonline.nl,negerinnensexdating.eu,neukplaza.nl,privesexgids.nl,sexdatingholland.com,stellensexdating.nl,studentesexcontact.nl,tienersexpret.nl,zinomteneuken.nl##[class="rand nomobile"]:has(img[src^="/images/"]):not(:has(a[href*="islive"]))
 klimaatinfo.nl##.aside__add
 klimaatinfo.nl##[class^="space"]:has(.adsbygoogle)
 klokradio.nl##[class^="panel-grid"]:has-text(/advert/i)
