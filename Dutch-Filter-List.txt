@@ -1,6 +1,6 @@
 [uBlock Origin]
 ! Title: Dutch Filter List
-! Last modified: Wed, 01 Nov 2023 10:22:49 +0000
+! Last modified: Wed, 01 Nov 2023 10:44:57 +0000
 ! Expires: 5 days (update frequency)
 ! Diff-Path: %diffpath%
 ! Diff-Name: dutchfilterlist
@@ -828,6 +828,7 @@ nauticlink.com##.elementor-section:has-text(partners)
 nd.nl##.page-header__inner__ad
 nederland.fm##[class*=adv]
 neuk-sexcontact.be###aside > .moduletable:has(.bannergroup)
+niburu.co##.sponsers
 nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
 nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 notebookcheck.nl###nbc_skys
@@ -1771,7 +1772,6 @@ motorfietsblog.nl##.cbcontent
 motorrijdenexpert.nl##div[class*="full-row relative-row"]:has([href]):has([class*="ignore"])
 nederlandsexdate.nl##.card-header:has-text(Advertentie)
 nederlandsmedianieuws.nl##.sidebar:has-text(Advert)
-niburu.co##.sponsers
 nieuwnieuws.nl##.article-page__bumper
 nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
 nieuwslog.nl##.wp-block-genesis-blocks-gb-columns:has(a[href*="/go/www.bet365.nl/"])
@@ -1783,7 +1783,6 @@ noordernieuws.nl##[id^="slideshowwidget"]:has(img[src$=".gif"])
 nos.nl##.ster-banner
 nos.nl##.teletekst__banner
 nuus.be##.widget-area.sidebar:has([data-advadstrackid])
-nzbindex.nl##.inner:has(a[href])
 
 omroepwest.nl,omroepzeeland.nl##.adcontainer
 oneworld.nl##.promotion-block
