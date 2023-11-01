@@ -59,7 +59,6 @@ jobs:
           TMPFILE=$(mktemp -d)
           git clone --depth=1 --branch=main https://github.com/JohnyP36/Personal-List.git $TMPFILE
           pushd $TMPFILE > /dev/null
-          # ./tools/make-easydutch.sh
           echo "*** Dutch Filter List: Assembling 'Personal List (uBo).txt'"
           node ./tools/make-list.js in=./tools/dutch-filter-list.template out=./Dutch-Filter-List.txt
           popd > /dev/null
