@@ -25,6 +25,15 @@ jobs:
     name: Publish lists
     runs-on: ubuntu-latest
     steps:
+      - name: Repo check
+        run: |
+          if [[ "$GITHUB_REPOSITORY_OWNER" != "JohnyP36" ]]; then
+            echo "This GitHub Action is meant to deliver filter lists for EasyDutch."
+            echo "You shouldn't need to run this GitHub Action in your fork."
+            echo "If you do, please customize the cron expression above, and the URLs below."
+            exit 1
+          fi
+          exit 0
       - name: Clone easylistdutch
         uses: actions/checkout@v3
         with:
@@ -52,7 +61,6 @@ jobs:
           cp $TMPFILE/easylistdutch/Hide*general*.txt easylistdutch/Hide_general.txt
           cp $TMPFILE/easylistdutch/Hide*specific*.txt easylistdutch/Hide_specific.txt
           cp $TMPFILE/easylistdutch/Hide*whitelist*.txt easylistdutch/Hide_whitelist.txt
-          cp $TMPFILE/Personal*.txt Dutch_Filter_List_.txt
       - name: Patch last-updated field
         run: |
           DATE=$(date -Ru)
@@ -70,7 +78,6 @@ jobs:
             git config user.name "GitHub-Actions"
             git config user.email "<>"
             git add -u easylistdutch/ 
-            git add -u Dutch_Filter_List_.txt
             git add -u Dutch-Filter-List.txt
             git commit -m "Update modified filter lists"
             git push origin cdn-page
