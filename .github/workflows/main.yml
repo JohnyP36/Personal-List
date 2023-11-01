@@ -25,10 +25,33 @@ jobs:
     name: Publish lists
     runs-on: ubuntu-latest
     steps:
+      - name: Repo check
+        run: |
+          if [[ "$GITHUB_REPOSITORY_OWNER" != "JohnyP36" ]]; then
+            echo "This GitHub Action is meant to deliver filter lists for EasyDutch."
+            echo "You shouldn't need to run this GitHub Action in your fork."
+            echo "If you do, please customize the cron expression above, and the URLs below."
+            exit 1
+          fi
+          exit 0
+      - name: Sleep for 2 minutes
+        run: sleep 120s
+        shell: bash
       - name: Clone easylistdutch
         uses: actions/checkout@v3
         with:
             ref: cdn-page
+      - name: Generate version string
+        run: |
+          TAGNAME=$(date -u "+%Y.%-m.%-d.")$(date -u "+%H*60+%M" | bc)
+          echo "TAGNAME=$TAGNAME" >> $GITHUB_ENV
+          echo "Version string is $TAGNAME"
+      - name: Copy shell script from JohnyP36/Personal-List
+        run: |
+          TMPDIR=$(mktemp -d)
+          git clone --depth=1 --single-branch --branch=main https://github.com/JohnyP36/Personal-List.git $TMPDIR
+          cp -v $TMPDIR/tools/make-diffpatch.sh .
+          cp -v $TMPDIR/tools/update-diffpatches.sh .
       # - name: Change permissions
       #  run: git update-index --chmod=+x ./tools/make-dutchfilterlist.sh
       - name: Copy filter lists to gh-pages
@@ -36,7 +59,6 @@ jobs:
           TMPFILE=$(mktemp -d)
           git clone --depth=1 --branch=main https://github.com/JohnyP36/Personal-List.git $TMPFILE
           pushd $TMPFILE > /dev/null
-          # ./tools/make-easydutch.sh
           echo "*** Dutch Filter List: Assembling 'Personal List (uBo).txt'"
           node ./tools/make-list.js in=./tools/dutch-filter-list.template out=./Dutch-Filter-List.txt
           popd > /dev/null
@@ -62,13 +84,22 @@ jobs:
               git checkout -q $f
             fi
           done
+      - name: Create new patch
+        run: |
+          chmod 755 ./make-diffpatch.sh
+          ./make-diffpatch.sh "${{ env.TAGNAME }}"
+      - name: Update existing patch
+        run: |
+          chmod 755 ./update-diffpatches.sh
+          ./update-diffpatches.sh "${{ env.TAGNAME }}"
       - name: Commit changes (if any)
         run: |
-          if [[ -n $(git diff) ]]; then
-            git config user.name "GitHub-Actions"
-            git config user.email "<>"
-            git add -u easylistdutch/ 
-            git add -u Dutch-Filter-List.txt
-            git commit -m "Update modified filter lists"
-            git push origin cdn-page
-          fi
+          if [[ -z $(git diff --name-only --cached) ]]; then exit 0; fi
+          git config user.name "GitHub-Actions"
+          git config user.email "<>"
+          git add -u easylistdutch/ 
+          git add -u Dutch-Filter-List.txt
+          git commit -m "Update modified filter lists to ${{ env.TAGNAME }}"
+          git push origin cdn-page
+          git tag ${{ env.TAGNAME }}
+          git push origin ${{ env.TAGNAME }}
