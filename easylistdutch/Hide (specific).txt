@@ -56,6 +56,7 @@ ecommercenews.nl##.widget-partners
 eindexamens.nu,gezondheid.be###leaderboard
 fcupdate.nl##.betting_partner
 fcupdate.nl##[id*="web_billboard"]
+feyenoord.nl##.totoOdds
 focusclub.nl##.funbox
 fok.nl,looopings.nl,scientias.nl##div[class^="r89-desktop"]
 freeones.nl##.banner-placeholder
@@ -933,7 +934,6 @@ farm-date.com##.hide-for-small-only:has-text(Sponsors)
 fcutrecht.nl##.has-toto-banners.container > .columns
 fcutrecht.nl##.is-uppercase.is-3:has-text(/interessante deals/i)
 fd.nl##.fd-message-home-header
-feyenoord.nl##.totoOdds
 fierljeppenwinsum.frl##.gdlr-sidebar:has-text(sponsoren)
 filmtotaal.nl###adf-rectangle
 filmtotaal.nl##.ad-centering
