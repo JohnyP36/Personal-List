@@ -118,6 +118,7 @@ niburu.co##.sponsers
 nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
 nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 notebookcheck.nl###nbc_skys
+nuus.be##.widget-area.sidebar:has(.adsbygoogle)
 nzbindex.nl##form + div a[href^="/"]:has(img)
 omroepalmere.nl##aside.widget_block[id^="block"]:not(:has([href*="omroepalmere.nl"])):not(:has-text(/Informatie/i))
 omroepbrabant.nl,reclamefolder.nl##div[class^="ad_"]
@@ -1069,7 +1070,6 @@ nnieuws.be##.view-vw-banners.view
 noordernieuws.nl##[id^="slideshowwidget"]:has(img[src$=".gif"])
 nos.nl##.ster-banner
 nos.nl##.teletekst__banner
-nuus.be##.widget-area.sidebar:has([data-advadstrackid])
 
 omroepwest.nl,omroepzeeland.nl##.adcontainer
 oneworld.nl##.promotion-block
