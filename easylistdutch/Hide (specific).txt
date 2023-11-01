@@ -61,6 +61,7 @@ fok.nl,looopings.nl,scientias.nl##div[class^="r89-desktop"]
 freeones.nl##.banner-placeholder
 gamer.nl,id.nl,wasmachines.nl##.adunitContainer:upward(.items-center)
 gebruikershandleiding.com##[class^="adserver-container"]
+geil-neuken.nl,neukengratis.be,neuk-sexcontact.be,sexdate-xxx.be##.well:has(.bannergroup)
 gewoonvoorhem.nl##[id^="below-article-rectangle"]
 gewoonvoorhem.nl##[id$="ad-desktop"]
 gewoonvoorhem.nl##[id$="leaderboard-article"]
@@ -880,7 +881,6 @@ cryptosjop.nl##[id^="custom_html-"]:has(.bitvavo-widget)
 culturescope.nl##.widget_sp_image:has([onclick^="javascript:window.open("] > img[width][height])
 cumcams.nl##[id^="custom_html"]:has(img[src*="wlresources.com/"])
 dansendeberen.be##.inhype-bb-block-header
-dating-vinden.be,deperfecte-sexdate.be,deperfecte-sexdate.nl,flirten-vlaanderen.be,geil-neuken.nl,neukengratis.be,neuk-sexcontact.be,sexcontact-xxx.be,sexdate-xxx.be##.well:has(.bannergroup)
 dating-zoeken.nl,hete-sexcontacten.nl,milf-overzicht.nl,sexdating-afspraak.nl,sexdating-gids.be,sexdatinggids.be,vrouwensexdate.nl##.d-lg-block.d-none:has-text(Advert):not(:has(.jcarousel-skin-tango))
 deblueskrant.nl##.banner-wrap
 deblueskrant.nl##.header-brand-content
