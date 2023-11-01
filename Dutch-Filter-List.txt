@@ -1,8 +1,8 @@
 [uBlock Origin]
 ! Title: Dutch Filter List
-! Last modified: Wed, 01 Nov 2023 13:51:15 +0000
+! Last modified: Wed, 01 Nov 2023 13:53:01 +0000
 ! Expires: 5 days (update frequency)
-! Diff-Path: patches/2023.11.1.831.patch
+! Diff-Path: patches/2023.11.1.833.patch
 ! Diff-Name: dutchfilterlist
 ! Diff-Expires: 24 hours
 ! Description:  
@@ -773,6 +773,7 @@ ecommercenews.nl##.widget-partners
 eindexamens.nu,gezondheid.be###leaderboard
 fcupdate.nl##.betting_partner
 fcupdate.nl##[id*="web_billboard"]
+feyenoord.nl##.banner-carousel:has([src*="partnerships"])
 feyenoord.nl##.totoOdds
 focusclub.nl##.funbox
 fok.nl,looopings.nl,scientias.nl##div[class^="r89-desktop"]

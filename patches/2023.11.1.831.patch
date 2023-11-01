@@ -1,0 +1,9 @@
+diff name:dutchfilterlist lines:8 checksum:941c7cf49f
+d3 1
+a3 1
+! Last modified: Wed, 01 Nov 2023 13:53:01 +0000
+d5 1
+a5 1
+! Diff-Path: patches/2023.11.1.833.patch
+a775 1
+feyenoord.nl##.banner-carousel:has([src*="partnerships"])
