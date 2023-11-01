@@ -118,6 +118,8 @@ neuk-sexcontact.be###aside > .moduletable:has(.bannergroup)
 niburu.co##.sponsers
 nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
 nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
+nnieuws.be##[class*="blockpartners"]
+nnieuws.be##[id^="block-billboard"]:has([class*="banner"])
 notebookcheck.nl###nbc_skys
 nuus.be##.adv-link:upward(.sidebar)
 nzbindex.nl##form + div a[href^="/"]:has(img)
@@ -1065,12 +1067,9 @@ nieuwnieuws.nl##.article-page__bumper
 nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
 nieuwslog.nl##.wp-block-genesis-blocks-gb-columns:has(a[href*="/go/www.bet365.nl/"])
 nieuwsmotor.nl##.add-background
-nnieuws.be##.banner-silver
-nnieuws.be##.region-banner-diamond
-nnieuws.be##.view-vw-banners.view
+
 nos.nl##.ster-banner
 nos.nl##.teletekst__banner
-
 omroepwest.nl,omroepzeeland.nl##.adcontainer
 oneworld.nl##.promotion-block
 petities.com###visible_ad_1
