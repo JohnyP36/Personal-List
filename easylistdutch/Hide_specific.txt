@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Wed, 01 Nov 2023 10:12:36 +0000
+! Last modified: Wed, 01 Nov 2023 10:17:41 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,bright.nl,gpblog.com,hetnieuwsvandaag.be,hyvesgames.nl,indebuurt.nl,itdaily.be,koopplein.nl,letsgodigital.org,limburger.nl,persinfo.org,sport.be,standaard.be,tellows.nl,tradeidee.nl,tripadvisor.be,tripadvisor.nl,voetbalnieuws.nl,voetbalprimeur.nl,xgn.nl##.ad
@@ -158,6 +158,9 @@ radioeenhoorn.nl##.module_round_box:not(:has([href*="/word-donateur"]))
 radiopros.be##.inside-left-sidebar
 radioreflex.be##aside:has-text(/sponsor/i)
 radiozenders.fm##[id^="div-gpt-rectangle"]:upward(.banner-rectangle)
+rd.nl##.codalt-container
+rd.nl##.infotainment:has(a[href^="/advert"])
+rd.nl##.rdnl__adds
 redbot.frl##.container.slider:has(.twelvecol:has-text(partners))
 refoweb.nl##.bannercontainer
 regionoordkop.nl##.regio-widget
@@ -1072,9 +1075,6 @@ oneworld.nl##.promotion-block
 petities.com###visible_ad_1
 pornolekker.nl##[class^="Scl"]:has([src^="//ads"])
 proximus.be##.col.pix-sidebar
-rd.nl##.codalt-container
-rd.nl##.infotainment:has(a[href^="/advert"])
-rd.nl##.rdnl__adds
 romagazine.nl##[id^="text-"]:has-text(Partners)
 romagazine.nl##aside > .textwidget [src*="wp.com/romagazine.nl/"][src*="/wp-content/uploads/"][src$="?w=665"]
 rtvdordrecht.nl##.bannerContainer
