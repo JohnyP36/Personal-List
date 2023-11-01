@@ -79,10 +79,12 @@ jobs:
           done
       - name: Commit changes (if any)
         run: |
-          if [[ -z $(git diff --name-only --cached) ]]; then exit 0; fi
-          git config user.name "GitHub-Actions"
-          git config user.email "<>"
-          git commit -m "Update modified filter lists to ${{ env.TAGNAME }}"
-          git push origin cdn-page
-          git tag ${{ env.TAGNAME }}
-          git push origin ${{ env.TAGNAME }}
+          if [[ -n $(git diff) ]]; then
+            git config user.name "GitHub-Actions"
+            git config user.email "<>"
+            git add -u easylistdutch/ 
+            git add -u Dutch-Filter-List.txt
+            git commit -m "Update modified filter lists to ${{ env.TAGNAME }}"
+            git tag ${{ env.TAGNAME }}
+            git push origin cdn-page
+          fi
