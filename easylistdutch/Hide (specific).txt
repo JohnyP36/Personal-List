@@ -109,6 +109,7 @@ nauticlink.com##.adv-link:upward(.nauti-target)
 nauticlink.com##.elementor-section:has-text(partners)
 nd.nl##.page-header__inner__ad
 nederland.fm##[class*=adv]
+neuk-sexcontact.be###aside > .moduletable:has(.bannergroup)
 nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
 nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 notebookcheck.nl###nbc_skys
