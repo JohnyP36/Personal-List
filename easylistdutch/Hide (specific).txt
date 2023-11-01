@@ -1069,7 +1069,6 @@ noordernieuws.nl##[id^="slideshowwidget"]:has(img[src$=".gif"])
 nos.nl##.ster-banner
 nos.nl##.teletekst__banner
 nuus.be##.widget-area.sidebar:has([data-advadstrackid])
-nzbindex.nl##.inner:has(a[href])
 
 omroepwest.nl,omroepzeeland.nl##.adcontainer
 oneworld.nl##.promotion-block
