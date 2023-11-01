@@ -158,6 +158,9 @@ radioeenhoorn.nl##.module_round_box:not(:has([href*="/word-donateur"]))
 radiopros.be##.inside-left-sidebar
 radioreflex.be##aside:has-text(/sponsor/i)
 radiozenders.fm##[id^="div-gpt-rectangle"]:upward(.banner-rectangle)
+rd.nl##.codalt-container
+rd.nl##.infotainment:has(a[href^="/advert"])
+rd.nl##.rdnl__adds
 redbot.frl##.container.slider:has(.twelvecol:has-text(partners))
 refoweb.nl##.bannercontainer
 regionoordkop.nl##.regio-widget
@@ -1072,9 +1075,6 @@ oneworld.nl##.promotion-block
 petities.com###visible_ad_1
 pornolekker.nl##[class^="Scl"]:has([src^="//ads"])
 proximus.be##.col.pix-sidebar
-rd.nl##.codalt-container
-rd.nl##.infotainment:has(a[href^="/advert"])
-rd.nl##.rdnl__adds
 romagazine.nl##[id^="text-"]:has-text(Partners)
 romagazine.nl##aside > .textwidget [src*="wp.com/romagazine.nl/"][src*="/wp-content/uploads/"][src$="?w=665"]
 rtvdordrecht.nl##.bannerContainer
