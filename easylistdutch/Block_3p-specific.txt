@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Sat, 02 Sep 2023 09:30:52 +0000
+! Last modified: Wed, 01 Nov 2023 13:51:15 +0000
 ! 2023
 ||cdn-radio.dpgmedia.net/*/*/*banner*$image,domain=qmusic.be|qmusic.nl
 ||qmusic.medialaancdn.be/*/*/*banner*$image,domain=qmusic.nl
@@ -58,7 +58,6 @@
 ||blob.core.windows.net/*/content/regiovoetbal/*_banner.*$image,domain=regio-voetbal.nl
 ||bnmedia.jentcdn.net/media/*/shared/*/fm/*/1*_*.png$domain=feyenoordpings.nl
 ||cdn.shopsuite.com/js/layer.js$script,domain=franska.nl
-||cloudfront.net/-/media/6-parnerships/$domain=feyenoord.nl
 ||cloudfront.net/banners/$domain=eredivisie.nl
 ||clubxmissy.nl/banners/*$image,domain=biertijd.xxx
 ||cryptoprijzen.com/cryptoprijzen-widget/$domain=cryptobenelux.com

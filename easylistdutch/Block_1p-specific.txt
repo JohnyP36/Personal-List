@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Wed, 01 Nov 2023 12:49:45 +0000
+! Last modified: Wed, 01 Nov 2023 13:51:15 +0000
 ! 2023
 /^https?:\/\/statics\.(?:7sur7|ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
   !||statics.*.*/js/advertising-$script,domain=7sur7.be|ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
@@ -23,6 +23,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||diecourant.co.za/wp-content/uploads/*-20*-1024x*.jpg^$image
 ||ecobioliving.eu/*bol.com/nl/upload/partnerprogramma/$image
 ||escort46.nl/bg_images/*.gif
+||feyenoord.nl/*/media/*partnerships/$image
 ||motorboot.com/wp-content/uploads/*/ad-logo
 ||noordernieuws.nl/wp-content/uploads/*/casino$image
 ||onlinecorrectie.nl/cnc/$image
@@ -303,4 +304,3 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
-||wp.com/amsterdamactueel.nl/wp-content/uploads/*/728x60_

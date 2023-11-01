@@ -1,8 +1,8 @@
 [uBlock Origin]
 ! Title: Dutch Filter List
-! Last modified: Wed, 01 Nov 2023 12:49:45 +0000
+! Last modified: Wed, 01 Nov 2023 13:51:15 +0000
 ! Expires: 5 days (update frequency)
-! Diff-Path: patches/2023.11.1.769.patch
+! Diff-Path: patches/2023.11.1.831.patch
 ! Diff-Name: dutchfilterlist
 ! Diff-Expires: 24 hours
 ! Description:  
@@ -239,7 +239,6 @@ _advertentieleaderboardhome.
 ||blob.core.windows.net/*/content/regiovoetbal/*_banner.*$image,domain=regio-voetbal.nl
 ||bnmedia.jentcdn.net/media/*/shared/*/fm/*/1*_*.png$domain=feyenoordpings.nl
 ||cdn.shopsuite.com/js/layer.js$script,domain=franska.nl
-||cloudfront.net/-/media/6-parnerships/$domain=feyenoord.nl
 ||cloudfront.net/banners/$domain=eredivisie.nl
 ||clubxmissy.nl/banners/*$image,domain=biertijd.xxx
 ||cryptoprijzen.com/cryptoprijzen-widget/$domain=cryptobenelux.com
@@ -306,6 +305,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||diecourant.co.za/wp-content/uploads/*-20*-1024x*.jpg^$image
 ||ecobioliving.eu/*bol.com/nl/upload/partnerprogramma/$image
 ||escort46.nl/bg_images/*.gif
+||feyenoord.nl/*/media/*partnerships/$image
 ||motorboot.com/wp-content/uploads/*/ad-logo
 ||noordernieuws.nl/wp-content/uploads/*/casino$image
 ||onlinecorrectie.nl/cnc/$image
@@ -586,7 +586,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
-||wp.com/amsterdamactueel.nl/wp-content/uploads/*/728x60_
 !
 !--------Uitzonderingen (derden)--------!
 ! *** easylistdutch:easylistdutch/Block 3p (whitelist).txt ***
