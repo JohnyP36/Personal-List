@@ -33,6 +33,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||qassa.nl/images/*/wallpaper$image
 ||racexpress.nl/advertising/
 ||racexpress.nl/img/sponsors/
+||racingnews365.nl/*/json/unibet/bet-offers.json$xhr,first-party
 ||racingnews365.nl/images/logos/odds/unibet/
 ||racingnews365.nl/images/logos/partners/*/$image
 ||radioacacia.nl/sponsoren/
