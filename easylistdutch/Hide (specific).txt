@@ -1067,7 +1067,6 @@ nieuwsmotor.nl##.add-background
 nnieuws.be##.banner-silver
 nnieuws.be##.region-banner-diamond
 nnieuws.be##.view-vw-banners.view
-noordernieuws.nl##[id^="slideshowwidget"]:has(img[src$=".gif"])
 nos.nl##.ster-banner
 nos.nl##.teletekst__banner
 
