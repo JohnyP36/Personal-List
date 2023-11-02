@@ -9,7 +9,7 @@
 <a align="center" href="https://github.com/JohnyP36/Personal-List/issues"><img src="https://img.shields.io/github/issues/JohnyP36/Personal-List?label=Issues&color=red&style=plastic" /></a>
 <a align="center" href="https://github.com/JohnyP36/Personal-List/issues"><img src="https://img.shields.io/github/issues-closed/JohnyP36/Personal-List?color=yellowgreen&label=Issues&style=plastic" /></a>
 <a align="center" href="https://github.com/JohnyP36/Personal-List/blob/main/LICENSE"><img src="https://img.shields.io/github/license/JohnyP36/Personal-List?label=License&color=lightgrey&style=social" /></a>
-<a align="center" href="https://github.com/JohnyP36/Personal-List/actions/workflows/add-time.yml"><img src="https://img.shields.io/github/actions/workflow/status/JohnyP36/Personal-List/add-time.yml?color=informational&event=push&label=Deploy%20to%20cdn-page%20branch&style=plastic" /></a>
+<a align="center" href="https://github.com/JohnyP36/Personal-List/actions/workflows/add-time.yml"><img src="https://img.shields.io/github/actions/workflow/status/JohnyP36/Personal-List/main.yml?color=informational&event=push&label=Deploy%20to%20cdn-page%20branch&style=plastic" /></a>
 <a align="center" href="https://www.jsdelivr.com/package/gh/JohnyP36/Personal-List"><img src="https://data.jsdelivr.com/v1/package/gh/JohnyP36/Personal-List/badge?&style=plastic" /></a>
 </p>
 
@@ -46,10 +46,17 @@ Because the famous Nano filterlists are archieved I copied the most usefull rule
 ### Subcribe to my filterlists
 | *Main* | CDN Mirror| Mirror 1 | Mirror 2 | Mirror 3 |
 | :---: | :---: | :---: | :---: | :---: |
-| 1. ~**[Dutch Filter List](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/Personal%20List%20(uBo).txt&title=Dutch%20Filter%20List)**~ | ***[Dutch Filter List (CDN)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/cdn-page/Dutch%20Filter%20List%20(uBo).txt&title=Dutch%20Filter%20List)*** | [CDN Statically](https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/JohnyP36/Personal-List/cdn-page/Dutch%20Filter%20List%20(uBo).txt&title=Dutch%20Filter%20List) | [Statically](https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/JohnyP36/Personal-List/main/Personal%20List%20(uBo).txt&title=Dutch%20Filter%20List) | [JSDelivr](https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/JohnyP36/Personal-List@cdn-page/Dutch%20Filter%20List%20(uBo).txt&title=Dutch%20Filter%20List) | 
+| 1. ~**[Dutch Filter List](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/Personal%20List%20(uBo).txt&title=Dutch%20Filter%20List)**~ | ***[GH CDN](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/cdn-page/Dutch%20Filter%20List%20(uBo).txt&title=Dutch%20Filter%20List)*** | [JSDelivr](https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/JohnyP36/Personal-List@cdn-page/Dutch%20Filter%20List%20(uBo).txt&title=Dutch%20Filter%20List) | [CDN Statically](https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/JohnyP36/Personal-List/cdn-page/Dutch%20Filter%20List%20(uBo).txt&title=Dutch%20Filter%20List) | [Statically](https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/JohnyP36/Personal-List/main/Personal%20List%20(uBo).txt&title=Dutch%20Filter%20List) |
 | 2. **[Nano anti-Adblock](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/other%20lists/Nano%20anti-Adblock.txt&title=Nano%20anti-Adblock)** | | |
-| 3. **[My filters](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/other%20lists/My%20filters.txt&title=My%20filters)** | | [Combinatronics](https://subscribe.adblockplus.org/?location=https://www.combinatronics.com/JohnyP36/Personal-List/main/other%20lists/My%20filters.txt&title=My%20filters) | [Statically](https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/JohnyP36/Personal-List/main/other%20lists/My%20filters.txt&title=My%20filters) | 
+| 3. **[My filters](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/other%20lists/My%20filters.txt&title=My%20filters)** | | [JSDelivr](https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/JohnyP36/Personal-List@main/other%20lists/My%20filters.txt&title=My%20filters) | [Statically](https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/JohnyP36/Personal-List/main/other%20lists/My%20filters.txt&title=My%20filters) | 
 
+<br>
+
+If you care about our planet and their resources use the All-in-One filter list for *Dutch Filter List* (number 1 above):
+1. <a target="_blank" rel="noreferrer nofollow" href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/cdn-page/Dutch-Filter-List.txt&title=Dutch%20Filter%20List"><code>All-in-One <em>CDN Mirror</em> Dutch Filter List</code> (subcribe)</a>
+2. <a target="_blank" rel="noreferrer nofollow" href="https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/JohnyP36/Personal-List@cdn-page/Dutch-Filter-List.txt&title=Dutch%20Filter%20List"><code>All-in-One <em>JSDelivr</em> Dutch Filter List</code> (subcribe)</a>
+
+<br>
 
 #### *Support*
 **If you want to buy me a cup of coffee or want to support me, you can donate via [PayPal](https://www.paypal.com/donate?hosted_button_id=8BBT5V55TGVXW)**
