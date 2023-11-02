@@ -46,15 +46,15 @@ Because the famous Nano filterlists are archieved I copied the most usefull rule
 ### Subcribe to my filterlists
 | *Main* | CDN Mirror| Mirror 1 | Mirror 2 | Mirror 3 |
 | :---: | :---: | :---: | :---: | :---: |
-| 1. ~**[Dutch Filter List](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/Personal%20List%20(uBo).txt&title=Dutch%20Filter%20List)**~ | ***[GH CDN](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/cdn-page/Dutch%20Filter%20List%20(uBo).txt&title=Dutch%20Filter%20List)*** | [JSDelivr](https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/JohnyP36/Personal-List@cdn-page/Dutch%20Filter%20List%20(uBo).txt&title=Dutch%20Filter%20List) | [CDN Statically](https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/JohnyP36/Personal-List/cdn-page/Dutch%20Filter%20List%20(uBo).txt&title=Dutch%20Filter%20List) | [Statically](https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/JohnyP36/Personal-List/main/Personal%20List%20(uBo).txt&title=Dutch%20Filter%20List) |
+| 1. ~**[Dutch Filter List](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/Personal%20List%20(uBo).txt&title=Dutch%20Filter%20List)**~ | ***[GH CDN](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/cdn-page/Dutch%20Filter%20List%20(uBo).txt&title=Dutch%20Filter%20List)*** | [CDN JSDelivr](https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/JohnyP36/Personal-List@cdn-page/Dutch%20Filter%20List%20(uBo).txt&title=Dutch%20Filter%20List) | [CDN Statically](https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/JohnyP36/Personal-List/cdn-page/Dutch%20Filter%20List%20(uBo).txt&title=Dutch%20Filter%20List) | [Statically](https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/JohnyP36/Personal-List/main/Personal%20List%20(uBo).txt&title=Dutch%20Filter%20List) |
 | 2. **[Nano anti-Adblock](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/other%20lists/Nano%20anti-Adblock.txt&title=Nano%20anti-Adblock)** | | |
 | 3. **[My filters](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/main/other%20lists/My%20filters.txt&title=My%20filters)** | | [JSDelivr](https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/JohnyP36/Personal-List@main/other%20lists/My%20filters.txt&title=My%20filters) | [Statically](https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/JohnyP36/Personal-List/main/other%20lists/My%20filters.txt&title=My%20filters) | 
-
-<br>
 
 If you care about our planet and their resources use the All-in-One filter list for *Dutch Filter List* (number 1 above):
 1. <a target="_blank" rel="noreferrer nofollow" href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/cdn-page/Dutch-Filter-List.txt&title=Dutch%20Filter%20List"><code>All-in-One <em>CDN Mirror</em> Dutch Filter List</code> (subcribe)</a>
 2. <a target="_blank" rel="noreferrer nofollow" href="https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/JohnyP36/Personal-List@cdn-page/Dutch-Filter-List.txt&title=Dutch%20Filter%20List"><code>All-in-One <em>JSDelivr</em> Dutch Filter List</code> (subcribe)</a>
+
+For the time being, it's best to use the second subscribe link for Dutch Filter List (called "GH CDN").
 
 <br>
 
