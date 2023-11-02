@@ -7,27 +7,61 @@ on:
     paths:
       - 'EasyDutch/**'
       - 'EasyDutch.txt'
+      - 'tools/easydutch-filters.template'
 
 # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#example-only-cancel-in-progress-jobs-or-runs-for-the-current-workflow
 concurrency: 
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
+permissions:
+  contents: read
+
 jobs:
   publish:
+    permissions:
+      contents: write  # for Git to git push
     name: Publish lists
     runs-on: ubuntu-latest
     steps:
+      - name: Repo check
+        run: |
+          if [[ "$GITHUB_REPOSITORY_OWNER" != "EasyDutch-uBO" ]]; then
+            echo "This GitHub Action is meant to deliver filter lists for EasyDutch."
+            echo "You shouldn't need to run this GitHub Action in your fork."
+            echo "If you do, please customize the cron expression above, and the URLs below."
+            exit 1
+          fi
+          exit 0
+      - name: Sleep for 5 minutes
+        run: sleep 300s
+        shell: bash
       - name: Clone EasyDutch
         uses: actions/checkout@v3
         with:
-            ref: gh-pages
+          ref: gh-pages
+      - name: Generate version string
+        run: |
+          TAGNAME=$(date -u "+%Y.%-m.%-d.")$(date -u "+%H*60+%M" | bc)
+          echo "TAGNAME=$TAGNAME" >> $GITHUB_ENV
+          echo "Version string is $TAGNAME"
+      - name: Copy shell script from EasyDutch-uBO/EasyDutch
+        run: |
+          TMPDIR=$(mktemp -d)
+          git clone --depth=1 --single-branch --branch=main https://github.com/EasyDutch-uBO/EasyDutch.git $TMPDIR
+          cp -v $TMPDIR/tools/make-diffpatch.sh .
+          cp -v $TMPDIR/tools/update-diffpatches.sh .
       - name: Copy filter lists to gh-pages
         run: |
-             TMPFILE=$(mktemp -d)
-             git clone --depth=1 https://github.com/EasyDutch-uBO/EasyDutch.git $TMPFILE
-             cp $TMPFILE/EasyDutch/*.txt EasyDutch/
-             cp $TMPFILE/EasyDutch.txt EasyDutch.txt
+          TMPFILE=$(mktemp -d)
+          git clone --depth=1 https://github.com/EasyDutch-uBO/EasyDutch.git $TMPFILE
+          pushd $TMPFILE > /dev/null
+          echo "*** EasyDutch: Assembling EasyDutch.txt"
+          node ./tools/make-easydutch.js in=./tools/easydutch-filters.template out=./EasyDutch.all.txt minify=1
+          popd > /dev/null
+          cp $TMPFILE/EasyDutch/*.txt EasyDutch/
+          cp $TMPFILE/EasyDutch.txt EasyDutch.txt
+          cp $TMPFILE/EasyDutch.all.txt EasyDutch.all.txt
       - name: Patch last-updated field
         run: |
           DATE=$(date -Ru)
@@ -39,12 +73,20 @@ jobs:
               git checkout -q $f
             fi
           done
+      - name: Create new patch
+        run: |
+          chmod 755 ./make-diffpatch.sh
+          ./make-diffpatch.sh "${{ env.TAGNAME }}"
+      - name: Update existing patch
+        run: |
+          chmod 755 ./update-diffpatches.sh
+          ./update-diffpatches.sh "${{ env.TAGNAME }}"
       - name: Commit changes (if any)
         run: |
-          if [[ -n $(git diff) ]]; then
-            git config user.name "GitHub-Actions"
-            git config user.email "<>"
-            git add -u EasyDutch/ EasyDutch.txt
-            git commit -m "Update modified filter lists"
-            git push origin gh-pages
-          fi
+          if [[ -z $(git diff --name-only --cached) ]]; then exit 0; fi
+          git config user.name "GitHub-Actions"
+          git config user.email "<>"
+          git commit -m "Update modified filter lists to ${{ env.TAGNAME }}"
+          git push origin gh-pages
+          git tag ${{ env.TAGNAME }}
+          git push origin ${{ env.TAGNAME }}
