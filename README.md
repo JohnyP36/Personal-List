@@ -71,6 +71,8 @@ For the time being, it's best to use the second subscribe link for Dutch Filter 
 <details><summary> Contributing file </summary>
 
 > ### Filter lists
+>
+> **Never change the code of the [main `Personal List (uBo)` template](https://github.com/JohnyP36/Personal-List/blob/main/Personal%20List%20(uBo).txt), unless there is a real big problem or error.**
 > 
 > #### Ordening of filers 
 > 
