@@ -61,6 +61,8 @@ fcupdate.nl##.betting_partner
 fcupdate.nl##[id*="web_billboard"]
 feyenoord.nl##.banner-carousel:has([src*="partnerships"])
 feyenoord.nl##.totoOdds
+feyenoordpings.nl,twentefans.nl,voetbalverslaafd.nl##.bn__wrapper
+feyenoordpings.nl,twentefans.nl,voetbalverslaafd.nl##.footer__partners
 focusclub.nl##.funbox
 fok.nl,looopings.nl,scientias.nl##div[class^="r89-desktop"]
 freeones.nl##.banner-placeholder
@@ -456,8 +458,6 @@ feestdagen-be.be,feestdagen-nl.nl##aside:has(.adsbygoogle)
 feestdagen-be.be,feestdagen-nl.nl##div[class]:has(>.adsbygoogle):upward(1)
 feestdagen-nederland.nl###ad-top-desktop
 feijenoordnieuws.nl##li:has(div[class$="left"]:has-text(/gokkasten|online casino|casino|sportwedden/i):not(:has(a[href^="https://feijenoordnieuws.nl/"])))
-feyenoordpings.nl,twentefans.nl,voetbalverslaafd.nl##.bn__wrapper
-feyenoordpings.nl,twentefans.nl##.footer__partners
 fhm500.nl##.powered_by_page
 fhm500.nl##.powered_by_profile
 fhm500.nl##.profiel:has-text(/Powered by/i)
