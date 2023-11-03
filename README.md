@@ -71,6 +71,8 @@ If you care about our planet and their resources use the All-in-One filter list 
 <details><summary> Contributing file </summary>
 
 > ### Filter lists
+>
+> **Never change the code of the main `Dutch Filter List`'s templates, unless there is a real big problem or error.**
 > 
 > #### Ordening of filers 
 > 
