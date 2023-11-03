@@ -1,8 +1,8 @@
 [uBlock Origin]
 ! Title: Dutch Filter List
-! Last modified: Wed, 01 Nov 2023 15:07:44 +0000
+! Last modified: Fri, 03 Nov 2023 15:12:11 +0000
 ! Expires: 5 days (update frequency)
-! Diff-Path: patches/2023.11.1.907.patch
+! Diff-Path: patches/2023.11.3.912.patch#dutchfilterlist
 ! Diff-Name: dutchfilterlist
 ! Diff-Expires: 24 hours
 ! Description:  

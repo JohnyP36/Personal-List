@@ -1,10 +1,10 @@
-diff name:dutchfilterlist lines:18 checksum:e84861f178
+diff name:dutchfilterlist lines:18 checksum:36dab57be7
 d3 1
 a3 1
-! Last modified: Wed, 01 Nov 2023 15:07:44 +0000
+! Last modified: Fri, 03 Nov 2023 15:12:11 +0000
 d5 1
 a5 1
-! Diff-Path: patches/2023.11.1.907.patch
+! Diff-Path: patches/2023.11.3.912.patch#dutchfilterlist
 a310 1
 ||nnieuws.be/sites/default/files/images/ads/
 a775 1
