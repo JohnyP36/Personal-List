@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Fri, 03 Nov 2023 19:54:08 +0000
+! Last modified: Sat, 04 Nov 2023 19:50:01 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 ajaxfanatics.nl,cambuurfront.nl,fcgfans.nl,feanonline.nl,feyenoordpings.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.bn__wrapper
@@ -161,6 +161,7 @@ recreatief.nl##.widget-a-wrap
 racesport.nl##.hthb-notification
 racesport.nl##.rs_sponsorbanners_widget:upward(1)
 racesport.nl##a[class*="image-wrapper"] img[src*="racesport.nl/wp-content/uploads/"][src*="1120x250"]:upward(.tdc-row)
+racingnews365.nl###betting-prefs
 radio182.nl##section.elementor-element:has(h3:has-text(/mogelijk gemaakt door:/i))
 radioacacia.nl##table[width="680"]:has(img[src^="sponsoren/"])
 radiocontinu.nl##.eskimo-slider-img:upward(5)
