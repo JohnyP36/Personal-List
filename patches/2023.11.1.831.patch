@@ -1,14 +1,17 @@
-diff name:dutchfilterlist lines:40 checksum:64f14bfca3
+diff name:dutchfilterlist lines:47 checksum:ed103a9882
 d3 1
 a3 1
-! Last modified: Tue, 07 Nov 2023 10:54:51 +0000
+! Last modified: Tue, 07 Nov 2023 16:26:29 +0000
 d5 1
 a5 1
-! Diff-Path: patches/2023.11.7.654.patch#dutchfilterlist
+! Diff-Path: patches/2023.11.7.986.patch#dutchfilterlist
 d26 2
 d73 2
 d161 2
 d182 2
+a184 2
+/Images/*Ad$image,domain=sun.sr
+/Images/*Banner$image,domain=sun.sr
 d283 2
 a289 1
 /build/*/js/js-betting.build.js$script,first-party,domain=ajaxfanatics.nl|cambuurfront.nl|fcgfans.nl|feanonline.nl|feyenoordpings.nl|nacfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|vitesseinside.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
@@ -31,6 +34,10 @@ feyenoord.nl##.banner-carousel:has([src*="partnerships"])
 a833 2
 nnieuws.be##[class*="blockpartners"]
 nnieuws.be##[id^="block-billboard"]:has([class*="banner"])
+a947 3
+sun.sr##app-money-exchange
+sun.sr##app-slider-add
+sun.sr##.bannerslid-add:upward(.container):has(app-topleft)
 d1170 2
 d1356 1
 d1781 3

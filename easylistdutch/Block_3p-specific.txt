@@ -1,6 +1,8 @@
 [uBlock Origin]
-! Last modified: Wed, 01 Nov 2023 13:51:15 +0000
+! Last modified: Tue, 07 Nov 2023 16:26:29 +0000
 ! 2023
+/Images/*Ad$image,domain=sun.sr
+/Images/*Banner$image,domain=sun.sr
 ||cdn-radio.dpgmedia.net/*/*/*banner*$image,domain=qmusic.be|qmusic.nl
 ||qmusic.medialaancdn.be/*/*/*banner*$image,domain=qmusic.nl
 ||srv69.eu/b/*.gif$image,domain=spermatube.be|swingerstube.be|xxx-tube.be
