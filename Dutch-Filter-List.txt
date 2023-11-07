@@ -1,8 +1,8 @@
 [uBlock Origin]
 ! Title: Dutch Filter List
-! Last modified: Sat, 04 Nov 2023 19:50:01 +0000
+! Last modified: Tue, 07 Nov 2023 10:54:51 +0000
 ! Expires: 5 days (update frequency)
-! Diff-Path: patches/2023.11.4.1190.patch#dutchfilterlist
+! Diff-Path: patches/2023.11.7.654.patch#dutchfilterlist
 ! Diff-Name: dutchfilterlist
 ! Diff-Expires: 24 hours
 ! Description:  
@@ -23,8 +23,6 @@
 !
 !--------Algemene blokkeerregels--------!
 ! *** easylistdutch:easylistdutch/Block (general).txt ***
-[uBlock Origin]
-! Last modified: %timestamp%
 .arnostat.nl/click.
 -Ad-360.
 -reclameplaatjes/
@@ -70,8 +68,6 @@ _advertentieleaderboardhome.
 !
 !--------Advertentiedomeinen (derden)--------!
 ! *** easylistdutch:easylistdutch/Block 3p (server).txt ***
-[uBlock Origin]
-! Last modified: %timestamp%
 ||2k19.nl^$third-party
 ||2k21.nl^$third-party
 ||2k23.nl^$third-party
@@ -158,8 +154,6 @@ _advertentieleaderboardhome.
 !
 !--------Advertentiedomeinen--------!
 ! *** easylistdutch:easylistdutch/Block 1p (server).txt ***
-[uBlock Origin]
-! Last modified: %timestamp%
 ||a2.tijd.be^
 ||aa.hwigroup.com^
 ||ab.hwigroup.com^
@@ -179,8 +173,6 @@ _advertentieleaderboardhome.
 !
 !--------Specifieke blokkeerregels (derden)--------!
 ! *** easylistdutch:easylistdutch/Block 3p (specific).txt ***
-[uBlock Origin]
-! Last modified: %timestamp%
 ! 2023
 ||cdn-radio.dpgmedia.net/*/*/*banner*$image,domain=qmusic.be|qmusic.nl
 ||qmusic.medialaancdn.be/*/*/*banner*$image,domain=qmusic.nl
@@ -280,8 +272,6 @@ _advertentieleaderboardhome.
 !
 !--------Specifieke blokkeerregels--------!
 ! *** easylistdutch:easylistdutch/Block 1p (specific).txt ***
-[uBlock Origin]
-! Last modified: %timestamp%
 ! 2023
 /^https?:\/\/statics\.(?:7sur7|ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
   !||statics.*.*/js/advertising-$script,domain=7sur7.be|ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
@@ -591,8 +581,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 !
 !--------Uitzonderingen (derden)--------!
 ! *** easylistdutch:easylistdutch/Block 3p (whitelist).txt ***
-[uBlock Origin]
-! Last modified: %timestamp%
 ! 2023
  ! sproeiendekutjes.nl
 @@/https\:\/\/pt\.[\w]{6}\.com\/tube-player\//$subdocument,domain=sproeiendekutjes.nl
@@ -665,8 +653,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 !
 !--------Uitzonderingen--------!
 ! *** easylistdutch:easylistdutch/Block 1p (whitelist).txt ***
-[uBlock Origin]
-! Last modified: %timestamp%
 @@/images/volgende.gif$image,1p,domain=privesexgids.nl|sexdatingholland.com|sexpret.com|studentesexcontact.nl|tienersexpret.nl|zinomteneuken.nl
 @@/media/*/banner-ideal$image,domain=webcam-aalsmeer.nl|webcam-airport.nl|webcam-binnenvaart.nl|webcam-blokzijl.nl|webcam-brandaris.nl|webcam-delfzijl.nl|webcam-denhelder.nl|webcam-denoever.nl|webcam-dokkum.nl|webcam-dordrecht.nl|webcam-enkhuizen.nl|webcam-friesemeren.nl|webcam-grou.nl|webcam-harlingen.nl|webcam-havenijmuiden.nl|webcam-hindeloopen.nl|webcam-hoekvanholland.nl|webcam-kampen.nl|webcam-lauwersoog.nl|webcam-leeuwarden.nl|webcam-lelystad.nl|webcam-maassluis.nl|webcam-maastricht.nl|webcam-marken.nl|webcam-monnickendam.nl|webcam-rotterdam.nl|webcam-sneek.nl|webcam-terneuzen.nl|webcam-vlaardingen.nl|webcam-volendam.nl|webcam-workum.nl|webcam-zaanzicht.nl|webcam-zoutkamp.nl|webcam-zwartsluis.nl|webcams-ameland.nl|webcams-scheveningen.nl|webcams-texel.nl|webcams-vlissingen.nl|webcamschiermonnikoog.nl|webcamvlieland.nl
 @@||accountancyvanmorgen.nl/wp-content/uploads/*/Banner-checkpoints$image,first-party
@@ -688,8 +674,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 !
 !--------Algemene verbergregels--------!
 ! *** easylistdutch:easylistdutch/Hide (general).txt ***
-[uBlock Origin]
-! Last modified: %timestamp%
 !kinderspelletjes.be###adRechts
 ###adRechts
 !biertijd.xxx###advertentie
@@ -716,8 +700,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 !
 !--------Specifieke verbergregels--------!
 ! *** easylistdutch:easylistdutch/Hide (specific).txt ***
-[uBlock Origin]
-! Last modified: %timestamp%
 ! 2023
 agraaf.nl##.partners-carousel
 ajaxfanatics.nl,cambuurfront.nl,fcgfans.nl,feanonline.nl,feyenoordpings.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.bn__wrapper
@@ -777,6 +759,7 @@ ecommercenews.nl##.ldrtop
 ecommercenews.nl##.sidebar > .widget-image-content-button:not(:has(a[href*="ecommercenews.nl"]))
 ecommercenews.nl##.widget-partners
 eindexamens.nu,gezondheid.be###leaderboard
+eredivisie.nl,racingnews365.nl###betting-prefs
 fcupdate.nl##.betting_partner
 fcupdate.nl##[id*="web_billboard"]
 feyenoord.nl##.banner-carousel:has([src*="partnerships"])
@@ -879,7 +862,6 @@ recreatief.nl##.widget-a-wrap
 racesport.nl##.hthb-notification
 racesport.nl##.rs_sponsorbanners_widget:upward(1)
 racesport.nl##a[class*="image-wrapper"] img[src*="racesport.nl/wp-content/uploads/"][src*="1120x250"]:upward(.tdc-row)
-racingnews365.nl###betting-prefs
 radio182.nl##section.elementor-element:has(h3:has-text(/mogelijk gemaakt door:/i))
 radioacacia.nl##table[width="680"]:has(img[src^="sponsoren/"])
 radiocontinu.nl##.eskimo-slider-img:upward(5)
@@ -1819,8 +1801,6 @@ nudeviste.be,nudevista.nl##.mob_adv
 !
 !--------Uitzonderingen (verbergregels)--------!
 ! *** easylistdutch:easylistdutch/Hide (whitelist).txt ***
-[uBlock Origin]
-! Last modified: %timestamp%
 ! Uitzonderingen voor EasyList
 ajaxreport.nl,ajaxrss.nl,blockchainvandaag.com,casinoreport.nl,cryptobelegging.com,feyenoordreport.nl,formula1report.com,gamblingreport.nl,livestreamvandaag.be,onlinecasinorss.nl,onlinekraslotenrss.nl,onlinepokerrss.nl,psvreport.nl,sportweddenrss.nl,vergelijkbookmakers.nl,voetbalsnafu.nl,voetbalvisie.com,voetbalweddenrss.nl#@#.top-ads-block
 bokt.nl#@#.ad-body
@@ -1860,8 +1840,6 @@ wereldreizigers.nl#@#.gridlove-ad
 !
 !-----------------Anti-AdBlock-----------------!
 ! *** easylistdutch:easylistdutch/Anti-AdBlock.txt ***
-[uBlock Origin]
-! Last modified: %timestamp%
 ! 2023
 112amersfoort.nl,112amsterdam.nl,112apeldoorn.nl,112arnhem.nl,112assen.nl,112barneveld.nl,112bunschoten.nl,112doetinchem.nl,112drenthe.nl,112ede.nl,112eindhoven.nl,112emmen.nl,112flevoland.nl,112harderwijk.nl,112hilversum.nl,112inbeeld.nl,112lelystad.nl,112meppel.nl,112nijkerk.nl,112overijsel.nl,112ridderkerk.nl,112rotterdam.nl,112scherpenzeel.nl,112schiedam.nl,112vallei.nl,112vechtdal.nl,112veenendaal.nl,112wageningen.nl,112zeewolde.nl,112zwolle.nl,vrides.nl##+js(noeval-if, /chp_?ad/)
 aimsolutions.nl##+js(noeval-if, adsBlocked)

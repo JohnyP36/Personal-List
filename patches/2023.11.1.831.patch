@@ -1,30 +1,41 @@
-diff name:dutchfilterlist lines:29 checksum:67178f7bfc
+diff name:dutchfilterlist lines:40 checksum:64f14bfca3
 d3 1
 a3 1
-! Last modified: Sat, 04 Nov 2023 19:50:01 +0000
+! Last modified: Tue, 07 Nov 2023 10:54:51 +0000
 d5 1
 a5 1
-! Diff-Path: patches/2023.11.4.1190.patch#dutchfilterlist
+! Diff-Path: patches/2023.11.7.654.patch#dutchfilterlist
+d26 2
+d73 2
+d161 2
+d182 2
+d283 2
 a289 1
 /build/*/js/js-betting.build.js$script,first-party,domain=ajaxfanatics.nl|cambuurfront.nl|fcgfans.nl|feanonline.nl|feyenoordpings.nl|nacfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|vitesseinside.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
 a310 1
 ||nnieuws.be/sites/default/files/images/ads/
+d592 2
 a600 2
 @@||adengine.snigelweb.com/*.nl/*$script,domain=ajaxfanatics.nl|cambuurfront.nl|fcgfans.nl|feanonline.nl|feyenoordpings.nl|nacfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|vitesseinside.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
 @@||cdn.snigelweb.com^$script,xhr,domain=ajaxfanatics.nl|cambuurfront.nl|fcgfans.nl|feanonline.nl|feyenoordpings.nl|nacfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|vitesseinside.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
+d664 2
+d687 2
+d715 2
 a718 2
 ajaxfanatics.nl,cambuurfront.nl,fcgfans.nl,feanonline.nl,feyenoordpings.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.bn__wrapper
 ajaxfanatics.nl,cambuurfront.nl,fcgfans.nl,feanonline.nl,feyenoordpings.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.footer__partners
+a773 1
+eredivisie.nl,racingnews365.nl###betting-prefs
 a775 1
 feyenoord.nl##.banner-carousel:has([src*="partnerships"])
 a833 2
 nnieuws.be##[class*="blockpartners"]
 nnieuws.be##[id^="block-billboard"]:has([class*="banner"])
-a872 1
-racingnews365.nl###betting-prefs
 d1170 2
 d1356 1
 d1781 3
 a1783 1
 
 d1786 1
+d1818 2
+d1859 2
