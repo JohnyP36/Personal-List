@@ -132,7 +132,7 @@ function trimSublist(text) {
     text = text.replace(/^!\s*$(?:\r\n|\n)/gm, '');
     // Remove sublist header information: the importing list will provide its
     // own header.
-    text = text.trim().replace(/^(?:(?:\[|!\s+[Last modified])[^\r\n]+?(?:\r\n|\n)){2}/si, '');
+    text = text.trim().replace(/^(?:(?:\[|!\s+[^0-9])[^\r\n]+?(?:\r\n|\n)){2}/s, '');
     return text;
 }
 
