@@ -237,6 +237,9 @@ startlijstjes.nl##.advertentieblock
 startlijstjes.nl##.item:has([class^="item_special"]:has-text(tradetracker.net))
 startpagina.nl##.top-banner
 streamwijzer.be##.widget:has(a[href*=".bn5x.net/"])
+sun.sr##app-money-exchange
+sun.sr##app-slider-add
+sun.sr##.bannerslid-add:upward(.container):has(app-topleft)
 synoniemen.net##.promoblok
 takecare4.eu###branding > .clearfix
 tameteo.nl##div[id*="banner"]:upward(2)
