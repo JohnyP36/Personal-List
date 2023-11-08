@@ -1,10 +1,10 @@
 [uBlock Origin]
 ! Title: Dutch Filter List
-! Last modified: Tue, 07 Nov 2023 16:26:29 +0000
-! Expires: 5 days (update frequency)
-! Diff-Path: patches/2023.11.7.986.patch#dutchfilterlist
+! Last modified: Wed, 08 Nov 2023 09:44:14 +0000
+! Expires: 14 days (update frequency)
+! Diff-Path: patches/2023.11.8.584.patch#dutchfilterlist
 ! Diff-Name: dutchfilterlist
-! Diff-Expires: 24 hours
+! Diff-Expires: 18 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
 !     mainly for uBlock and Adguard users

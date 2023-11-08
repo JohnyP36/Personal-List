@@ -1,10 +1,12 @@
-diff name:dutchfilterlist lines:35 checksum:ed103a9882
-d3 1
-a3 1
-! Last modified: Tue, 07 Nov 2023 16:26:29 +0000
-d5 1
-a5 1
-! Diff-Path: patches/2023.11.7.986.patch#dutchfilterlist
+diff name:dutchfilterlist lines:37 checksum:d5f06285fc
+d3 3
+a5 3
+! Last modified: Wed, 08 Nov 2023 09:44:14 +0000
+! Expires: 14 days (update frequency)
+! Diff-Path: patches/2023.11.8.584.patch#dutchfilterlist
+d7 1
+a7 1
+! Diff-Expires: 18 hours
 d26 2
 d73 2
 d161 2
