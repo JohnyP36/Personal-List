@@ -1,8 +1,8 @@
 [uBlock Origin]
 ! Title: Dutch Filter List
-! Last modified: Thu, 09 Nov 2023 07:36:10 +0000
+! Last modified: Thu, 09 Nov 2023 19:50:29 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2023.11.9.456.patch#dutchfilterlist
+! Diff-Path: patches/2023.11.9.1190.patch#dutchfilterlist
 ! Diff-Expires: 18 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -14,11 +14,6 @@
 !
 ! This list is a forked Easylist Dutch,
 !  because the original list is outdated and they don't update it often
-!
-!
-!===================== FIRST LIST =====================
-! Alleen voor advertenties op Nederlandstalige sites!
-! Rapporteer gevonden advertenties of fouten op Github!
 !
 !--------Algemene blokkeerregels--------!
 ! *** easylistdutch:easylistdutch/Block (general).txt ***
@@ -768,6 +763,7 @@ feyenoord.nl##.totoOdds
 focusclub.nl##.funbox
 fok.nl,looopings.nl,mannenzaken.nl,scientias.nl##div[class^="r89-desktop"]
 freeones.nl##.banner-placeholder
+fwd.nl##[class^="advertisement"]
 gamer.nl,id.nl,wasmachines.nl##.adunitContainer:upward(.items-center)
 gebruikershandleiding.com##[class^="adserver-container"]
 geil-neuken.nl,neukengratis.be,neuk-sexcontact.be,sexdate-xxx.be##.well:has(.bannergroup)

@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Thu, 09 Nov 2023 07:36:10 +0000
+! Last modified: Thu, 09 Nov 2023 19:50:29 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 ajaxfanatics.nl,cambuurfront.nl,fcgfans.nl,feanonline.nl,feyenoordpings.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.bn__wrapper
@@ -67,6 +67,7 @@ feyenoord.nl##.totoOdds
 focusclub.nl##.funbox
 fok.nl,looopings.nl,mannenzaken.nl,scientias.nl##div[class^="r89-desktop"]
 freeones.nl##.banner-placeholder
+fwd.nl##[class^="advertisement"]
 gamer.nl,id.nl,wasmachines.nl##.adunitContainer:upward(.items-center)
 gebruikershandleiding.com##[class^="adserver-container"]
 geil-neuken.nl,neukengratis.be,neuk-sexcontact.be,sexdate-xxx.be##.well:has(.bannergroup)
