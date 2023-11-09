@@ -61,7 +61,7 @@ jobs:
           pushd $TMPFILE > /dev/null
           # ./tools/make-easydutch.sh
           echo "*** Dutch Filter List: Assembling 'Personal List (uBo).txt'"
-          node ./tools/make-list.js in=./tools/dutch-filter-list.template out=./Dutch-Filter-List.txt
+          node ./tools/make-list.mjs in=./tools/dutch-filter-list.template out=./Dutch-Filter-List.txt
           popd > /dev/null
           cp $TMPFILE/Dutch-Filter-List.txt Dutch-Filter-List.txt
           cp $TMPFILE/easylistdutch/Anti-AdBlock.txt easylistdutch/Anti-AdBlock.txt
