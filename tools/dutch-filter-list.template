@@ -15,11 +15,6 @@
 ! This list is a forked Easylist Dutch,
 !  because the original list is outdated and they don't update it often
 !
-!
-!===================== FIRST LIST =====================
-! Alleen voor advertenties op Nederlandstalige sites!
-! Rapporteer gevonden advertenties of fouten op Github!
-!
 !--------Algemene blokkeerregels--------!
 %include easylistdutch:easylistdutch/Block (general).txt%
 !
