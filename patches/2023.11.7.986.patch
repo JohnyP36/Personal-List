@@ -1,9 +1,1 @@
-diff name:dutchfilterlist lines:8 checksum:d5f06285fc
-d3 3
-a5 3
-! Last modified: Wed, 08 Nov 2023 09:44:14 +0000
-! Expires: 14 days (update frequency)
-! Diff-Path: patches/2023.11.8.584.patch#dutchfilterlist
-d7 1
-a7 1
-! Diff-Expires: 18 hours
+diff name:dutchfilterlist lines:0 /tmp/tmp.5eENJqN3ro checksum:0b8755bd20

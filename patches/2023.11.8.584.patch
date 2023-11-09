@@ -1,0 +1,10 @@
+diff name:dutchfilterlist lines:9 checksum:0b8755bd20
+d3 1
+a3 1
+! Last modified: Thu, 09 Nov 2023 07:36:10 +0000
+d5 2
+a6 1
+! Diff-Path: patches/2023.11.9.456.patch#dutchfilterlist
+d770 1
+a770 1
+fok.nl,looopings.nl,mannenzaken.nl,scientias.nl##div[class^="r89-desktop"]

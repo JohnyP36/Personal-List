@@ -1,9 +1,8 @@
 [uBlock Origin]
 ! Title: Dutch Filter List
-! Last modified: Wed, 08 Nov 2023 09:44:14 +0000
+! Last modified: Thu, 09 Nov 2023 07:36:10 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2023.11.8.584.patch#dutchfilterlist
-! Diff-Name: dutchfilterlist
+! Diff-Path: patches/2023.11.9.456.patch#dutchfilterlist
 ! Diff-Expires: 18 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -767,7 +766,7 @@ fcupdate.nl##[id*="web_billboard"]
 feyenoord.nl##.banner-carousel:has([src*="partnerships"])
 feyenoord.nl##.totoOdds
 focusclub.nl##.funbox
-fok.nl,looopings.nl,scientias.nl##div[class^="r89-desktop"]
+fok.nl,looopings.nl,mannenzaken.nl,scientias.nl##div[class^="r89-desktop"]
 freeones.nl##.banner-placeholder
 gamer.nl,id.nl,wasmachines.nl##.adunitContainer:upward(.items-center)
 gebruikershandleiding.com##[class^="adserver-container"]

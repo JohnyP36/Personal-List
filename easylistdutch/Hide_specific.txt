@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Tue, 07 Nov 2023 16:26:29 +0000
+! Last modified: Thu, 09 Nov 2023 07:36:10 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 ajaxfanatics.nl,cambuurfront.nl,fcgfans.nl,feanonline.nl,feyenoordpings.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.bn__wrapper
@@ -65,7 +65,7 @@ fcupdate.nl##[id*="web_billboard"]
 feyenoord.nl##.banner-carousel:has([src*="partnerships"])
 feyenoord.nl##.totoOdds
 focusclub.nl##.funbox
-fok.nl,looopings.nl,scientias.nl##div[class^="r89-desktop"]
+fok.nl,looopings.nl,mannenzaken.nl,scientias.nl##div[class^="r89-desktop"]
 freeones.nl##.banner-placeholder
 gamer.nl,id.nl,wasmachines.nl##.adunitContainer:upward(.items-center)
 gebruikershandleiding.com##[class^="adserver-container"]
