@@ -48,33 +48,33 @@ jobs:
           echo "Version string is $TAGNAME"
       - name: Copy shell script from JohnyP36/Personal-List
         run: |
-          TMPDIR=$(mktemp -d)
-          git clone --depth=1 --single-branch --branch=main https://github.com/JohnyP36/Personal-List.git $TMPDIR
-          cp -v $TMPDIR/tools/make-diffpatch.sh .
-          cp -v $TMPDIR/tools/update-diffpatches.sh .
+          TMPDIR="$(mktemp -d)"
+          git clone --depth=1 --single-branch --branch=main https://github.com/JohnyP36/Personal-List.git "$TMPDIR"
+          cp -v "$TMPDIR"/tools/make-diffpatch.sh .
+          cp -v "$TMPDIR"/tools/update-diffpatches.sh .
       # - name: Change permissions
       #  run: git update-index --chmod=+x ./tools/make-dutchfilterlist.sh
       - name: Copy filter lists to gh-pages
         run: |
-          TMPFILE=$(mktemp -d)
-          git clone --depth=1 --branch=main https://github.com/JohnyP36/Personal-List.git $TMPFILE
-          pushd $TMPFILE > /dev/null
+          TMPFILE="$(mktemp -d)"
+          git clone --depth=1 --branch=main https://github.com/JohnyP36/Personal-List.git "$TMPFILE"
+          pushd "$TMPFILE" > /dev/null
           # ./tools/make-easydutch.sh
           echo "*** Dutch Filter List: Assembling 'Personal List (uBo).txt'"
-          node ./tools/make-list.js in=./tools/dutch-filter-list.template out=./Dutch-Filter-List.txt
+          node ./tools/make-list.mjs in=./tools/dutch-filter-list.template out=./Dutch-Filter-List.txt
           popd > /dev/null
-          cp $TMPFILE/Dutch-Filter-List.txt Dutch-Filter-List.txt
-          cp $TMPFILE/easylistdutch/Anti-AdBlock.txt easylistdutch/Anti-AdBlock.txt
-          cp $TMPFILE/easylistdutch/Block*general*.txt easylistdutch/Block_general.txt
-          cp $TMPFILE/easylistdutch/Block*1p*server*.txt easylistdutch/Block_1p-server.txt
-          cp $TMPFILE/easylistdutch/Block*1p*specific*.txt easylistdutch/Block_1p-specific.txt
-          cp $TMPFILE/easylistdutch/Block*1p*whitelist*.txt easylistdutch/Block_1p-whitelist.txt
-          cp $TMPFILE/easylistdutch/Block*3p*server*.txt easylistdutch/Block_3p-server.txt
-          cp $TMPFILE/easylistdutch/Block*3p*specific*.txt easylistdutch/Block_3p-specific.txt
-          cp $TMPFILE/easylistdutch/Block*3p*whitelist*.txt easylistdutch/Block_3p-whitelist.txt
-          cp $TMPFILE/easylistdutch/Hide*general*.txt easylistdutch/Hide_general.txt
-          cp $TMPFILE/easylistdutch/Hide*specific*.txt easylistdutch/Hide_specific.txt
-          cp $TMPFILE/easylistdutch/Hide*whitelist*.txt easylistdutch/Hide_whitelist.txt
+          cp "$TMPFILE"/Dutch-Filter-List.txt Dutch-Filter-List.txt
+          cp "$TMPFILE"/easylistdutch/Anti-AdBlock.txt easylistdutch/Anti-AdBlock.txt
+          cp "$TMPFILE"/easylistdutch/Block*general*.txt easylistdutch/Block_general.txt
+          cp "$TMPFILE"/easylistdutch/Block*1p*server*.txt easylistdutch/Block_1p-server.txt
+          cp "$TMPFILE"/easylistdutch/Block*1p*specific*.txt easylistdutch/Block_1p-specific.txt
+          cp "$TMPFILE"/easylistdutch/Block*1p*whitelist*.txt easylistdutch/Block_1p-whitelist.txt
+          cp "$TMPFILE"/easylistdutch/Block*3p*server*.txt easylistdutch/Block_3p-server.txt
+          cp "$TMPFILE"/easylistdutch/Block*3p*specific*.txt easylistdutch/Block_3p-specific.txt
+          cp "$TMPFILE"/easylistdutch/Block*3p*whitelist*.txt easylistdutch/Block_3p-whitelist.txt
+          cp "$TMPFILE"/easylistdutch/Hide*general*.txt easylistdutch/Hide_general.txt
+          cp "$TMPFILE"/easylistdutch/Hide*specific*.txt easylistdutch/Hide_specific.txt
+          cp "$TMPFILE"/easylistdutch/Hide*whitelist*.txt easylistdutch/Hide_whitelist.txt
       - name: Patch last-updated field
         run: |
           DATE=$(date -Ru)
@@ -89,11 +89,14 @@ jobs:
       - name: Create new patch
         run: |
           chmod 755 ./make-diffpatch.sh
-          ./make-diffpatch.sh "${{ env.TAGNAME }}"
+          PATCHES_DIR="patches"
+          ./make-diffpatch.sh "${{ env.TAGNAME }}" "$PATCHES_DIR"
       - name: Update existing patch
         run: |
           chmod 755 ./update-diffpatches.sh
-          ./update-diffpatches.sh "${{ env.TAGNAME }}"
+          PATCHES_DIR="patches"
+          FILTER_FILES=$(git ls-files --exclude-standard -- Dutch-Filter-List.txt)
+          ./update-diffpatches.sh "$GITHUB_REPOSITORY" "$PATCHES_DIR" "$FILTER_FILES"
       - name: Commit changes (if any)
         run: |
          # if [[ -n $(git diff) ]]; then
