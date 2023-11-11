@@ -1,8 +1,8 @@
 [uBlock Origin]
 ! Title: Dutch Filter List
-! Last modified: Thu, 09 Nov 2023 19:50:29 +0000
+! Last modified: Sat, 11 Nov 2023 05:57:05 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2023.11.9.1190.patch#dutchfilterlist
+! Diff-Path: patches/2023.11.11.357.patch#dutchfilterlist
 ! Diff-Expires: 18 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -587,7 +587,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 @@||adengine.snigelweb.com/*.nl/*$script,domain=ajaxfanatics.nl|cambuurfront.nl|fcgfans.nl|feanonline.nl|feyenoordpings.nl|nacfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|vitesseinside.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
 @@||cdn.snigelweb.com^$script,xhr,domain=ajaxfanatics.nl|cambuurfront.nl|fcgfans.nl|feanonline.nl|feyenoordpings.nl|nacfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|vitesseinside.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
 @@||assets.freeones.com/static-assets/istripper/istripper.js$script,domain=freeones.nl
-@@||ads.nextday.media/prebid/jw-video/7.43.0.min.js$script,domain=bright.nl
 @@||awemwh.com/$image,domain=camsexbabe.nl
 @@||potwm.com/tube-player/?$frame,domain=camsexbabe.nl
 @@||potwm.com/api/video-promotion/v1/get-$xhr,domain=camsexbabe.nl|potwm.com
