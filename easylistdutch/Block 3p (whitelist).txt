@@ -10,7 +10,6 @@
 @@||adengine.snigelweb.com/*.nl/*$script,domain=ajaxfanatics.nl|cambuurfront.nl|fcgfans.nl|feanonline.nl|feyenoordpings.nl|nacfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|vitesseinside.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
 @@||cdn.snigelweb.com^$script,xhr,domain=ajaxfanatics.nl|cambuurfront.nl|fcgfans.nl|feanonline.nl|feyenoordpings.nl|nacfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|vitesseinside.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
 @@||assets.freeones.com/static-assets/istripper/istripper.js$script,domain=freeones.nl
-@@||ads.nextday.media/prebid/jw-video/7.43.0.min.js$script,domain=bright.nl
 @@||awemwh.com/$image,domain=camsexbabe.nl
 @@||potwm.com/tube-player/?$frame,domain=camsexbabe.nl
 @@||potwm.com/api/video-promotion/v1/get-$xhr,domain=camsexbabe.nl|potwm.com
