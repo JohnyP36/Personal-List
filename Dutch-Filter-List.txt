@@ -1,8 +1,8 @@
 [uBlock Origin]
 ! Title: Dutch Filter List
-! Last modified: Sat, 11 Nov 2023 05:57:05 +0000
+! Last modified: Mon, 13 Nov 2023 10:33:44 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2023.11.11.357.patch#dutchfilterlist
+! Diff-Path: patches/2023.11.13.633.patch#dutchfilterlist
 ! Diff-Expires: 18 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -269,6 +269,7 @@ _advertentieleaderboardhome.
 !--------Specifieke blokkeerregels--------!
 ! *** easylistdutch:easylistdutch/Block 1p (specific).txt ***
 ! 2023
+npo.nl##+js(json-prune, assets.preroll assets.prerollDebug)
 /^https?:\/\/statics\.(?:7sur7|ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
   !||statics.*.*/js/advertising-$script,domain=7sur7.be|ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
