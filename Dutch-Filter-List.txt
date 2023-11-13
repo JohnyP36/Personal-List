@@ -1,8 +1,8 @@
 [uBlock Origin]
 ! Title: Dutch Filter List
-! Last modified: Mon, 13 Nov 2023 10:33:44 +0000
+! Last modified: Mon, 13 Nov 2023 20:53:41 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2023.11.13.633.patch#dutchfilterlist
+! Diff-Path: patches/2023.11.13.1253.patch#dutchfilterlist
 ! Diff-Expires: 18 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -170,6 +170,7 @@ _advertentieleaderboardhome.
 ! 2023
 /Images/*Ad$image,domain=sun.sr
 /Images/*Banner$image,domain=sun.sr
+||akamaized.net^$media,domain=npo.nl,redirect=noopmp3-0.1s
 ||cdn-radio.dpgmedia.net/*/*/*banner*$image,domain=qmusic.be|qmusic.nl
 ||qmusic.medialaancdn.be/*/*/*banner*$image,domain=qmusic.nl
 ||srv69.eu/b/*.gif$image,domain=spermatube.be|swingerstube.be|xxx-tube.be
@@ -820,6 +821,7 @@ nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
 nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 nnieuws.be##[class*="blockpartners"]
 nnieuws.be##[id^="block-billboard"]:has([class*="banner"])
+npo.nl##.bitmovinplayer-poster
 notebookcheck.nl###nbc_skys
 nuus.be##.adv-link:upward(.sidebar)
 nzbindex.nl##form + div a[href^="/"]:has(img)
