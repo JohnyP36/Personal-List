@@ -3,6 +3,7 @@
 ! 2023
 /Images/*Ad$image,domain=sun.sr
 /Images/*Banner$image,domain=sun.sr
+||akamaized.net^$media,domain=npo.nl,redirect=noopmp3-0.1s
 ||cdn-radio.dpgmedia.net/*/*/*banner*$image,domain=qmusic.be|qmusic.nl
 ||qmusic.medialaancdn.be/*/*/*banner*$image,domain=qmusic.nl
 ||srv69.eu/b/*.gif$image,domain=spermatube.be|swingerstube.be|xxx-tube.be
