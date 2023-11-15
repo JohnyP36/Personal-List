@@ -35,6 +35,7 @@ bitcoinmagazine.nl##div[style="height:52px;"]
 bitcoinmagazine.nl,cryptobenelux.com##.clickout-banner-regular_native_box
 blikopzeewolde.nl##.fusion-flex-container.fullwidth-box.fusion-fullwidth:has(:not(a[href^="https://www.blikopzeewolde.nl/"]) > .fusion-column-inner-bg-image)
 bnr.nl##div[class*="BNRAd_ad_"]
+bright.nl##[class^="Ad_ad"]
 bruzz.be,omroepflevoland.nl,pu.nl,soccernews.nl,sportuitslagen.org,trendalert.nl##.ad-container
 buttkicken.nl##a[href] > img[src*="wp.com"]:upward(.wp-block-image):not(:has(a[href*="backme.org"]))
 buttkicken.nl##p.has-small-font-size:has-text(Advertentie)
