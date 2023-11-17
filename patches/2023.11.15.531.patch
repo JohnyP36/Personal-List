@@ -1,0 +1,16 @@
+diff name:dutchfilterlist lines:15 checksum:397ceaa0b1
+d3 1
+a3 1
+! Last modified: Fri, 17 Nov 2023 06:12:31 +0000
+d5 1
+a5 1
+! Diff-Path: patches/2023.11.17.372.patch#dutchfilterlist
+d173 1
+a173 1
+||akamaized.net^$media,domain=npo.nl|vpro.nl,redirect=noopmp3-0.1s
+d273 1
+a273 1
+npo.nl,vpro.nl##+js(json-prune, assets.preroll assets.prerollDebug)
+d825 1
+a825 1
+npo.nl,vpro.nl##.bitmovinplayer-poster

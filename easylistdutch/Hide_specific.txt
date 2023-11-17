@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Wed, 15 Nov 2023 08:51:01 +0000
+! Last modified: Fri, 17 Nov 2023 06:12:31 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 ajaxfanatics.nl,cambuurfront.nl,fcgfans.nl,feanonline.nl,feyenoordpings.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.bn__wrapper
@@ -125,7 +125,7 @@ nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
 nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 nnieuws.be##[class*="blockpartners"]
 nnieuws.be##[id^="block-billboard"]:has([class*="banner"])
-npo.nl##.bitmovinplayer-poster
+npo.nl,vpro.nl##.bitmovinplayer-poster
 notebookcheck.nl###nbc_skys
 nuus.be##.adv-link:upward(.sidebar)
 nzbindex.nl##form + div a[href^="/"]:has(img)
