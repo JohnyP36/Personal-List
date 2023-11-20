@@ -82,6 +82,7 @@ girlscene.nl##[id$="top-ad-desktop"]
 gocar.be###rossel-imu-middle:upward([class*="bg-gray-200"])
 gocar.be##.container-leaderboard
 gocar.be##.pub-text:upward(2)
+goudengids.be##.banner-boxes-holder
 gpblog.com##aside[class^="Ad_"]:style(position: absolute !important; left: -3000px !important;)
 gpfans.com##.leaderboardbg
 gpfans.com##.taboonews
