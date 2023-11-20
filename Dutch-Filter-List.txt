@@ -1,8 +1,8 @@
 [uBlock Origin]
 ! Title: Dutch Filter List
-! Last modified: Fri, 17 Nov 2023 06:12:31 +0000
+! Last modified: Mon, 20 Nov 2023 13:17:45 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2023.11.17.372.patch#dutchfilterlist
+! Diff-Path: patches/2023.11.20.797.patch#dutchfilterlist
 ! Diff-Expires: 18 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -779,6 +779,7 @@ girlscene.nl##[id$="top-ad-desktop"]
 gocar.be###rossel-imu-middle:upward([class*="bg-gray-200"])
 gocar.be##.container-leaderboard
 gocar.be##.pub-text:upward(2)
+goudengids.be##.banner-boxes-holder
 gpblog.com##aside[class^="Ad_"]:style(position: absolute !important; left: -3000px !important;)
 gpfans.com##.leaderboardbg
 gpfans.com##.taboonews
