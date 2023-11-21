@@ -49,6 +49,7 @@ dehavengids.nl##.elementor-widget-container:has(.g)
 deondernemer.nl##.tile-advert:upward(.tile-wrapper)
 diecourant.co.za##section[id^=smartslider]
 diecourant.co.za###secondary
+doorbraak.be##img[src$="animated.gif"]:upward(.border-dashed)
 dutchitleaders.nl##a[target]:not(a[href*="dutchitleaders.nl"]):not(a[href*="linkedin.com"]):has(img[src*=".assets-servd.host/"])
 duurzaamnieuws.nl##.adv-link:not(a[href$="aanmelden-gratis-nieuwsbrief/"])
 duurzaamnieuws.nl##[class^="av_textblock"]:has-text(/advert/i)
