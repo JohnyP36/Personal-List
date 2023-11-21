@@ -1,9 +1,1 @@
-diff name:dutchfilterlist lines:8 checksum:44f8152203
-d3 1
-a3 1
-! Last modified: Mon, 20 Nov 2023 13:17:45 +0000
-d5 1
-a5 1
-! Diff-Path: patches/2023.11.20.797.patch#dutchfilterlist
-a781 1
-goudengids.be##.banner-boxes-holder
+diff name:dutchfilterlist lines:0 /tmp/tmp.ZnecytzeP4 checksum:1a9220aeaa

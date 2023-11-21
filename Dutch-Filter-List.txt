@@ -1,8 +1,8 @@
 [uBlock Origin]
 ! Title: Dutch Filter List
-! Last modified: Mon, 20 Nov 2023 13:17:45 +0000
+! Last modified: Tue, 21 Nov 2023 19:38:40 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2023.11.20.797.patch#dutchfilterlist
+! Diff-Path: patches/2023.11.21.1178.patch#dutchfilterlist
 ! Diff-Expires: 18 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -746,6 +746,7 @@ dehavengids.nl##.elementor-widget-container:has(.g)
 deondernemer.nl##.tile-advert:upward(.tile-wrapper)
 diecourant.co.za##section[id^=smartslider]
 diecourant.co.za###secondary
+doorbraak.be##img[src$="animated.gif"]:upward(.border-dashed)
 dutchitleaders.nl##a[target]:not(a[href*="dutchitleaders.nl"]):not(a[href*="linkedin.com"]):has(img[src*=".assets-servd.host/"])
 duurzaamnieuws.nl##.adv-link:not(a[href$="aanmelden-gratis-nieuwsbrief/"])
 duurzaamnieuws.nl##[class^="av_textblock"]:has-text(/advert/i)

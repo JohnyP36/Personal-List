@@ -1,0 +1,9 @@
+diff name:dutchfilterlist lines:8 checksum:1a9220aeaa
+d3 1
+a3 1
+! Last modified: Tue, 21 Nov 2023 19:38:40 +0000
+d5 1
+a5 1
+! Diff-Path: patches/2023.11.21.1178.patch#dutchfilterlist
+a748 1
+doorbraak.be##img[src$="animated.gif"]:upward(.border-dashed)
