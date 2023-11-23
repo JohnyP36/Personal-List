@@ -125,6 +125,7 @@ nd.nl##.page-header__inner__ad
 nederland.fm##[class*=adv]
 neuk-sexcontact.be###aside > .moduletable:has(.bannergroup)
 niburu.co##.sponsers
+nl.radio.net###headerTopBar ~ div:has(div#RAD_D_station_top)
 nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
 nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 nnieuws.be##[class*="blockpartners"]
