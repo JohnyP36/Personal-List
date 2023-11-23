@@ -1,8 +1,8 @@
 [uBlock Origin]
 ! Title: Dutch Filter List
-! Last modified: Thu, 23 Nov 2023 10:48:19 +0000
+! Last modified: Thu, 23 Nov 2023 17:08:21 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2023.11.23.648.patch#dutchfilterlist
+! Diff-Path: patches/2023.11.23.1028.patch#dutchfilterlist
 ! Diff-Expires: 18 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -822,6 +822,7 @@ nd.nl##.page-header__inner__ad
 nederland.fm##[class*=adv]
 neuk-sexcontact.be###aside > .moduletable:has(.bannergroup)
 niburu.co##.sponsers
+nl.radio.net###headerTopBar ~ div:has(div#RAD_D_station_top)
 nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
 nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 nnieuws.be##[class*="blockpartners"]
