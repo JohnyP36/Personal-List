@@ -65,22 +65,19 @@ $removeparam=source,domain=googleusercontent.com
 ||play.google.com/log?$redirect=noop.txt,subdocument,stylesheet,script,xmlhttprequest,other,important
 ||play.google.com/log?format=json$domain=news.google.com,important
 ||youtube.com/api/stats/watchtime?$domain=youtube.com,important
-www.google.*#@#:not(:matches-path(/^/search\?.*tbm=shop|^/shopping/)) *:not([class^="sh-sr__shop-result-group"]) [href^="/aclk"][href$="adurl="]:upward(3)
-www.google.*#@#.commercial-unit-desktop-rhs:not(.mnr-c)
-www.google.*#@##atvcap > .cu-container > div > div[data-pla="1"]
-www.google.*#@#div[jsaction^="mouseover:"]:has(a[href^="/aclk?sa="][href$="&adurl="])
+www.google.*#@#.cu-container
+www.google.*#@#div[aria-label="Why this ad?"]:upward([data-pla="1"])
 www.google.*#@#div[jsdata*="CarouselPLA-"][data-id^="CarouselPLA-"]
 www.google.*##div[jsdata*="CarouselPLA-"][data-id^="CarouselPLA-"]:not(:has(.Rn1jbe))
 www.google.*#@#div[data-crl="true"][data-id^="CarouselPLA-"]
 www.google.*##div[data-crl="true"][data-id^="CarouselPLA-"]:not(:has(.Rn1jbe))
- google.*#@#.commercial-unit-desktop-rhs > div[jscontroller="YD5eo"]
- google.*#@#.cu-container
- google.*#@#div[jscontroller="U835zd"] + c-wiz[jsrenderer="YnuqN"]
- google.*#@##center_col > #taw > #tvcap > .cu-container > .commercial-unit-desktop-top
+www.google.*#@#div.sh-sr__shop-result-group[data-hveid]:has(g-scrolling-carousel)
+ www.google.*#@#.commercial-unit-desktop-rhs:not(.mnr-c)
 google.*##.USRMqe
 www.google.*##div.section-cardbox:has-text(/Covid-19 info/i):matches-path(/maps/)
 mail.google.com##div[data-tooltip="Ruimtes"]:style(height: 10px !important;)
 youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope:has([class*="promo-renderer"])
+www.youtube.com##tp-yt-app-drawer#guide .ytd-guide-section-renderer > #header:has(a[href="/feed/you"])
 www.youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
 www.youtube.com##ytd-rich-grid-renderer:style(--ytd-rich-grid-items-per-row: 4 !important;)
 www.youtube.com##ytd-rich-grid-renderer:matches-path(/@):style(--ytd-rich-grid-items-per-row: 5 !important;)
@@ -99,14 +96,6 @@ www.youtube.com#@#.ytd-merch-shelf-renderer
 !:style(overscroll-behavior: none; !important)
 ! Gmail tracking
 /cleardot.gif$image,xhr,redirect=1x1.gif
-
-! Privacy Banners on Google and subdomains (and login banners)
-www.google.*##+js(acis, document.cookie, YES+)
-google.*##+js(aeld, DOMContentLoaded, CONSENT)
-google.*##div[class^="gb_"][data-cbh^="consent.google."]
-youtube.com##.opened:not(.ytcp-bulk-actions)
-youtube.com###lightbox > #dialog.ytd-consent-bump-v2-lightbox.style-scope
-www.youtube.com#?#yt-tooltip-renderer[class$="ytd-popup-container"][position-type]:has(#text:has-text(YouTube)):has(#dismiss-button)
 
 !re-enable scrollbar => ##html:style(overflow: auto !important)  +  ##body:style(overflow: auto !important)
 nsinternational.*##body:style(overflow: auto !important)
@@ -129,22 +118,30 @@ www.google.*,rd.nl##html:style(overflow: visible !important)
 ||nrc.nl/paywall-api/$xhr,1p
 
 ! Sanitize url's
-facebook.com##+js(href-sanitizer, a[href^="https://l.facebook.com/l.php?u="], ?u)
-instagram.com##+js(href-sanitizer, a[href^="https://l.instagram.com/?u="], ?u)
+mail.google.com##+js(remove-attr, data-saferedirecturl, a[href][data-saferedirecturl], stay)
 www.google.com##+js(remove-attr, jsaction|jsname|data-ved|data-adurl, a[class][rel][href][jsname], stay)
 www.google.com##+js(remove-attr, jsaction, img[class][jsaction], stay)
-mail.google.com##+js(remove-attr, data-saferedirecturl, a[href][data-saferedirecturl], stay)
 youtube.com##+js(href-sanitizer, a[href^="https://www.youtube.com/redirect?"])
+facebook.com##+js(href-sanitizer, a[href^="https://l.facebook.com/l.php?u="], ?u)
+instagram.com##+js(href-sanitizer, a[href^="https://l.instagram.com/?u="], ?u)
 github.com##+js(href-sanitizer, a[href^="https://adguardteam.github.io/AnonymousRedirect/redirect.html?url="], ?url)
+microsoft.com##+js(href-sanitizer, a[href*=".safelinks.protection.outlook.com/?url="], ?url)
+mozilla.org##+js(href-sanitizer, a[href*="outgoing.prod."][title], [title])
 chamilo.etf.edu##div.btn-default > a[href]:matches-path(/courses/):remove-attr(target)
 
 ! Click on cookie concents
+consent.google.com##+js(ceo, form[action="https://consent.google.com/save"] button[aria-label="Reject all"], , 2000)
+consent.youtube.com##+js(ceo, form[action="https://consent.youtube.com/save"] button[aria-label="Reject all"], , 2000)
+www.google.com##+js(trusted-set-cookie, SOCS, CAESHAgBEhJnd3NfMjAyMzEwMTktMF9SQzMaAmVuIAEaBgiAktypBg, , , reload, 1)
+www.youtube.com##+js(ceo, ytd-consent-bump-v2-lightbox > #dialog > #content .eom-buttons > .eom-button-row:nth-of-type(1) > ytd-button-renderer:nth-of-type(1) button, , 20000)
 cmp.dpgmedia.*,cmp.ad.nl,cmp.nu.nl##+js(ceo, .message-component > button.pg-accept-button, , 20000)
 instagram.com##+js(ceo, div[class][style] div[role="dialog"] > div[style] > button:nth-of-type(2), , 20000)
 mediamarkt.nl##+js(ceo, #mms-consent-portal-container button[data-test$="save-settings"], , 20000)
+nl.hardware.info##+js(trusted-set-local-storage-item, consentData, {"relevantAds":{"version":1\,"approved":false}\,"youtube":{"version":1\,"approved":true}})
 rijnmond.nl##+js(ceo, #consent-plugin button[class*="accept"][aria-label*="Sociale Media"], , 20000)
 rijnmond.nl##+js(ceo, #consent-plugin button[class*="reject"][aria-label*="overige cookies"], , 20000)
 rijnmond.nl##+js(ceo, #consent-plugin button[class="full"][aria-label="Voorkeuren opslaan"], , 20000)
+telegraaf.nl##+js(ceo, #didomi-host #didomi-popup button#didomi-notice-agree-button, , 20000)
 ! Hide cookie banners
 blckbx.tv##.absolute.container:has-text(/Ik ga akkoord/i)
 bol.com###modalWindow
@@ -158,6 +155,12 @@ mediamarkt.nl##div[aria-label^="Wij gebruiken cookies op onze website voor optim
 nsinternational.*##.cookie-notice 
 nsinternational.*##.t-cookie-overlay-visible.t-cookie-overlay.cookie-overlay, .t-cookie-overlay.cookie-overlay.cookie-popup
 stackoverflow.com##.js-consent-banner
+!www.google.*##+js(acis, document.cookie, YES+)
+!www.google.*##+js(aeld, DOMContentLoaded, CONSENT)
+!www.google.*##div[class^="gb_"][data-cbh^="consent.google."]
+www.youtube.com##.opened:not(.ytcp-bulk-actions)
+!www.youtube.com###lightbox > #dialog.ytd-consent-bump-v2-lightbox.style-scope
+!www.youtube.com#?#yt-tooltip-renderer[class$="ytd-popup-container"][position-type]:has(#text:has-text(YouTube)):has(#dismiss-button)
 y8.com###policy-validation
 
 ! (Hide) other Annoyances
@@ -168,8 +171,7 @@ gab.com#?#:matches-path(/\/home|\/groups/) span[class]:has-text(/^Upgrade/i):upw
 !gab.com##a[href*="grow.gab.com/go"]:has(aside img[src*="grow.gab.com/galahad"])
 gab.com##aside a[href*="shop.dissenter.com/product/"]:has(img):upward(1)
 gab.com##h2[class]:has-text(Gab Voice):upward(aside)
-github.com###dashboard div[aria-labelledby="feed-original"] [class="body"]:has-text(github-actions):has-text(/JohnyP36\/Personal-List|EasyDutch-uBO\/EasyDutch/)
-github.com###dashboard div[aria-labelledby="feed-original"] [class="body"]:has-text(pushed to):has-text(/black7375\/Firefox-UI-Fix|letsblockit\/letsblockit/):upward(.push)
+github.com##.js-feed-item-view [class="body"]:has-text(github-actions):has-text(/JohnyP36\/Personal-List|EasyDutch-uBO\/EasyDutch/)
 instagram.com##body:style(overflow: visible !important;)
 instagram.com#?#a:has([aria-label*="Information icon"]):upward(1)
 instagram.com##button:has(div[class]:has-text(/fact-checkers/i)):upward(1)
@@ -183,7 +185,6 @@ speedtest.net##.notification-container > div > .notification
 speedtest.net###_evidon-barrier-wrapper
 y8.com##.div-gpt-ad-above:style(position: absolute !important; left: -5000px !important;)
 ad.nl##.article__wrapper [class*="temptation"]
-trouw.nl,volkskrant.nl##article[id*="LOGIN_BIG_BOTTOM"] > div[class*="tm-body"]
 startpage.com#@#.ad.widget
 mijn.ing.nl##+js(ceo, header nav.lang-selector span[aria-label^="NL"])
 !mns.com##+js(rsre, div[class="shopping-carousel-wrapper"])
