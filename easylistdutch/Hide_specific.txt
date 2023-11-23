@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Tue, 21 Nov 2023 19:38:40 +0000
+! Last modified: Thu, 23 Nov 2023 10:48:19 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 ajaxfanatics.nl,cambuurfront.nl,fcgfans.nl,feanonline.nl,feyenoordpings.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.bn__wrapper
@@ -105,6 +105,8 @@ letsgodigital.org##.product__wrapper:has(.adsbygoogle)
 loonwijzer.be##.main__bottom:has(div[id*="gpt-ad-"])
 loonwijzer.be##[class^="article__ad"]
 looopings.nl##[class*="r89"][style="min-height:250px;"]
+mannenpage.nl###r89-flex
+mannenpage.nl##video[src*="mannenpage.nl/wp-content/uploads/2023/08/kitesurfer.mp4"]:upward(.flowplayer)
 marktplaats.nl,2dehands.be###adsense-container
 marktplaats.nl,2dehands.be##.banner-top-dt
 marktplaats.nl,2dehands.be##.BannerBottom-root

@@ -1,0 +1,10 @@
+diff name:dutchfilterlist lines:9 checksum:16b35910be
+d3 1
+a3 1
+! Last modified: Thu, 23 Nov 2023 10:48:19 +0000
+d5 1
+a5 1
+! Diff-Path: patches/2023.11.23.648.patch#dutchfilterlist
+a804 2
+mannenpage.nl###r89-flex
+mannenpage.nl##video[src*="mannenpage.nl/wp-content/uploads/2023/08/kitesurfer.mp4"]:upward(.flowplayer)
