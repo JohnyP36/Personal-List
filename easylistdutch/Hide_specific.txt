@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Fri, 24 Nov 2023 08:27:03 +0000
+! Last modified: Fri, 24 Nov 2023 16:42:11 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 ajaxfanatics.nl,cambuurfront.nl,fcgfans.nl,feanonline.nl,feyenoordpings.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.bn__wrapper
@@ -45,6 +45,8 @@ calorieenverbranden.nl##[id^="amzn-assoc-ad"]:upward([id^="block"])
 cyclingmedia.eu##div[class*="section-sidebar"] figure:has-text(/advert/i)
 cvandaag.nl##a[href*="/api/advertise-deliver/"]:not(:has-text(/gesponsord/i))
 daemesenheeren.nl##.widget_media_image
+dagelijksestandaard.nl##div[id*="_ROS_"]:upward(.raw-html-component)
+dagelijksestandaard.nl##div[id*="-ros-"]:upward(.raw-html-component)
 dehavengids.nl##.elementor-widget-container:has(.g)
 deondernemer.nl##.tile-advert:upward(.tile-wrapper)
 diecourant.co.za##section[id^=smartslider]
@@ -422,8 +424,6 @@ crypto-insiders.nl##div[class^="intercom-app"] > iframe[title*="banner"]
 cryptoclan.nl,cryptonieuws.nl##div[data-elementor-type="popup"]
 dagbladdewest.com##.elementor-widget-slides:has(.swiper-wrapper)
 dagelijksekost.een.be##.dish-sponsors
-dagelijksestandaard.nl###TOP_ARTICLE
-dagelijksestandaard.nl##nav + div[style^="height:52px"]
 dartfreakz.nl##.a-single:has(a[href*="casino"])
 dartfreakz.nl##.soliloquy-wrapper:not(:has(a[href*="dartfreakz.nl"]))
 dartfreakz.nl##.textwidget:has(a[href*="casino"]):not(:has(a[href*="darts-tv.com"]))

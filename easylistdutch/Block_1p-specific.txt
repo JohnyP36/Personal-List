@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Fri, 24 Nov 2023 08:27:03 +0000
+! Last modified: Fri, 24 Nov 2023 16:42:11 +0000
 ! 2023
 npo.nl,vpro.nl##+js(json-prune, assets.preroll assets.prerollDebug)
 /^https?:\/\/statics\.(?:7sur7|ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
@@ -158,8 +158,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||dagbladdewest.com/wp-content/uploads/*/*300x250px$image
 ||dagbladdewest.com/wp-content/uploads/*/*-AD*.jpg$image
 ||dagbladdewest.com/wp-content/uploads*/*728x90px*.jpg$image
-||dagelijksestandaard.nl/wp-content/uploads/*/DDS-banner.$image
-||dagelijksestandaard.nl/wp-content/uploads/*/PROMO-DDS.$image
 ||dekrantnieuws.nl/wp-content/uploads/*/deurbord-staand
 ||denachtvlinders.nl/wp-content/uploads/*/*/bol*.gif
 ||digitaalburg.com/rn02/wp-content/uploads/*/Roel.jpg

@@ -1,8 +1,8 @@
 [uBlock Origin]
 ! Title: Dutch Filter List
-! Last modified: Fri, 24 Nov 2023 08:27:03 +0000
+! Last modified: Fri, 24 Nov 2023 16:42:11 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2023.11.24.507.patch#dutchfilterlist
+! Diff-Path: patches/2023.11.24.1002.patch#dutchfilterlist
 ! Diff-Expires: 18 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -427,8 +427,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||dagbladdewest.com/wp-content/uploads/*/*300x250px$image
 ||dagbladdewest.com/wp-content/uploads/*/*-AD*.jpg$image
 ||dagbladdewest.com/wp-content/uploads*/*728x90px*.jpg$image
-||dagelijksestandaard.nl/wp-content/uploads/*/DDS-banner.$image
-||dagelijksestandaard.nl/wp-content/uploads/*/PROMO-DDS.$image
 ||dekrantnieuws.nl/wp-content/uploads/*/deurbord-staand
 ||denachtvlinders.nl/wp-content/uploads/*/*/bol*.gif
 ||digitaalburg.com/rn02/wp-content/uploads/*/Roel.jpg
@@ -612,8 +610,8 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 @@||img.sedoparking.com/templates/bg/arrows-curved.png$image,third-party,domain=meetplaza.be
 @@||massariuscdn.com/pubs/*/*_hb_setup.js$script,domain=dailybuzz.nl|radio.nl|welingelichtekringen.nl
 @@||weerstation-markelo.nl/weer/banners/weerbanner$domain=maarkelsnieuws.nl
-@@||widgets.spklw.com/v1/data/*$xhr,domain=dagelijksestandaard.nl|nieuws.nl
-@@||widgets.sprinklecontent.com/v2/*$script,xhr,domain=dagelijksestandaard.nl|nieuws.nl
+@@||widgets.spklw.com/v1/data/*$xhr,domain=nieuws.nl
+@@||widgets.sprinklecontent.com/v2/*$script,xhr,domain=nieuws.nl
 ! https://github.com/uBlockOrigin/uAssets/issues/7629
 @@||laredoute.com^$image,domain=laredoute.nl
 ! 2021-11-
@@ -744,6 +742,8 @@ calorieenverbranden.nl##[id^="amzn-assoc-ad"]:upward([id^="block"])
 cyclingmedia.eu##div[class*="section-sidebar"] figure:has-text(/advert/i)
 cvandaag.nl##a[href*="/api/advertise-deliver/"]:not(:has-text(/gesponsord/i))
 daemesenheeren.nl##.widget_media_image
+dagelijksestandaard.nl##div[id*="_ROS_"]:upward(.raw-html-component)
+dagelijksestandaard.nl##div[id*="-ros-"]:upward(.raw-html-component)
 dehavengids.nl##.elementor-widget-container:has(.g)
 deondernemer.nl##.tile-advert:upward(.tile-wrapper)
 diecourant.co.za##section[id^=smartslider]
@@ -1121,8 +1121,6 @@ crypto-insiders.nl##div[class^="intercom-app"] > iframe[title*="banner"]
 cryptoclan.nl,cryptonieuws.nl##div[data-elementor-type="popup"]
 dagbladdewest.com##.elementor-widget-slides:has(.swiper-wrapper)
 dagelijksekost.een.be##.dish-sponsors
-dagelijksestandaard.nl###TOP_ARTICLE
-dagelijksestandaard.nl##nav + div[style^="height:52px"]
 dartfreakz.nl##.a-single:has(a[href*="casino"])
 dartfreakz.nl##.soliloquy-wrapper:not(:has(a[href*="dartfreakz.nl"]))
 dartfreakz.nl##.textwidget:has(a[href*="casino"]):not(:has(a[href*="darts-tv.com"]))
@@ -1814,7 +1812,6 @@ nudeviste.be,nudevista.nl##.mob_adv
 ajaxreport.nl,ajaxrss.nl,blockchainvandaag.com,casinoreport.nl,cryptobelegging.com,feyenoordreport.nl,formula1report.com,gamblingreport.nl,livestreamvandaag.be,onlinecasinorss.nl,onlinekraslotenrss.nl,onlinepokerrss.nl,psvreport.nl,sportweddenrss.nl,vergelijkbookmakers.nl,voetbalsnafu.nl,voetbalvisie.com,voetbalweddenrss.nl#@#.top-ads-block
 bokt.nl#@#.ad-body
 bokt.nl#@#.node-ad
-dagelijksestandaard.nl#@#.wpInsertInPostAd
 directwonen.nl#@#.top-advert
 frontpage.fok.nl#@#.advertentie
 gratis.nl#@#a[href^="https://ndt5.net/"]

@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Sat, 11 Nov 2023 05:57:05 +0000
+! Last modified: Fri, 24 Nov 2023 16:42:11 +0000
 ! 2023
  ! sproeiendekutjes.nl
 @@/https\:\/\/pt\.[\w]{6}\.com\/tube-player\//$subdocument,domain=sproeiendekutjes.nl
@@ -31,8 +31,8 @@
 @@||img.sedoparking.com/templates/bg/arrows-curved.png$image,third-party,domain=meetplaza.be
 @@||massariuscdn.com/pubs/*/*_hb_setup.js$script,domain=dailybuzz.nl|radio.nl|welingelichtekringen.nl
 @@||weerstation-markelo.nl/weer/banners/weerbanner$domain=maarkelsnieuws.nl
-@@||widgets.spklw.com/v1/data/*$xhr,domain=dagelijksestandaard.nl|nieuws.nl
-@@||widgets.sprinklecontent.com/v2/*$script,xhr,domain=dagelijksestandaard.nl|nieuws.nl
+@@||widgets.spklw.com/v1/data/*$xhr,domain=nieuws.nl
+@@||widgets.sprinklecontent.com/v2/*$script,xhr,domain=nieuws.nl
 ! https://github.com/uBlockOrigin/uAssets/issues/7629
 @@||laredoute.com^$image,domain=laredoute.nl
 ! 2021-11-
