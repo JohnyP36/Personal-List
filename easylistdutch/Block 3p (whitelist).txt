@@ -31,8 +31,8 @@
 @@||img.sedoparking.com/templates/bg/arrows-curved.png$image,third-party,domain=meetplaza.be
 @@||massariuscdn.com/pubs/*/*_hb_setup.js$script,domain=dailybuzz.nl|radio.nl|welingelichtekringen.nl
 @@||weerstation-markelo.nl/weer/banners/weerbanner$domain=maarkelsnieuws.nl
-@@||widgets.spklw.com/v1/data/*$xhr,domain=dagelijksestandaard.nl|nieuws.nl
-@@||widgets.sprinklecontent.com/v2/*$script,xhr,domain=dagelijksestandaard.nl|nieuws.nl
+@@||widgets.spklw.com/v1/data/*$xhr,domain=nieuws.nl
+@@||widgets.sprinklecontent.com/v2/*$script,xhr,domain=nieuws.nl
 ! https://github.com/uBlockOrigin/uAssets/issues/7629
 @@||laredoute.com^$image,domain=laredoute.nl
 ! 2021-11-
