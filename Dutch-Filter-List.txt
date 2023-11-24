@@ -1,8 +1,8 @@
 [uBlock Origin]
 ! Title: Dutch Filter List
-! Last modified: Thu, 23 Nov 2023 17:08:21 +0000
+! Last modified: Fri, 24 Nov 2023 07:09:15 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2023.11.23.1028.patch#dutchfilterlist
+! Diff-Path: patches/2023.11.24.429.patch#dutchfilterlist
 ! Diff-Expires: 18 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -295,6 +295,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||ecobioliving.eu/*bol.com/nl/upload/partnerprogramma/$image
 ||escort46.nl/bg_images/*.gif
 ||feyenoord.nl/*/media/*partnerships/$image
+||grootnieuwsradio.nl/*/advertisements/
 ||motorboot.com/wp-content/uploads/*/ad-logo
 ||noordernieuws.nl/wp-content/uploads/*/casino$image
 ||nnieuws.be/sites/default/files/images/ads/
