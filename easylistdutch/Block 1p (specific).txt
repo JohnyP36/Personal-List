@@ -158,8 +158,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||dagbladdewest.com/wp-content/uploads/*/*300x250px$image
 ||dagbladdewest.com/wp-content/uploads/*/*-AD*.jpg$image
 ||dagbladdewest.com/wp-content/uploads*/*728x90px*.jpg$image
-||dagelijksestandaard.nl/wp-content/uploads/*/DDS-banner.$image
-||dagelijksestandaard.nl/wp-content/uploads/*/PROMO-DDS.$image
 ||dekrantnieuws.nl/wp-content/uploads/*/deurbord-staand
 ||denachtvlinders.nl/wp-content/uploads/*/*/bol*.gif
 ||digitaalburg.com/rn02/wp-content/uploads/*/Roel.jpg
