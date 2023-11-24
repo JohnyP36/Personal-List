@@ -162,6 +162,7 @@ www.youtube.com##.opened:not(.ytcp-bulk-actions)
 !www.youtube.com###lightbox > #dialog.ytd-consent-bump-v2-lightbox.style-scope
 !www.youtube.com#?#yt-tooltip-renderer[class$="ytd-popup-container"][position-type]:has(#text:has-text(YouTube)):has(#dismiss-button)
 y8.com###policy-validation
+||mmcdn.nl/tags/racingnews365.nl/artikel.js$script,domain=racingnews365.nl,important
 
 ! (Hide) other Annoyances
 freebitco.in##.daily_jackpot_main_container_div, #deposit_promo_message_regular
@@ -171,7 +172,7 @@ gab.com#?#:matches-path(/\/home|\/groups/) span[class]:has-text(/^Upgrade/i):upw
 !gab.com##a[href*="grow.gab.com/go"]:has(aside img[src*="grow.gab.com/galahad"])
 gab.com##aside a[href*="shop.dissenter.com/product/"]:has(img):upward(1)
 gab.com##h2[class]:has-text(Gab Voice):upward(aside)
-github.com##.js-feed-item-view [class="body"]:has-text(github-actions):has-text(/JohnyP36\/Personal-List|EasyDutch-uBO\/EasyDutch/)
+github.com##.body:has-text(github-actions):has-text(/JohnyP36\/Personal-List|EasyDutch-uBO\/EasyDutch/)
 instagram.com##body:style(overflow: visible !important;)
 instagram.com#?#a:has([aria-label*="Information icon"]):upward(1)
 instagram.com##button:has(div[class]:has-text(/fact-checkers/i)):upward(1)
