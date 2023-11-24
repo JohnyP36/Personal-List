@@ -1,9 +1,1 @@
-diff name:dutchfilterlist lines:8 checksum:f22e5a9d38
-d3 1
-a3 1
-! Last modified: Fri, 24 Nov 2023 07:09:15 +0000
-d5 1
-a5 1
-! Diff-Path: patches/2023.11.24.429.patch#dutchfilterlist
-a297 1
-||grootnieuwsradio.nl/*/advertisements/
+diff name:dutchfilterlist lines:0 /tmp/tmp.8ZFZLdejrv checksum:7b40a0e24d

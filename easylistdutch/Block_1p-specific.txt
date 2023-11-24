@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Fri, 24 Nov 2023 07:09:15 +0000
+! Last modified: Fri, 24 Nov 2023 08:27:03 +0000
 ! 2023
 npo.nl,vpro.nl##+js(json-prune, assets.preroll assets.prerollDebug)
 /^https?:\/\/statics\.(?:7sur7|ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
@@ -23,6 +23,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||boottesten.nl/wp-content/uploads/*/*Ad.gif
 ||cvandaag.nl/api/advertise-deliver/deliver?adtypes=banners$xhr
 ||diecourant.co.za/wp-content/uploads/*-20*-1024x*.jpg^$image
+||doorbraak.be/wp-json/api/*/ads$xhr
 ||ecobioliving.eu/*bol.com/nl/upload/partnerprogramma/$image
 ||escort46.nl/bg_images/*.gif
 ||feyenoord.nl/*/media/*partnerships/$image

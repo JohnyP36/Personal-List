@@ -1,8 +1,8 @@
 [uBlock Origin]
 ! Title: Dutch Filter List
-! Last modified: Fri, 24 Nov 2023 07:09:15 +0000
+! Last modified: Fri, 24 Nov 2023 08:27:03 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2023.11.24.429.patch#dutchfilterlist
+! Diff-Path: patches/2023.11.24.507.patch#dutchfilterlist
 ! Diff-Expires: 18 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -292,6 +292,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||boottesten.nl/wp-content/uploads/*/*Ad.gif
 ||cvandaag.nl/api/advertise-deliver/deliver?adtypes=banners$xhr
 ||diecourant.co.za/wp-content/uploads/*-20*-1024x*.jpg^$image
+||doorbraak.be/wp-json/api/*/ads$xhr
 ||ecobioliving.eu/*bol.com/nl/upload/partnerprogramma/$image
 ||escort46.nl/bg_images/*.gif
 ||feyenoord.nl/*/media/*partnerships/$image
@@ -747,7 +748,7 @@ dehavengids.nl##.elementor-widget-container:has(.g)
 deondernemer.nl##.tile-advert:upward(.tile-wrapper)
 diecourant.co.za##section[id^=smartslider]
 diecourant.co.za###secondary
-doorbraak.be##img[src$="animated.gif"]:upward(.border-dashed)
+doorbraak.be##a[href^="https://vnz.be"]:upward(.border-dashed)
 dutchitleaders.nl##a[target]:not(a[href*="dutchitleaders.nl"]):not(a[href*="linkedin.com"]):has(img[src*=".assets-servd.host/"])
 duurzaamnieuws.nl##.adv-link:not(a[href$="aanmelden-gratis-nieuwsbrief/"])
 duurzaamnieuws.nl##[class^="av_textblock"]:has-text(/advert/i)
@@ -1622,7 +1623,6 @@ direct-sexdate.be##div.card:has(img[src*="/banner"])
 dissident.one##.td-adspot-title
 dolcevia.com,h2owaternetwerk.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
 dominant.be,sextoons.be,tiener-sex.be###video-sidebar-wrap
-doorbraak.be###top-advertisement-area
 dorpsklanken.online##.ads-mobiel
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 duic.nl##.article-excerpt--ad
