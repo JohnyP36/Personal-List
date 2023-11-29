@@ -29,9 +29,9 @@ jobs:
           cp $TMPFILE/.github/*.md .github/
           cp $TMPFILE/.github/ISSUE_TEMPLATE/*.yml .github/ISSUE_TEMPLATE/
           # cp $TMPFILE/.github/workflows/*.yml .github/workflows/
-          cp $TMPFILE/tools/*.template tools/
-          cp $TMPFILE/tools/*.sh tools/
-          cp $TMPFILE/tools/*.mjs tools/
+          # cp $TMPFILE/tools/*.template tools/
+          # cp $TMPFILE/tools/*.sh tools/
+          # cp $TMPFILE/tools/*.mjs tools/
           cp $TMPFILE/.gitattribute* .gitattributes
           cp $TMPFILE/CODE_OF_CONDUCT.md CODE_OF_CONDUCT.md
           cp $TMPFILE/CONTRIBUTING.md CONTRIBUTING.md
