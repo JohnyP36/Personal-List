@@ -3,7 +3,7 @@
 ! Last updated: %timestamp%
 !
 ! 2023-10-17
-! bitcoinmagazine.nl, cryptobenelux.com
+! bitcoinmagazine.nl,cryptobenelux.com
 ||cryptosplash.care^$3p
 ||cryptobeneluxbanner.care^$3p
 ! 2023-10-13
@@ -81,7 +81,7 @@
 ||asp.unitedconsumers.com^$3p
 ||awin.com^$3p
 ||bva-auctions.com^$domain=telegraaf.nl
-||cashpartners.eu^$3p,domain=~extreemonlinecontact.nl|~extremesexmatch.nl|~instasex.nl
+||cashpartners.eu^$3p,domain=~extreemonlinecontact.nl|~instasex.nl
 ||cd.tnet.nl^$script,3p
 ||cleafs.nl^$3p
 ||conversive.nl^$3p

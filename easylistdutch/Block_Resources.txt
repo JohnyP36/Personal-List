@@ -2,9 +2,44 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-11-24
+||doorbraak.be/wp-json/api/*/ads$xhr
+||grootnieuwsradio.nl/advertisements$xhr
+||grootnieuwsradio.nl/cache/*/advertisements/$image
+! 2023-11-21
+||reformatorischeomroep.nl/*/*banner$image
+||reformatorischeomroep.nl/*Reformatorische-omroep.gif$image
+||reformatorischeomroep.nl/*/*-RO-*.gif$image
+! 2023-11-16
+! https://github.com/uBlockOrigin/uAssets/issues/20659
+! https://github.com/AdguardTeam/AdguardFilters/issues/166205
+! https://www.reddit.com/r/uBlockOrigin/comments/17tfadh/httpsnponlstartserieditwashetnieuws_doesnt_block/
+||akamaized.net^$media,domain=npo.nl|vpro.nl,redirect=noopmp3-0.1s
+npo.nl,vpro.nl##+js(json-prune, assets.preroll)
+! 2023-11-08
+||rubenweytjens.be/sites/default/*/ads_$image
+! 2023-11-07 https://github.com/EasyDutch-uBO/EasyDutch/issues/93
+/Images/*Ad$image,domain=sun.sr
+/Images/*Banner$image,domain=sun.sr
+! 2023-11-03
+/js-betting.$script,1p,domain=ajaxfanatics.nl|cambuurfront.nl|feanonline.nl|feyenoordpings.nl|fcgfans.nl|nacfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|vitesseinside.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
+/js/partner-bar.$script,1p,domain=ajaxfanatics.nl|cambuurfront.nl|feanonline.nl|feyenoordpings.nl|fcgfans.nl|psvfans.nl|twentefans.nl|utrechtfans.nl|voetbalverslaafd.nl|vrouwenvoetbalnieuws.nl
+/images/sponsors/*$image,domain=ticketing.knvb.nl
+/images/sponsorlogos/*$image,domain=knvb.nl|onsoranje.nl|totoknvbbeker.nl
+||vrouweneredivisie.nl/*/vrouweneredivisie/img/*-ghost.png$image
+! 2023-11-02
+||beterbijbel.nl/afbeeldingen/banner$image
+||beterrekenen.nl/afbeeldingen/banner$image
+||beterspellen.nl/afbeeldingen/banner$image
+||nubeterengels.nl/afbeeldingen/banner$image
+||nubeterduits.nl/afbeeldingen/banner$image
+||nubeterfrans.nl/afbeeldingen/banner$image
+||nubeterspaans.nl/afbeeldingen/banner$image
+||truck1.be/st2/banners/
+||truck1.nl/st2/banners/
+||truck1-nl.be/st2/banners/
 ! 2023-11-01
 ||feyenoord.nl/*/media/*partnerships/$image
-||feyenoordpings.nl/*/js-betting.$script,1p
 ||nnieuws.be/sites/default/files/images/ads/
 ||noordernieuws.nl/wp-content/uploads/*/casino$image
 ||racingnews365.nl/*/json/unibet/bet-offers.json$xhr,1p
@@ -39,8 +74,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||cryptobenelux.com/wp-content/uploads/*/728x90.gif
 ! 2023-08-01
 ||riskcompliance.nl/wp-content/uploads/*/*banner.gif
-||reformatorischeomroep.nl/*/*banner$image
-||reformatorischeomroep.nl/*Reformatorische-omroep.gif$image
 ||villamedia.nl/images/banners/
 ! 2023-07-04
 ||autonieuws.be/templates/yootheme/cache/*/1MG_Banni%C3%A8re_Autonieuws_V1-*$image
@@ -126,12 +159,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||sedproductions.nl/ads/$image,3p
 ||storage.googleapis.com/stateless-www-nuus-be/*/*.gif$image,domain=nuus.be
 ||storage.googleapis.com/stateless-www-nuus-be/*/*-banner*$image,domain=nuus.be
-||truck1.be/_BANNERS_/$image
-||truck1.nl/_BANNERS_$image
-||truck1-nl.be/_BANNERS_/$image
-||truck1.be/st2/banners/$subdocument
-||truck1.nl/st2/banners/$subdocument
-||truck1-nl.be/st2/banners/$subdocument
 /wp-content/uploads/*/banner.jpg$image,domain=radiozuidrand.be
 /wp-content/uploads/*/banner_reclame$image,domain=radiozuidrand.be
 /wp-content/uploads/*/banner-sponsors$image,domain=radiozuidrand.be
@@ -171,7 +198,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ! 2022-07-13
 ||cdn-webcam-harlingen.nl/adv/
 ! 2022-07-06
-||widgets.skyscanner.net^$domain=puuropreis.nl
 ||disqus.com/recommendations/$subdocument,domain=webmastersunited.com
 ! 2022-07-05
 ||itnijs.frl/wp-content/uploads/*/adfertinsje
@@ -211,7 +237,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||sponsorlink.nl/js/snippet.js$script,domain=handbalstartpunt.nl
 ||h2owaternetwerk.nl/images/banners/$image
 ||h2owaternetwerk.nl/images/*/*Banner$image
-||jobat.be/extra/trackuityhn/ticker_new.html$domain=gva.be
+||jobat.be/extra/trackuityhn/ticker_new.html$3p
 ||tickers.zimmo.be/gva/$domain=gva.be
 ||widget.vroom.be/$domain=gva.be
 /*/TOTO*banner$domain=fcgroningen.nl|willem-ii.nl
@@ -249,12 +275,9 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||imagekit.io/ijnl*/uploads/other/*?tr=w-20$image,domain=ijshockeynederland.nl
 ! 2022-05-04 on internetbode.nl
 ||pubble.nl/Content.svc/getAdCollection?
-! 2022-05-04
-||onsoranje.nl/sites/*/images/sponsorlogos/
 ! 2022-04-26
 ||nieuwsuitnijmegen.nl/uploads/banners/
 ||onderwegonline.nl/app/uploads/*/Banner$image
-||onsoranje.nl/sites/*/images/sponsorlogos/$image
 ! 2022-04-22
 ||anoniem-surfen.nl/wp-content/uploads/*/aff3-*.png$image
 ||anoniem-surfen.nl/wp-content/uploads/*/Flavour-balls.gif$image
@@ -389,7 +412,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||htforum.nl/yabbse/topframe_v3.php
 ||img.iex.nl/uploads/banners/$image
 ||itnijs.frl/wp-content/uploads/*/bannerItNijs
-||jobat.be/extra/trackuityhn/ticker_new.html$3p
 ||kavelplatform.nl/assets/uploads/banners/
 ||kicxstart.nl/wp-content/uploads/*/*1300x150$image
 ||kranenwebsite.nl/banners/$image
@@ -440,7 +462,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||resellers.viboshop.nl/promoimages/
 ||risallah.com/multimedia/images/banners/$image
 ||rtveen.nl/wp-content/plugins/advanced-advertising-system/js/*$script,1p
-||schie.nu/images/banner/$image
 ||search-result.com^*/klokad2.js
 ||sedproductions.nl/banners/$image,3p
 ||simone.nl/wp-content/uploads/*-onderdelenexpert.nl-

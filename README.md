@@ -29,12 +29,7 @@ So I made this to provide you a better service!! <br>
 This list also handles anti-adblock, which isn't done by EasyList Dutch. See these comments for more information: <br>
 [easylist/easylistdutch#11 (comment)](https://github.com/easylist/easylistdutch/issues/11#issuecomment-818864565) and [easylist/easylistdutch#30 (comment)](https://github.com/easylist/easylistdutch/issues/30#issuecomment-1011180477).
 
-If you see ads on dutch websites please [report](https://github.com/EasyDutch-uBO/EasyDutch/issues/new/choose) it to me or sent me an email to easydutch.adblock@gmail.com <br>
-
-uBlock Origin uses four links to update our list in their add-on/extension.  <br>
-The [`contentURL`](https://github.com/gorhill/uBlock/blob/17d30343c5a63bd6d1a57f2859aa138948fac881/assets/assets.json#L753) is instantly updated after a commit, our own [`EasyDutchCDN`](https://github.com/gorhill/uBlock/blob/17d30343c5a63bd6d1a57f2859aa138948fac881/assets/assets.json#L757) is updated every two hours, the other two [`cdnURLs`](https://github.com/gorhill/uBlock/blob/17d30343c5a63bd6d1a57f2859aa138948fac881/assets/assets.json#L595-L596) are updated less.  <br>
-If there is a fix you need immediately, I can update the [`jsDelivr cdnURL`](https://github.com/gorhill/uBlock/blob/17d30343c5a63bd6d1a57f2859aa138948fac881/assets/assets.json#L756) by going to https://www.jsdelivr.com/tools/purge, and our [`EasyDutchCDN`](https://github.com/gorhill/uBlock/blob/17d30343c5a63bd6d1a57f2859aa138948fac881/assets/assets.json#L757).
-
+If you see ads on Dutch websites please [report](https://github.com/EasyDutch-uBO/EasyDutch/issues/new/choose) it to me or sent me an email to easydutch.adblock@gmail.com <br>
 
 ## [Contributing](https://github.com/EasyDutch-uBO/EasyDutch/blob/main/CONTRIBUTING.md)
 <details>
@@ -90,6 +85,18 @@ If there is a fix you need immediately, I can update the [`jsDelivr cdnURL`](htt
 
 ***
 ## View and Subscribe to EasyDutch
+
+### Notes on `contentURL` and `cdnURLS`
+Our [`contentURL`](https://github.com/gorhill/uBlock/blob/eb52d46afa7fc2c55e3c3555e7c7bee8f136473c/assets/assets.json#L756) is instantly updated after a commit, our own [`EasyDutchCDN`](https://github.com/gorhill/uBlock/blob/eb52d46afa7fc2c55e3c3555e7c7bee8f136473c/assets/assets.json#L758) is updated every two hours, the other two [`cdnURLs`](https://github.com/gorhill/uBlock/blob/eb52d46afa7fc2c55e3c3555e7c7bee8f136473c/assets/assets.json#L759-L760) are updated less.  <br>
+Good to know, uBO uses one of those four links. If there is a fix you need immediately, I can update mannualy two of the three CDN's: the first [`cdnURL, which is our own EasyDutchCDN`](https://github.com/gorhill/uBlock/blob/eb52d46afa7fc2c55e3c3555e7c7bee8f136473c/assets/assets.json#L758) and the second [`jsDelivr cdnURL`](https://github.com/gorhill/uBlock/blob/eb52d46afa7fc2c55e3c3555e7c7bee8f136473c/assets/assets.json#L759) by going to https://www.jsdelivr.com/tools/purge. <br>
+Also all `cdnURLS` are minified version.
+
+### Data usage
+[![](https://data.jsdelivr.com/v1/package/gh/EasyDutch-uBO/EasyDutch/badge)](https://www.jsdelivr.com/package/gh/EasyDutch-uBO/EasyDutch?tab=stats) [![](https://data.jsdelivr.com/v1/package/gh/EasyDutch-uBO/EasyDutchCDN/badge?style=rounded)](https://www.jsdelivr.com/package/gh/EasyDutch-uBO/EasyDutchCDN?tab=stats) <br>
+The first are the jsDelivr stats from `EasyDutch.txt`: [EasyDutch](https://www.jsdelivr.com/package/gh/EasyDutch-uBO/EasyDutch?tab=stats) <br>
+The second are the jsDelivr stats from `EasyDutch.all.txt`: [EasyDutchCDN](https://www.jsdelivr.com/package/gh/EasyDutch-uBO/EasyDutchCDN?tab=stats) <br>
+So the normal list in website as default and the `.all.txt` lists as primairy CDN's, where it is preferred to use `pages.dev` and `github.io` over `cdn.jsdelivr.net`, `cdn.statically.io` and `raw.githubusercontent.com`.
+
 ### Favorite order of subscription:
 1. <a target="_blank" rel="noreferrer nofollow" href="https://easydutch-ubo.github.io/EasyDutch/EasyDutch.txt"><code>EasyDutch P1</code></a> | <a target="_blank" rel="noreferrer nofollow" href="https://subscribe.adblockplus.org/?location=https://easydutch-ubo.github.io/EasyDutch/EasyDutch.txt&amp;title=EasyDutch">Subscribe</a></br>
 2. <a target="_blank" rel="noreferrer nofollow" href="https://easydutchcdn.pages.dev/EasyDutch.all.txt"><code>All-in-One EasyDutchCDN P2</code></a> | <a target="_blank" rel="noreferrer nofollow" href="https://subscribe.adblockplus.org/?location=https://easydutchcdn.pages.dev/EasyDutch.all.txt&amp;title=EasyDutch">Subscribe</a></br>
