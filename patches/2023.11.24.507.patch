@@ -1,17 +1,1 @@
-diff name:dutchfilterlist lines:16 checksum:450e01bf0f
-d3 1
-a3 1
-! Last modified: Fri, 24 Nov 2023 16:42:11 +0000
-d5 1
-a5 1
-! Diff-Path: patches/2023.11.24.1002.patch#dutchfilterlist
-d430 2
-d615 2
-a616 2
-@@||widgets.spklw.com/v1/data/*$xhr,domain=nieuws.nl
-@@||widgets.sprinklecontent.com/v2/*$script,xhr,domain=nieuws.nl
-a746 2
-dagelijksestandaard.nl##div[id*="_ROS_"]:upward(.raw-html-component)
-dagelijksestandaard.nl##div[id*="-ros-"]:upward(.raw-html-component)
-d1124 2
-d1817 1
+diff name:dutchfilterlist lines:0 /tmp/tmp.URnXJGPPxm checksum:c0fcb39bf3
