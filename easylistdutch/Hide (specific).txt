@@ -90,6 +90,7 @@ gpblog.com##aside[class^="Ad_"]:style(position: absolute !important; left: -3000
 gpfans.com##.leaderboardbg
 gpfans.com##.taboonews
 gpfans.com,playboy.nl##a[href^="https://casinoscout.nl/"]
+grazia.nl###WB_VIDEO_PLAYER_TARGET
 hockey.nl##[class^="advertisement"]:upward(li.card)
 hollandskroonnieuws.nl,wieringernieuws.nl###navleft > center:has-text(/advert/i)
 hollandskroonnieuws.nl,wieringernieuws.nl##div#block-blue:has-text(/advert/i)
