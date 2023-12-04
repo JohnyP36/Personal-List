@@ -1,9 +1,1 @@
-diff name:dutchfilterlist lines:8 checksum:c0fcb39bf3
-d3 1
-a3 1
-! Last modified: Fri, 01 Dec 2023 09:47:44 +0000
-d5 1
-a5 1
-! Diff-Path: patches/2023.12.1.587.patch#dutchfilterlist
-a789 1
-grazia.nl###WB_VIDEO_PLAYER_TARGET
+diff name:dutchfilterlist lines:0 /tmp/tmp.sLU3AH2vIS checksum:5ff7d1d6d3

@@ -1,8 +1,8 @@
 [uBlock Origin]
 ! Title: Dutch Filter List
-! Last modified: Fri, 01 Dec 2023 09:47:44 +0000
+! Last modified: Mon, 04 Dec 2023 12:30:18 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2023.12.1.587.patch#dutchfilterlist
+! Diff-Path: patches/2023.12.4.750.patch#dutchfilterlist
 ! Diff-Expires: 18 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -736,6 +736,8 @@ bright.nl##[class^="Ad_ad"]
 bruzz.be,omroepflevoland.nl,pu.nl,soccernews.nl,sportuitslagen.org,trendalert.nl##.ad-container
 buttkicken.nl##a[href] > img[src*="wp.com"]:upward(.wp-block-image):not(:has(a[href*="backme.org"]))
 buttkicken.nl##p.has-small-font-size:has-text(Advertentie)
+citaten.net,openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
+citaten.net##.adsense-main
 cryptobenelux.com##.elementor-widget-image:has(a[href*="banner"])
 cryptobenelux.com##iframe[src*="Bitcoin_Kopen"]:upward(.elementor-widget[data-element_type="widget"])
 calorieenverbranden.nl##[id^="amzn-assoc-ad"]:upward([id^="block"])
@@ -846,7 +848,6 @@ oops.nl###dropinboxv2cover
 oops.nl##[src="http://www.oops.nl/banner/bannerindex.html"]
 oops.nl##table[cellspacing="30"]
 oozo.nl##.hdrcontainer > .adsbybinq
-openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
 openingstijden.com###adsense_CSA
 openingsurengids.be##.promSB
 opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
