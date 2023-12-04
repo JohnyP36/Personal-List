@@ -39,6 +39,7 @@ bright.nl##[class^="Ad_ad"]
 bruzz.be,omroepflevoland.nl,pu.nl,soccernews.nl,sportuitslagen.org,trendalert.nl##.ad-container
 buttkicken.nl##a[href] > img[src*="wp.com"]:upward(.wp-block-image):not(:has(a[href*="backme.org"]))
 buttkicken.nl##p.has-small-font-size:has-text(Advertentie)
+citaten.net##.adsense-main
 cryptobenelux.com##.elementor-widget-image:has(a[href*="banner"])
 cryptobenelux.com##iframe[src*="Bitcoin_Kopen"]:upward(.elementor-widget[data-element_type="widget"])
 calorieenverbranden.nl##[id^="amzn-assoc-ad"]:upward([id^="block"])
