@@ -82,15 +82,16 @@ www.youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:co
 www.youtube.com##ytd-rich-grid-renderer:style(--ytd-rich-grid-items-per-row: 4 !important;)
 www.youtube.com##ytd-rich-grid-renderer:matches-path(/@):style(--ytd-rich-grid-items-per-row: 5 !important;)
 www.youtube.com###thumbnail[class*="thumbnail"]:upward([class$="renderer"]):matches-path(/results?search_query):style(max-width: 250px !important;)
+www.youtube.com##ytd-reel-shelf-renderer:matches-path(/watch?v=)
 www.youtube.com##ytd-watch-metadata #actions button [class*="button-text-content"]:not(:has-text(/\d/)):remove()
-www.youtube.com##ytd-watch-metadata ytd-menu-renderer div[class$="icon"]:not(:upward(ytd-segmented-like-dislike-button-renderer)):not(:upward(ytd-video-description-infocards-section-renderer)):style(margin-right: -6px !important; margin-left: -6px !important;)
+www.youtube.com##ytd-watch-metadata ytd-menu-renderer div[class$="icon"]:not(:upward(segmented-like-dislike-button-view-model)):not(:upward(ytd-segmented-like-dislike-button-renderer)):not(:upward(ytd-video-description-infocards-section-renderer)):style(margin-right: -6px !important; margin-left: -6px !important;)
 www.youtube.com###comment-teaser
 www.youtube.com###above-the-fold #middle-row ytd-info-panel-content-renderer
  www.youtube.com###clarify-box
 www.youtube.com##ytd-shorts .disclaimer-container:upward(#info-panel)
-www.youtube.com###structured-description ytd-video-description-infocards-section-renderer
+www.youtube.com##ytd-structured-description-content-renderer #items > .ytd-horizontal-card-list-renderer a > div:has(img)
 www.youtube.com##ytd-video-description-transcript-section-renderer
-www.youtube.com##ytd-reel-shelf-renderer:matches-path(/watch?v=)
+!www.youtube.com###structured-description ytd-video-description-infocards-section-renderer
 www.youtube.com#@##merch-shelf
 www.youtube.com#@#.ytd-merch-shelf-renderer
 !:style(overscroll-behavior: none; !important)
@@ -130,19 +131,25 @@ mozilla.org##+js(href-sanitizer, a[href*="outgoing.prod."][title], [title])
 chamilo.etf.edu##div.btn-default > a[href]:matches-path(/courses/):remove-attr(target)
 
 ! Click on cookie concents
-consent.google.com##+js(ceo, form[action="https://consent.google.com/save"] button[aria-label="Reject all"], , 2000)
-consent.youtube.com##+js(ceo, form[action="https://consent.youtube.com/save"] button[aria-label="Reject all"], , 2000)
+consent.google.com##+js(ceo, form[action="https://consent.google.com/save"] button[aria-label="Reject all"], , 20000)
+consent.youtube.com##+js(ceo, form[action="https://consent.youtube.com/save"] button[aria-label="Reject all"], , 20000)
 www.google.com##+js(trusted-set-cookie, SOCS, CAESHAgBEhJnd3NfMjAyMzEwMTktMF9SQzMaAmVuIAEaBgiAktypBg, , , reload, 1)
 www.youtube.com##+js(ceo, ytd-consent-bump-v2-lightbox > #dialog > #content .eom-buttons > .eom-button-row:nth-of-type(1) > ytd-button-renderer:nth-of-type(1) button, , 20000)
-cmp.dpgmedia.*,cmp.ad.nl,cmp.nu.nl##+js(ceo, .message-component > button.pg-accept-button, , 20000)
+buienradar.nl##+js(ceo, button#onetrust-accept-btn-handler, , 20000)
+buienradar.nl##+js(ceo, .onboard-popup-container .onboard-button.button-no, , 20000)
+cmp.dpgmedia.*,cmp.ad.nl,cmp.gelderlander.nl,cmp.nu.nl##+js(ceo, .message-component > button.pg-accept-button, , 20000)
 instagram.com##+js(ceo, div[class][style] div[role="dialog"] > div[style] > button:nth-of-type(2), , 20000)
 mediamarkt.nl##+js(ceo, #mms-consent-portal-container button[data-test$="save-settings"], , 20000)
 nl.hardware.info##+js(trusted-set-local-storage-item, consentData, {"relevantAds":{"version":1\,"approved":false}\,"youtube":{"version":1\,"approved":true}})
-rijnmond.nl##+js(ceo, #consent-plugin button[class*="accept"][aria-label*="Sociale Media"], , 20000)
-rijnmond.nl##+js(ceo, #consent-plugin button[class*="reject"][aria-label*="overige cookies"], , 20000)
-rijnmond.nl##+js(ceo, #consent-plugin button[class="full"][aria-label="Voorkeuren opslaan"], , 20000)
+rijnmond.nl##+js(trusted-set-cookie, consent-cookie-toggles, [{%22type%22:%22social%22%2C%22value%22:3}%2C{%22type%22:%22remaining%22%2C%22value%22:2}])
 telegraaf.nl##+js(ceo, #didomi-host #didomi-popup button#didomi-notice-agree-button, , 20000)
 ! Hide cookie banners
+!www.google.*##+js(acis, document.cookie, YES+)
+!www.google.*##+js(aeld, DOMContentLoaded, CONSENT)
+!www.google.*##div[class^="gb_"][data-cbh^="consent.google."]
+www.youtube.com##.opened:not(.ytcp-bulk-actions)
+!www.youtube.com###lightbox > #dialog.ytd-consent-bump-v2-lightbox.style-scope
+!www.youtube.com#?#yt-tooltip-renderer[class$="ytd-popup-container"][position-type]:has(#text:has-text(YouTube)):has(#dismiss-button)
 blckbx.tv##.absolute.container:has-text(/Ik ga akkoord/i)
 bol.com###modalWindow
 bol.com##.main:style(position: absolute !important; filter: none !important;)
@@ -152,15 +159,10 @@ christenenvoorisrael.nl##.diffuse_cookie-bar__container
 deepl.com###cookieBanner, div[data-testid="dl-cookieBanner"]
  !instagram.com##div[class][role="dialog"]:has([role="dialog"]:has(button):has-text(cookies)):not(:has(a[href="/accounts/cookie_settings/"])):upward(4)
 mediamarkt.nl##div[aria-label^="Wij gebruiken cookies op onze website voor optimale prestaties"]:upward(1)
+nos.nl###ccm_notification_host
 nsinternational.*##.cookie-notice 
 nsinternational.*##.t-cookie-overlay-visible.t-cookie-overlay.cookie-overlay, .t-cookie-overlay.cookie-overlay.cookie-popup
 stackoverflow.com##.js-consent-banner
-!www.google.*##+js(acis, document.cookie, YES+)
-!www.google.*##+js(aeld, DOMContentLoaded, CONSENT)
-!www.google.*##div[class^="gb_"][data-cbh^="consent.google."]
-www.youtube.com##.opened:not(.ytcp-bulk-actions)
-!www.youtube.com###lightbox > #dialog.ytd-consent-bump-v2-lightbox.style-scope
-!www.youtube.com#?#yt-tooltip-renderer[class$="ytd-popup-container"][position-type]:has(#text:has-text(YouTube)):has(#dismiss-button)
 y8.com###policy-validation
 ||mmcdn.nl/tags/racingnews365.nl/artikel.js$script,domain=racingnews365.nl,important
 
@@ -173,6 +175,7 @@ gab.com#?#:matches-path(/\/home|\/groups/) span[class]:has-text(/^Upgrade/i):upw
 gab.com##aside a[href*="shop.dissenter.com/product/"]:has(img):upward(1)
 gab.com##h2[class]:has-text(Gab Voice):upward(aside)
 github.com##.body:has-text(github-actions):has-text(/JohnyP36\/Personal-List|EasyDutch-uBO\/EasyDutch/)
+github.com##[data-a11y-link-underlines="true"] .Link--inTextBlock:style(text-decoration: none !important)
 instagram.com##body:style(overflow: visible !important;)
 instagram.com#?#a:has([aria-label*="Information icon"]):upward(1)
 instagram.com##button:has(div[class]:has-text(/fact-checkers/i)):upward(1)
@@ -180,7 +183,6 @@ instagram.com##button:has(div[class]:has-text(/fact-checkers/i)):upward(1)
 marktplaats.nl##.ReactModalPortal:has-text(Inloggen)
 marktplaats.nl##div[class$="LoginNudge"]
 nd.nl##.newsletter-modal
-nos.nl###ccm_notification_host
 rd.nl##.tp-modal, .tp-active.tp-backdrop
 speedtest.net##.notification-container > div > .notification
 speedtest.net###_evidon-barrier-wrapper
