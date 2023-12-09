@@ -1,0 +1,11 @@
+diff name:dutchfilterlist lines:10 checksum:1e215396e5
+d3 1
+a3 1
+! Last modified: Sat, 09 Dec 2023 05:39:30 +0000
+d5 1
+a5 1
+! Diff-Path: patches/2023.12.9.339.patch#dutchfilterlist
+a753 2
+dumpert.nl##[id^="ad_"]:upward(2)
+dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
+d1629 1

@@ -1,11 +1,1 @@
-diff name:dutchfilterlist lines:10 checksum:5ff7d1d6d3
-d3 1
-a3 1
-! Last modified: Mon, 04 Dec 2023 12:30:18 +0000
-d5 1
-a5 1
-! Diff-Path: patches/2023.12.4.750.patch#dutchfilterlist
-a738 2
-citaten.net,openingstijden.com,promootjesite.nl,radiofm.nl##.adsense
-citaten.net##.adsense-main
-d849 1
+diff name:dutchfilterlist lines:0 /tmp/tmp.9GllKyM03O checksum:1e215396e5

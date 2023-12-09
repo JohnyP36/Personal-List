@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Mon, 04 Dec 2023 12:30:18 +0000
+! Last modified: Sat, 09 Dec 2023 05:39:30 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 ajaxfanatics.nl,cambuurfront.nl,fcgfans.nl,feanonline.nl,feyenoordpings.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.bn__wrapper
@@ -54,6 +54,8 @@ deondernemer.nl##.tile-advert:upward(.tile-wrapper)
 diecourant.co.za##section[id^=smartslider]
 diecourant.co.za###secondary
 doorbraak.be##a[href^="https://vnz.be"]:upward(.border-dashed)
+dumpert.nl##[id^="ad_"]:upward(2)
+dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 dutchitleaders.nl##a[target]:not(a[href*="dutchitleaders.nl"]):not(a[href*="linkedin.com"]):has(img[src*=".assets-servd.host/"])
 duurzaamnieuws.nl##.adv-link:not(a[href$="aanmelden-gratis-nieuwsbrief/"])
 duurzaamnieuws.nl##[class^="av_textblock"]:has-text(/advert/i)
@@ -929,7 +931,6 @@ dominant.be,sextoons.be,tiener-sex.be###video-sidebar-wrap
 dorpsklanken.online##.ads-mobiel
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 duic.nl##.article-excerpt--ad
-dumpert.nl##div[class*="ads_container"][class*="ad_container"]
 dutchitchannel.nl##.banner:has([href*="/bannerclick.html&banner"])
 dutchitchannel.nl##.bannner
 dutchporntube.nl###sidebar > section[id]:has-text(/Zoeken-Kennismaken en Afspreken/i)
