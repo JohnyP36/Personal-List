@@ -73,7 +73,7 @@ fcupdate.nl##[id*="web_billboard"]
 feyenoord.nl##.banner-carousel:has([src*="partnerships"])
 feyenoord.nl##.totoOdds
 focusclub.nl##.funbox
-fok.nl,looopings.nl,mannenzaken.nl,scientias.nl##div[class^="r89-desktop"]
+fok.nl,fr12.nl,looopings.nl,mannenzaken.nl,scientias.nl##div[class^="r89-desktop"]
 freeones.nl##.banner-placeholder
 fwd.nl##[class^="advertisement"]
 gamer.nl,id.nl,wasmachines.nl##.adunitContainer:upward(.items-center)
