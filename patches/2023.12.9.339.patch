@@ -1,0 +1,16 @@
+diff name:dutchfilterlist lines:15 checksum:077850545a
+d3 1
+a3 1
+! Last modified: Wed, 13 Dec 2023 06:23:39 +0000
+d5 1
+a5 1
+! Diff-Path: patches/2023.12.13.383.patch#dutchfilterlist
+a734 2
+bollenstreekomroep.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has-text(Reclame)
+bollenstreekomroep.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has-text(Reclame) + div:has(.owl-item)
+a765 1
+eemland1.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has(.owl-item)
+d773 1
+a773 1
+fok.nl,fr12.nl,looopings.nl,mannenzaken.nl,scientias.nl##div[class^="r89-desktop"]
+d1590 1
