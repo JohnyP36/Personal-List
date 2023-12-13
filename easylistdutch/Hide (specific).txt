@@ -35,6 +35,8 @@ bitcoinmagazine.nl##div[style="height:52px;"]
 bitcoinmagazine.nl,cryptobenelux.com##.clickout-banner-regular_native_box
 blikopzeewolde.nl##.fusion-flex-container.fullwidth-box.fusion-fullwidth:has(:not(a[href^="https://www.blikopzeewolde.nl/"]) > .fusion-column-inner-bg-image)
 bnr.nl##div[class*="BNRAd_ad_"]
+bollenstreekomroep.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has-text(Reclame)
+bollenstreekomroep.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has-text(Reclame) + div:has(.owl-item)
 bright.nl##[class^="Ad_ad"]
 bruzz.be,omroepflevoland.nl,pu.nl,soccernews.nl,sportuitslagen.org,trendalert.nl##.ad-container
 buttkicken.nl##a[href] > img[src*="wp.com"]:upward(.wp-block-image):not(:has(a[href*="backme.org"]))
@@ -66,6 +68,7 @@ ecobioliving.eu##.ezoic-adpicker-ad:upward(section[id^="custom_html"])
 ecommercenews.nl##.ldrtop
 ecommercenews.nl##.sidebar > .widget-image-content-button:not(:has(a[href*="ecommercenews.nl"]))
 ecommercenews.nl##.widget-partners
+eemland1.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has(.owl-item)
 eindexamens.nu,gezondheid.be###leaderboard
 eredivisie.nl,racingnews365.nl###betting-prefs
 fcupdate.nl##.betting_partner
@@ -890,7 +893,6 @@ bodylifebenelux.nl##.bnrrow
 bokt.nl###frontpage_mediumrect
 bol-an.nl##section[id*="media_image"]:has-text(/sponsors/i)
 bollywood.nl##a[href^="https://www.onderdelenshop24.com/"]
-bollenstreekomroep.nl,omroepspakenburg.nl##.wpb_wrapper[data-td-block-uid^="tdi_"]:has(.owl-item)
 brandweerspotters.nl###banners:has-text(Sponsors)
 buzzbie.nl##.TS_Banner_Spot
 cabla.nl##.ontwerp_ads
