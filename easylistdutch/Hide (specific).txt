@@ -81,6 +81,10 @@ freeones.nl##.banner-placeholder
 fwd.nl##[class^="advertisement"]
 gamer.nl,id.nl,wasmachines.nl##.adunitContainer:upward(.items-center)
 gebruikershandleiding.com##[class^="adserver-container"]
+geenstijl.nl##.article-premium-promotion-block
+geenstijl.nl##.slajeslag
+geenstijl.nl##a[data-ga-event^="link-tip"]
+geenstijl.nl##div[data-id*="leaderboard-billboard"]
 geil-neuken.nl,neukengratis.be,neuk-sexcontact.be,sexdate-xxx.be##.well:has(.bannergroup)
 gewoonvoorhem.nl##[id^="below-article-rectangle"]
 gewoonvoorhem.nl##[id$="ad-desktop"]
@@ -500,9 +504,6 @@ gaynews.nl##.telefoon_verberg
 gaynews.nl##[class^="va"]:has([class*="banner"])
 gaynews.nl##[id^="fp"]
 gaynews.nl##a[href^="/_global/leesmeer.php?"]
-geenstijl.nl##.article-premium-promotion-block
-geenstijl.nl##.slajeslag
-geenstijl.nl##a[data-ga-event^="link-tip"]
 geile-adressen.nl,sexpret.com,zinineensexdate.com##.nomobile:has(img[src^="/images/"])
 gic.nl,kbradio.nl,nieuws.nl##.banners
 gic.nl##.katernbanners
