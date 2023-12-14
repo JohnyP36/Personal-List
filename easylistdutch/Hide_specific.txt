@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Wed, 13 Dec 2023 06:23:39 +0000
+! Last modified: Thu, 14 Dec 2023 16:01:00 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 ajaxfanatics.nl,cambuurfront.nl,fcgfans.nl,feanonline.nl,feyenoordpings.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.bn__wrapper
@@ -81,6 +81,11 @@ freeones.nl##.banner-placeholder
 fwd.nl##[class^="advertisement"]
 gamer.nl,id.nl,wasmachines.nl##.adunitContainer:upward(.items-center)
 gebruikershandleiding.com##[class^="adserver-container"]
+geenstijl.nl##.article-premium-promotion-block
+geenstijl.nl##.sidebar-content > div:has-text(Kansino):has(+ .afctr-wrapper)
+geenstijl.nl##.slajeslag
+geenstijl.nl##a[data-ga-event^="link-tip"]
+geenstijl.nl##div[data-id*="leaderboard-billboard"]
 geil-neuken.nl,neukengratis.be,neuk-sexcontact.be,sexdate-xxx.be##.well:has(.bannergroup)
 gewoonvoorhem.nl##[id^="below-article-rectangle"]
 gewoonvoorhem.nl##[id$="ad-desktop"]
@@ -500,9 +505,6 @@ gaynews.nl##.telefoon_verberg
 gaynews.nl##[class^="va"]:has([class*="banner"])
 gaynews.nl##[id^="fp"]
 gaynews.nl##a[href^="/_global/leesmeer.php?"]
-geenstijl.nl##.article-premium-promotion-block
-geenstijl.nl##.slajeslag
-geenstijl.nl##a[data-ga-event^="link-tip"]
 geile-adressen.nl,sexpret.com,zinineensexdate.com##.nomobile:has(img[src^="/images/"])
 gic.nl,kbradio.nl,nieuws.nl##.banners
 gic.nl##.katernbanners

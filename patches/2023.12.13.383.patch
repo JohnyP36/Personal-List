@@ -1,0 +1,14 @@
+diff name:dutchfilterlist lines:13 checksum:e119505736
+d3 1
+a3 1
+! Last modified: Thu, 14 Dec 2023 16:01:00 +0000
+d5 1
+a5 1
+! Diff-Path: patches/2023.12.14.960.patch#dutchfilterlist
+a780 5
+geenstijl.nl##.article-premium-promotion-block
+geenstijl.nl##.sidebar-content > div:has-text(Kansino):has(+ .afctr-wrapper)
+geenstijl.nl##.slajeslag
+geenstijl.nl##a[data-ga-event^="link-tip"]
+geenstijl.nl##div[data-id*="leaderboard-billboard"]
+d1200 3
