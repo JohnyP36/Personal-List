@@ -1,0 +1,17 @@
+diff name:dutchfilterlist lines:16 checksum:24e7e6016c
+d2 1
+a2 1
+! Last modified: Sat, 16 Dec 2023 12:10:34 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2023.12.16.730.patch#dutchfilterlist
+d751 1
+a751 5
+demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
+demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
+deondernemer.nl,vtwonen.be,vtwonen.nl##div[class$="advertisement__container"]
+deondernemer.nl,vtwonen.be,vtwonen.nl##section [data-adslot]:upward(1)
+deondernemer.nl,vtwonen.be,vtwonen.nl##section > span:has-text(advertentie)
+a956 1
+story.nl,veronicasuperguide.nl##.apu5cz0
+d1484 1

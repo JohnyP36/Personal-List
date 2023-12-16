@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Thu, 14 Dec 2023 16:01:00 +0000
+! Last modified: Sat, 16 Dec 2023 12:10:34 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 ajaxfanatics.nl,cambuurfront.nl,fcgfans.nl,feanonline.nl,feyenoordpings.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.bn__wrapper
@@ -52,7 +52,11 @@ daemesenheeren.nl##.widget_media_image
 dagelijksestandaard.nl##div[id*="_ROS_"]:upward(.raw-html-component)
 dagelijksestandaard.nl##div[id*="-ros-"]:upward(.raw-html-component)
 dehavengids.nl##.elementor-widget-container:has(.g)
-deondernemer.nl##.tile-advert:upward(.tile-wrapper)
+demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
+demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
+deondernemer.nl,vtwonen.be,vtwonen.nl##div[class$="advertisement__container"]
+deondernemer.nl,vtwonen.be,vtwonen.nl##section [data-adslot]:upward(1)
+deondernemer.nl,vtwonen.be,vtwonen.nl##section > span:has-text(advertentie)
 diecourant.co.za##section[id^=smartslider]
 diecourant.co.za###secondary
 doorbraak.be##a[href^="https://vnz.be"]:upward(.border-dashed)
@@ -258,6 +262,7 @@ starnieuws.com###topstory > div:has-text(Advertentie)
 startlijstjes.nl##.advertentieblock
 startlijstjes.nl##.item:has([class^="item_special"]:has-text(tradetracker.net))
 startpagina.nl##.top-banner
+story.nl,veronicasuperguide.nl##.apu5cz0
 streamwijzer.be##.widget:has(a[href*=".bn5x.net/"])
 sun.sr##app-money-exchange
 sun.sr##app-slider-add
@@ -785,7 +790,6 @@ unitednews.sr###image-vertical-reel-scroll-slideshow
 unitednews.sr##.slider-container
 vakantieweb.be##.pub-imu
 vandaaginside.nl##div[class^="Component-bannerTopWrapper-"]
-veronicasuperguide.nl##div[id][class^="css"]
 vastgoedjournaal.nl##[href]:has([src*="media.prdn.nl"])
 vastgoedjournaal.nl##aside:has([class]:has-text(/advert/i)):has([href]:has([src*="media.prdn.nl"]))
 vi.nl##.betting-provider-row
