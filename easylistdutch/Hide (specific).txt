@@ -54,7 +54,9 @@ dagelijksestandaard.nl##div[id*="-ros-"]:upward(.raw-html-component)
 dehavengids.nl##.elementor-widget-container:has(.g)
 demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
 demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
-deondernemer.nl##.tile-advert:upward(.tile-wrapper)
+deondernemer.nl,vtwonen.be,vtwonen.nl##div[class$="advertisement__container"]
+deondernemer.nl,vtwonen.be,vtwonen.nl##section [data-adslot]:upward(1)
+deondernemer.nl,vtwonen.be,vtwonen.nl##section > span:has-text(advertentie)
 diecourant.co.za##section[id^=smartslider]
 diecourant.co.za###secondary
 doorbraak.be##a[href^="https://vnz.be"]:upward(.border-dashed)
