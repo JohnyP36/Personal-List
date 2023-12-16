@@ -685,7 +685,6 @@ nu.nl##aside#h1
 nummerzoeker.com##a[href^="/out/"]
 oisterwijknieuws.nl##.sidebar
 oisterwijknieuws.nl##div[align="center"] a[target="_blank"]
-okemedia.nl##.widget:has-text(Interessante links)
 omrekenen.org##.widget:has-text(/Gesponsoord/i)
 omrekenen.org##a[href^="https://www.onlinebingokaart.nl/"]
 omroepeemsdelta.nl###qtFooterWidgets:has(.gs_logo_single--wrapper)
