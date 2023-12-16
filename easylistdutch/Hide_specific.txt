@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Sat, 16 Dec 2023 12:10:34 +0000
+! Last modified: Sat, 16 Dec 2023 15:12:35 +0000
 ! 2023
 agraaf.nl##.partners-carousel
 ajaxfanatics.nl,cambuurfront.nl,fcgfans.nl,feanonline.nl,feyenoordpings.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.bn__wrapper
@@ -155,6 +155,7 @@ nuus.be##.adv-link:upward(.sidebar)
 nzbindex.nl##form + div a[href^="/"]:has(img)
 omroepalmere.nl##aside.widget_block[id^="block"]:not(:has([href*="omroepalmere.nl"])):not(:has-text(/Informatie/i))
 omroepbrabant.nl,reclamefolder.nl##div[class^="ad_"]
+omroepzeeland.nl##footer .footer-list:has-text(/Reclame/i) > li:not(:has(a[href*="zeeland.nl"])):not(:has(a[href^="/"])) > a.external
 online-omzetten.nl##.clearfix.entry > small
 online-omzetten.nl##[style^="margin"]:has(.adsbygoogle)
 online-radio.nl###top_ad-360
@@ -1091,7 +1092,7 @@ nieuwsmotor.nl##.add-background
 
 nos.nl##.ster-banner
 nos.nl##.teletekst__banner
-omroepwest.nl,omroepzeeland.nl##.adcontainer
+omroepwest.nl##.adcontainer
 oneworld.nl##.promotion-block
 petities.com###visible_ad_1
 pornolekker.nl##[class^="Scl"]:has([src^="//ads"])

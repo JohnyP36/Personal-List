@@ -1,7 +1,7 @@
 ! Title: Dutch Filter List
-! Last modified: Sat, 16 Dec 2023 12:10:34 +0000
+! Last modified: Sat, 16 Dec 2023 15:12:35 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2023.12.16.730.patch#dutchfilterlist
+! Diff-Path: patches/2023.12.16.912.patch#dutchfilterlist
 ! Diff-Expires: 12 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -851,6 +851,7 @@ nuus.be##.adv-link:upward(.sidebar)
 nzbindex.nl##form + div a[href^="/"]:has(img)
 omroepalmere.nl##aside.widget_block[id^="block"]:not(:has([href*="omroepalmere.nl"])):not(:has-text(/Informatie/i))
 omroepbrabant.nl,reclamefolder.nl##div[class^="ad_"]
+omroepzeeland.nl##footer .footer-list:has-text(/Reclame/i) > li:not(:has(a[href*="zeeland.nl"])):not(:has(a[href^="/"])) > a.external
 online-omzetten.nl##.clearfix.entry > small
 online-omzetten.nl##[style^="margin"]:has(.adsbygoogle)
 online-radio.nl###top_ad-360
@@ -1787,7 +1788,7 @@ nieuwsmotor.nl##.add-background
 
 nos.nl##.ster-banner
 nos.nl##.teletekst__banner
-omroepwest.nl,omroepzeeland.nl##.adcontainer
+omroepwest.nl##.adcontainer
 oneworld.nl##.promotion-block
 petities.com###visible_ad_1
 pornolekker.nl##[class^="Scl"]:has([src^="//ads"])
