@@ -260,6 +260,7 @@ starnieuws.com###topstory > div:has-text(Advertentie)
 startlijstjes.nl##.advertentieblock
 startlijstjes.nl##.item:has([class^="item_special"]:has-text(tradetracker.net))
 startpagina.nl##.top-banner
+story.nl##.apu5cz0
 streamwijzer.be##.widget:has(a[href*=".bn5x.net/"])
 sun.sr##app-money-exchange
 sun.sr##app-slider-add
