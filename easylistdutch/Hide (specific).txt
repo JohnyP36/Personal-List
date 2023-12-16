@@ -52,6 +52,8 @@ daemesenheeren.nl##.widget_media_image
 dagelijksestandaard.nl##div[id*="_ROS_"]:upward(.raw-html-component)
 dagelijksestandaard.nl##div[id*="-ros-"]:upward(.raw-html-component)
 dehavengids.nl##.elementor-widget-container:has(.g)
+demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
+demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
 deondernemer.nl##.tile-advert:upward(.tile-wrapper)
 diecourant.co.za##section[id^=smartslider]
 diecourant.co.za###secondary
