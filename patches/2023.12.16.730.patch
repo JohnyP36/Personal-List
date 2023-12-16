@@ -1,12 +1,1 @@
-diff name:dutchfilterlist lines:11 checksum:ec0b520871
-d2 1
-a2 1
-! Last modified: Sat, 16 Dec 2023 15:12:35 +0000
-d4 1
-a4 1
-! Diff-Path: patches/2023.12.16.912.patch#dutchfilterlist
-a853 1
-omroepzeeland.nl##footer .footer-list:has-text(/Reclame/i) > li:not(:has(a[href*="zeeland.nl"])):not(:has(a[href^="/"])) > a.external
-d1790 1
-a1790 1
-omroepwest.nl##.adcontainer
+diff name:dutchfilterlist lines:0 /tmp/tmp.ISw6k1f9I7 checksum:aa54904da8
