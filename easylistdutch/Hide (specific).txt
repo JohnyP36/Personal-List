@@ -892,8 +892,6 @@ zeelandnet.nl##aside:has([id^="div-gpt-ad"])
 zoom.nl##div[class^="display-ad_container"]
 ! 2021
 112achterhoek-nieuws.nl###sidebar
-123video.nl##.page-load-switch
-123video.nl##.stunt-wide
 18plussexdating.nl##.homebanner
 30plussexdate.nl,ikwilneuken.be,ikwilneuken.net,meidenzoekensex.nl,sexcontactadressen.nl##.nomobile.boxlinks:has(.homebanner)
 402online.com##.bannerblock
