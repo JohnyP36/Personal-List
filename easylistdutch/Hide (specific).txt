@@ -114,6 +114,7 @@ id.nl##.rounded-md:has(p[class^="call-to-action"]):not(:has-text(/Akkoord en doo
 iexprofs.nl##.tagwrapper:upward(.row__item)
 iexprofs.nl##[class*="banner"]:not(.banner)
 insideflyer.nl##.adsbymanatee
+janvissersweer.nl##img[width="300"][height="250"]:upward(aside.widget)
 juf-milou.nl##.adverteerdersblok
 juf-milou.nl##.content_blok_reclame
 juf-milou.nl##div[id^="content"]:not(:has(a[href^="index.php?"])):not(:has-text(/\b/i))
@@ -1063,8 +1064,7 @@ intikkertje.nl##.vc_cta3-container
 interglot.nl##.pane_results > div:has-text(Ads)
 itwm.nl##[id^="tdi_"].tdc-row:has-text(Casino)
 jan-magazine.nl##.homepage-marquee
-janvissersweer.nl##[id^="custom_html-"]:has([src^="https://pagead2.googlesyndication.com/"])
-janvissersweer.nl##.post:has-text(Sponsor)
+
 kanaalxxx.nl##.fpbnr
 keizerstad.nl##[id^="media_image"]
 kinderspelletjes.be##div[style*="width:970px"]:has-text(Reclame)
