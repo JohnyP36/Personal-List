@@ -144,6 +144,8 @@ nd.nl##.page-header__inner__ad
 nederland.fm##[class*=adv]
 neuk-sexcontact.be###aside > .moduletable:has(.bannergroup)
 niburu.co##.sponsers
+nieuwsmotor.nl##.add-background
+nieuwsmotor.nl##a[href*="nieuwsmotor.nl/url/"]:upward(.uk-grid)
 nl.radio.net###headerTopBar ~ div:has(div#RAD_D_station_top)
 nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
 nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
@@ -1087,7 +1089,6 @@ nederlandsmedianieuws.nl##.sidebar:has-text(Advert)
 nieuwnieuws.nl##.article-page__bumper
 nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
 nieuwslog.nl##.wp-block-genesis-blocks-gb-columns:has(a[href*="/go/www.bet365.nl/"])
-nieuwsmotor.nl##.add-background
 
 nos.nl##.ster-banner
 nos.nl##.teletekst__banner
