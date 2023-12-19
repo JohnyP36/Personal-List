@@ -113,14 +113,20 @@ hollandskroonnieuws.nl,wieringernieuws.nl##div#block-blue:has-text(/advert/i)
 id.nl##.rounded-md:has(p[class^="call-to-action"]):not(:has-text(/Akkoord en door naar/i))
 iexprofs.nl##.tagwrapper:upward(.row__item)
 iexprofs.nl##[class*="banner"]:not(.banner)
+inmemoriam.be##.o-news__add
 insideflyer.nl##.adsbymanatee
+interglot.nl##.pane_results > div:has-text(Ads)
+itwm.nl##[id^="tdi_"].tdc-row:has-text(Casino)
 janvissersweer.nl##img[width="300"][height="250"]:upward(aside.widget)
 juf-milou.nl##.adverteerdersblok
 juf-milou.nl##.content_blok_reclame
 juf-milou.nl##div[id^="content"]:not(:has(a[href^="index.php?"])):not(:has-text(/\b/i))
+kanaalxxx.nl##.fpbnr
 kinderspelletjes.nl##[class^="Ad-"]
 kinkysexcontactonline.nl,neukplaza.nl,privesexgids.nl,zinomteneuken.nl##[class="rand nomobile"]:has(img[src^="/images/"]):not(:has(a[href*="islive"]))
 kinkysexcontactonline.nl,privesexgids.nl###homebanners
+klimaatinfo.nl##.aside__add
+klimaatinfo.nl##[class^="space"]:has(.adsbygoogle)
 klokradio.nl##[class^="panel-grid"]:has-text(/advert/i)
 knhs.nl##.ads:has(img[src*="banner"])
 landbouwgrond.nu##div[style]:has(.adsbygoogle)
@@ -1059,19 +1065,12 @@ iexgeld.nl##.LeaderboardContainer
 iexgeld.nl##.Rectangle
 indebuurt.nl##.widget-tabs--partner
 indiexl.nl###carousel-indiexl_partners_carousel_widget
-inmemoriam.be##.o-news__add
-intikkertje.nl##.vc_cta3-container
-interglot.nl##.pane_results > div:has-text(Ads)
-itwm.nl##[id^="tdi_"].tdc-row:has-text(Casino)
-jan-magazine.nl##.homepage-marquee
 
-kanaalxxx.nl##.fpbnr
+intikkertje.nl##.vc_cta3-container
+jan-magazine.nl##.homepage-marquee
 keizerstad.nl##[id^="media_image"]
 kinderspelletjes.be##div[style*="width:970px"]:has-text(Reclame)
 kinderspelletjes.be##div[style^="width:336px;height:290px"]:has-text(Reclame)
-klimaatinfo.nl##.aside__add
-klimaatinfo.nl##[class^="space"]:has(.adsbygoogle)
-
 kutscheetje.nl##[id^="text"]:has([src*="banner"])
 live-voetbal.com##.match-bet
 live-voetbal.com##.special-offer
