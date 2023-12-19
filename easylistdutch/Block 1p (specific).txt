@@ -45,6 +45,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||racingnews365.nl/images/logos/partners/*/$image
 ||radioacacia.nl/sponsoren/
 ||radiolelystad.nl/images/stories/Banners/
+||radioluisteren.fm/ads/
 ||reformatorischeomroep.nl/*/*banner$image
 ||rickfm.nl/cwm/fm/userfiles/banner/thumb
 ||rtvnof.nl/prowurk/
