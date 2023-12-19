@@ -136,6 +136,8 @@ marktplaats.nl,2dehands.be##.hz-Page-content:style(max-width: 1300px!important;)
 marktplaats.nl,2dehands.be##.right-banner-root-container
 marktplaats.nl,2dehands.be##.vip-banner-top-sticky-container
 marktplaats.nl,2dehands.be##div[class*="admarktTitle"]:upward(1)
+messianieuws.nl####a[target="_blank"]:not([href*="messianieuws.nl"]) > img[data-src*="messianieuws.nl/wp-content/uploads"]:upward(div[id^="block-"])
+messianieuws.nl####aside > .sb-widget:has-text(/Israël Weekbrief|Introductiecursus/)
 metrotime.be##.r-pub
 mijn-tv-gids.be##.midzone
 mijn-tv-gids.be##.pub
@@ -1081,11 +1083,8 @@ mediacourant.nl##.mc-adv
 meerradio.nl##.grijze-balk:has-text(Advert)
 meerradio.nl##div[id="pristineslider.12"]
 menttv.be##.cta-container
-messianieuws.nl##[id^="custom_html-"]:has(a[href][target="_blank"][rel="noopener"])
-messianieuws.nl##[id^="media_image-"]:has(a[href][target="_blank"][rel="noopener"]:has(img[width="300"]))
-messianieuws.nl##[id^="text-"]:has(a[href][target="_blank"][rel="noopener"]):has-text(Sponsors)
-meteovista.be##div[class*="AdWrapper"]
 
+meteovista.be##div[class*="AdWrapper"]
 ml5.nl##[class^="fl-row fl-row-"][data-node]:has(.fl-module-uabb-image-carousel)
 morningstar.*###ad_top_page
 motorrijdenexpert.nl##div[class*="full-row relative-row"]:has([href]):has([class*="ignore"])
