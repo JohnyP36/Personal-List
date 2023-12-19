@@ -122,6 +122,7 @@ iexgeld.nl##.LeaderboardContainer
 iexgeld.nl##.Rectangle
 iexprofs.nl##.tagwrapper:upward(.row__item)
 iexprofs.nl##[class*="banner"]:not(.banner)
+ikwilneuken.be,ikwilneuken.net,sexcontactadressen.nl##.nomobile.boxlinks:has(.homebanner)
 indiexl.nl###carousel-indiexl_partners_carousel_widget
 inmemoriam.be##.o-news__add
 insideflyer.nl##.adsbymanatee
@@ -892,7 +893,6 @@ zeelandnet.nl##aside:has([id^="div-gpt-ad"])
 zoom.nl##div[class^="display-ad_container"]
 ! 2021
 112achterhoek-nieuws.nl###sidebar
-30plussexdate.nl,ikwilneuken.be,ikwilneuken.net,meidenzoekensex.nl,sexcontactadressen.nl##.nomobile.boxlinks:has(.homebanner)
 402online.com##.bannerblock
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,goedgevoel.be,hln.be,pzc.nl,tubantia.nl##.dfp-space
 7sur7.be,ad.nl,bd.nl,destentor.nl,ed.nl,hln.be##.page-header__section--spacer
