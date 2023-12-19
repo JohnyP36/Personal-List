@@ -1072,7 +1072,6 @@ landbouwgrond.nu##div[style]:has(.adsbygoogle)
 landenweb.nl##.content > table:has(:scope > tbody:has-text(advert))
 leerlingen.com##.clearfix.widget > :has(.sponsors)
 leiderdorpsweekblad.nl##.adUnderArticle
-lesoir.be##.r-pub--leader
 linqmedia.nl##.advertentieTitel
 live-voetbal.com##.match-bet
 live-voetbal.com##.special-offer
