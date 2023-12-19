@@ -142,6 +142,7 @@ nauticlink.com##.adv-link:upward(.nauti-target)
 nauticlink.com##.elementor-section:has-text(partners)
 nd.nl##.page-header__inner__ad
 nederland.fm##[class*=adv]
+nederlandsexdate.nl##.card-header:has-text(Advertentie)
 nederlandsmedianieuws.nl##.sidebar:has(.line:has-text(/Advertentie/i))
 neuk-sexcontact.be###aside > .moduletable:has(.bannergroup)
 niburu.co##.sponsers
@@ -1086,7 +1087,6 @@ ml5.nl##[class^="fl-row fl-row-"][data-node]:has(.fl-module-uabb-image-carousel)
 morningstar.*###ad_top_page
 motorfietsblog.nl##.cbcontent
 motorrijdenexpert.nl##div[class*="full-row relative-row"]:has([href]):has([class*="ignore"])
-nederlandsexdate.nl##.card-header:has-text(Advertentie)
 
 nieuwnieuws.nl##.article-page__bumper
 nieuwslog.nl##.wp-block-genesis-blocks-gb-columns:has(a[href*="/go/www.bet365.nl/"])
