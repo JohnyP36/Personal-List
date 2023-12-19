@@ -117,6 +117,7 @@ insideflyer.nl##.adsbymanatee
 juf-milou.nl##.adverteerdersblok
 juf-milou.nl##.content_blok_reclame
 juf-milou.nl##div[id^="content"]:not(:has(a[href^="index.php?"])):not(:has-text(/\b/i))
+kinderspelletjes.nl##[class^="Ad-"]
 kinkysexcontactonline.nl,neukplaza.nl,privesexgids.nl,zinomteneuken.nl##[class="rand nomobile"]:has(img[src^="/images/"]):not(:has(a[href*="islive"]))
 kinkysexcontactonline.nl,privesexgids.nl###homebanners
 klokradio.nl##[class^="panel-grid"]:has-text(/advert/i)
@@ -1066,10 +1067,8 @@ janvissersweer.nl##[id^="custom_html-"]:has([src^="https://pagead2.googlesyndica
 janvissersweer.nl##.post:has-text(Sponsor)
 kanaalxxx.nl##.fpbnr
 keizerstad.nl##[id^="media_image"]
-kinderspelletjes.be,kinderspelletjes.nl##div[style*="width:970px"]:has-text(Reclame)
-kinderspelletjes.be,kinderspelletjes.nl##div[style^="width:336px;height:290px"]:has-text(Reclame)
-kinderspelletjes.nl###adBoven
-kinderspelletjes.nl###adRechts2
+kinderspelletjes.be##div[style*="width:970px"]:has-text(Reclame)
+kinderspelletjes.be##div[style^="width:336px;height:290px"]:has-text(Reclame)
 klimaatinfo.nl##.aside__add
 klimaatinfo.nl##[class^="space"]:has(.adsbygoogle)
 
