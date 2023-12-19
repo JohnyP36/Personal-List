@@ -161,6 +161,9 @@ mannenpage.nl###r89-flex
 mannenpage.nl##video[src*="mannenpage.nl/wp-content/uploads/2023/08/kitesurfer.mp4"]:upward(.flowplayer)
 mannenstyle.nl##.widget_execphp
 marketingtribune.nl###banner-billboard
+marktnet.nl##.tab4
+marktnet.nl##a[href^="https://www.marktnet.nl/bs/clickOut"]:upward([class^="tip"])
+marktnet.nl##li.linkUnit
 marktplaats.nl,2dehands.be###adsense-container
 marktplaats.nl,2dehands.be##.banner-top-dt
 marktplaats.nl,2dehands.be##.BannerBottom-root
@@ -672,7 +675,6 @@ maaslandradio.nl,mariabode.nl,palnws.be##[id^="media_image"]:has-text(/advert/i)
 maaslandradio.nl###header-text-nav-container > .inner-wrap > .clearfix
 magazine.belgiancycling.be###section--banner
 mandelnieuws.be##div[class*="blocksponsors"]
-marktnet.nl##li.linkUnit
 mediamarkt.nl##div[class^="AdWrapper"] + div[class^="SkeletonWrapper"]
 midvliet.nl##.bannergroup:upward(div[class^="t3-module"])
 mijnserie.nl,nailtalk.nl##a[href^="https://partnerprogramma.bol.com/"]
