@@ -127,9 +127,13 @@ looopings.nl##[class*="r89"][style="min-height:250px;"]
 luchtvaartnieuws.nl##.block-title:has-text(Partners van)
 luchtvaartnieuws.nl##div[class*="block-block"]:has-text(/voordelige/i)
 luchtvaartnieuws.nl##.content > div[id^="luchtvaartnieuws.nl_web_"]:upward(.block-block)
+m.radioluisteren.fm###adsense
 made-in.be##[id^="ad_cba"]:upward(.col-item)
+mannennieuws.nl##aside.widget_text:has(a[href]):has(img[width="300"][height="250"])
 mannenpage.nl###r89-flex
 mannenpage.nl##video[src*="mannenpage.nl/wp-content/uploads/2023/08/kitesurfer.mp4"]:upward(.flowplayer)
+mannenstyle.nl##.widget_execphp
+marketingtribune.nl###banner-billboard
 marktplaats.nl,2dehands.be###adsense-container
 marktplaats.nl,2dehands.be##.banner-top-dt
 marktplaats.nl,2dehands.be##.BannerBottom-root
@@ -143,6 +147,7 @@ marktplaats.nl,2dehands.be##div[class*="admarktTitle"]:upward(1)
 marokko.nl###ad-rec-btf
 marokko.nl##.ad_between
 marokko.nl##.ad_inner
+mediacourant.nl##.mc-adv
 menttv.be##.cta-container
 messianieuws.nl####a[target="_blank"]:not([href*="messianieuws.nl"]) > img[data-src*="messianieuws.nl/wp-content/uploads"]:upward(div[id^="block-"])
 messianieuws.nl####aside > .sb-widget:has-text(/Israël Weekbrief|Introductiecursus/)
@@ -1076,14 +1081,8 @@ loemedia.nl###text-17
 loemedia.nl##div.ppb_header.withsmallpadding.one:has(:has-text(Advertentie))
 loemedia.nl##div.ppb_header.withsmallpadding.one:has(:has-text(Banner))
 
-m.radioluisteren.fm###adsense
-mannennieuws.nl##aside.widget_text:has(a[href]):has(img[width="300"][height="250"])
-mannenstyle.nl##.widget_execphp
 mariogames.be##.googleadvidx
 mariogames.be##div.gameinfo:has-text(/sponsored links/i)
-marketingtribune.nl###banner-billboard
-mediacourant.nl##.mc-adv
-
 meerradio.nl##.grijze-balk:has-text(Advert)
 meerradio.nl##div[id="pristineslider.12"]
 nieuwnieuws.nl##.article-page__bumper
