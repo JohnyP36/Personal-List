@@ -1054,8 +1054,6 @@ guruwatch.nl##.LargeRectangle
 h20.gg##[id^="text-"]:has-text(Partners)
 handbal.be##.footer-top
 handbalinside.nl##div[id^="handb-"]
-hardware.info##.overview-item--success
-hardware.info##.sidebar_right_top
 heracles.nl##.fixed-ads
 heracles.nl##.footer-blocks
 heracles.nl##.footer-sponsors
