@@ -136,6 +136,9 @@ marktplaats.nl,2dehands.be##.hz-Page-content:style(max-width: 1300px!important;)
 marktplaats.nl,2dehands.be##.right-banner-root-container
 marktplaats.nl,2dehands.be##.vip-banner-top-sticky-container
 marktplaats.nl,2dehands.be##div[class*="admarktTitle"]:upward(1)
+marokko.nl###ad-rec-btf
+marokko.nl##.ad_between
+marokko.nl##.ad_inner
 menttv.be##.cta-container
 messianieuws.nl####a[target="_blank"]:not([href*="messianieuws.nl"]) > img[data-src*="messianieuws.nl/wp-content/uploads"]:upward(div[id^="block-"])
 messianieuws.nl####aside > .sb-widget:has-text(/Israël Weekbrief|Introductiecursus/)
@@ -1081,9 +1084,7 @@ mariogames.be##.googleadvidx
 mariogames.be##div.gameinfo:has-text(/sponsored links/i)
 marketingtribune.nl###banner-billboard
 marktnet.nl##.tab4
-marokko.nl###ad-rec-btf
-marokko.nl##.ad_between
-marokko.nl##.ad_inner
+
 mediacourant.nl##.mc-adv
 
 meerradio.nl##.grijze-balk:has-text(Advert)
