@@ -1083,7 +1083,6 @@ mannenstyle.nl##.widget_execphp
 mariogames.be##.googleadvidx
 mariogames.be##div.gameinfo:has-text(/sponsored links/i)
 marketingtribune.nl###banner-billboard
-marktnet.nl##.tab4
 
 mediacourant.nl##.mc-adv
 
