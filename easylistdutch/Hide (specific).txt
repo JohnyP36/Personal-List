@@ -121,6 +121,7 @@ kinkysexcontactonline.nl,neukplaza.nl,privesexgids.nl,zinomteneuken.nl##[class="
 kinkysexcontactonline.nl,privesexgids.nl###homebanners
 leerzaam.com,radiovisie.eu,stopdebankiers.com,watchfaces.be##[id^="custom_html"]:has(.adsbygoogle)
 loemedia.nl##.widget_media_video:has-text(Reclame)
+leiderdorpsweekblad.nl##.component__pubble-banner
 letsgodigital.org##.product__wrapper:has(.adsbygoogle)
 loonwijzer.be##.main__bottom:has(div[id*="gpt-ad-"])
 loonwijzer.be##[class^="article__ad"]
@@ -1071,7 +1072,6 @@ kutscheetje.nl##[id^="text"]:has([src*="banner"])
 landbouwgrond.nu##div[style]:has(.adsbygoogle)
 landenweb.nl##.content > table:has(:scope > tbody:has-text(advert))
 leerlingen.com##.clearfix.widget > :has(.sponsors)
-leiderdorpsweekblad.nl##.adUnderArticle
 linqmedia.nl##.advertentieTitel
 live-voetbal.com##.match-bet
 live-voetbal.com##.special-offer
