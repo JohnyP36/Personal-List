@@ -124,6 +124,9 @@ letsgodigital.org##.product__wrapper:has(.adsbygoogle)
 loonwijzer.be##.main__bottom:has(div[id*="gpt-ad-"])
 loonwijzer.be##[class^="article__ad"]
 looopings.nl##[class*="r89"][style="min-height:250px;"]
+luchtvaartnieuws.nl##.block-title:has-text(Partners van)
+luchtvaartnieuws.nl##div[class*="block-block"]:has-text(/voordelige/i)
+luchtvaartnieuws.nl##.content > div[id^="luchtvaartnieuws.nl_web_"]:upward(.block-block)
 made-in.be##[id^="ad_cba"]:upward(.col-item)
 mannenpage.nl###r89-flex
 mannenpage.nl##video[src*="mannenpage.nl/wp-content/uploads/2023/08/kitesurfer.mp4"]:upward(.flowplayer)
@@ -1072,18 +1075,12 @@ livios.be##.block-leaderboard
 loemedia.nl###text-17
 loemedia.nl##div.ppb_header.withsmallpadding.one:has(:has-text(Advertentie))
 loemedia.nl##div.ppb_header.withsmallpadding.one:has(:has-text(Banner))
-luchtvaartnieuws.nl##.block-block >.content:has(.adsbygoogle)
-luchtvaartnieuws.nl##.block-block >.content:has([id^="div-gpt-ad"])
-luchtvaartnieuws.nl##.block-title:has-text(Partners van)
-luchtvaartnieuws.nl##div[class*="block-block"]:has-text(/voordelige/i)
-luchtvaartnieuws.nl##div:has([id*="gpt-ad"][id*="header"])
-m.radioluisteren.fm###adsense
 
+m.radioluisteren.fm###adsense
 mannennieuws.nl##aside.widget_text:has(a[href]):has(img[width="300"][height="250"])
 mannenstyle.nl##.widget_execphp
 mariogames.be##.googleadvidx
 mariogames.be##div.gameinfo:has-text(/sponsored links/i)
-
 marketingtribune.nl###banner-billboard
 mediacourant.nl##.mc-adv
 
