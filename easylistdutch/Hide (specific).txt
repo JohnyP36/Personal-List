@@ -119,6 +119,7 @@ juf-milou.nl##.content_blok_reclame
 juf-milou.nl##div[id^="content"]:not(:has(a[href^="index.php?"])):not(:has-text(/\b/i))
 kinkysexcontactonline.nl,neukplaza.nl,privesexgids.nl,zinomteneuken.nl##[class="rand nomobile"]:has(img[src^="/images/"]):not(:has(a[href*="islive"]))
 kinkysexcontactonline.nl,privesexgids.nl###homebanners
+knhs.nl##.ads:has(img[src*="banner"])
 leerzaam.com,radiovisie.eu,stopdebankiers.com,watchfaces.be##[id^="custom_html"]:has(.adsbygoogle)
 loemedia.nl##.widget_media_video:has-text(Reclame)
 leiderdorpsweekblad.nl##.component__pubble-banner
@@ -1066,8 +1067,6 @@ kinderspelletjes.nl###adRechts2
 klimaatinfo.nl##.aside__add
 klimaatinfo.nl##[class^="space"]:has(.adsbygoogle)
 klokradio.nl##[class^="panel-grid"]:has-text(/advert/i)
-knhs.nl##.banners-right
-knhs.nl##div.row:has(:scope > section > .cycler:has(img[src*="banner"]))
 kutscheetje.nl##[id^="text"]:has([src*="banner"])
 landbouwgrond.nu##div[style]:has(.adsbygoogle)
 landenweb.nl##.content > table:has(:scope > tbody:has-text(advert))
