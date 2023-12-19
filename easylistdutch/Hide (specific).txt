@@ -137,6 +137,8 @@ marktplaats.nl,2dehands.be##.right-banner-root-container
 marktplaats.nl,2dehands.be##.vip-banner-top-sticky-container
 marktplaats.nl,2dehands.be##div[class*="admarktTitle"]:upward(1)
 metrotime.be##.r-pub
+mijn-tv-gids.be##.midzone
+mijn-tv-gids.be##.pub
 motorblog.nl##[src*="partner.bol.com"]:upward(table.tablepress)
 motorboot.com##.logo
 nauticlink.com##.adv-link:upward(.nauti-target)
@@ -1083,10 +1085,9 @@ messianieuws.nl##[id^="custom_html-"]:has(a[href][target="_blank"][rel="noopener
 messianieuws.nl##[id^="media_image-"]:has(a[href][target="_blank"][rel="noopener"]:has(img[width="300"]))
 messianieuws.nl##[id^="text-"]:has(a[href][target="_blank"][rel="noopener"]):has-text(Sponsors)
 meteovista.be##div[class*="AdWrapper"]
-mijn-tv-gids.be##.pub
+
 ml5.nl##[class^="fl-row fl-row-"][data-node]:has(.fl-module-uabb-image-carousel)
 morningstar.*###ad_top_page
-
 motorrijdenexpert.nl##div[class*="full-row relative-row"]:has([href]):has([class*="ignore"])
 
 nieuwnieuws.nl##.article-page__bumper
