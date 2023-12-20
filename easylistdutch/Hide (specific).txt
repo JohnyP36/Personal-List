@@ -50,6 +50,7 @@ citaten.net##.adsense-main
 cryptobenelux.com##.elementor-widget-image:has(a[href*="banner"])
 cryptobenelux.com##iframe[src*="Bitcoin_Kopen"]:upward(.elementor-widget[data-element_type="widget"])
 calorieenverbranden.nl##[id^="amzn-assoc-ad"]:upward([id^="block"])
+cryptosjop.nl##.td-block-title-wrap:has-text(/Direct Crypto Kopen/i)
 cyclingmedia.eu##div[class*="section-sidebar"] figure:has-text(/advert/i)
 cvandaag.nl##a[href*="/api/advertise-deliver/"]:not(:has-text(/gesponsord/i))
 daemesenheeren.nl##.widget_media_image
@@ -1026,7 +1027,6 @@ coastline945fm.nl,coastlinefm.nl,elfvoetbal.nl,fonkmagazine.nl###partners
 computable.be##.sponsorartikelen
 computable.nl##.sponsored
 crimesite.nl##em:has-text(reclame)
-cryptosjop.nl##[id^="custom_html-"]:has(.bitvavo-widget)
 culturescope.nl##.widget_sp_image:has([onclick^="javascript:window.open("] > img[width][height])
 
 dissident.one##.td-adspot-title
