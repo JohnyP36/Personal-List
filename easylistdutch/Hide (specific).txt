@@ -55,6 +55,7 @@ daemesenheeren.nl##.widget_media_image
 dagelijksestandaard.nl##div[id*="_ROS_"]:upward(.raw-html-component)
 dagelijksestandaard.nl##div[id*="-ros-"]:upward(.raw-html-component)
 dehavengids.nl##.elementor-widget-container:has(.g)
+dekrantnieuws.nl,destreekkrant.nu,leiderdorpsweekblad.nl##.component__pubble-banner
 demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
 demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
 deondernemer.nl,vtwonen.be,vtwonen.nl##div[class$="advertisement__container"]
@@ -196,7 +197,6 @@ landenweb.nl##.content > table:has(:scope > tbody:has-text(advert))
 leerlingen.com##.clearfix.widget > :has(.sponsors)
 leerzaam.com,radiovisie.eu,stopdebankiers.com,watchfaces.be##[id^="custom_html"]:has(.adsbygoogle)
 loemedia.nl##.widget_media_video:has-text(Reclame)
-leiderdorpsweekblad.nl##.component__pubble-banner
 letsgodigital.org##.product__wrapper:has(.adsbygoogle)
 linqmedia.nl##.advertentieTitel
 livios.be##.block-leaderboard
@@ -1021,10 +1021,6 @@ deblueskrant.nl##.header-brand-content
 decibel.nl##.edgtf-carousel-holder
 decibel.nl##img[width="640"][height="180"]
 dekattensite.nl##.nxs-default-p > p:has-text(advert)
-dekrantnieuws.nl##.vc_box_outline.vc_single_image-wrapper
-dekrantnieuws.nl,destreekkrant.nu##.vc_carousel-inner > .vc_carousel-slideline > .vc_carousel-slideline-inner
-dekrantnieuws.nl,destreekkrant.nu##.vc_inner:has([src$="324x484.jpg"])
-dekrantnieuws.nl,destreekkrant.nu##.wpb_wrapper > .a-single
 dekrantvantoen.nl##body:style(margin-top:-20px!important)
 deliciousmagazine.nl##.elementor-element > .elementor-element-populated:has(.banner-container):not(:has-text(/podcast/i))
 denachtvlinders.nl##.plek-boven-artikel
