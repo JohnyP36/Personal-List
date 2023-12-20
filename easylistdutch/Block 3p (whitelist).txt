@@ -44,7 +44,7 @@
 @@/assets/cp/*/webcam_gallery/*$script,stylesheet
 !domain=camsexgirls.nl|cumcams.nl|cumcamsgirls.nl|goedkopewebcamsexs.nl|gratiscamsexchat.nl|livesexwebcammeiden.nl|meidenvoorthuisontvangst.nl|nederlandsewebcamseks.nl|nlwebcambabes.nl|sexervaringdelen.com|vrouwen-sexdate.be|webcamxxxlive.nl|xmissy.nl|xxxcamlive.nl
 @@/cp/webcam_gallery/index.php
-!domain=camsexgirls.nl|cumcams.nl|cumcamsgirls.nl|goedkopewebcamsexs.nl|gratiscamsexchat.nl|livesexwebcammeiden.nl|meidenvoorthuisontvangst.nl|nederlandsewebcamseks.nl|nlwebcambabes.nl|sexdating-gids.be|sexervaringdelen.com|vrouwen-sexdate.be|webcamxxxlive.nl|xmissy.nl|xxxcamlive.nl
+!domain=camsexgirls.nl|cumcams.nl|cumcamsgirls.nl|goedkopewebcamsexs.nl|gratiscamsexchat.nl|livesexwebcammeiden.nl|meidenvoorthuisontvangst.nl|nederlandsewebcamseks.nl|nlwebcambabes.nl|sexdating-gids.be|sexdatinggids.be|sexervaringdelen.com|vrouwen-sexdate.be|webcamxxxlive.nl|xmissy.nl|xxxcamlive.nl
 @@||cdn.spotxcdn.com/integration/easi/v1/easi.js$script,domain=www.radioluisteren.fm
 @@||erossite.com/nsfw/i/banner/*$subdocument,domain=eroticdreams.org
 @@||go2.go2cloud.org/aff_ad$popup,domain=tools.vpscash.nl
