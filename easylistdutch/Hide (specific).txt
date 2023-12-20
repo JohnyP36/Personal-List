@@ -62,6 +62,8 @@ deondernemer.nl,vtwonen.be,vtwonen.nl##section [data-adslot]:upward(1)
 deondernemer.nl,vtwonen.be,vtwonen.nl##section > span:has-text(advertentie)
 diecourant.co.za##section[id^=smartslider]
 diecourant.co.za###secondary
+dknieuws.nl##[id^="dknie-grid-"]:has(.adv-link)
+dknieuws.nl##.dknie-widget:has(.adv-link)
 doorbraak.be##a[href^="https://vnz.be"]:upward(.border-dashed)
 dumpert.nl##[id^="ad_"]:upward(2)
 dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
@@ -1033,7 +1035,6 @@ direct-sexdate.be##div.card:has(img[src*="/banner"])
 dissident.one##.td-adspot-title
 dolcevia.com,h2owaternetwerk.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
 dominant.be,sextoons.be,tiener-sex.be###video-sidebar-wrap
-dorpsklanken.online##.ads-mobiel
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 duic.nl##.article-excerpt--ad
 dvhn.nl,lc.nl##.main__ad
