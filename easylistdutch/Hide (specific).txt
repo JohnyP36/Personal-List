@@ -54,6 +54,8 @@ cvandaag.nl##a[href*="/api/advertise-deliver/"]:not(:has-text(/gesponsord/i))
 daemesenheeren.nl##.widget_media_image
 dagelijksestandaard.nl##div[id*="_ROS_"]:upward(.raw-html-component)
 dagelijksestandaard.nl##div[id*="-ros-"]:upward(.raw-html-component)
+decibel.nl##.edgtf-carousel-holder
+decibel.nl##div[class*="slider-wrapper"]:not(:has([data-href*="decibel.nl"]))
 dehavengids.nl##.elementor-widget-container:has(.g)
 dekrantnieuws.nl,destreekkrant.nu,leiderdorpsweekblad.nl##.component__pubble-banner
 demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
@@ -1018,8 +1020,6 @@ dansendeberen.be##.inhype-bb-block-header
 dating-zoeken.nl,sexdating-gids.be,sexdatinggids.be,vrouwensexdate.nl##.d-lg-block.d-none:has-text(Advert):not(:has(.jcarousel-skin-tango))
 deblueskrant.nl##.banner-wrap
 deblueskrant.nl##.header-brand-content
-decibel.nl##.edgtf-carousel-holder
-decibel.nl##img[width="640"][height="180"]
 dekattensite.nl##.nxs-default-p > p:has-text(advert)
 dekrantvantoen.nl##body:style(margin-top:-20px!important)
 deliciousmagazine.nl##.elementor-element > .elementor-element-populated:has(.banner-container):not(:has-text(/podcast/i))
