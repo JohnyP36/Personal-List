@@ -1046,7 +1046,6 @@ filmtotaal.nl##.ad-centering
 financialinvestigator.nl##.mpu
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
 freesoccer.nl##.container-fluid.site-header
-franska.nl###shopsuiteApplication
 fucking-tube.com,pornokartel.nl,seks-tube.be##.video-block-happy
 funnygames.be,funnygames.nl,spele.be,spele.nl##.is-billboard
 funnygames.be,funnygames.nl,spele.be,spele.nl##.is-skyscraper
