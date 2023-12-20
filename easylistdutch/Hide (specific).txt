@@ -19,6 +19,7 @@ androidplanet.nl,iphoned.nl##.widget_offers
 androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
 androidplanet.nl,iphoned.nl##div[data-name="dynamic-content-injected"]:upward(2)
 androidplanet.nl,iphoned.nl##header[data-name="featured-header"]
+antilliaansdagblad.com,dolcevia.com,h2owaternetwerk.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
 apintie.sr###left-inside > div#ads
 apintie.sr###left-inside > div[style$="px;"]:not(:has(a[href]))
 apintie.sr###navcol2
@@ -54,20 +55,31 @@ cvandaag.nl##a[href*="/api/advertise-deliver/"]:not(:has-text(/gesponsord/i))
 daemesenheeren.nl##.widget_media_image
 dagelijksestandaard.nl##div[id*="_ROS_"]:upward(.raw-html-component)
 dagelijksestandaard.nl##div[id*="-ros-"]:upward(.raw-html-component)
+dansendeberen.be##.inhype-bb-block-header
+deblueskrant.nl##.banner-wrap
+deblueskrant.nl##.header-brand-content
 decibel.nl##.edgtf-carousel-holder
 decibel.nl##div[class*="slider-wrapper"]:not(:has([data-href*="decibel.nl"]))
 dehavengids.nl##.elementor-widget-container:has(.g)
+dekattensite.nl##.nxs-default-p > p:has-text(advert)
 dekrantnieuws.nl,destreekkrant.nu,leiderdorpsweekblad.nl##.component__pubble-banner
+dekrantvantoen.nl##body:style(margin-top:-20px!important)
+deliciousmagazine.nl##.elementor-element > .elementor-element-populated:has(.banner-container):not(:has-text(/podcast/i))
 demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
 demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
+denachtvlinders.nl##.plek-boven-artikel
 deondernemer.nl,vtwonen.be,vtwonen.nl##div[class$="advertisement__container"]
 deondernemer.nl,vtwonen.be,vtwonen.nl##section [data-adslot]:upward(1)
 deondernemer.nl,vtwonen.be,vtwonen.nl##section > span:has-text(advertentie)
 diecourant.co.za##section[id^=smartslider]
 diecourant.co.za###secondary
+digitaalburg.com##.widget-area-bottom.align-center:has(.adsbygoogle)
+digitaalburg.com##aside[class^="widget widget_text"]
 dknieuws.nl##[id^="dknie-grid-"]:has(.adv-link)
 dknieuws.nl##.dknie-widget:has(.adv-link)
 doorbraak.be##a[href^="https://vnz.be"]:upward(.border-dashed)
+dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
+duic.nl##.article-excerpt--ad
 dumpert.nl##[id^="ad_"]:upward(2)
 dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 dutchitchannel.nl##a[href]:not(a[href*="dutchit"]):has(img[src*="assets-servd.host"])
@@ -76,6 +88,8 @@ duurzaamnieuws.nl##.adv-link:not(a[href$="aanmelden-gratis-nieuwsbrief/"])
 duurzaamnieuws.nl##[class^="av_textblock"]:has-text(/advert/i)
 duurzaamnieuws.nl##aside section[class$="widget_text"]:has-text(wordt mede mogelijk gemaakt door)
 duurzaamnieuws.nl##section[class^="avia_codeblock"]:has-text(wordt mede mogelijk gemaakt door)
+dvhn.nl,lc.nl##.main__ad
+dvhn.nl,lc.nl,meppelercourant.nl##.top__ad
 ecobioliving.eu##.ezoic-adpicker-ad:upward(.section)
 ecobioliving.eu##.ezoic-adpicker-ad:upward(section[id^="custom_html"])
 ecommercenews.nl##.ldrtop
@@ -501,7 +515,6 @@ amsterdamtigers.com##.sponsorbanner
 androidworld.nl,dartsnieuws.com,f1maximaal.nl,indeleiderstrui.nl##.sda
 anoniem-surfen.nl##.footer-widget-1
 anoniem-surfen.nl##.header-widget-region
-antilliaansdagblad.com##.bannergroup
 appletips.nl##.ph_upgreatest
 appletips.nl###bolcontainer
 appletips.nl##[class^="ph_block"]
@@ -1016,23 +1029,9 @@ crimesite.nl##em:has-text(reclame)
 cryptosjop.nl##[id^="custom_html-"]:has(.bitvavo-widget)
 culturescope.nl##.widget_sp_image:has([onclick^="javascript:window.open("] > img[width][height])
 cumcams.nl##[id^="custom_html"]:has(img[src*="wlresources.com/"])
-dansendeberen.be##.inhype-bb-block-header
-deblueskrant.nl##.banner-wrap
-deblueskrant.nl##.header-brand-content
-dekattensite.nl##.nxs-default-p > p:has-text(advert)
-dekrantvantoen.nl##body:style(margin-top:-20px!important)
-deliciousmagazine.nl##.elementor-element > .elementor-element-populated:has(.banner-container):not(:has-text(/podcast/i))
-denachtvlinders.nl##.plek-boven-artikel
-digitaalburg.com##.widget-area-bottom.align-center:has(.adsbygoogle)
-digitaalburg.com##aside[class^="widget widget_text"]
-dissident.one##.td-adspot-title
-dolcevia.com,h2owaternetwerk.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
-dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
-duic.nl##.article-excerpt--ad
-dvhn.nl,lc.nl##.main__ad
-dvhn.nl,lc.nl,meppelercourant.nl##.top__ad
-dwtonline.com###banner1
 
+dissident.one##.td-adspot-title
+dwtonline.com###banner1
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
 girlpowerradio.nl##[class*="sponsorcarousel"]
 glutenvrij.nl##.Article__inner > .Article__title:has-text(Advert)
