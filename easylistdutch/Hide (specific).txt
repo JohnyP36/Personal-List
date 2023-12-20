@@ -104,6 +104,9 @@ girlscene.nl##[id$="top-ad-desktop"]
 gocar.be###rossel-imu-middle:upward([class*="bg-gray-200"])
 gocar.be##.container-leaderboard
 gocar.be##.pub-text:upward(2)
+goodbye.be##.advertising
+gooieneemlander.nl,noordhollandsdagblad.nl,leidschdagblad.nl###advertorial-destination
+gostreaming.nl##a[rel*="sponsored"]
 goudengids.be##.banner-boxes-holder
 gpblog.com##aside[class^="Ad_"]:style(position: absolute !important; left: -3000px !important;)
 gpfans.com##.leaderboardbg
@@ -113,8 +116,12 @@ gratispittigesexfilms.nl##.spot-on
 gratispornofilm.nl##.cp-webcam-gallery-container
 gratispornofilm.nl##.lazyloading.block-bordered
 grazia.nl###WB_VIDEO_PLAYER_TARGET
+greenkeeper.nl###lijst_logos
+greenkeeper.nl##.logoblok
 groningerkrant.nl##aside.widget .swiper-slide:not(:has(a[href="/adverteren"])):upward(.swiper-wrapper)
 groningerkrant.nl##aside.widget:has(.widget-title:has-text(Vrienden))
+guruwatch.nl##.Billboard
+guruwatch.nl##.LargeRectangle
 handbal.be##.footer-top
 handbalinside.nl##div[id^="handb-"]
 heracles.nl##.fixed-ads
@@ -1049,17 +1056,9 @@ glutenvrij.nl##.Article__inner > .Article__title:has-text(Advert)
 goedkoopstekeukensduitsland.nl##[id^="text"]:has(a[href^="https://www.goedkoopstekeukensduitsland.nl"][href$="-bnr"])
 goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
 golf.nl##.c-header__advert-container
-goodbye.be,sporza.be##.advertising
-gooieneemlander.nl,noordhollandsdagblad.nl,leidschdagblad.nl###advertorial-destination
-gostreaming.nl##a[rel*="sponsored"]
 
-greenkeeper.nl###lijst_logos
-greenkeeper.nl##.logoblok
-
+sporza.be##.advertising
 guldencourant.nl##.jeg_midbar:has([class^="ads-wrapper"])
-guruwatch.nl##.Billboard
-guruwatch.nl##.LargeRectangle
-
 h20.gg##[id^="text-"]:has-text(Partners)
 indebuurt.nl##.widget-tabs--partner
 intikkertje.nl##.vc_cta3-container
