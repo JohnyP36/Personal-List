@@ -1041,7 +1041,7 @@ eindtijdklok.org##.widget_block:has(img[src*="/ad"])
 eindtijdklok.org##.wpa
 elkspel.nl,fiets.nl,fietsactief.nl,knipmode.nl,rootsmagazine.nl,seasons.nl,truckstar.nl,vorsten.nl,zin.nl##.banner-container
 eoswetenschap.eu##.l-banner
-eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gazetvandaag.be,grandprix.ws,hotstreams.nl,krantvandaag.nl,nieuwsgigant.nl,voetbal-vandaag.nl###topbox
+eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gazetvandaag.be,grandprix.ws,krantvandaag.nl,nieuwsgigant.nl,voetbal-vandaag.nl###topbox
 eromarkt.nl##.headerlinks:has(iframe[src="linkframe.php"])
 eromarkt.nl,erotischemassagemarkt.nl,erotischemodellen.nl,swingersmarkt.nl##.menubanner:has([src^="ads"])
 ero-meiden.nl,geilverlangen.nl##.size-full.attachment-full
