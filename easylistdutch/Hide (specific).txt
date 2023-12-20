@@ -24,6 +24,9 @@ apintie.sr###left-inside > div#ads
 apintie.sr###left-inside > div[style$="px;"]:not(:has(a[href]))
 apintie.sr###navcol2
 apintie.sr###sidebar > div[style*="width:300px; height:"]:not(:has(img[alt="Apintie iPhone App"]))
+arenalokaal.nl,dehavenloods.nl,dekrantnieuws.nl,destreekkrant.nu,gooieneembode.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl,zuidenvelder.info##.component__pubble-banner:has([advobject])
+arenalokaal.nl##.content-start > * > div[style]:has-text(/Externe links|Externe websites/i)
+arenalokaal.nl,dehavenloods.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorpsweekblad.nl##.component__pubble-banner:has([advobject]):upward(.bg-gray-100):has-text(/Uit de krant/i)
 asex.nl###adblk1
 asex.nl###bottum_ad
 asex.nl###new_ad
@@ -73,7 +76,6 @@ decibel.nl##.edgtf-carousel-holder
 decibel.nl##div[class*="slider-wrapper"]:not(:has([data-href*="decibel.nl"]))
 dehavengids.nl##.elementor-widget-container:has(.g)
 dekattensite.nl##.nxs-default-p > p:has-text(advert)
-dekrantnieuws.nl,destreekkrant.nu,leiderdorpsweekblad.nl##.component__pubble-banner
 dekrantvantoen.nl##body:style(margin-top:-20px!important)
 deliciousmagazine.nl##.elementor-element > .elementor-element-populated:has(.banner-container):not(:has-text(/podcast/i))
 demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
@@ -499,7 +501,6 @@ zita.be###shopsuiteApplication
 zita.be##[id^="rossel-leaderboard"]:upward(.tdc-row)
 zozwanger.nl##.a-single
 zozwanger.nl##.gofollow
-zuidenvelder.info##.component__pubble-banner
 ! 2022
 1001erotiekverhalen.nl##[href^="https://t.adating.link/"]:upward(2)
 1001erotiekverhalen.nl##aside[id^="block"]:has([src*="tools-affil2.com/rtb/index.php"])
@@ -529,9 +530,6 @@ appletips.nl##.ph_upgreatest
 appletips.nl###bolcontainer
 appletips.nl##[class^="ph_block"]
 appletips.nl##a[href^="/adverteren-"]
-arenalokaal.nl,dehavenloods.nl,gooieneembode.nl,hetkrantje-online.nl,laardercourant.nl,weespernieuws.nl##.content-start > :has([advobject])
-arenalokaal.nl##.content-start > * > div[style]:has-text(/Externe links|Externe websites/i)
-arenalokaal.nl,dehavenloods.nl,gooieneembode.nl,hetkrantje-online.nl,laardercourant.nl,weespernieuws.nl##[advobject]:upward(.bg-gray-100):has-text(/Uit de krant/i)
 autoblog.nl##.widget:has-text(/links/i)
 autoblog.nl##.widget_ab_sidebar
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
@@ -800,7 +798,6 @@ nl.motorsport.com##.ms-side-widget--custom-links__wrapper
 nl-nieuwsonline.nl###content-footer-section:has(.adsbygoogle)
 nljug.org##.widget:has(.capegroep-banner)
 nljug.org##[id^="custom_html-"]:has-text(Kennispartners):has(a[href] > img)
-nnp.nl##div[class^="p-4"]:has([class*="gray"]):has(a[data-source^="banner"])
 noordkopcentraal.nl##.bannerListWidget
 noordkopcentraal.nl##.ewic-slider-pro-widget
 noordkopcentraal.nl##.headbanner
