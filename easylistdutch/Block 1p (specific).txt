@@ -27,6 +27,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||ecobioliving.eu/*bol.com/nl/upload/partnerprogramma/$image
 ||escort46.nl/bg_images/*.gif
 ||feyenoord.nl/*/media/*partnerships/$image
+||grandprixradio.nl/*/advertisements/
 ||grootnieuwsradio.nl/*/advertisements/
 ||motorboot.com/wp-content/uploads/*/ad-logo
 ||noordernieuws.nl/wp-content/uploads/*/casino$image
