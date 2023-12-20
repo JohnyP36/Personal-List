@@ -1031,7 +1031,6 @@ denachtvlinders.nl##.plek-boven-artikel
 deperfecte-sexdate.be,neuk-sexcontact.be##.well:has(img[src^="/images/banners"])
 digitaalburg.com##.widget-area-bottom.align-center:has(.adsbygoogle)
 digitaalburg.com##aside[class^="widget widget_text"]
-direct-sexdate.be##div.card:has(img[src*="/banner"])
 dissident.one##.td-adspot-title
 dolcevia.com,h2owaternetwerk.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
