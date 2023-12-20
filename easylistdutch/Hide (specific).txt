@@ -94,6 +94,7 @@ geenstijl.nl##.slajeslag
 geenstijl.nl##a[data-ga-event^="link-tip"]
 geenstijl.nl##div[data-id*="leaderboard-billboard"]
 geil-neuken.nl,neukengratis.be,neuk-sexcontact.be,sexdate-xxx.be##.well:has(.bannergroup)
+geile-sexverhalen.nl##.bannergroup:upward(.card)
 geileverhalen.nl##article#post:has([src^="https://go2.go2cloud.org/aff_ad"])
 geileverhalen.nl##div.author-presentation-container:has([src^="https://go2.go2cloud.org/"])
 gewoonvoorhem.nl##[id^="below-article-rectangle"]
@@ -1049,7 +1050,6 @@ geile-sexcontacten.be##.card:has([src^="https://www.affilaxy.com/promos//popup/j
 geile-sexcontacten.be##.d-lg-block:has-text(Advert)
 geile-sexverhalen.be##div.well:has-text(/sponser/i)
 geile-sexverhalen.be,geile-sexverhalen.nl###footermiddle > .well:has-text(/advert/i)
-geile-sexverhalen.nl##div.well:has(img[src*="sdcash.nl"])
 geldpedia.nl,manpedia.nl,vrouwpedia.nl##[id^="gridlove-module-"]:not(.module-type-posts):not(.module-type-cats)
 girlpowerradio.nl##[class*="sponsorcarousel"]
 gloednieuw.nl##.vc_raw_html.td_block_wrap.wpb_wrapper
