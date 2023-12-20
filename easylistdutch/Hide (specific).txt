@@ -1046,8 +1046,6 @@ funnygames.be,funnygames.nl,spele.be,spele.nl##.is-skyscraper
 gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
 geelfm.be###slider
 geilefotoverhalen.nl##.widget:has(iframe[src*="/aff_ad?"])
-geile-sexcontacten.be##.card:has([src^="https://www.affilaxy.com/promos//popup/js/pop-under.js"])
-geile-sexcontacten.be##.d-lg-block:has-text(Advert)
 geldpedia.nl,manpedia.nl,vrouwpedia.nl##[id^="gridlove-module-"]:not(.module-type-posts):not(.module-type-cats)
 girlpowerradio.nl##[class*="sponsorcarousel"]
 gloednieuw.nl##.vc_raw_html.td_block_wrap.wpb_wrapper
