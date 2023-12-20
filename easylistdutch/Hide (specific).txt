@@ -78,14 +78,26 @@ ecommercenews.nl##.widget-partners
 eemland1.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has(.owl-item)
 eindexamens.nu,gezondheid.be###leaderboard
 eredivisie.nl,racingnews365.nl###betting-prefs
+fantv.nl##.tm-top-a
+fantv.nl##.tm-top-c
+farm-date.com##.hide-for-small-only:has-text(Sponsors)
+fd.nl##.fd-message-home-header
 fcupdate.nl##.betting_partner
 fcupdate.nl##[id*="web_billboard"]
 fcutrecht.nl##section[class^="container nesteditem"]:has-text(/Interessante deals/i)
 feyenoord.nl##.banner-carousel:has([src*="partnerships"])
 feyenoord.nl##.totoOdds
+fierljeppenwinsum.frl##.gdlr-sidebar:has-text(sponsoren)
+filmtotaal.nl###adf-rectangle
+filmtotaal.nl##.ad-centering
+financialinvestigator.nl##.mpu
 focusclub.nl##.funbox
 fok.nl,fr12.nl,looopings.nl,mannenzaken.nl,scientias.nl##div[class^="r89-desktop"]
 freeones.nl##.banner-placeholder
+freesoccer.nl##.container-fluid.site-header
+fucking-tube.com,pornokartel.nl,seks-tube.be##.video-block-happy
+funnygames.be,funnygames.nl,spele.be,spele.nl##.is-billboard
+funnygames.be,funnygames.nl,spele.be,spele.nl##.is-skyscraper
 fwd.nl##[class^="advertisement"]
 gamer.nl,id.nl,wasmachines.nl##.adunitContainer:upward(.items-center)
 gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
@@ -1035,20 +1047,8 @@ eromarkt.nl,erotischemassagemarkt.nl,erotischemodellen.nl,swingersmarkt.nl##.men
 ero-meiden.nl,geilverlangen.nl##.size-full.attachment-full
 eurocampings.nl##.js-mock-banner
 excellentfm.nl##div[style="max-height: 300px;"]:has-text(/advert/i)
-fantv.nl##.tm-top-a
-fantv.nl##.tm-top-c
-farm-date.com##.hide-for-small-only:has-text(Sponsors)
-fd.nl##.fd-message-home-header
-fierljeppenwinsum.frl##.gdlr-sidebar:has-text(sponsoren)
-filmtotaal.nl###adf-rectangle
-filmtotaal.nl##.ad-centering
-financialinvestigator.nl##.mpu
-focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
-freesoccer.nl##.container-fluid.site-header
-fucking-tube.com,pornokartel.nl,seks-tube.be##.video-block-happy
-funnygames.be,funnygames.nl,spele.be,spele.nl##.is-billboard
-funnygames.be,funnygames.nl,spele.be,spele.nl##.is-skyscraper
 
+focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
 girlpowerradio.nl##[class*="sponsorcarousel"]
 glutenvrij.nl##.Article__inner > .Article__title:has-text(Advert)
 guldencourant.nl##.jeg_midbar:has([class^="ads-wrapper"])
