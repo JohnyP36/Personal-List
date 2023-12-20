@@ -50,7 +50,15 @@ citaten.net##.adsense-main
 cryptobenelux.com##.elementor-widget-image:has(a[href*="banner"])
 cryptobenelux.com##iframe[src*="Bitcoin_Kopen"]:upward(.elementor-widget[data-element_type="widget"])
 calorieenverbranden.nl##[id^="amzn-assoc-ad"]:upward([id^="block"])
+camping-frankrijk.nl##div[class^="content-home"]:has([id*="HyperLinkBanner"])
+camsexbabe.nl##.happy-player-beside
+camsexbabe.nl,mijnpornotube.nl,sexdatingtube.be##.video-sidebar
+classic.nl##div.brievenbus
+classicstogo.nl##.owl-carousel
+coastline945fm.nl,coastlinefm.nl,elfvoetbal.nl,fonkmagazine.nl###partners
+computable.be##.sponsorartikelen
 computable.nl,sexjobs.nl##.banner-wrapper
+culturescope.nl##.widget_sp_image:has([onclick^="javascript:window.open("] > img[width][height])
 crimesite.nl##.r89-desktop-InContent
 cryptosjop.nl##.td-block-title-wrap:has-text(/Direct Crypto Kopen/i)
 cyclingmedia.eu##div[class*="section-sidebar"] figure:has-text(/advert/i)
@@ -1018,14 +1026,6 @@ bollywood.nl##a[href^="https://www.onderdelenshop24.com/"]
 brandweerspotters.nl###banners:has-text(Sponsors)
 buzzbie.nl##.TS_Banner_Spot
 cabla.nl##.ontwerp_ads
-camping-frankrijk.nl##div[class^="content-home"]:has([id*="HyperLinkBanner"])
-camsexbabe.nl##.happy-player-beside
-camsexbabe.nl,mijnpornotube.nl,sexdatingtube.be##.video-sidebar
-classic.nl##div.brievenbus
-classicstogo.nl##.owl-carousel
-coastline945fm.nl,coastlinefm.nl,elfvoetbal.nl,fonkmagazine.nl###partners
-computable.be##.sponsorartikelen
-culturescope.nl##.widget_sp_image:has([onclick^="javascript:window.open("] > img[width][height])
 
 dissident.one##.td-adspot-title
 dwtonline.com###banner1
