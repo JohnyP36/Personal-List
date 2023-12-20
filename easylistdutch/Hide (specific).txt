@@ -87,7 +87,9 @@ fok.nl,fr12.nl,looopings.nl,mannenzaken.nl,scientias.nl##div[class^="r89-desktop
 freeones.nl##.banner-placeholder
 fwd.nl##[class^="advertisement"]
 gamer.nl,id.nl,wasmachines.nl##.adunitContainer:upward(.items-center)
+gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
 gebruikershandleiding.com##[class^="adserver-container"]
+geelfm.be###slider
 geenstijl.nl##.article-premium-promotion-block
 geenstijl.nl##.sidebar-content > div:has-text(Kansino):has(+ .afctr-wrapper)
 geenstijl.nl##.slajeslag
@@ -95,8 +97,10 @@ geenstijl.nl##a[data-ga-event^="link-tip"]
 geenstijl.nl##div[data-id*="leaderboard-billboard"]
 geil-neuken.nl,neukengratis.be,neuk-sexcontact.be,sexdate-xxx.be##.well:has(.bannergroup)
 geile-sexverhalen.be,geile-sexverhalen.nl##.bannergroup:upward(.card)
+geilefotoverhalen.nl##.widget:has(iframe[src*="/aff_ad?"])
 geileverhalen.nl##article#post:has([src^="https://go2.go2cloud.org/aff_ad"])
 geileverhalen.nl##div.author-presentation-container:has([src^="https://go2.go2cloud.org/"])
+geldpedia.nl,manpedia.nl,vrouwpedia.nl##[id^="gridlove-module-"]:not(.module-type-posts):not(.module-type-cats)
 gewoonvoorhem.nl##[id^="below-article-rectangle"]
 gewoonvoorhem.nl##[id$="ad-desktop"]
 gewoonvoorhem.nl##[id$="leaderboard-article"]
@@ -105,10 +109,13 @@ gezondheid.be###leaderboard_floor
 gfcnieuws.com##div.ai-viewport-1:upward(div[id^="ai_widget"])
 girlscene.nl##[id$="leaderboard-article"]
 girlscene.nl##[id$="top-ad-desktop"]
+gloednieuw.nl##.vc_raw_html.td_block_wrap.wpb_wrapper
 gocar.be###rossel-imu-middle:upward([class*="bg-gray-200"])
 gocar.be##.container-leaderboard
 gocar.be##.pub-text:upward(2)
-goodbye.be##.advertising
+goedkoopstekeukensduitsland.nl##[id^="text"]:has(a[href^="https://www.goedkoopstekeukensduitsland.nl"][href$="-bnr"])
+goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
+golf.nl##.c-header__advert-containergoodbye.be##.advertising
 gooieneemlander.nl,noordhollandsdagblad.nl,leidschdagblad.nl###advertorial-destination
 gostreaming.nl##a[rel*="sponsored"]
 goudengids.be##.banner-boxes-holder
@@ -1043,18 +1050,9 @@ franska.nl###shopsuiteApplication
 fucking-tube.com,pornokartel.nl,seks-tube.be##.video-block-happy
 funnygames.be,funnygames.nl,spele.be,spele.nl##.is-billboard
 funnygames.be,funnygames.nl,spele.be,spele.nl##.is-skyscraper
-gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
-geelfm.be###slider
-geilefotoverhalen.nl##.widget:has(iframe[src*="/aff_ad?"])
-geldpedia.nl,manpedia.nl,vrouwpedia.nl##[id^="gridlove-module-"]:not(.module-type-posts):not(.module-type-cats)
-girlpowerradio.nl##[class*="sponsorcarousel"]
-gloednieuw.nl##.vc_raw_html.td_block_wrap.wpb_wrapper
-glutenvrij.nl##.Article__inner > .Article__title:has-text(Advert)
-goedkoopstekeukensduitsland.nl##[id^="text"]:has(a[href^="https://www.goedkoopstekeukensduitsland.nl"][href$="-bnr"])
-goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
-golf.nl##.c-header__advert-container
 
-sporza.be##.advertising
+girlpowerradio.nl##[class*="sponsorcarousel"]
+glutenvrij.nl##.Article__inner > .Article__title:has-text(Advert)
 guldencourant.nl##.jeg_midbar:has([class^="ads-wrapper"])
 h20.gg##[id^="text-"]:has-text(Partners)
 indebuurt.nl##.widget-tabs--partner
@@ -1093,6 +1091,7 @@ sexcam-mokkels.nl##.entry-content > div
 sexervaringdelen.com##center > center:has(iframe[width="900"][height="250"])
 sexervaringdelen.com##section[id^="block"]:has([width="300"][height="250"])
 spelersvrouw.nl##.widget_text.gridlove-box
+sporza.be##.advertising
 surfplaza.be##td.di1:has(img[src$="/yourad.gif"])
 treinreiziger.nl##div[class*="ads-adsense-"]
 twentefm.nl##.bannerzone_728x90:has-text(/advert/i)
