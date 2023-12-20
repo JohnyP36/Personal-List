@@ -110,6 +110,8 @@ gpfans.com##.leaderboardbg
 gpfans.com##.taboonews
 gpfans.com,playboy.nl##a[href^="https://casinoscout.nl/"]
 grazia.nl###WB_VIDEO_PLAYER_TARGET
+groningerkrant.nl##aside.widget .swiper-slide:not(:has(a[href="/adverteren"])):upward(.swiper-wrapper)
+groningerkrant.nl##aside.widget:has(.widget-title:has-text(Vrienden))
 handbal.be##.footer-top
 handbalinside.nl##div[id^="handb-"]
 heracles.nl##.fixed-ads
@@ -585,7 +587,6 @@ golf.be##[class*="-ad-banner-box"]
 gowiththevlo.nl###omc-sidebar li.gowit-widget:has(img):not(:has(a[href*="gowiththevlo.nl"]))
 gratisepub.nl##.type-post:has-text(advert)
 gratisepub.nl##.widget:has(.adsbygoogle)
-groningerkrant.nl##.widget:has(.widget-title:has-text(Vrienden))
 groningsnieuws.nl##aside.widget:has(figure img)
 guidinc.nl##.promotion_link
 gva.be##main .widgetgroup > .grid
@@ -1056,7 +1057,7 @@ gratispornofilm.nl##.cp-webcam-gallery-container
 gratispornofilm.nl##.lazyloaded.block-bordered
 greenkeeper.nl###lijst_logos
 greenkeeper.nl##.logoblok
-groningerkrant.nl##[href^="https://track.adppg.com/"]
+
 guldencourant.nl##.jeg_midbar:has([class^="ads-wrapper"])
 guruwatch.nl##.Billboard
 guruwatch.nl##.LargeRectangle
