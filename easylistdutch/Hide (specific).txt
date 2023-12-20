@@ -99,6 +99,7 @@ gewoonvoorhem.nl##[id$="ad-desktop"]
 gewoonvoorhem.nl##[id$="leaderboard-article"]
 gewoonvoorhem.nl###below-article-leaderboard
 gezondheid.be###leaderboard_floor
+gfcnieuws.com##div.ai-viewport-1:upward(div[id^="ai_widget"])
 girlscene.nl##[id$="leaderboard-article"]
 girlscene.nl##[id$="top-ad-desktop"]
 gocar.be###rossel-imu-middle:upward([class*="bg-gray-200"])
@@ -1049,7 +1050,6 @@ geile-sexverhalen.be,geile-sexverhalen.nl###footermiddle > .well:has-text(/adver
 geile-sexverhalen.nl##div.well:has(img[src*="sdcash.nl"])
 geileverhalen.nl##div.author-presentation-container:has([src^="https://go2.go2cloud.org/"])
 geldpedia.nl,manpedia.nl,vrouwpedia.nl##[id^="gridlove-module-"]:not(.module-type-posts):not(.module-type-cats)
-gfcnieuws.com##div.ai-viewport-1
 girlpowerradio.nl##[class*="sponsorcarousel"]
 gloednieuw.nl##.vc_raw_html.td_block_wrap.wpb_wrapper
 glutenvrij.nl##.Article__inner > .Article__title:has-text(Advert)
