@@ -50,6 +50,7 @@ citaten.net##.adsense-main
 cryptobenelux.com##.elementor-widget-image:has(a[href*="banner"])
 cryptobenelux.com##iframe[src*="Bitcoin_Kopen"]:upward(.elementor-widget[data-element_type="widget"])
 calorieenverbranden.nl##[id^="amzn-assoc-ad"]:upward([id^="block"])
+computable.nl,sexjobs.nl##.banner-wrapper
 crimesite.nl##.r89-desktop-InContent
 cryptosjop.nl##.td-block-title-wrap:has-text(/Direct Crypto Kopen/i)
 cyclingmedia.eu##div[class*="section-sidebar"] figure:has-text(/advert/i)
@@ -360,7 +361,6 @@ serietotaal.nl###adf-autonative
 sex-kamer.nl##.videoOverAdBig
 sexervaringendelen.nl##[class^=" lazyload"][data-src*="banner"]:upward(2)
 sexfun.nl##[href^="https://ads.v1d305.com/redirect/"]
-sexjobs.nl##.banner-wrapper
 sexjobs.nl##div[id^="banner-"]
 sexpower.nl###pre-footer-banners
 sexpower.nl###top-banner
@@ -1026,7 +1026,6 @@ classic.nl##div.brievenbus
 classicstogo.nl##.owl-carousel
 coastline945fm.nl,coastlinefm.nl,elfvoetbal.nl,fonkmagazine.nl###partners
 computable.be##.sponsorartikelen
-computable.nl##.sponsored
 culturescope.nl##.widget_sp_image:has([onclick^="javascript:window.open("] > img[width][height])
 
 dissident.one##.td-adspot-title
