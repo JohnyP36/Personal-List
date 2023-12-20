@@ -1017,7 +1017,6 @@ cryptosjop.nl##[id^="custom_html-"]:has(.bitvavo-widget)
 culturescope.nl##.widget_sp_image:has([onclick^="javascript:window.open("] > img[width][height])
 cumcams.nl##[id^="custom_html"]:has(img[src*="wlresources.com/"])
 dansendeberen.be##.inhype-bb-block-header
-dating-zoeken.nl,sexdating-gids.be,sexdatinggids.be,vrouwensexdate.nl##.d-lg-block.d-none:has-text(Advert):not(:has(.jcarousel-skin-tango))
 deblueskrant.nl##.banner-wrap
 deblueskrant.nl##.header-brand-content
 dekattensite.nl##.nxs-default-p > p:has-text(advert)
