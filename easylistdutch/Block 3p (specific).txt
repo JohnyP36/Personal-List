@@ -8,7 +8,7 @@
 ||nieuwsgrazer.nl/images/ads/$domain=landbouwgrond.nu
 ||qmusic.medialaancdn.be/*/*/*banner*$image,domain=qmusic.nl
 ||srv69.eu/b/*.gif$image,domain=spermatube.be|swingerstube.be|xxx-tube.be
-||srv69.eu/smartlink/banner/$image,domain=amateursextube.eu|swingerstube.be
+||srv69.eu/smartlink/banner/$image,domain=amateursextube.eu|fucking-tube.com|swingerstube.be
 ||wieringernieuws.nl/gfx/ads$domain=hollandskroonnieuws.nl|wieringernieuws.nl
 ||viralize.tv/display/$domain=startpagina.nl
 ! 2022
