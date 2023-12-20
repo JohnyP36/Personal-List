@@ -77,7 +77,16 @@ ecommercenews.nl##.sidebar > .widget-image-content-button:not(:has(a[href*="ecom
 ecommercenews.nl##.widget-partners
 eemland1.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has(.owl-item)
 eindexamens.nu,gezondheid.be###leaderboard
+eindtijdklok.org##.widget_block:has(img[src*="/ad"])
+elkspel.nl,fiets.nl,fietsactief.nl,knipmode.nl,riskcompliance.nl,seasons.nl,truckstar.nl,vorsten.nl,zin.nl##.banner-container
+eoswetenschap.eu##.l-banner
 eredivisie.nl,racingnews365.nl###betting-prefs
+eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gazetvandaag.be,grandprix.ws,krantvandaag.nl,nieuwsgigant.nl,voetbal-vandaag.nl###topbox
+eromarkt.nl##.headerlinks:has(iframe[src="linkframe.php"])
+eromarkt.nl,erotischemassagemarkt.nl,erotischemodellen.nl,swingersmarkt.nl##.menubanner:has([src^="ads"])
+ero-meiden.nl,geilverlangen.nl##.size-full.attachment-full
+eurocampings.nl##.js-mock-banner
+excellentfm.nl##div[style="max-height: 300px;"]:has-text(/advert/i)
 fantv.nl##.tm-top-a
 fantv.nl##.tm-top-c
 farm-date.com##.hide-for-small-only:has-text(Sponsors)
@@ -309,7 +318,6 @@ republikein.com.na##.hidden-xs.az-adverts > aside:has(a[href*="//nmh.my.na/adver
 republikein.com.na##aside[style] ~ aside:not([style])
 retaildetail.be,retaildetail.nl##.ad-web .bsaProItem:has([style*="Banner"])
 rkcwaalwijk.nl##.flex.carousel--default.carousel
-riskcompliance.nl##.banner-container
 riskcompliance.nl##a[onclick*="Banner"]:not(a[href*="riskcompliance.nl"]):upward(article)
 rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
 rotterdambasketbal.nl##.gdlr-core-pbf-wrapper:has(img[title^="roba_sponosor_"])
@@ -1035,15 +1043,6 @@ dutchporntube.nl##[id^="custom_html"]:has-text(Werelds Beste)
 dvhn.nl,lc.nl##.main__ad
 dvhn.nl,lc.nl,meppelercourant.nl##.top__ad
 dwtonline.com###banner1
-eindtijdklok.org##.widget_block:has(img[src*="/ad"])
-elkspel.nl,fiets.nl,fietsactief.nl,knipmode.nl,rootsmagazine.nl,seasons.nl,truckstar.nl,vorsten.nl,zin.nl##.banner-container
-eoswetenschap.eu##.l-banner
-eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gazetvandaag.be,grandprix.ws,krantvandaag.nl,nieuwsgigant.nl,voetbal-vandaag.nl###topbox
-eromarkt.nl##.headerlinks:has(iframe[src="linkframe.php"])
-eromarkt.nl,erotischemassagemarkt.nl,erotischemodellen.nl,swingersmarkt.nl##.menubanner:has([src^="ads"])
-ero-meiden.nl,geilverlangen.nl##.size-full.attachment-full
-eurocampings.nl##.js-mock-banner
-excellentfm.nl##div[style="max-height: 300px;"]:has-text(/advert/i)
 
 focus-wtv.be##a[href^="https://ads.focus-wtv.be/"]
 girlpowerradio.nl##[class*="sponsorcarousel"]
@@ -1075,6 +1074,7 @@ pornolekker.nl##[class^="Scl"]:has([src^="//ads"])
 proximus.be##.col.pix-sidebar
 romagazine.nl##[id^="text-"]:has-text(Partners)
 romagazine.nl##aside > .textwidget [src*="wp.com/romagazine.nl/"][src*="/wp-content/uploads/"][src$="?w=665"]
+rootsmagazine.nl##.banner-container
 rtvdordrecht.nl##.bannerContainer
 rtvdrenthe.nl###recommendations-above-ad
 rtvdrenthe.nl##div[class^="col"]:has([class*="adcontainer"])
