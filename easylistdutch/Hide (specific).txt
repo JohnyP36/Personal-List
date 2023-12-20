@@ -1038,7 +1038,6 @@ dwtonline.com###banner1
 edestad.nl##.mtb-50.pt-50.col-sm-12.col-lg-12.col-md-12.bg-grey:not(:has(div[class$="text-center"]))
 edestad.nl##.w-300x.RM5
 eindtijdklok.org##.widget_block:has(img[src*="/ad"])
-eindtijdklok.org##.wpa
 elkspel.nl,fiets.nl,fietsactief.nl,knipmode.nl,rootsmagazine.nl,seasons.nl,truckstar.nl,vorsten.nl,zin.nl##.banner-container
 eoswetenschap.eu##.l-banner
 eredivisie.ws,f1-gp.nl,formule1.ws,formule1-race.nl,gazetvandaag.be,grandprix.ws,krantvandaag.nl,nieuwsgigant.nl,voetbal-vandaag.nl###topbox
