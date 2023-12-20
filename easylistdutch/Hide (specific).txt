@@ -1052,8 +1052,6 @@ golf.nl##.c-header__advert-container
 goodbye.be,sporza.be##.advertising
 gooieneemlander.nl,noordhollandsdagblad.nl,leidschdagblad.nl###advertorial-destination
 gostreaming.nl##a[rel*="sponsored"]
-grandprixradio.nl##[id^="custom_html-"]:has([src^="https://partner.bol.com/"])
-grandprixradio.nl##[id^="custom_html-"]:has([target="_blank"][rel="noopener"]):not(:has-text(/F1 kalender/i))
 
 greenkeeper.nl###lijst_logos
 greenkeeper.nl##.logoblok
