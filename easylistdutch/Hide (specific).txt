@@ -1028,7 +1028,6 @@ computable.nl##.sponsored
 crimesite.nl##em:has-text(reclame)
 cryptosjop.nl##[id^="custom_html-"]:has(.bitvavo-widget)
 culturescope.nl##.widget_sp_image:has([onclick^="javascript:window.open("] > img[width][height])
-cumcams.nl##[id^="custom_html"]:has(img[src*="wlresources.com/"])
 
 dissident.one##.td-adspot-title
 dwtonline.com###banner1
