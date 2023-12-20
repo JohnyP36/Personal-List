@@ -109,6 +109,8 @@ gpblog.com##aside[class^="Ad_"]:style(position: absolute !important; left: -3000
 gpfans.com##.leaderboardbg
 gpfans.com##.taboonews
 gpfans.com,playboy.nl##a[href^="https://casinoscout.nl/"]
+gratispornofilm.nl##.cp-webcam-gallery-container
+gratispornofilm.nl##.lazyloading.block-bordered
 grazia.nl###WB_VIDEO_PLAYER_TARGET
 groningerkrant.nl##aside.widget .swiper-slide:not(:has(a[href="/adverteren"])):upward(.swiper-wrapper)
 groningerkrant.nl##aside.widget:has(.widget-title:has-text(Vrienden))
@@ -1053,8 +1055,7 @@ grandprixradio.nl##[id^="custom_html-"]:has([src^="https://partner.bol.com/"])
 grandprixradio.nl##[id^="custom_html-"]:has([target="_blank"][rel="noopener"]):not(:has-text(/F1 kalender/i))
 gratiscams.nl###menuinner > ul#menuinner > .cat
 gratispittigesexfilms.nl,hetegangbang.nl##.spot-on
-gratispornofilm.nl##.cp-webcam-gallery-container
-gratispornofilm.nl##.lazyloaded.block-bordered
+
 greenkeeper.nl###lijst_logos
 greenkeeper.nl##.logoblok
 
