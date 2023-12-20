@@ -1028,7 +1028,6 @@ dekrantnieuws.nl,destreekkrant.nu##.wpb_wrapper > .a-single
 dekrantvantoen.nl##body:style(margin-top:-20px!important)
 deliciousmagazine.nl##.elementor-element > .elementor-element-populated:has(.banner-container):not(:has-text(/podcast/i))
 denachtvlinders.nl##.plek-boven-artikel
-deperfecte-sexdate.be,neuk-sexcontact.be##.well:has(img[src^="/images/banners"])
 digitaalburg.com##.widget-area-bottom.align-center:has(.adsbygoogle)
 digitaalburg.com##aside[class^="widget widget_text"]
 dissident.one##.td-adspot-title
