@@ -30,6 +30,8 @@ arenalokaal.nl,dehavenloods.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorp
 asex.nl###adblk1
 asex.nl###bottum_ad
 asex.nl###new_ad
+atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,tenniskrant.be,volleybalkrant.be,voetbalkrant.com,vrouwenvoetbalkrant.be,wielerkrant.be##.imu
+atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,peoplesphere.be,sciencelink.net,sneeuwhoogte.nl,sport-planet.eu,tenniskrant.be,volleybalkrant.be,voetbalkrant.com,vrouwenvoetbalkrant.be,wielerkrant.be##.leaderboard
 autobahn.eu##[data-aaad="true"]
 autobahn.eu##li[class*="block"] > div[class*="block mb-3"]:has(a[href][rel="noopener"][target="_blank"])
 autonieuws.be##.uk-width-1-2\@m:has(.uk-slider-items [target="_blank"] picture)
@@ -1013,8 +1015,6 @@ androidworld.nl,cinenews.be,handbal.nl,openrotterdam.nl,webmastersunited.com,weg
 ans-online.nl##.theiaStickySidebar > .widget:has-text(Advertentie)
 apparata.nl##.parentgpt
 assercourant.nl##div[class^="col-sm-"]:has(.ad-item)
-atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,tenniskrant.be,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.imu
-atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,peoplesphere.be,sciencelink.net,sneeuwhoogte.nl,sport-planet.eu,sportid.be,tenniskrant.be,volleybalkrant.be,voetbalkrant.com,vrouwenvoetbalkrant.be,wielerkrant.be##.leaderboard
 autowereld.nl###banner-lister-top
 autowereld.nl###mainbanner
 azerty.nl##.block.mod_article > div a[href*="ictwaarborg.nl/"]
