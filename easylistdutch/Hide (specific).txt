@@ -376,6 +376,7 @@ republikein.com.na##aside[style] ~ aside:not([style])
 retaildetail.be,retaildetail.nl##.ad-web .bsaProItem:has([style*="Banner"])
 rkcwaalwijk.nl##.flex.carousel--default.carousel
 riskcompliance.nl##a[onclick*="Banner"]:not(a[href*="riskcompliance.nl"]):upward(article)
+robtv.be,tvl.be,tvoost.be##.c-ad-cba-row + .botGutter
 rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
 rotterdambasketbal.nl##.gdlr-core-pbf-wrapper:has(img[title^="roba_sponosor_"])
 roulettefm.nl,rtvstichtsevecht.nl##body > .content:has-text(/advert/i)
@@ -1014,7 +1015,6 @@ apparata.nl##.parentgpt
 assercourant.nl##div[class^="col-sm-"]:has(.ad-item)
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,sport-planet.eu,tenniskrant.be,volleybalkrant.be,vrouwenvoetbalkrant.be,wielerkrant.be##.imu
 atletiekkrant.be,autosportkrant.be,basketbalkrant.be,handbalkrant.be,hockeykrant.be,peoplesphere.be,sciencelink.net,sneeuwhoogte.nl,sport-planet.eu,sportid.be,tenniskrant.be,volleybalkrant.be,voetbalkrant.com,vrouwenvoetbalkrant.be,wielerkrant.be##.leaderboard
-robtv.be,tvl.be,tvoost.be##.leaderboardWrap
 autowereld.nl###banner-lister-top
 autowereld.nl###mainbanner
 azerty.nl##.block.mod_article > div a[href*="ictwaarborg.nl/"]
