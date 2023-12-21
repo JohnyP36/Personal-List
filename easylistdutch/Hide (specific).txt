@@ -4,6 +4,7 @@
 112achterhoek-nieuws.nl###sidebar
 402online.com##.bannerblock
 adultwebmaster.nl##.main-promo-bn-responsive
+agconnect.nl##[class$="_ad-slot"]
 agraaf.nl##.partners-carousel
 ajaxfanatics.nl,cambuurfront.nl,fcgfans.nl,feanonline.nl,feyenoordpings.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.bn__wrapper
 ajaxfanatics.nl,cambuurfront.nl,fcgfans.nl,feanonline.nl,feyenoordpings.nl,nacfans.nl,psvfans.nl,twentefans.nl,utrechtfans.nl,vitesseinside.nl,voetbalverslaafd.nl,vrouwenvoetbalnieuws.nl##.footer__partners
@@ -1006,7 +1007,6 @@ zoom.nl##div[class^="display-ad_container"]
 afkortingen.nu###banner_rectangle
 afkortingen.nu###banner_right
 afkortingen.nu###banner_top
-agconnect.nl##[id*="partner"][id*="logo"]:has([href^="/partner"]):has(img[src*="partner"])
 ajax1.nl##.footer__footer-fat
 ajax1.nl##a[href^="https://www.awin1.com/cread.php?"]
 alkmaarguardians.nl###footer
