@@ -38,6 +38,9 @@ belegger.nl,beursduivel.be,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-w
 belegger.nl,beursduivel.be,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
 beurs.nl##.addslot
 beurs.nl##.wrapper--topbanner
+biflatie.nl##.elementor-image:has(img[src*="banner"])
+biflatie.nl##.elementor-widget-image:has(img[data-lazy-srcset*="banner"]):upward(section)
+biflatie.nl##div[id^="elementor-popup-modal"]:has([class*="full_width"] a[href*="account.bitvavo"])
 bitcoinmagazine.nl##div[style="height:52px;"]
 bitcoinmagazine.nl,cryptobenelux.com##.clickout-banner-regular_native_box
 blikopnieuws.nl##aside div[id^="block-block-"]:has(a[target="_blank"] > img)
@@ -556,7 +559,6 @@ beveiligingnieuws.nl##aside.widget:has-text(/Partners/i)
 biernet.nl###BJA2
 biernet.nl###BJA3
 biernet.nl###banTop
-biflatie.nl##.elementor-image:has(img[src*="banner"])
 binnenlandsbestuur.nl##aside div[class="c-teaser"]:not(:has(a[href*="binnenlandsbestuur.nl"]))
 binnenvaartkrant.nl,christmaholic.nl,curacao.nu,dartfreakz.nl,dbsuriname.com,dehavengids.nl,oogtv.nl,regioinbedrijf.nl,seksmet.nl,sleutelstad.nl,westerwoldeactueel.nl##.g
 bnnvara.nl##div[id^="ster-ad-bnnvara-"]:upward(1)
@@ -1014,7 +1016,6 @@ bellotube.com###exo
 berekenhet.nl##.bh-ads
 bierdopje.com##div[class=block]:has-text(/advert/i)
 biertijd.xxx###sidebarcontainer > h2:not(:has-text(/bierbroeders/i)):not(:has-text(partners))
-biflatie.nl##div[class*="elementor-widget-button"]:has-text(Advert)
 bodylifebenelux.nl##.bnrrow
 bokt.nl###frontpage_mediumrect
 bol-an.nl##section[id*="media_image"]:has-text(/sponsors/i)
