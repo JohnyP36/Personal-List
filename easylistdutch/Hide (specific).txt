@@ -1014,7 +1014,6 @@ amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,in
 androidworld.nl,cinenews.be,handbal.nl,openrotterdam.nl,webmastersunited.com,wegdamnieuws.nl##.ads
 ans-online.nl##.theiaStickySidebar > .widget:has-text(Advertentie)
 apparata.nl##.parentgpt
-assercourant.nl##div[class^="col-sm-"]:has(.ad-item)
 autowereld.nl###banner-lister-top
 autowereld.nl###mainbanner
 azerty.nl##.block.mod_article > div a[href*="ictwaarborg.nl/"]
