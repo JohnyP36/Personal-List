@@ -65,6 +65,7 @@ autobahn.eu##li[class*="block"] > div[class*="block mb-3"]:has(a[href][rel="noop
 autonieuws.be##.uk-width-1-2\@m:has(.uk-slider-items [target="_blank"] picture)
 autonieuws.be###nieuwsbrief + .uk-section:has(.uk-slider-items [target="_blank"] picture)
 autosport.nl##.active.first:style(margin-top: 0px !important;)
+autosport.nl##.advertentie_links
 autosport.nl##.bigbanner
 baanwacht.nl##.banner-image
 banknieuws.info##div[class="widget HTML"]
