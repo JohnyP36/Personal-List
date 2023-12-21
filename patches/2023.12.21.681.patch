@@ -1,0 +1,13 @@
+diff name:dutchfilterlist lines:12 checksum:5def144bb9
+d2 1
+a2 1
+! Last modified: Thu, 21 Dec 2023 12:14:31 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2023.12.21.734.patch#dutchfilterlist
+d760 2
+a771 1
+autosport.nl##.advertentie_links
+a772 2
+autowereld.nl###banner-lister-top
+autowereld.nl###mainbanner

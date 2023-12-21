@@ -1,7 +1,7 @@
 ! Title: Dutch Filter List
-! Last modified: Thu, 21 Dec 2023 11:21:47 +0000
+! Last modified: Thu, 21 Dec 2023 12:14:31 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2023.12.21.681.patch#dutchfilterlist
+! Diff-Path: patches/2023.12.21.734.patch#dutchfilterlist
 ! Diff-Expires: 12 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -757,8 +757,6 @@ apparata.nl##.widget:has(h2:has-text(/Partners/i))
 arenalokaal.nl,dehavenloods.nl,dekrantnieuws.nl,destreekkrant.nu,gooieneembode.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl,zuidenvelder.info##.component__pubble-banner:has([advobject])
 arenalokaal.nl##.content-start > * > div[style]:has-text(/Externe links|Externe websites/i)
 arenalokaal.nl,dehavenloods.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorpsweekblad.nl##.component__pubble-banner:has([advobject]):upward(.bg-gray-100):has-text(/Uit de krant/i)
-autowereld.nl###banner-lister-top
-autowereld.nl###mainbanner
 asex.nl###adblk1
 asex.nl###bottum_ad
 asex.nl###new_ad
@@ -769,7 +767,10 @@ autobahn.eu##li[class*="block"] > div[class*="block mb-3"]:has(a[href][rel="noop
 autonieuws.be##.uk-width-1-2\@m:has(.uk-slider-items [target="_blank"] picture)
 autonieuws.be###nieuwsbrief + .uk-section:has(.uk-slider-items [target="_blank"] picture)
 autosport.nl##.active.first:style(margin-top: 0px !important;)
+autosport.nl##.advertentie_links
 autosport.nl##.bigbanner
+autowereld.nl###banner-lister-top
+autowereld.nl###mainbanner
 baanwacht.nl##.banner-image
 banknieuws.info##div[class="widget HTML"]
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[id^="div-gpt-ad"]:upward(.component__plugin)
