@@ -1008,7 +1008,6 @@ baarsclassicrock.nl##.widebanner
 banknieuws.info##div[class="widget HTML"]
 basketbal.vlaanderen##.holder--divider-top
 basketball.nl##div[data-component="partner"]
-bdsmbook.nl###random_banner_widget-2
 beeldbelsex.com##.wp-block-column > center:has([data-src*="banners"])
 beeldbelsex.com##[href^="https://islive.com/"]
 beeldbelsex.com##[href^="https://www.twero.com/nl/"]:has(img[src$=".gif"])
