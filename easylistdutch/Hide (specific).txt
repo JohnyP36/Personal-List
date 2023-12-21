@@ -36,6 +36,7 @@ barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[id^=
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center[advobject]:upward(2)
 belegger.nl,beursduivel.be,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-wrapper
 belegger.nl,beursduivel.be,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
+basketbal.vlaanderen##.footer-partners
 berekenhet.nl##.bh-ads
 berekenhet.nl##.tka-sponsored-container
 beurs.nl##.addslot
@@ -1006,7 +1007,6 @@ azerty.nl##.block.mod_article > div a[href*="ictwaarborg.nl/"]
 baanwacht.nl##.shailan_banner_widget
 baarsclassicrock.nl##.widebanner
 banknieuws.info##div[class="widget HTML"]
-basketbal.vlaanderen##.holder--divider-top
 basketball.nl##div[data-component="partner"]
 beeldbelsex.com##.wp-block-column > center:has([data-src*="banners"])
 beeldbelsex.com##[href^="https://islive.com/"]
