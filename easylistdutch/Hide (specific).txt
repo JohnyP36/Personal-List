@@ -36,6 +36,8 @@ barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##[id^=
 barneveldsekrant.nl,destadamersfoort.nl,edestad.nl,scherpenzeelsekrant.nl##div.text-center[advobject]:upward(2)
 belegger.nl,beursduivel.be,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-wrapper
 belegger.nl,beursduivel.be,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
+berekenhet.nl##.bh-ads
+berekenhet.nl##.tka-sponsored-container
 beurs.nl##.addslot
 beurs.nl##.wrapper--topbanner
 biflatie.nl##.elementor-image:has(img[src*="banner"])
@@ -1013,7 +1015,6 @@ beeldbelsex.com##[href^="https://www.twero.com/nl/"]:has(img[src$=".gif"])
 bejaardensextube.nl,camsexbabe.nl,creampiesex.nl,fucking-tube.com,rapesextube.be,rapetube.be,seks-tube.be##.happy-section
 belgie-sexcontact.be##.well:has(img[src])
 bellotube.com###exo
-berekenhet.nl##.bh-ads
 bierdopje.com##div[class=block]:has-text(/advert/i)
 biertijd.xxx###sidebarcontainer > h2:not(:has-text(/bierbroeders/i)):not(:has-text(partners))
 bodylifebenelux.nl##.bnrrow
