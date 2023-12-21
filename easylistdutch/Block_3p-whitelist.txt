@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Fri, 24 Nov 2023 16:42:11 +0000
+! Last modified: Thu, 21 Dec 2023 11:21:47 +0000
 ! 2023
  ! sproeiendekutjes.nl
 @@/https\:\/\/pt\.[\w]{6}\.com\/tube-player\//$subdocument,domain=sproeiendekutjes.nl
@@ -16,6 +16,7 @@
 @@||prtawe.com/embed/tbplyr/*$script,domain=camsexbabe.nl
 @@||cdn.bluebillywig.com/scripts/prebid/$script,domain=geenstijl.nl
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=goplay.be
+@@||partner.bol.com/promotion/static/js/partnerProductlink$script,domain=grandprixradio.nl
 !@@||fundingchoicesmessages.google.com/*/$script,domain=racingnews365.nl
 @@||mmcdn.nl/tags/racingnews365.nl/artikel.js$script,domain=racingnews365.nl
 @@||mmcdn.nl/tags/vkmag.com/pagina.js$script,domain=vkmag.com
@@ -43,7 +44,7 @@
 @@/assets/cp/*/webcam_gallery/*$script,stylesheet
 !domain=camsexgirls.nl|cumcams.nl|cumcamsgirls.nl|goedkopewebcamsexs.nl|gratiscamsexchat.nl|livesexwebcammeiden.nl|meidenvoorthuisontvangst.nl|nederlandsewebcamseks.nl|nlwebcambabes.nl|sexervaringdelen.com|vrouwen-sexdate.be|webcamxxxlive.nl|xmissy.nl|xxxcamlive.nl
 @@/cp/webcam_gallery/index.php
-!domain=camsexgirls.nl|cumcams.nl|cumcamsgirls.nl|goedkopewebcamsexs.nl|gratiscamsexchat.nl|livesexwebcammeiden.nl|meidenvoorthuisontvangst.nl|nederlandsewebcamseks.nl|nlwebcambabes.nl|sexervaringdelen.com|vrouwen-sexdate.be|webcamxxxlive.nl|xmissy.nl|xxxcamlive.nl
+!domain=camsexgirls.nl|cumcams.nl|cumcamsgirls.nl|goedkopewebcamsexs.nl|gratiscamsexchat.nl|livesexwebcammeiden.nl|meidenvoorthuisontvangst.nl|nederlandsewebcamseks.nl|nlwebcambabes.nl|sexdating-gids.be|sexdatinggids.be|sexervaringdelen.com|vrouwen-sexdate.be|webcamxxxlive.nl|xmissy.nl|xxxcamlive.nl
 @@||cdn.spotxcdn.com/integration/easi/v1/easi.js$script,domain=www.radioluisteren.fm
 @@||erossite.com/nsfw/i/banner/*$subdocument,domain=eroticdreams.org
 @@||go2.go2cloud.org/aff_ad$popup,domain=tools.vpscash.nl

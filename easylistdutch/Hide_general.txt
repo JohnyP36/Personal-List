@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Wed, 22 Mar 2023 10:51:35 +0000
+! Last modified: Thu, 21 Dec 2023 11:21:47 +0000
 !kinderspelletjes.be###adRechts
 ###adRechts
 !biertijd.xxx###advertentie
@@ -16,8 +16,11 @@
 !dorpsklanken.online##.advertenties
 ##.advertenties
 ##.banner_advertentie_footer
+!bierdopje.com##.content-rechts-ad
 ##.content-rechts-ad
 ##.gesponsordelink
+!camsexbabe.nl,fucking-tube.com,rapesextube.be,seks-tube.be##.happy-section
+##.happy-section
 ##.reclame
 !a1mediagroep.nl##.reclame
 ##.reclamekop
