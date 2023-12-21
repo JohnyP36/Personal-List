@@ -24,6 +24,7 @@ apintie.sr###left-inside > div#ads
 apintie.sr###left-inside > div[style$="px;"]:not(:has(a[href]))
 apintie.sr###navcol2
 apintie.sr###sidebar > div[style*="width:300px; height:"]:not(:has(img[alt="Apintie iPhone App"]))
+apparata.nl##.widget:has(h2:has-text(/Partners/i))
 arenalokaal.nl,dehavenloods.nl,dekrantnieuws.nl,destreekkrant.nu,gooieneembode.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl,zuidenvelder.info##.component__pubble-banner:has([advobject])
 arenalokaal.nl##.content-start > * > div[style]:has-text(/Externe links|Externe websites/i)
 arenalokaal.nl,dehavenloods.nl,hetkrantje-online.nl,laardercourant.nl,leiderdorpsweekblad.nl##.component__pubble-banner:has([advobject]):upward(.bg-gray-100):has-text(/Uit de krant/i)
@@ -1013,7 +1014,6 @@ amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,in
 amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv##.banner_image2
 androidworld.nl,cinenews.be,handbal.nl,openrotterdam.nl,webmastersunited.com,wegdamnieuws.nl##.ads
 ans-online.nl##.theiaStickySidebar > .widget:has-text(Advertentie)
-apparata.nl##.parentgpt
 autowereld.nl###banner-lister-top
 autowereld.nl###mainbanner
 azerty.nl##.block.mod_article > div a[href*="ictwaarborg.nl/"]
