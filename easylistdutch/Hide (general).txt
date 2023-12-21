@@ -16,6 +16,7 @@
 !dorpsklanken.online##.advertenties
 ##.advertenties
 ##.banner_advertentie_footer
+!bierdopje.com##.content-rechts-ad
 ##.content-rechts-ad
 ##.gesponsordelink
 ##.reclame
