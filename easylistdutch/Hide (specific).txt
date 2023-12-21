@@ -1012,7 +1012,7 @@ bdsmbook.nl###random_banner_widget-2
 beeldbelsex.com##.wp-block-column > center:has([data-src*="banners"])
 beeldbelsex.com##[href^="https://islive.com/"]
 beeldbelsex.com##[href^="https://www.twero.com/nl/"]:has(img[src$=".gif"])
-camsexbabe.nl,creampiesex.nl,fucking-tube.com,rapesextube.be,rapetube.be,seks-tube.be##.happy-section
+camsexbabe.nl,fucking-tube.com,rapesextube.be,rapetube.be,seks-tube.be##.happy-section
 bierdopje.com##div[class=block]:has-text(/advert/i)
 biertijd.xxx###sidebarcontainer > h2:not(:has-text(/bierbroeders/i)):not(:has-text(partners))
 bodylifebenelux.nl##.bnrrow
