@@ -317,8 +317,8 @@ marokko.nl##.ad_between
 marokko.nl##.ad_inner
 mediacourant.nl##.mc-adv
 menttv.be##.cta-container
-messianieuws.nl####a[target="_blank"]:not([href*="messianieuws.nl"]) > img[data-src*="messianieuws.nl/wp-content/uploads"]:upward(div[id^="block-"])
-messianieuws.nl####aside > .sb-widget:has-text(/Israël Weekbrief|Introductiecursus/)
+messianieuws.nl##a[target="_blank"]:not([href*="messianieuws.nl"]) > img[data-src*="messianieuws.nl/wp-content/uploads"]:upward(div[id^="block-"])
+messianieuws.nl##aside > .sb-widget:has-text(/Israël Weekbrief|Introductiecursus/)
 meteovista.be##div[class*="AdWrapper"]
 metrotime.be##.r-pub
 mijn-tv-gids.be##.midzone
