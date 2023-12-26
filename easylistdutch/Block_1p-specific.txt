@@ -1,7 +1,7 @@
 [uBlock Origin]
-! Last modified: Thu, 21 Dec 2023 11:21:47 +0000
+! Last modified: Tue, 26 Dec 2023 14:38:06 +0000
 ! 2023
-npo.nl,vpro.nl##+js(json-prune, assets.preroll assets.prerollDebug)
+bnnvara.nl,npo.nl,vpro.nl##+js(json-prune, assets.preroll assets.prerollDebug)
 /^https?:\/\/statics\.(?:7sur7|ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
   !||statics.*.*/js/advertising-$script,domain=7sur7.be|ad.nl|bd.nl|bndestem.nl|destentor.nl|ed.nl|gelderlander.nl|hln.be|tubantia.nl|pzc.nl
 .nl/adurl/$xmlhttprequest,domain=start-player.npo.nl

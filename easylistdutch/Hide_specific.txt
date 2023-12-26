@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Thu, 21 Dec 2023 12:14:31 +0000
+! Last modified: Tue, 26 Dec 2023 14:38:06 +0000
 ! 2023
 112achterhoek-nieuws.nl###sidebar
 402online.com##.bannerblock
@@ -91,6 +91,7 @@ bitcoinmagazine.nl##div[style="height:52px;"]
 bitcoinmagazine.nl,cryptobenelux.com##.clickout-banner-regular_native_box
 blikopnieuws.nl##aside div[id^="block-block-"]:has(a[target="_blank"] > img)
 blikopzeewolde.nl##.fusion-flex-container.fullwidth-box.fusion-fullwidth:has(:not(a[href^="https://www.blikopzeewolde.nl/"]) > .fusion-column-inner-bg-image)
+bnnvara.nl,npo.nl,vpro.nl##.bitmovinplayer-poster
 bnr.nl##div[class*="BNRAd_ad_"]
 bodylifebenelux.nl##.bnrrow
 bokt.nl###frontpage_mediumrect
@@ -226,7 +227,8 @@ gocar.be##.container-leaderboard
 gocar.be##.pub-text:upward(2)
 goedkoopstekeukensduitsland.nl##[id^="text"]:has(a[href^="https://www.goedkoopstekeukensduitsland.nl"][href$="-bnr"])
 goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
-golf.nl##.c-header__advert-containergoodbye.be##.advertising
+golf.nl##.c-header__advert-container
+goodbye.be##.advertising
 gooieneemlander.nl,noordhollandsdagblad.nl,leidschdagblad.nl###advertorial-destination
 gostreaming.nl##a[rel*="sponsored"]
 goudengids.be##.banner-boxes-holder
@@ -316,8 +318,8 @@ marokko.nl##.ad_between
 marokko.nl##.ad_inner
 mediacourant.nl##.mc-adv
 menttv.be##.cta-container
-messianieuws.nl####a[target="_blank"]:not([href*="messianieuws.nl"]) > img[data-src*="messianieuws.nl/wp-content/uploads"]:upward(div[id^="block-"])
-messianieuws.nl####aside > .sb-widget:has-text(/Israël Weekbrief|Introductiecursus/)
+messianieuws.nl##a[target="_blank"]:not([href*="messianieuws.nl"]) > img[data-src*="messianieuws.nl/wp-content/uploads"]:upward(div[id^="block-"])
+messianieuws.nl##aside > .sb-widget:has-text(/Israël Weekbrief|Introductiecursus/)
 meteovista.be##div[class*="AdWrapper"]
 metrotime.be##.r-pub
 mijn-tv-gids.be##.midzone
@@ -343,7 +345,6 @@ nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
 nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 nnieuws.be##[class*="blockpartners"]
 nnieuws.be##[id^="block-billboard"]:has([class*="banner"])
-npo.nl,vpro.nl##.bitmovinplayer-poster
 notebookcheck.nl###nbc_skys
 nuus.be##.adv-link:upward(.sidebar)
 nzbindex.nl##form + div a[href^="/"]:has(img)
