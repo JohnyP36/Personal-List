@@ -91,6 +91,7 @@ bitcoinmagazine.nl##div[style="height:52px;"]
 bitcoinmagazine.nl,cryptobenelux.com##.clickout-banner-regular_native_box
 blikopnieuws.nl##aside div[id^="block-block-"]:has(a[target="_blank"] > img)
 blikopzeewolde.nl##.fusion-flex-container.fullwidth-box.fusion-fullwidth:has(:not(a[href^="https://www.blikopzeewolde.nl/"]) > .fusion-column-inner-bg-image)
+bnnvara.nl,npo.nl,vpro.nl##.bitmovinplayer-poster
 bnr.nl##div[class*="BNRAd_ad_"]
 bodylifebenelux.nl##.bnrrow
 bokt.nl###frontpage_mediumrect
@@ -344,7 +345,6 @@ nlsexfilmpjes.com###left_div li:not(:has(a[target="_blank"]))
 nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 nnieuws.be##[class*="blockpartners"]
 nnieuws.be##[id^="block-billboard"]:has([class*="banner"])
-npo.nl,vpro.nl##.bitmovinplayer-poster
 notebookcheck.nl###nbc_skys
 nuus.be##.adv-link:upward(.sidebar)
 nzbindex.nl##form + div a[href^="/"]:has(img)
