@@ -226,7 +226,8 @@ gocar.be##.container-leaderboard
 gocar.be##.pub-text:upward(2)
 goedkoopstekeukensduitsland.nl##[id^="text"]:has(a[href^="https://www.goedkoopstekeukensduitsland.nl"][href$="-bnr"])
 goedkoopstekeukensduitsland.nl##img[width="300"][height="250"]
-golf.nl##.c-header__advert-containergoodbye.be##.advertising
+golf.nl##.c-header__advert-container
+goodbye.be##.advertising
 gooieneemlander.nl,noordhollandsdagblad.nl,leidschdagblad.nl###advertorial-destination
 gostreaming.nl##a[rel*="sponsored"]
 goudengids.be##.banner-boxes-holder
