@@ -3,7 +3,7 @@
 ! 2023
 /Images/*Ad$image,domain=sun.sr
 /Images/*Banner$image,domain=sun.sr
-||akamaized.net^$media,domain=npo.nl|vpro.nl,redirect=noopmp3-0.1s
+||akamaized.net^$media,domain=bnnvara.nl|npo.nl|vpro.nl,redirect=noopmp3-0.1s
 ||cdn-radio.dpgmedia.net/*/*/*banner*$image,domain=qmusic.be|qmusic.nl
 ||nieuwsgrazer.nl/images/ads/$domain=landbouwgrond.nu
 ||qmusic.medialaancdn.be/*/*/*banner*$image,domain=qmusic.nl
