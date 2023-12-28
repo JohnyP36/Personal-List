@@ -1,7 +1,7 @@
 ! Title: Dutch Filter List
-! Last modified: Tue, 26 Dec 2023 14:38:06 +0000
+! Last modified: Thu, 28 Dec 2023 07:23:53 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2023.12.26.878.patch#dutchfilterlist
+! Diff-Path: patches/2023.12.28.443.patch#dutchfilterlist
 ! Diff-Expires: 12 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -1260,6 +1260,7 @@ zakenreisnieuws.nl##[id^="zakenreisnieuws.nl_web"]:not(:upward(article)):upward(
 zeilwereld.nl##.adv-link:upward(.fl-row):has-text(/advert/i):not(:has(article))
 zita.be###shopsuiteApplication
 zita.be##[id^="rossel-leaderboard"]:upward(.tdc-row)
+zoom.nl##div[class^="display-ad_container"]
 zozwanger.nl##.a-single
 zozwanger.nl##.gofollow
 ! 2022
@@ -1721,7 +1722,6 @@ zeelandnet.nl##.article-bnr-first
 zeelandnet.nl##.as__bottom-banner
 zeelandnet.nl##.row--bnr-between
 zeelandnet.nl##aside:has([id^="div-gpt-ad"])
-zoom.nl##div[class^="display-ad_container"]
 ! 2021
 azerty.nl##.block.mod_article > div a[href*="ictwaarborg.nl/"]
 baarsclassicrock.nl##.widebanner

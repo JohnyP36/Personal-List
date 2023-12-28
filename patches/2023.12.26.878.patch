@@ -1,0 +1,10 @@
+diff name:dutchfilterlist lines:9 checksum:5d31090058
+d2 1
+a2 1
+! Last modified: Thu, 28 Dec 2023 07:23:53 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2023.12.28.443.patch#dutchfilterlist
+a1262 1
+zoom.nl##div[class^="display-ad_container"]
+d1724 1
