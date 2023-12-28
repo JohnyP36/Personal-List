@@ -1,7 +1,7 @@
 ! Title: Dutch Filter List
-! Last modified: Thu, 28 Dec 2023 07:23:53 +0000
+! Last modified: Thu, 28 Dec 2023 08:52:24 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2023.12.28.443.patch#dutchfilterlist
+! Diff-Path: patches/2023.12.28.532.patch#dutchfilterlist
 ! Diff-Expires: 12 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -1254,6 +1254,7 @@ wijwedden.net##.top-bookmaker-widget
 willem-ii.nl##.sponsors-block
 wintersport.nl##.wintersport-banner
 xmissy.nl##div[data-awe-container-id$="container"][style]
+xxxdump.nl###reclame-eroads
 yachtfocus.com##.av
 zakenreisnieuws.nl##[id*="web_billboard"]:upward(article > .field)
 zakenreisnieuws.nl##[id^="zakenreisnieuws.nl_web"]:not(:upward(article)):upward(.block)
@@ -1716,7 +1717,6 @@ wordfeudwoorden.nl##.mobblue
 wos.nl##.header-right
 wradio.be##.c-advertiser-logos
 xgn.nl##.bs
-xxxdump.nl###reclame-eroads
 yourlittleblackbook.me##.simple-image > [href^="https://www.nsinternational.com/traintracker/"]
 zeelandnet.nl##.article-bnr-first
 zeelandnet.nl##.as__bottom-banner
