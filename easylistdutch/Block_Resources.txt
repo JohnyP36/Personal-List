@@ -2,6 +2,24 @@
 ! Description: Filters to block specific URLs on Dutch websites
 ! Last updated: %timestamp%
 !
+! 2023-12-26
+||akamaized.net^$media,domain=bnnvara.nl,redirect=noopmp3-0.1s
+bnnvara.nl##+js(json-prune, assets.preroll)
+! 2023-12-20
+||shortpixel.ai/client/to_webp,q_lossy,ret_img,w_*/https://groningerkrant.nl/wp-content/uploads/*.jpg$image,domain=groningerkrant.nl
+! 2023-12-19
+||grandprixradio.nl/*/advertisements/
+||knhs.nl/media/*/*-banner$image
+||nieuwsgrazer.nl/images/ads/$domain=landbouwgrond.nu
+/wp-content/plugins/age-gate*$domain=nieuwslog.nl
+||motorblog.nl/wp-content/uploads/banner$image
+||radioluisteren.fm/ads/
+||1twente.nl/Ads/$image,domain=twentefm.nl
+! 2023-12-18
+||rivierenland-radio.nl/banners/$image
+||s.s-bol.com/nl/upload/partnerprogramma/$image
+||tennisenpadelvlaanderen.be/*/23Banner_$image
+||ipon.nl/wp-content/uploads/*/*banner$image
 ! 2023-11-24
 ||doorbraak.be/wp-json/api/*/ads$xhr
 ||grootnieuwsradio.nl/advertisements$xhr
@@ -97,8 +115,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||watersport-tv.nl/content/*/pages/clnt/*_org$image
 ||yachtfocus.com/wp-content/*/images/bnr/
 ||zeilwereld.nl/wp-content/uploads/*/*banner
-! 2023-05-05
-||proshop.nl/Images/Topbanner$image
 ! 2023-05-02
 ||cmtt.nl/Advertisement/$image,domain=advocatie.nl
 ||advocatie.nl/content/uploads//Mediation-Basis$image
@@ -123,7 +139,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||msa.paginabanner.nl/banners/$image
 ||wp.com/noordernieuws.nl/wp-content/uploads/*/*.gif$image,domain=noordernieuws.nl
 ||partyflock.nl/images/*/*_i*_$image
-||vives.nl/wp-content/uploads/*banner$image
 ||wp.com/gostreaming.nl/wp-content/uploads/*.gif$image
 ||zwartewaterfm.nl/wp-content/uploads/*/SponsorenZwarteWaterFM
 ! 2023-04-26
@@ -139,8 +154,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||klasse.be/wp/wp-content/images/*_lb_*full.*$image
 ||kookboekennieuws.nl/wp-content/uploads/*/*BANNER*$image
 ||wp.com/klokradio.nl/wp-content/uploads/*/adv-
-||knhs.nl/imagegen.ashx?image=/media/*/*banner*&width=550&constrain=true$image
-||knhs.nl/imagegen.ashx?image=/media/*/*banner*&width=360&constrain=true$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/50-Plus-Makelaar-*.jpg$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/Boogaers-2018-125.png$image
 ||oisterwijknieuws.nl/wp-content/uploads/*/MBA-regiobank-*.gif$image
@@ -230,8 +243,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||racexpress.nl/img/sponsors/
 ||simone.nl/wp-content/uploads/*besteonderdelen.nl
 ||rss.app/api/widget/$domain=hollywoodhuizen.nl
-||tennisvlaanderen.be/documents/*/*banner/
-||tennisvlaanderen.be/documents/*/*Sponsorblok-$image,1p
 ||hoekschnieuws.nl/wp-content/banners$image
 ||sponsorlink.nl/js/snippet.js$script,domain=handbalstartpunt.nl
 ||h2owaternetwerk.nl/images/banners/$image
@@ -256,7 +267,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||edelmetaal-info.nl/wp-content/uploads/*/*HollandGold*$image
 ! 2022-06-27
 ||broadcastmagazine.nl/wp-content/uploads/*/SMPhomepagenw2.gif
-||madmoney.eu/promotools/banners/
 ||aafm.nl/cms/wp-content/*/banners/$image
 ||aavisie.nl/cms/wp-content/*/banners/$image
 ! 2022-06-22
@@ -266,8 +276,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||ouders.nl/uploads/alt/$domain=viafora.nl
 ! 2022-06-17
 ||dartfreakz.nl/wp-content/uploads/*/banner$image
-! 2022-06-14
-||qassa.nl/images/*/wallpaper$image
 ! 2022-05-27
 ||mandelnieuws.be^*/Sponsors/
 ! 2022-05-05 
@@ -320,15 +328,11 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 /^https?:\/\/statics\.(?:ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
 ||2link.be/banners/
 ||abcsuriname.com/templates/abc/assets/gfx/header_banner$image,1p
-||agconnect.nl/sites/ag/files/styles/partner_*$image,1p
 ||amazonaws.com/zkn/files/*.gif$image,domain=zorgkaartnederland.nl
 ||am-forum.nl/upload/logo_elektrodump.png
 ||amz01.plzcdn.com/a/
 ||antilliaansdagblad.com/images/banners/
 ||apintie.sr/bannerz$image
-||audiobookbay.nl/images/bin.jpg$image
-||audiobookbay.nl/images/bz.jpg$image
-||audiobookbay.nl/images/fr.jpg$image
 ||b-cdn.net/w_/s3-roulettefm/*.$image,domain=roulettefm.nl
 ||b-cdn.net/w_/s3-rtvstichtsevecht/*.$image,domain=rtvstichtsevecht.nl
 ||belgiancycling.be/resize.asp?w=120&file=*.gif
@@ -347,7 +351,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||camping-frankrijk.nl/graphics/*/*600.$image
 ||cdn.media.zylom.com/images/site/zylom/promo/$3p
 ||cdn.sbsnet.nl/creatives/assets/*.mp4$domain=kijk.nl
-||cdn.shopsuite.com/js/layer.js$script,domain=franska.nl
 ||cdn.ster.nl/banners^
 ||christelijknieuws.nl/upload/modules/banner/$image
 ||ciaotutti.nl/wp-content/uploads/*/koffiecentrale-*$image
@@ -359,7 +362,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||cloudfront.net/banners/$domain=eredivisie.nl
 ||clubbrugge.be^*/partner/$image
 ||coastline945fm.nl/cache/partners/$image
-||coastlinefm.nl/cache/partners/
 ||computable.be/media/truelogo*$image,1p
 ||computable.nl/media/truelogo*$image,1p
 ||creditexpo.nl/wp-content/uploads/*/*_400x400*.jpg
@@ -370,14 +372,11 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||dagbladdewest.com/wp-content/uploads/*/*-AD*.jpg$image
 ||dating.*.auroraobjects.eu/files/bans/*$image
 ||debestevpn.nl/wp-content/*-banner.
-||delichtzijde.nl/images/banners/*.$image,1p
 ||denachtvlinders.nl/wp-content/uploads/*/bol-*.gif$image
 ||despirituelewereld.be/wp-content/uploads/*/DrukZo-Korting-*$image
 ||despirituelewereld.be/wp-content/uploads/*/hook-bottom-info-coronavirus*$image
 ||dewereldmorgen.be/wp-content/banners/$image
 ||digitalaudience.io/bakery/pix/$image,3p
-||dorpsklanken.online/wp-content/uploads/*/Knap-IT_Paterswolde.png$image
-||dorpsklanken.online/wp-content/uploads/*/polling_basis.jpg$image
 ||dutchcryptotalk.com/wp-content/uploads/*/bitvavo
 ||duurzaam-actueel.nl^*banner
 ||edelmetaal-info.nl/cdfund-336x280.html
@@ -389,7 +388,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||elektronicaforum.nl/banner*$image,1p
 ||emerce.nl/content/uploads/*/hosted-by-true-$image,1p
 ||enviedeplus.be^*_banner_$3p
-||eredivisie.nl/images/logos/partners/
 ||fanclubbarcelona.nl/viewfile/*banner/$image
 ||fcupdate.nl/js/adslot.js
 ||feenstra-internetservices.nl/?_dnid=$3p
@@ -435,7 +433,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||noordhollandsdagblad.nl/nhd/extra/assets/advertising/dfp-setup.js$script,1p
 ||omroeprsh.nl/wp-content/uploads/*/*RSH-300x*.gif$image
 ||onderwijsland.com/files/partners/
-||oneworld.nl/app/uploads/*/*-Banner$image
 ||ontdek-amerika.nl/marketing/bartsbanner.gif
 ||openingsurengids.be/includes/js/checkblockv2.js
 ||openingsurengids.be/template/images/publi/
@@ -461,7 +458,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||resellers.viboshop.nl/promoimages/
 ||risallah.com/multimedia/images/banners/$image
 ||rtveen.nl/wp-content/plugins/advanced-advertising-system/js/*$script,1p
-||search-result.com^*/klokad2.js
 ||sedproductions.nl/banners/$image,3p
 ||simone.nl/wp-content/uploads/*-onderdelenexpert.nl-
 ||sociaaldigitaal.nl/img/Banner-$3p
@@ -481,13 +477,10 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||touretappe.nl/images/xtra/
 ||tradeidee.nl/banners/
 ||transport-online.nl/site/includes/uploads/banner-$image
-||trivago.nl/nl/srv/destination/js/$domain=popinstituut.nl
 ||tweedehandschristelijkeboeken.nl/wp-content/uploads/*/gratis-eo-visie.png$image
-||twentefm.nl/directcast/custom/rtvnot/playout/commercials/
 ||ucl-voetbal.nl/derden/
 ||uecl-voetbal.nl/derden/
 ||uel-voetbal.nl/derden/
-||unity.nu/media/*/BANNERS/
 ||vbro.be/wp-content/uploads/*/autoonderdelen24_$image
 ||verkeerplaza.nl/js/banner.js
 ||viapizza.online/?ts_id=$subdocument,domain=dagbladdewest.com
@@ -505,7 +498,8 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 
 ! NSFW Sites
 *$3p,image,domain=kinkymedia.nl
-/images/*.gif$image,domain=123video.nl|geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
+/images/*.gif$image,domain=geheimesexdate.be|hoerensexgids.nl|hotdatingvlaanderen.be|ikneukgraag.nl|leukesexcontactjes.nl|milflive.nl|nederlandsextube.nl|neukafspraakjes.com|neukcontacten.info|neukplaza.nl|privesexgids.nl|sexverhalencams.com|tiener-sexverhalen.nl|vindsexcontact.nl|vlaanderen-sexdate.be|zinineensexdate.com|zinomteneuken.nl
+/images/banners/*$image,domain=geile-sexverhalen.be|geile-sexverhalen.nl
 /img/banners/*.gif$image,1p,domain=18date.net|oproepjesnederland.nl|sex55.net|stout-contact.be|stout-contact.nl|zoekertjesbelgie.be
 /wp-content/uploads/*.gif$image,domain=bekijkporno.nl|geilverlangen.nl|gratispornofilm.nl|hete-foto.nl|lekkerewebcams.nl|nieuws.xxx|onderdanigeman.nl|onschuldigemeiden.nl|poldersexverhalen.nl|pornokartel.nl|seksmet.nl|sexmeid.nl|sexmetvrouwen.nl|shespot.nl|sproeiendekutjes.nl|tiener-sexverhalen.nl|tubelight.nl|wraaksex.nl
 /wp-content/uploads/*/Neuk-test$image,domain=gratispornofilm.nl|outdoor-sex.nl|pornokartel.nl|teen-sex.nl

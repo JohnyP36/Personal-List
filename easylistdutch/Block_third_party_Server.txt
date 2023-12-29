@@ -29,9 +29,6 @@
 ! 2021-11-30
 ! goodbye.be
 ||travelads.be^$3p
-! 2021-11-20
-! tzum.info
-||t.bazarow.com^$3p
 ! 2021-11-10
 ! streamwijzer.be
 ||affiliatable1.b-cdn.net^$3p
@@ -43,15 +40,12 @@
 ! 2021-11-04
 ! kanaalz.knack.be
 ||adshim.com^$3p
-! 2021-10-23
-! nos.nl (https://nos.nl/op3/video/2399828-wie-bepaalt-welke-emoji-s-jij-kunt-gebruiken)
-||dntblckmpls.nl^$3p
 ! 2021-09-18
 ! dagelijksestandaard.nl
 ||viadata.store^$3p
 ! 2021-09-16
 ! tpo.nl
-||affiliateprogramma.eu^$3p
+! ||affiliateprogramma.eu^$3p
 ! 2021-09-13
 ! rtvalbrandswaard.com
 ||sponsorkliks.com^$3p
@@ -63,8 +57,6 @@
 ! https://github.com/easylist/easylistdutch/commit/1dcc8ccbf4b1d5afeebdccbe224b332c99546b63
 ! routenet.nl
 ||botndm.nl^$3p
-! 2021-08-09
-||chainadvertising.eu^$3p
 ! 2021-07-28
 ||gratis-neuken.com^$3p
 ! 2021-06-29
@@ -77,7 +69,7 @@
 ||adquick.nl^$3p
 ||adulttradecenter.nl^$3p
 ||affilaxy.com^$3p
-||affiliatepartners.com^$3p
+! ||affiliatepartners.com^$3p
 ||asp.unitedconsumers.com^$3p
 ||awin.com^$3p
 ||bva-auctions.com^$domain=telegraaf.nl
@@ -85,7 +77,6 @@
 ||cd.tnet.nl^$script,3p
 ||cleafs.nl^$3p
 ||conversive.nl^$3p
-||csmcampagne.consumind.nl^$3p
 ||daisycon.com^$3p
 ||datingcash.eu^$3p
 ||ds1.nl^$3p
@@ -96,10 +87,9 @@
 ||euroclix.nl^$3p,domain=~panelclix.com|~panelclix.nl
 ||extremecash.nl^$3p
 ||hotlinkie.com^$3p
-||kimhollandpartners.nl^$3p
+! ||kimhollandpartners.nl^$3p
 ||klikbonus.com^$3p
 ||lauwebut.nl^$3p
-||lustcash.nl^$3p
 ||maakmedia.nl^$3p
 ||midhold.nl^$3p
 ||mt67.net^$3p
@@ -118,6 +108,6 @@
 ||teasemedia.nl^$3p
 ||tradetracker.com^$3p
 ||verkoopmenu.nl^$3p
-||views.affiliate4you.nl^$3p
+! ||views.affiliate4you.nl^$3p
 ||vpscash.nl^$3p
 ||xpartners.nl^$3p
