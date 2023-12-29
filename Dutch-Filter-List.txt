@@ -1,7 +1,7 @@
 ! Title: Dutch Filter List
-! Last modified: Thu, 28 Dec 2023 08:52:24 +0000
+! Last modified: Fri, 29 Dec 2023 06:46:17 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2023.12.28.532.patch#dutchfilterlist
+! Diff-Path: patches/2023.12.29.406.patch#dutchfilterlist
 ! Diff-Expires: 12 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -1778,6 +1778,9 @@ veto.be##div[class*="spacer block"]:has([href][id*="advert"])
 voetbal.com##.adbox
 
 !#if env_mobile
+mannenzaken.nl##.r89-mobile-rectangle-mid
+mannenzaken.nl##.r89-mobile-billboard-top:upward(.td_block_wrap)
+mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
