@@ -1074,6 +1074,9 @@ veto.be##div[class*="spacer block"]:has([href][id*="advert"])
 voetbal.com##.adbox
 
 !#if env_mobile
+mannenzaken.nl##.r89-mobile-rectangle-mid
+mannenzaken.nl##.r89-mobile-billboard-top:upward(.td_block_wrap)
+mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
