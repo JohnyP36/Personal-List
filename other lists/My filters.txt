@@ -76,22 +76,29 @@ www.google.*#@#div.sh-sr__shop-result-group[data-hveid]:has(g-scrolling-carousel
 google.*##.USRMqe
 www.google.*##div.section-cardbox:has-text(/Covid-19 info/i):matches-path(/maps/)
 mail.google.com##div[data-tooltip="Ruimtes"]:style(height: 10px !important;)
+youtube.com##+js(addEventListener-defuser, dblclick)
 youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope:has([class*="promo-renderer"])
 www.youtube.com##tp-yt-app-drawer#guide .ytd-guide-section-renderer > #header:has(a[href="/feed/you"])
+www.youtube.com##ytd-guide-renderer yt-formatted-string:has-text(/Shopping\b|Live\b|Learning\b|Fashion & Beauty\b|Podcasts\b|Leren\b|Mode en beauty\b/mu):upward(ytd-guide-entry-renderer)
+www.youtube.com##h3 > #guide-section-title:has-text(/More from YouTube|YouTube/):upward(ytd-guide-section-renderer)
 www.youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
 www.youtube.com##ytd-rich-grid-renderer:style(--ytd-rich-grid-items-per-row: 4 !important;)
 www.youtube.com##ytd-rich-grid-renderer:matches-path(/@):style(--ytd-rich-grid-items-per-row: 5 !important;)
 www.youtube.com###thumbnail[class*="thumbnail"]:upward([class$="renderer"]):matches-path(/results?search_query):style(max-width: 250px !important;)
 www.youtube.com##ytd-reel-shelf-renderer:matches-path(/watch?v=)
 www.youtube.com##ytd-watch-metadata #actions button [class*="button-text-content"]:not(:has-text(/\d/)):remove()
-www.youtube.com##ytd-watch-metadata ytd-menu-renderer div[class$="icon"]:not(:upward(segmented-like-dislike-button-view-model)):not(:upward(ytd-segmented-like-dislike-button-renderer)):not(:upward(ytd-video-description-infocards-section-renderer)):style(margin-right: -6px !important; margin-left: -6px !important;)
+www.youtube.com##ytd-watch-metadata ytd-menu-renderer yt-icon[style]:upward(button):not(:has(path[d^="M7.5"])) yt-touch-feedback-shape:not(:upward(segmented-like-dislike-button-view-model)):not(:upward(ytd-segmented-like-dislike-button-renderer)):not(:upward(ytd-video-description-infocards-section-renderer)):style(margin-right: -6px !important; margin-left: -6px !important;)
 www.youtube.com###comment-teaser
 www.youtube.com###above-the-fold #middle-row ytd-info-panel-content-renderer
  www.youtube.com###clarify-box
 www.youtube.com##ytd-shorts .disclaimer-container:upward(#info-panel)
-www.youtube.com##ytd-structured-description-content-renderer #items > .ytd-horizontal-card-list-renderer a > div:has(img)
+www.youtube.com##ytd-structured-description-content-renderer #items:not(:has(* > ytd-macro-markers-list-item-renderer)) > .ytd-horizontal-card-list-renderer a > div:has(img)
+www.youtube.com##ytd-structured-description-content-renderer #items > ytd-horizontal-card-list-renderer #footer-section a[href="/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ"]:upward(#footer-section)
 www.youtube.com##ytd-video-description-transcript-section-renderer
-!www.youtube.com###structured-description ytd-video-description-infocards-section-renderer
+www.youtube.com###structured-description ytd-video-description-infocards-section-renderer > #header, #structured-description ytd-video-description-infocards-section-renderer > #action-buttons
+www.youtube.com###structured-description ytd-video-description-infocards-section-renderer:not(:has(* > #infocards-section ytd-compact-infocard-renderer > #content))
+www.youtube.com##ytd-browse[page-subtype="playlist"] [title-style="ITEM_SECTION_HEADER_TITLE_STYLE_PLAYLIST_RECOMMENDATIONS"]:upward(ytd-item-section-renderer)
+www.youtube.com##ytd-browse[page-subtype="playlist"] #dismissible:has(yt-horizontal-list-renderer ytd-grid-playlist-renderer)
 www.youtube.com#@##merch-shelf
 www.youtube.com#@#.ytd-merch-shelf-renderer
 !:style(overscroll-behavior: none; !important)
@@ -122,7 +129,7 @@ www.google.*,rd.nl##html:style(overflow: visible !important)
 mail.google.com##+js(remove-attr, data-saferedirecturl, a[href][data-saferedirecturl], stay)
 www.google.com##+js(remove-attr, jsaction|jsname|data-ved|data-adurl, a[class][rel][href][jsname], stay)
 www.google.com##+js(remove-attr, jsaction, img[class][jsaction], stay)
-youtube.com##+js(href-sanitizer, a[href^="https://www.youtube.com/redirect?"])
+youtube.com##+js(href-sanitizer, a[href^="https://www.youtube.com/redirect?"][href*="q="], ?q)
 facebook.com##+js(href-sanitizer, a[href^="https://l.facebook.com/l.php?u="], ?u)
 instagram.com##+js(href-sanitizer, a[href^="https://l.instagram.com/?u="], ?u)
 github.com##+js(href-sanitizer, a[href^="https://adguardteam.github.io/AnonymousRedirect/redirect.html?url="], ?url)
@@ -132,17 +139,23 @@ chamilo.etf.edu##div.btn-default > a[href]:matches-path(/courses/):remove-attr(t
 
 ! Click on cookie concents
 consent.google.com##+js(ceo, form[action="https://consent.google.com/save"] button[aria-label="Reject all"], , 20000)
-consent.youtube.com##+js(ceo, form[action="https://consent.youtube.com/save"] button[aria-label="Reject all"], , 20000)
 www.google.com##+js(trusted-set-cookie, SOCS, CAESHAgBEhJnd3NfMjAyMzEwMTktMF9SQzMaAmVuIAEaBgiAktypBg, , , reload, 1)
-www.youtube.com##+js(ceo, ytd-consent-bump-v2-lightbox > #dialog > #content .eom-buttons > .eom-button-row:nth-of-type(1) > ytd-button-renderer:nth-of-type(1) button, , 20000)
+youtube.com##+js(trusted-set-cookie, SOCS, CAISNQgDEitib3FfaWRlbnRpdHlmcm9udGVuZHVpc2VydmVyXzIwMjMxMjEwLjA5X3AwGgJlbiADGgYIgIvpqwY, , none , reload, 1)
+!consent.youtube.com##+js(ceo, form[action="https://consent.youtube.com/save"] button[aria-label="Reject all"], , 20000)
+!www.youtube.com##+js(ceo, ytd-consent-bump-v2-lightbox > #dialog > #content .eom-buttons > .eom-button-row:nth-of-type(1) > ytd-button-renderer:nth-of-type(1) button, , 20000)
 buienradar.nl##+js(ceo, button#onetrust-accept-btn-handler, , 20000)
 buienradar.nl##+js(ceo, .onboard-popup-container .onboard-button.button-no, , 20000)
-cmp.dpgmedia.*,cmp.ad.nl,cmp.gelderlander.nl,cmp.nu.nl##+js(ceo, .message-component > button.pg-accept-button, , 20000)
+cmp.dpgmedia.*,cmp.ad.nl,cmp.autoweek.nl,cmp.gaspedaal.nl,cmp.gelderlander.nl,cmp.margriet.nl,cmp.nu.nl,cmp.trouw.nl##+js(trusted-click-element, .message-component > button.pg-configure-button)
+cmp.dpgmedia.*,cmp.ad.nl,cmp.autoweek.nl,cmp.gaspedaal.nl,cmp.gelderlander.nl,cmp.margriet.nl,cmp.nu.nl,cmp.trouw.nl##+js(trusted-click-element, '.message-component button[aria-checked="false"][aria-label^="Social"], button.sp_choice_type_SAVE_AND_EXIT')
+dumpert.nl,gva.be,metronieuws.nl,nieuwsblad.be,telegraaf.nl##+js(trusted-click-element, '.didomi-popup-open button#didomi-notice-learn-more-button, .didomi-popup-open button#didomi-radio-option-disagree-to-all, .didomi-popup-open .didomi-components-radio__option--unselected[aria-describedby="didomi-purpose-social_media"], .didomi-popup-open .didomi-consent-popup-actions > button[aria-describedby="didomi-consent-popup-information-save"]')
 instagram.com##+js(ceo, div[class][style] div[role="dialog"] > div[style] > button:nth-of-type(2), , 20000)
+marktplaats.nl##+js(ceo, .message-container > #notice button[class*="sp_choice_type_"][title="Accepteren"], , 20000)
 mediamarkt.nl##+js(ceo, #mms-consent-portal-container button[data-test$="save-settings"], , 20000)
 nl.hardware.info##+js(trusted-set-local-storage-item, consentData, {"relevantAds":{"version":1\,"approved":false}\,"youtube":{"version":1\,"approved":true}})
-rijnmond.nl##+js(trusted-set-cookie, consent-cookie-toggles, [{%22type%22:%22social%22%2C%22value%22:3}%2C{%22type%22:%22remaining%22%2C%22value%22:2}])
-telegraaf.nl##+js(ceo, #didomi-host #didomi-popup button#didomi-notice-agree-button, , 20000)
+omroepbrabant.nl##+js(ceo, button[class^="consent-manager_continue"], , 20000)
+rijnmond.nl,rtvoost.nl##+js(trusted-set-cookie, consent-cookie-toggles, [{%22type%22:%22social%22%2C%22value%22:3}%2C{%22type%22:%22remaining%22%2C%22value%22:2}])
+rtl.nl,rtlnieuws.nl##+js(trusted-click-element, '#onetrust-consent-sdk #onetrust-pc-btn-handler, .ot-cat-item [aria-controls="ot-desc-id-C0005"], .ot-switch-nob[aria-label="Sociale media"], button.save-preference-btn-handler')
+tweakers.net##+js(trusted-click-element, '#koekieBar:not(.koekie_bar_inactive) .koekie_interaction_button[data-action="configure"], #koekieBar .toggleSwitch.on[data-action="toggleAll"], #koekieBar .koekie_interaction_button[data-action="saveConfigured"]')
 ! Hide cookie banners
 !www.google.*##+js(acis, document.cookie, YES+)
 !www.google.*##+js(aeld, DOMContentLoaded, CONSENT)
@@ -170,9 +183,10 @@ y8.com###policy-validation
 freebitco.in##.daily_jackpot_main_container_div, #deposit_promo_message_regular
 freebitco.in##.reveal-modal-bg, #myModal22.open.reveal-modal
 freebitco.in###free_play_payout_table > div[id^="premium"][id*="membership"]
+gab.com#?#:matches-path(/\/home) span[data-text="Featured Businesses"]:upward(3)
 gab.com#?#:matches-path(/\/home|\/groups/) span[class]:has-text(/^Upgrade/i):upward(3)
-!gab.com##a[href*="grow.gab.com/go"]:has(aside img[src*="grow.gab.com/galahad"])
 gab.com##aside a[href*="shop.dissenter.com/product/"]:has(img):upward(1)
+gab.com##h2[class]:has-text(Featured Businesses Listings):upward(aside)
 gab.com##h2[class]:has-text(Gab Voice):upward(aside)
 github.com##.body:has-text(github-actions):has-text(/JohnyP36\/Personal-List|EasyDutch-uBO\/EasyDutch/)
 github.com##[data-a11y-link-underlines="true"] .Link--inTextBlock:style(text-decoration: none !important)
@@ -187,7 +201,6 @@ rd.nl##.tp-modal, .tp-active.tp-backdrop
 speedtest.net##.notification-container > div > .notification
 speedtest.net###_evidon-barrier-wrapper
 y8.com##.div-gpt-ad-above:style(position: absolute !important; left: -5000px !important;)
-ad.nl##.article__wrapper [class*="temptation"]
 startpage.com#@#.ad.widget
 mijn.ing.nl##+js(ceo, header nav.lang-selector span[aria-label^="NL"])
 !mns.com##+js(rsre, div[class="shopping-carousel-wrapper"])
