@@ -489,7 +489,7 @@ telegraaf.nl##.withBanners + .ComponentRotation
 tellows.nl###lb_header
 tiener-sexverhalen.nl##aside[id^="block"]:has([src*="/wp-content/uploads/"][src$=".webm"])
 tiener-sexverhalen.nl##aside[id^="block"]:has(img[src*="/wp-content/uploads/"][src$=".gif"])
-topgear.nl##div:has( > div[style]:has-text(/advert/i):has(div[id]))
+topgear.nl##div[id$="ad-wrap"]
 tostrams.nl##[class*="banner"]
 tostrams.nl,yourlittleblackbook.me##[id*="banner"]
 touretappe.nl###right .desktopad[id*="TOURETAPPE_300"]:upward(1)
