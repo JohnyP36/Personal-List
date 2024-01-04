@@ -1,7 +1,7 @@
 ! Title: Dutch Filter List
-! Last modified: Fri, 29 Dec 2023 06:46:17 +0000
+! Last modified: Thu, 04 Jan 2024 13:08:20 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2023.12.29.406.patch#dutchfilterlist
+! Diff-Path: patches/2024.1.4.788.patch#dutchfilterlist
 ! Diff-Expires: 12 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -1193,7 +1193,7 @@ telegraaf.nl##.withBanners + .ComponentRotation
 tellows.nl###lb_header
 tiener-sexverhalen.nl##aside[id^="block"]:has([src*="/wp-content/uploads/"][src$=".webm"])
 tiener-sexverhalen.nl##aside[id^="block"]:has(img[src*="/wp-content/uploads/"][src$=".gif"])
-topgear.nl##div:has( > div[style]:has-text(/advert/i):has(div[id]))
+topgear.nl##div[id$="ad-wrap"]
 tostrams.nl##[class*="banner"]
 tostrams.nl,yourlittleblackbook.me##[id*="banner"]
 touretappe.nl###right .desktopad[id*="TOURETAPPE_300"]:upward(1)
