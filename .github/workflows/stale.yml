@@ -5,6 +5,10 @@ on:
     - cron: '00 12 * * 1'
     - cron: '59 23 * * 4'
 
+permissions: 
+  issues: write
+  pull-requests: write
+
 jobs:
   stale:
     runs-on: ubuntu-latest
