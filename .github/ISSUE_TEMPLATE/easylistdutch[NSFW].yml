@@ -22,7 +22,7 @@ body:
        - label: I performed a [cursory search of the issue tracker](https://github.com/JohnyP36/Personal-List/issues) to avoid opening a duplicate issue
          required: true
        - label: I am running the latest version of uBlock Origin (or Adguard or Adblock Plus, etc.)
-         required: false
+         required: true
        - label: This is an `NSFW` issue  --  *If it is **not** an "NSFW" issue use this [issue template](https://github.com/JohnyP36/Personal-List/issues/new?assignees=&labels=&template=easylistdutch.yml)*
          required: true
           
@@ -35,9 +35,16 @@ body:
           required: true
         - label: other privacy related webextensions are disabled  --  *This is to ensure there are no issues or conflicts with other webbrowser extensions*
           required: true
+        - label: I did not enable additional filter lists, or I have verified that the issue still occurs without enabling additional filter lists.
+          required: true
+        - label: I do not have custom filters/rules, or I have verified that the issue still occurs without custom filters/rules.
+          required: true
         - label: uBlock Origin with default lists/settings *if appliable*
           required: false
         - label: using a new, unmodified browser profile
+          required: false
+          
+        - label: I did not answer truthfully to **ALL** the above checkpoints.
           required: false
           
   - type: input
@@ -45,7 +52,10 @@ body:
       label: URL(s) where the issue occurs
       description: At least one URL for a web page where the clearly described issue occurs is **mandatory**. 
         The backticks (`) surrounding the URLs are important, it prevents the URL from being clickable.
-      placeholder: "`example.nl` or `xyz.example.nl` or `example.com/abc`"
+      placeholder: |
+        `example.nl`
+        or `xyz.example.nl` 
+        or `example.com/abc`.
     validations:
       required: true
 
