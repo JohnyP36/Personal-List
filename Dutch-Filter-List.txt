@@ -1,7 +1,7 @@
 ! Title: Dutch Filter List
-! Last modified: Fri, 05 Jan 2024 16:57:56 +0000
+! Last modified: Tue, 09 Jan 2024 07:11:00 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2024.1.5.1017.patch#dutchfilterlist
+! Diff-Path: patches/2024.1.9.431.patch#dutchfilterlist
 ! Diff-Expires: 12 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -290,6 +290,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||autonieuws.be/templates/yootheme/cache/*/BEL_*_800x172_nl$image
 ||autonieuws.be/templates/yootheme/cache/*Banner$image
 ||autosport.nl/dist/images/Banner$image
+||bdsm-vrienden.nl/sb_data/modules/mod_aav/
 ||boottesten.nl/wp-content/uploads/*/*Ad.gif
 ||cvandaag.nl/api/advertise-deliver/deliver?adtypes=banners$xhr
 ||diecourant.co.za/wp-content/uploads/*-20*-1024x*.jpg^$image
