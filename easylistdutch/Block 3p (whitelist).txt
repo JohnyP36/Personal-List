@@ -1,5 +1,7 @@
 [uBlock Origin]
 ! Last modified: %timestamp%
+! 2024
+@@||promotools.biz^$subdocument,domain=beeldbelsex.com
 ! 2023
  ! sproeiendekutjes.nl
 @@/https\:\/\/pt\.[\w]{6}\.com\/tube-player\//$subdocument,domain=sproeiendekutjes.nl
