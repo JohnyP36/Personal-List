@@ -1,7 +1,7 @@
 ! Title: Dutch Filter List
-! Last modified: Wed, 10 Jan 2024 11:25:50 +0000
+! Last modified: Wed, 10 Jan 2024 11:42:31 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2024.1.10.685.patch#dutchfilterlist
+! Diff-Path: patches/2024.1.10.702.patch#dutchfilterlist
 ! Diff-Expires: 12 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -565,7 +565,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||spike-source.com/wp-admin/admin-ajax.php?action=select&p=onder-filmpje$subdocument
 ||spike-source.com/wp-admin/admin-ajax.php?action=select&p=rechts-menu-onder$subdocument
 ||tennisvlaanderen.be/documents/*/*banner/
-||tpo.nl/wp-content/themes/*/tpo-banner$image
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
 ! 2021
