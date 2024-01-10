@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Tue, 26 Dec 2023 14:38:06 +0000
+! Last modified: Wed, 10 Jan 2024 11:01:59 +0000
 ! 2023
 /Images/*Ad$image,domain=sun.sr
 /Images/*Banner$image,domain=sun.sr
@@ -47,7 +47,6 @@
 ||succesboeken.nl/api/public/images/branding/$image,domain=commonsensetv.nl
 ||swpportal.com/upload/squarebanners/$domain=sozio.nl
 ||tickers.zimmo.be/gva/$domain=gva.be
-||tools-affil2.com/rtb/index.php$domain=1001erotiekverhalen.nl
 ||upload.gscdn.nl/uploads/*_Kansino_Feed$image,domain=geenstijl.nl
 ||widget.vpnnederland.nl/VPNNederland-widget.js$domain=nzbserver.com
 ||widget.vroom.be/$domain=gva.be
@@ -71,7 +70,6 @@
 ||eindtijdchristen.files.wordpress.com/*/ad-$image,domain=eindtijdklok.org
 ||ent-cdn.com/files/bans/*belowvid*$image,domain=vagina.nl
 ||fx.nl/_ext/widget/$third-party
-||go2cloud.org/aff_ad?*&format=iframe$subdocument,domain=sexoverzicht.nl|sextube.nl
 ||inviteonly.nl/banner/*$image,domain=kutscheetje.nl
 ||jobat.be/extra/trackuityhn/ticker_new.html$domain=nieuwsblad.be
 ||lustmagazine.nl/mediafiles/*/*_250x250.gif$image,domain=wraaksex.nl

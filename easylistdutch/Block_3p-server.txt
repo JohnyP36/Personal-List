@@ -1,6 +1,6 @@
 [uBlock Origin]
-! Last modified: Tue, 31 Oct 2023 06:30:52 +0000
-||2k19.nl^$third-party
+! Last modified: Wed, 10 Jan 2024 11:01:59 +0000
+||2k19.nl^$third-party,popup
 ||2k21.nl^$third-party
 ||2k23.nl^$third-party
 ||2k24.nl^$third-party
@@ -48,6 +48,7 @@
 ||elitedating.nl^$third-party
 ||euroclix.nl^$third-party,domain=~panelclix.com|~panelclix.nl
 ||extremecash.nl^$third-party
+||go2.go2cloud.org^$third-party
 ||hotlinkie.com^$third-party
 ||kimhollandpartners.nl^$third-party
 ||klikbonus.com^$third-party
@@ -75,6 +76,7 @@
 ||static-dscn.net^$third-party
 ||t.bazarow.com^$third-party
 ||teasemedia.nl^$third-party
+||tools-affil2.com^$third-party
 ||tradetracker.com^$third-party
 ||travelads.be^$third-party
 ||verkoopmenu.nl^$third-party
