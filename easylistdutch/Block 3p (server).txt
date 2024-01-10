@@ -1,6 +1,6 @@
 [uBlock Origin]
 ! Last modified: %timestamp%
-||2k19.nl^$third-party
+||2k19.nl^$third-party,popup
 ||2k21.nl^$third-party
 ||2k23.nl^$third-party
 ||2k24.nl^$third-party
