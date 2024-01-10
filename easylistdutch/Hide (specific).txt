@@ -6,6 +6,7 @@
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,hln.be,pzc.nl##.page-header__section--spacer
 !7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(> article.ankeiler--advertisement)
 ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,pzc.nl,tubantia.nl##[data-temptation-position="OORTJE"]
+demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.oortje-wrapper
 ! 2023
 112achterhoek-nieuws.nl###sidebar
 402online.com##.bannerblock
@@ -140,7 +141,6 @@ dekattensite.nl##.nxs-default-p > p:has-text(advert)
 dekrantnieuws.nl,destreekkrant.nu##.component__pubble-banner:has([advobject]):upward(.builder__row:not(.grid))
 dekrantvantoen.nl##body:style(margin-top:-20px!important)
 deliciousmagazine.nl##.elementor-element > .elementor-element-populated:has(.banner-container):not(:has-text(/podcast/i))
-demorgen.be,humo.be,margriet.nl,volkskrant.nl##.oortje-wrapper
 demorgen.be,margriet.nl,volkskrant.nl##.position-after-main-home
 denachtvlinders.nl##.plek-boven-artikel
 deondernemer.nl,vtwonen.be,vtwonen.nl##div[class$="advertisement__container"]
@@ -373,7 +373,6 @@ opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
 osurtv.nl##.wdslider:has-text(/Sponsor|partners/i)
 overstrandherald.co.za##.wpb_widgetised_column .widget_text
 paginamarkt.nl##.element:has(.sb-advertentie > .adsbygoogle)
-parool.nl,trouw.nl##.oortje-wrapper
 peoplesphere.be##[id^="text-"]:not(:has(a[href^="https://peoplesphere.be/"])):not(:has(.twitter-timeline))
 pikanterooieoortjes.nl##.widget_custom_html:has([src^="//aweproto.com/"])
 pokeren.nl##.sidebaritem:has-text(/partners|online casino/i)
