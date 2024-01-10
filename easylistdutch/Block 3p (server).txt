@@ -48,6 +48,7 @@
 ||elitedating.nl^$third-party
 ||euroclix.nl^$third-party,domain=~panelclix.com|~panelclix.nl
 ||extremecash.nl^$third-party
+||go2.go2cloud.org^$third-party
 ||hotlinkie.com^$third-party
 ||kimhollandpartners.nl^$third-party
 ||klikbonus.com^$third-party
