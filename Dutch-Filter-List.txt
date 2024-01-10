@@ -1,7 +1,7 @@
 ! Title: Dutch Filter List
-! Last modified: Wed, 10 Jan 2024 11:01:59 +0000
+! Last modified: Wed, 10 Jan 2024 11:25:50 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2024.1.10.661.patch#dutchfilterlist
+! Diff-Path: patches/2024.1.10.685.patch#dutchfilterlist
 ! Diff-Expires: 12 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -566,7 +566,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||spike-source.com/wp-admin/admin-ajax.php?action=select&p=rechts-menu-onder$subdocument
 ||tennisvlaanderen.be/documents/*/*banner/
 ||tpo.nl/wp-content/themes/*/tpo-banner$image
-||voetbalnieuws.be/*/images/website-takeover/*$image,first-party
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
 ! 2021
@@ -713,9 +712,11 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(> article.ankeiler--advertisement)
 ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,pzc.nl,tubantia.nl##[data-temptation-position="OORTJE"]
 demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.oortje-wrapper
+fok.nl,fr12.nl,looopings.nl,mannenzaken.nl,scientias.nl,voetbalnieuws.be,voetbalrotterdam.nl,webwoordenboek.nl##div[class^="r89-desktop"]
 gratissextube.be##a[href^="https://www.2k19.nl/"]
 opwindend.net##.b > .profilethumb:upward(.tab)
 poldertube.nl##a[href^="https://go2.go2cloud.org/"]
+webwoordenboek.nl##.layout__main-ads
 ! 2023
 112achterhoek-nieuws.nl###sidebar
 402online.com##.bannerblock
@@ -906,7 +907,6 @@ filmtotaal.nl###adf-rectangle
 filmtotaal.nl##.ad-centering
 financialinvestigator.nl##.mpu
 focusclub.nl##.funbox
-fok.nl,fr12.nl,looopings.nl,mannenzaken.nl,scientias.nl##div[class^="r89-desktop"]
 freeones.nl##.banner-placeholder
 freesoccer.nl##.container-fluid.site-header
 fucking-tube.com,pornokartel.nl,seks-tube.be##.video-block-happy
@@ -1682,7 +1682,7 @@ tube.nederlandseporno.nl##[id^="custom_html"]:has-text(/Polder Webcamsex|Sex con
 tube.nederlandseporno.nl##h3:has-text(/Sexdating|Webcamsex/)
 tubeseks.be##.site-footer
 tvblik.nl##.banner-fluid
-tvblik.nl,voetbalrotterdam.nl,webwoordenboek.nl##div[class^="r89-desktop"]
+tvblik.nl##div[class^="r89-desktop"]
 tvgids.nl##.square-item:has( > .banner)
 unitednews.sr###image-vertical-reel-scroll-slideshow
 unitednews.sr##.slider-container

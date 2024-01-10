@@ -1,0 +1,16 @@
+diff name:dutchfilterlist lines:15 checksum:9ddda556f6
+d2 1
+a2 1
+! Last modified: Wed, 10 Jan 2024 11:25:50 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2024.1.10.685.patch#dutchfilterlist
+d569 1
+a715 1
+fok.nl,fr12.nl,looopings.nl,mannenzaken.nl,scientias.nl,voetbalnieuws.be,voetbalrotterdam.nl,webwoordenboek.nl##div[class^="r89-desktop"]
+a718 1
+webwoordenboek.nl##.layout__main-ads
+d909 1
+d1685 1
+a1685 1
+tvblik.nl##div[class^="r89-desktop"]

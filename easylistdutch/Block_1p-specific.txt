@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Tue, 09 Jan 2024 07:11:00 +0000
+! Last modified: Wed, 10 Jan 2024 11:25:50 +0000
 ! 2023
 bnnvara.nl,npo.nl,vpro.nl##+js(json-prune, assets.preroll assets.prerollDebug)
 /^https?:\/\/statics\.(?:7sur7|ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
@@ -297,7 +297,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||spike-source.com/wp-admin/admin-ajax.php?action=select&p=rechts-menu-onder$subdocument
 ||tennisvlaanderen.be/documents/*/*banner/
 ||tpo.nl/wp-content/themes/*/tpo-banner$image
-||voetbalnieuws.be/*/images/website-takeover/*$image,first-party
 ||wietforum.nl/uploads/monthly_*/ai_php.gif.*.gif$image
 ||wietforum.nl/uploads/monthly_*/*_312x60*.jpg.*.jpg$image
 ! 2021
