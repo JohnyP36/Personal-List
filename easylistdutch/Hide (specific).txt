@@ -10,6 +10,7 @@ fok.nl,fr12.nl,looopings.nl,mannenzaken.nl,scientias.nl,voetbalnieuws.be,voetbal
 gratissextube.be##a[href^="https://www.2k19.nl/"]
 opwindend.net##.b > .profilethumb:upward(.tab)
 poldertube.nl##a[href^="https://go2.go2cloud.org/"]
+webwoordenboek.nl##.layout__main-ads
 ! 2023
 112achterhoek-nieuws.nl###sidebar
 402online.com##.bannerblock
