@@ -76,6 +76,7 @@
 ||static-dscn.net^$third-party
 ||t.bazarow.com^$third-party
 ||teasemedia.nl^$third-party
+||tools-affil2.com^$third-party
 ||tradetracker.com^$third-party
 ||travelads.be^$third-party
 ||verkoopmenu.nl^$third-party
