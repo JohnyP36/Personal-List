@@ -152,6 +152,7 @@ dknieuws.nl##.dknie-widget:has(.adv-link)
 doorbraak.be##a[href^="https://vnz.be"]:upward(.border-dashed)
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 duic.nl##.article-excerpt--ad
+dumpert.nl##[id^="ad_"]:not(:upward(aside)):upward(3)
 dumpert.nl##[id^="ad_"]:upward(2)
 dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 dutchitchannel.nl##a[href]:not(a[href*="dutchit"]):has(img[src*="assets-servd.host"])
