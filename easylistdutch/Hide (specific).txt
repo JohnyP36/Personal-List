@@ -1,11 +1,13 @@
 [uBlock Origin]
-! Last modified: %timestamp%
+! Last modified: %timestamp
+! 2024
+ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
+ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,hln.be,pzc.nl##.page-header__section--spacer
+ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(> article.ankeiler--advertisement)
+ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,pzc.nl,tubantia.nl##.layout__component--temptation
 ! 2023
 112achterhoek-nieuws.nl###sidebar
 402online.com##.bannerblock
-7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
-7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,hln.be,pzc.nl##.page-header__section--spacer
-7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(:scope >.ankeiler--advertisement)
 adultwebmaster.nl##.main-promo-bn-responsive
 afkortingen.nu###banner_rectangle
 afkortingen.nu###banner_right
@@ -576,7 +578,6 @@ accountancyvanmorgen.nl,salarisvanmorgen.nl##.rc-banner-leaderboard
 accountancyvanmorgen.nl,pensioenvanmorgen.nl,salarisvanmorgen.nl##aside > section:has(img):not(:has(a[href*="vanmorgen.nl"]))
 accountancyvanmorgen.nl,fiscaalvanmorgen.nl,salarisvanmorgen.nl##div[class*="slideshow-wrapper"]:has-text(/vriend|partners|hoofdsponsor/i)
 actueel-nieuws.besteoverzicht.nl##.block:has-text(Gesponsorde)
-ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,tubantia.nl,pzc.nl##.article__component--temptation
 afkortingen.nu,allradio.nl,broadcastmagazine.nl,creditexpo.nl,erotracks.nl,filmladder.nl,gezondheidsnet.nl,klasse.be,nieuweoogst.nl,nieuws.nl,nrc.nl,nu.nl,sexfotodating.nl,startbewijs.nl,startkabel.nl,startpagina.nl,televizier.nl,telezien.nl,totaaltv.nl,truck1.be,truck1-nl.be,truck1.nl,tvgemist.be,tvgids.nl,unity.nu,uw-folder.nl,voetbalnieuws.be,waldnet.nl##.banner
 agriline.be,agriline.nl,autoline.be,autoline.nl,machineryline.be,machineryline.nl##.sales-cat-context
 ajaxreport.nl,psvreport.nl##[id^="text"][class$="sidebar-widget"]:has-text(/casino/i):not(:has(div[class="widget-title"]))
