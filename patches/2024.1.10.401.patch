@@ -1,0 +1,15 @@
+diff name:dutchfilterlist lines:14 checksum:6734fdeb95
+d2 1
+a2 1
+! Last modified: Wed, 10 Jan 2024 09:09:05 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2024.1.10.549.patch#dutchfilterlist
+a707 5
+! 2024
+ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
+ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,hln.be,pzc.nl##.page-header__section--spacer
+ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(> article.ankeiler--advertisement)
+ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,pzc.nl,tubantia.nl##.layout__component--temptation
+d711 3
+d1284 1
