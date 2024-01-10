@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Fri, 05 Jan 2024 16:57:56 +0000
+! Last modified: Wed, 10 Jan 2024 06:41:13 +0000
 ! 2023
 112achterhoek-nieuws.nl###sidebar
 402online.com##.bannerblock
@@ -152,6 +152,7 @@ dknieuws.nl##.dknie-widget:has(.adv-link)
 doorbraak.be##a[href^="https://vnz.be"]:upward(.border-dashed)
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 duic.nl##.article-excerpt--ad
+dumpert.nl##[id^="ad_"]:not(:upward(aside)):upward(3)
 dumpert.nl##[id^="ad_"]:upward(2)
 dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 dutchitchannel.nl##a[href]:not(a[href*="dutchit"]):has(img[src*="assets-servd.host"])
