@@ -7,6 +7,7 @@
 ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,pzc.nl,tubantia.nl##[data-temptation-position="OORTJE"]
 demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.oortje-wrapper
 gratissextube.be##a[href^="https://www.2k19.nl/"]
+opwindend.net##.b > .profilethumb:upward(.tab)
 poldertube.nl##a[href^="https://go2.go2cloud.org/"]
 ! 2023
 112achterhoek-nieuws.nl###sidebar
@@ -888,7 +889,6 @@ onderwijsland.com##.widgetbar > div.row > :has-text(Advert)
 onlinecasinorss.nl,onlinekraslotenrss.nl,voetbalsnafu.nl,voetbalweddenrss.nl##[class$="sidebar-widget"]:has(p > a[href*="casino"]):not(:has(div[class="widget-title"]))
 onsoranje.nl##.SponsorBar
 oogtv.nl##.home-banner
-opwindend.net##div.Tab:has(img[src^="Promotie_Content/"])
 palnws.be##.adlink:not(:has([src*="PalNWS"]))
 palnws.be##.ads-wrapper:not(:has(a[href*="palnws.be"]))
 palnws.be##.content-inner > .palnw-target:has([id^="div-gpt-ad"])
