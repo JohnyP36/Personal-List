@@ -47,7 +47,6 @@
 ||succesboeken.nl/api/public/images/branding/$image,domain=commonsensetv.nl
 ||swpportal.com/upload/squarebanners/$domain=sozio.nl
 ||tickers.zimmo.be/gva/$domain=gva.be
-||tools-affil2.com/rtb/index.php$domain=1001erotiekverhalen.nl
 ||upload.gscdn.nl/uploads/*_Kansino_Feed$image,domain=geenstijl.nl
 ||widget.vpnnederland.nl/VPNNederland-widget.js$domain=nzbserver.com
 ||widget.vroom.be/$domain=gva.be
