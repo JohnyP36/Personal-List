@@ -1,10 +1,11 @@
 [uBlock Origin]
 ! Last modified: %timestamp
 ! 2024
-ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
-ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,hln.be,pzc.nl##.page-header__section--spacer
-ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(> article.ankeiler--advertisement)
-ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,pzc.nl,tubantia.nl##.layout__component--temptation
+7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.ankeiler--advertisement
+7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
+7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,hln.be,pzc.nl##.page-header__section--spacer
+!7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(> article.ankeiler--advertisement)
+ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,pzc.nl,tubantia.nl##[data-temptation-position="OORTJE"]
 ! 2023
 112achterhoek-nieuws.nl###sidebar
 402online.com##.bannerblock
