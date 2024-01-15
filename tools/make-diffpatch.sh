@@ -40,6 +40,11 @@ for FILE in "${FILES[@]}"; do
 
         # Extract diff name from `! Diff-Path:` field
         DIFF_NAME=$(grep -m 1 -oP '^! Diff-Path: [^#]+#?\K.*' "$FILE")
+        # Fall back to `! Diff-Name:` field if no name found
+        # Remove once `! Diff-Name:` is no longer needed after transition
+        if [[ -z $DIFF_NAME ]]; then
+            DIFF_NAME=$(grep -m 1 -oP '^! Diff-Name: \K.+' "$FILE")
+        fi
         echo "Info: Diff name for ${FILE} is ${DIFF_NAME}"
 
         # We need a patch name to generate a valid patch
@@ -57,7 +62,7 @@ for FILE in "${FILES[@]}"; do
             FILE_CHECKSUM="$(sha1sum "$FILE")"
             FILE_CHECKSUM=${FILE_CHECKSUM:0:10}
 
-            DIFF_LINES="$(wc -l < "$DIFF")"
+            DIFF_LINES=$(wc -l < "$DIFF")
             echo "Info: Computed patch for ${FILE} has ${DIFF_LINES} lines"
 
             # Populate output file with patch information
