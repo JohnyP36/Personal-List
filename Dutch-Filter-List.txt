@@ -1,7 +1,7 @@
 ! Title: Dutch Filter List
-! Last modified: Mon, 15 Jan 2024 13:15:34 +0000
+! Last modified: Mon, 15 Jan 2024 13:38:29 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2024.1.15.795.patch#dutchfilterlist
+! Diff-Path: patches/2024.1.15.818.patch#dutchfilterlist
 ! Diff-Expires: 12 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
