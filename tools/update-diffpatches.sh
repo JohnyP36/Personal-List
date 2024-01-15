@@ -44,11 +44,16 @@ for PATCH_FILE in "${PATCH_FILES[@]}"; do
     # This will receive a clone of an old version of the current repo
     echo "Fetching repo at $PREVIOUS_VERSION version"
     OLD_REPO=$(mktemp -d)
-    git clone -q --single-branch --branch "$PREVIOUS_VERSION" --depth=1 "https://github.com/$REPO_DIR.git" "$OLD_REPO" 2>/dev/null
+    git clone -q --single-branch --branch "$PREVIOUS_VERSION" --depth=1 "https://github.com/$REPO_DIR.git" "$OLD_REPO" 2>/dev/null || true
+
+    # Skip if version doesn't exist
+    if [ -z "$(ls -A "$OLD_REPO" 2>/dev/null)" ]; then
+        continue;
+    fi
 
     : > "$NEW_PATCH_FILE"
 
-    for FILTER_LIST in "${FILTER_FILES[@]}"; do
+    for FILTER_LIST in ${FILTER_FILES[@]}; do
 
         if [ ! -f "$OLD_REPO/$FILTER_LIST" ]; then continue; fi
 
@@ -75,12 +80,12 @@ for PATCH_FILE in "${PATCH_FILES[@]}"; do
         fi
 
         # Compute the RCS diff between current version and new version
-        diff -n "$OLD_REPO/$FILTER_LIST $FILTER_LIST" > "$DIFF_FILE" || true
+        diff -n "$OLD_REPO/$FILTER_LIST" "$FILTER_LIST" > "$DIFF_FILE" || true
 
         FILE_CHECKSUM=$(sha1sum "$FILTER_LIST")
         FILE_CHECKSUM=${FILE_CHECKSUM:0:10}
 
-        DIFF_LINE_COUNT=$(wc -l "$DIFF_FILE")
+        DIFF_LINE_COUNT=$(wc -l < "$DIFF_FILE")
 
         # Patch header
         DIFF_HEAD="diff name:$DIFF_NAME lines:$DIFF_LINE_COUNT checksum:$FILE_CHECKSUM"
