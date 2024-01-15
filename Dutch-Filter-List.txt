@@ -1,7 +1,7 @@
 ! Title: Dutch Filter List
-! Last modified: Mon, 15 Jan 2024 13:38:29 +0000
+! Last modified: Mon, 15 Jan 2024 14:40:54 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2024.1.15.818.patch#dutchfilterlist
+! Diff-Path: patches/2024.1.15.880.patch#dutchfilterlist
 ! Diff-Expires: 12 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -717,6 +717,7 @@ gratissextube.be##a[href^="https://www.2k19.nl/"]
 opwindend.net##.b > .profilethumb:upward(.tab)
 poldertube.nl##a[href^="https://go2.go2cloud.org/"]
 webwoordenboek.nl##.layout__main-ads
+wos.nl##.header-right
 xgn.nl##.bs
 ! 2023
 112achterhoek-nieuws.nl###sidebar
@@ -1723,7 +1724,6 @@ wkdarts.nl##[href="https://www.loketkansspel.nl/"]
 woorden.org##div[style] [id*="728x90"]:upward(3)
 vnexplorer.net###ads_right_scroll_single_sidebar
 wordfeudwoorden.nl##.mobblue
-wos.nl##.header-right
 wradio.be##.c-advertiser-logos
 yourlittleblackbook.me##.simple-image > [href^="https://www.nsinternational.com/traintracker/"]
 zeelandnet.nl##.article-bnr-first

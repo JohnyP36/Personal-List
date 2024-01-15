@@ -1,1 +1,16 @@
-diff name:dutchfilterlist lines:0 /tmp/tmp.FxmadLvC2Z checksum:0934c65af5
+diff name:dutchfilterlist lines:15 checksum:c46215ff45
+d2 1
+a2 1
+! Last modified: Mon, 15 Jan 2024 14:40:54 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2024.1.15.880.patch#dutchfilterlist
+a712 1
+bekijkporno.nl##.fp-brand
+a718 2
+wos.nl##.header-right
+xgn.nl##.bs
+d1724 1
+d1726 1
+a1798 1
+bekijkporno.nl#@#.bottom-adv

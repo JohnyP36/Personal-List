@@ -1,1 +1,52 @@
-diff name:dutchfilterlist lines:0 /tmp/tmp.FxmadLvC2Z checksum:0934c65af5
+diff name:dutchfilterlist lines:51 checksum:c46215ff45
+d2 1
+a2 1
+! Last modified: Mon, 15 Jan 2024 14:40:54 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2024.1.15.880.patch#dutchfilterlist
+d64 1
+a64 1
+||2k19.nl^$third-party,popup
+a111 1
+||go2.go2cloud.org^$third-party
+a138 1
+||tools-affil2.com^$third-party
+d216 1
+d240 1
+a292 1
+||bdsm-vrienden.nl/sb_data/modules/mod_aav/
+d567 2
+a584 2
+! 2024
+@@||promotools.biz^$subdocument,domain=beeldbelsex.com
+a706 14
+! 2024
+7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
+7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,hln.be,pzc.nl##.page-header__section--spacer
+7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(> article.ankeiler--advertisement)
+ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,pzc.nl,tubantia.nl##[data-temptation-position="OORTJE"]
+bekijkporno.nl##.fp-brand
+demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.oortje-wrapper
+fok.nl,fr12.nl,looopings.nl,mannenzaken.nl,scientias.nl,voetbalnieuws.be,voetbalrotterdam.nl,webwoordenboek.nl##div[class^="r89-desktop"]
+gratissextube.be##a[href^="https://www.2k19.nl/"]
+opwindend.net##.b > .profilethumb:upward(.tab)
+poldertube.nl##a[href^="https://go2.go2cloud.org/"]
+webwoordenboek.nl##.layout__main-ads
+wos.nl##.header-right
+xgn.nl##.bs
+d710 3
+d844 1
+a858 1
+dumpert.nl##[id^="ad_"]:not(:upward(aside)):upward(3)
+d900 1
+d1076 1
+d1282 1
+d1592 1
+d1679 1
+a1679 1
+tvblik.nl##div[class^="r89-desktop"]
+d1719 1
+d1721 1
+a1793 1
+bekijkporno.nl#@#.bottom-adv

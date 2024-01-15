@@ -1,1 +1,24 @@
-diff name:dutchfilterlist lines:0 /tmp/tmp.FxmadLvC2Z checksum:0934c65af5
+diff name:dutchfilterlist lines:23 checksum:c46215ff45
+d2 1
+a2 1
+! Last modified: Mon, 15 Jan 2024 14:40:54 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2024.1.15.880.patch#dutchfilterlist
+d568 2
+a714 1
+bekijkporno.nl##.fp-brand
+a715 1
+fok.nl,fr12.nl,looopings.nl,mannenzaken.nl,scientias.nl,voetbalnieuws.be,voetbalrotterdam.nl,webwoordenboek.nl##div[class^="r89-desktop"]
+a718 3
+webwoordenboek.nl##.layout__main-ads
+wos.nl##.header-right
+xgn.nl##.bs
+d909 1
+d1685 1
+a1685 1
+tvblik.nl##div[class^="r89-desktop"]
+d1725 1
+d1727 1
+a1799 1
+bekijkporno.nl#@#.bottom-adv
