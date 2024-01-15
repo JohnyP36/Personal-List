@@ -1,19 +1,22 @@
-diff name:dutchfilterlist lines:23 checksum:c46215ff45
+diff name:dutchfilterlist lines:26 checksum:6c37434e5e
 d2 1
 a2 1
-! Last modified: Mon, 15 Jan 2024 14:40:54 +0000
+! Last modified: Mon, 15 Jan 2024 17:32:47 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.15.880.patch#dutchfilterlist
+! Diff-Path: patches/2024.1.15.1052.patch#dutchfilterlist
 d568 2
 a714 1
 bekijkporno.nl##.fp-brand
-a715 1
+a715 3
+dumpert.nl##[id^="ad_"]:upward(2)
+dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 fok.nl,fr12.nl,looopings.nl,mannenzaken.nl,scientias.nl,voetbalnieuws.be,voetbalrotterdam.nl,webwoordenboek.nl##div[class^="r89-desktop"]
 a718 3
 webwoordenboek.nl##.layout__main-ads
 wos.nl##.header-right
 xgn.nl##.bs
+d867 3
 d909 1
 d1685 1
 a1685 1

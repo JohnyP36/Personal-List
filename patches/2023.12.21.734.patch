@@ -1,10 +1,10 @@
-diff name:dutchfilterlist lines:89 checksum:c46215ff45
+diff name:dutchfilterlist lines:90 checksum:6c37434e5e
 d2 1
 a2 1
-! Last modified: Mon, 15 Jan 2024 14:40:54 +0000
+! Last modified: Mon, 15 Jan 2024 17:32:47 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.15.880.patch#dutchfilterlist
+! Diff-Path: patches/2024.1.15.1052.patch#dutchfilterlist
 d64 1
 a64 1
 ||2k19.nl^$third-party,popup
@@ -26,7 +26,7 @@ d567 2
 a584 2
 ! 2024
 @@||promotools.biz^$subdocument,domain=beeldbelsex.com
-a706 14
+a706 16
 ! 2024
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,hln.be,pzc.nl##.page-header__section--spacer
@@ -34,6 +34,8 @@ a706 14
 ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,pzc.nl,tubantia.nl##[data-temptation-position="OORTJE"]
 bekijkporno.nl##.fp-brand
 demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.oortje-wrapper
+dumpert.nl##[id^="ad_"]:upward(2)
+dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 fok.nl,fr12.nl,looopings.nl,mannenzaken.nl,scientias.nl,voetbalnieuws.be,voetbalrotterdam.nl,webwoordenboek.nl##div[class^="r89-desktop"]
 gratissextube.be##a[href^="https://www.2k19.nl/"]
 opwindend.net##.b > .profilethumb:upward(.tab)
@@ -54,8 +56,7 @@ bnnvara.nl,npo.nl,vpro.nl##.bitmovinplayer-poster
 a838 1
 dekrantnieuws.nl,destreekkrant.nu##.component__pubble-banner:has([advobject]):upward(.builder__row:not(.grid))
 d841 1
-a855 1
-dumpert.nl##[id^="ad_"]:not(:upward(aside)):upward(3)
+d856 2
 d897 1
 d933 1
 a933 2

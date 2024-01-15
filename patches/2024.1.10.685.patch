@@ -1,16 +1,20 @@
-diff name:dutchfilterlist lines:16 checksum:c46215ff45
+diff name:dutchfilterlist lines:20 checksum:6c37434e5e
 d2 1
 a2 1
-! Last modified: Mon, 15 Jan 2024 14:40:54 +0000
+! Last modified: Mon, 15 Jan 2024 17:32:47 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.15.880.patch#dutchfilterlist
+! Diff-Path: patches/2024.1.15.1052.patch#dutchfilterlist
 d568 1
 a713 1
 bekijkporno.nl##.fp-brand
+a714 2
+dumpert.nl##[id^="ad_"]:upward(2)
+dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 a719 2
 wos.nl##.header-right
 xgn.nl##.bs
+d868 3
 d1725 1
 d1727 1
 a1799 1

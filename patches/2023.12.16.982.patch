@@ -1,10 +1,10 @@
-diff name:dutchfilterlist lines:385 checksum:c46215ff45
+diff name:dutchfilterlist lines:386 checksum:6c37434e5e
 d2 1
 a2 1
-! Last modified: Mon, 15 Jan 2024 14:40:54 +0000
+! Last modified: Mon, 15 Jan 2024 17:32:47 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.15.880.patch#dutchfilterlist
+! Diff-Path: patches/2024.1.15.1052.patch#dutchfilterlist
 d64 1
 a64 1
 ||2k19.nl^$third-party,popup
@@ -54,7 +54,7 @@ a688 1
 a690 2
 !camsexbabe.nl,fucking-tube.com,rapesextube.be,seks-tube.be##.happy-section
 ##.happy-section
-a698 14
+a698 16
 ! 2024
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,hln.be,pzc.nl##.page-header__section--spacer
@@ -62,6 +62,8 @@ a698 14
 ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,pzc.nl,tubantia.nl##[data-temptation-position="OORTJE"]
 bekijkporno.nl##.fp-brand
 demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.oortje-wrapper
+dumpert.nl##[id^="ad_"]:upward(2)
+dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 fok.nl,fr12.nl,looopings.nl,mannenzaken.nl,scientias.nl,voetbalnieuws.be,voetbalrotterdam.nl,webwoordenboek.nl##div[class^="r89-desktop"]
 gratissextube.be##a[href^="https://www.2k19.nl/"]
 opwindend.net##.b > .profilethumb:upward(.tab)
@@ -180,11 +182,10 @@ digitaalburg.com##.widget-area-bottom.align-center:has(.adsbygoogle)
 digitaalburg.com##aside[class^="widget widget_text"]
 dknieuws.nl##[id^="dknie-grid-"]:has(.adv-link)
 dknieuws.nl##.dknie-widget:has(.adv-link)
-a758 3
+d759 2
+a760 3
 dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
 duic.nl##.article-excerpt--ad
-dumpert.nl##[id^="ad_"]:not(:upward(aside)):upward(3)
-a760 1
 dutchitchannel.nl##a[href]:not(a[href*="dutchit"]):has(img[src*="assets-servd.host"])
 a765 2
 dvhn.nl,lc.nl##.main__ad
