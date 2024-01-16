@@ -1,14 +1,19 @@
-diff name:dutchfilterlist lines:13 checksum:9b1d642c9f
+diff name:dutchfilterlist lines:18 checksum:acd933f4e5
 d2 1
 a2 1
-! Last modified: Tue, 16 Jan 2024 09:05:25 +0000
+! Last modified: Tue, 16 Jan 2024 11:30:27 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.16.545.patch#dutchfilterlist
+! Diff-Path: patches/2024.1.16.690.patch#dutchfilterlist
 a170 2
 ! 2024
 ||cdn.streace.io/banner/$image,domain=camjam.nl
 d416 1
+a717 3
+girlscene.nl##div[id^="r89-desktop"][id$="wrapper"]
+girlscene.nl##div[id$="leaderboard-article"]
+girlscene.nl##div[id$="top-ad-desktop"]
+d938 2
 d1282 1
 a1282 1
 1twente.nl,autoweek.nl,bnnvara.nl,elektormagazine.nl,fonkmagazine.nl,hpdetijd.nl,hvzeeland.nl,kieskeurig.nl,ovpro.nl,tankpro.nl,tubantia.nl,zijaanzij.nl##.advertisement

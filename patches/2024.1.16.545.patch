@@ -1,0 +1,12 @@
+diff name:dutchfilterlist lines:11 checksum:acd933f4e5
+d2 1
+a2 1
+! Last modified: Tue, 16 Jan 2024 11:30:27 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2024.1.16.690.patch#dutchfilterlist
+a718 3
+girlscene.nl##div[id^="r89-desktop"][id$="wrapper"]
+girlscene.nl##div[id$="leaderboard-article"]
+girlscene.nl##div[id$="top-ad-desktop"]
+d939 2

@@ -1,10 +1,10 @@
-diff name:dutchfilterlist lines:97 checksum:9b1d642c9f
+diff name:dutchfilterlist lines:101 checksum:acd933f4e5
 d2 1
 a2 1
-! Last modified: Tue, 16 Jan 2024 09:05:25 +0000
+! Last modified: Tue, 16 Jan 2024 11:30:27 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.16.545.patch#dutchfilterlist
+! Diff-Path: patches/2024.1.16.690.patch#dutchfilterlist
 d64 1
 a64 1
 ||2k19.nl^$third-party,popup
@@ -30,7 +30,7 @@ d567 2
 a584 2
 ! 2024
 @@||promotools.biz^$subdocument,domain=beeldbelsex.com
-a706 16
+a706 19
 ! 2024
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,hln.be,pzc.nl##.page-header__section--spacer
@@ -41,6 +41,9 @@ demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.oortje-wrappe
 dumpert.nl##[id^="ad_"]:upward(2)
 dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 fok.nl,fr12.nl,looopings.nl,mannenzaken.nl,scientias.nl,voetbalnieuws.be,voetbalrotterdam.nl,webwoordenboek.nl##div[class^="r89-desktop"]
+girlscene.nl##div[id^="r89-desktop"][id$="wrapper"]
+girlscene.nl##div[id$="leaderboard-article"]
+girlscene.nl##div[id$="top-ad-desktop"]
 gratissextube.be##a[href^="https://www.2k19.nl/"]
 opwindend.net##.b > .profilethumb:upward(.tab)
 poldertube.nl##a[href^="https://go2.go2cloud.org/"]
@@ -62,6 +65,7 @@ dekrantnieuws.nl,destreekkrant.nu##.component__pubble-banner:has([advobject]):up
 d841 1
 d856 2
 d897 1
+d925 2
 d933 1
 a933 2
 golf.nl##.c-header__advert-container
