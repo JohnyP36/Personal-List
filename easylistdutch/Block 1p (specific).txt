@@ -144,7 +144,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||bol.com/nl/upload/partnerprogramma/$image
 ||broadcastmagazine.nl/wp-content/uploads/*/SMPhomepage*.gif
 ||buzzbie.nl/buzzbanners/*.js$script,first-party
-||camjam.nl*/assets/images/233x257*.gif
 ||camping-frankrijk.nl/graphics/*/*600.$image
 ||cdn.ster.nl/banners^
 ||chatmetvreemden.be/static/html/
