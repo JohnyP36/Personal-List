@@ -1,7 +1,7 @@
 ! Title: Dutch Filter List
-! Last modified: Mon, 15 Jan 2024 17:32:47 +0000
+! Last modified: Tue, 16 Jan 2024 09:05:25 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2024.1.15.1052.patch#dutchfilterlist
+! Diff-Path: patches/2024.1.16.545.patch#dutchfilterlist
 ! Diff-Expires: 12 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -168,6 +168,8 @@ _advertentieleaderboardhome.
 !
 !--------Specifieke blokkeerregels (derden)--------!
 ! *** easylistdutch:easylistdutch/Block 3p (specific).txt ***
+! 2024
+||cdn.streace.io/banner/$image,domain=camjam.nl
 ! 2023
 /Images/*Ad$image,domain=sun.sr
 /Images/*Banner$image,domain=sun.sr
@@ -413,7 +415,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||bol.com/nl/upload/partnerprogramma/$image
 ||broadcastmagazine.nl/wp-content/uploads/*/SMPhomepage*.gif
 ||buzzbie.nl/buzzbanners/*.js$script,first-party
-||camjam.nl*/assets/images/233x257*.gif
 ||camping-frankrijk.nl/graphics/*/*600.$image
 ||cdn.ster.nl/banners^
 ||chatmetvreemden.be/static/html/
@@ -1279,7 +1280,7 @@ zozwanger.nl##.gofollow
 1001erotiekverhalen.nl##[href^="https://t.adating.link/"]:upward(2)
 1001erotiekverhalen.nl##aside[id^="block"]:has([src*="tools-affil2.com/rtb/index.php"])
 123geldzaken.nl##[class*="widget_sponsor"]
-1twente.nl,autoweek.nl,bnnvara.nl,camjam.nl,elektormagazine.nl,fonkmagazine.nl,hpdetijd.nl,hvzeeland.nl,kieskeurig.nl,ovpro.nl,tankpro.nl,tubantia.nl,zijaanzij.nl##.advertisement
+1twente.nl,autoweek.nl,bnnvara.nl,elektormagazine.nl,fonkmagazine.nl,hpdetijd.nl,hvzeeland.nl,kieskeurig.nl,ovpro.nl,tankpro.nl,tubantia.nl,zijaanzij.nl##.advertisement
 247spice.com##.elementor-widget-heading:has-text(/Partners|Advert/)
 247spice.com##.elementor-widget-heading:has-text(/Partners|Advert/) + section
 aafm.nl,aavisie.nl##.block:has-text(Advertentie)

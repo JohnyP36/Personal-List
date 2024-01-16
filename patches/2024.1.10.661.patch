@@ -1,10 +1,14 @@
-diff name:dutchfilterlist lines:26 checksum:6c37434e5e
+diff name:dutchfilterlist lines:33 checksum:9b1d642c9f
 d2 1
 a2 1
-! Last modified: Mon, 15 Jan 2024 17:32:47 +0000
+! Last modified: Tue, 16 Jan 2024 09:05:25 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.15.1052.patch#dutchfilterlist
+! Diff-Path: patches/2024.1.16.545.patch#dutchfilterlist
+a170 2
+! 2024
+||cdn.streace.io/banner/$image,domain=camjam.nl
+d416 1
 d568 2
 a714 1
 bekijkporno.nl##.fp-brand
@@ -18,6 +22,9 @@ wos.nl##.header-right
 xgn.nl##.bs
 d867 3
 d909 1
+d1281 1
+a1281 1
+1twente.nl,autoweek.nl,bnnvara.nl,elektormagazine.nl,fonkmagazine.nl,hpdetijd.nl,hvzeeland.nl,kieskeurig.nl,ovpro.nl,tankpro.nl,tubantia.nl,zijaanzij.nl##.advertisement
 d1685 1
 a1685 1
 tvblik.nl##div[class^="r89-desktop"]
