@@ -1,12 +1,16 @@
-diff name:dutchfilterlist lines:11 checksum:acd933f4e5
+diff name:dutchfilterlist lines:15 checksum:020d3fc058
 d2 1
 a2 1
-! Last modified: Tue, 16 Jan 2024 11:30:27 +0000
+! Last modified: Tue, 16 Jan 2024 12:18:10 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.16.690.patch#dutchfilterlist
+! Diff-Path: patches/2024.1.16.738.patch#dutchfilterlist
 a718 3
 girlscene.nl##div[id^="r89-desktop"][id$="wrapper"]
 girlscene.nl##div[id$="leaderboard-article"]
 girlscene.nl##div[id$="top-ad-desktop"]
+a721 2
+want.nl##.ad-top_banner:upward(.mha_container--header)
+want.nl##.sticky-banner-container
 d939 2
+d1244 1

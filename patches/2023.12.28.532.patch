@@ -1,10 +1,10 @@
-diff name:dutchfilterlist lines:79 checksum:acd933f4e5
+diff name:dutchfilterlist lines:82 checksum:020d3fc058
 d2 1
 a2 1
-! Last modified: Tue, 16 Jan 2024 11:30:27 +0000
+! Last modified: Tue, 16 Jan 2024 12:18:10 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.16.690.patch#dutchfilterlist
+! Diff-Path: patches/2024.1.16.738.patch#dutchfilterlist
 d64 1
 a64 1
 ||2k19.nl^$third-party,popup
@@ -24,7 +24,7 @@ d567 2
 a584 2
 ! 2024
 @@||promotools.biz^$subdocument,domain=beeldbelsex.com
-a706 19
+a706 21
 ! 2024
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,hln.be,pzc.nl##.page-header__section--spacer
@@ -41,6 +41,8 @@ girlscene.nl##div[id$="top-ad-desktop"]
 gratissextube.be##a[href^="https://www.2k19.nl/"]
 opwindend.net##.b > .profilethumb:upward(.tab)
 poldertube.nl##a[href^="https://go2.go2cloud.org/"]
+want.nl##.ad-top_banner:upward(.mha_container--header)
+want.nl##.sticky-banner-container
 webwoordenboek.nl##.layout__main-ads
 wos.nl##.header-right
 xgn.nl##.bs
@@ -62,6 +64,7 @@ d1074 1
 d1196 1
 a1196 1
 topgear.nl##div[id$="ad-wrap"]
+d1232 1
 d1271 1
 a1271 1
 1twente.nl,autoweek.nl,bnnvara.nl,elektormagazine.nl,fonkmagazine.nl,hpdetijd.nl,hvzeeland.nl,kieskeurig.nl,ovpro.nl,tankpro.nl,tubantia.nl,zijaanzij.nl##.advertisement

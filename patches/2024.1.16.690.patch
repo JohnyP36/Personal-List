@@ -1,0 +1,11 @@
+diff name:dutchfilterlist lines:10 checksum:020d3fc058
+d2 1
+a2 1
+! Last modified: Tue, 16 Jan 2024 12:18:10 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2024.1.16.738.patch#dutchfilterlist
+a724 2
+want.nl##.ad-top_banner:upward(.mha_container--header)
+want.nl##.sticky-banner-container
+d1245 1

@@ -1,7 +1,7 @@
 ! Title: Dutch Filter List
-! Last modified: Tue, 16 Jan 2024 11:30:27 +0000
+! Last modified: Tue, 16 Jan 2024 12:18:10 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2024.1.16.690.patch#dutchfilterlist
+! Diff-Path: patches/2024.1.16.738.patch#dutchfilterlist
 ! Diff-Expires: 12 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -722,6 +722,8 @@ girlscene.nl##div[id$="top-ad-desktop"]
 gratissextube.be##a[href^="https://www.2k19.nl/"]
 opwindend.net##.b > .profilethumb:upward(.tab)
 poldertube.nl##a[href^="https://go2.go2cloud.org/"]
+want.nl##.ad-top_banner:upward(.mha_container--header)
+want.nl##.sticky-banner-container
 webwoordenboek.nl##.layout__main-ads
 wos.nl##.header-right
 xgn.nl##.bs
@@ -1242,7 +1244,6 @@ vrouwen-sexdate.be##.elementor-widget:has(.lazyloading[data-src*="index.php"])
 waarzo.nl##.contentbox:has-text(Advertentie)
 waarzo.nl##.smallbox:has-text(Advertentie)
 waldnet.nl##.adsbygoogle:upward(div[style*="height"])
-want.nl##.sticky-banner-container
 wanttoknow.nl###right-sidebar > *:has(.mb-3:has-text(Advert))
 wanttoknow.nl###right-sidebar > .mb-3:has(img[src*="banner"])
 wanttoknow.nl##.float-right

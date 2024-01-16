@@ -1,10 +1,10 @@
-diff name:dutchfilterlist lines:37 checksum:acd933f4e5
+diff name:dutchfilterlist lines:40 checksum:020d3fc058
 d2 1
 a2 1
-! Last modified: Tue, 16 Jan 2024 11:30:27 +0000
+! Last modified: Tue, 16 Jan 2024 12:18:10 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.16.690.patch#dutchfilterlist
+! Diff-Path: patches/2024.1.16.738.patch#dutchfilterlist
 a170 2
 ! 2024
 ||cdn.streace.io/banner/$image,domain=camjam.nl
@@ -19,13 +19,16 @@ fok.nl,fr12.nl,looopings.nl,mannenzaken.nl,scientias.nl,voetbalnieuws.be,voetbal
 girlscene.nl##div[id^="r89-desktop"][id$="wrapper"]
 girlscene.nl##div[id$="leaderboard-article"]
 girlscene.nl##div[id$="top-ad-desktop"]
-a718 3
+a718 5
+want.nl##.ad-top_banner:upward(.mha_container--header)
+want.nl##.sticky-banner-container
 webwoordenboek.nl##.layout__main-ads
 wos.nl##.header-right
 xgn.nl##.bs
 d867 3
 d909 1
 d937 2
+d1242 1
 d1281 1
 a1281 1
 1twente.nl,autoweek.nl,bnnvara.nl,elektormagazine.nl,fonkmagazine.nl,hpdetijd.nl,hvzeeland.nl,kieskeurig.nl,ovpro.nl,tankpro.nl,tubantia.nl,zijaanzij.nl##.advertisement
