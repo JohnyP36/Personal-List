@@ -1,5 +1,7 @@
 [uBlock Origin]
 ! Last modified: %timestamp%
+! 2024
+||cdn.streace.io/banner/$image,domain=camjam.nl
 ! 2023
 /Images/*Ad$image,domain=sun.sr
 /Images/*Banner$image,domain=sun.sr
