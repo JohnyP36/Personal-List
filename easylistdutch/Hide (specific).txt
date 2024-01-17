@@ -9,6 +9,7 @@ bekijkporno.nl##.fp-brand
 demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.oortje-wrapper
 dumpert.nl##[id^="ad_"]:upward(2)
 dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
+dvo.be##.advertisement
 fok.nl,fr12.nl,looopings.nl,mannenzaken.nl,scientias.nl,voetbalnieuws.be,voetbalrotterdam.nl,webwoordenboek.nl##div[class^="r89-desktop"]
 girlscene.nl##div[id^="r89-desktop"][id$="wrapper"]
 girlscene.nl##div[id$="leaderboard-article"]
