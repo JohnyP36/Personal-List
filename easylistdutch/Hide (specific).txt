@@ -14,6 +14,7 @@ girlscene.nl##div[id^="r89-desktop"][id$="wrapper"]
 girlscene.nl##div[id$="leaderboard-article"]
 girlscene.nl##div[id$="top-ad-desktop"]
 gratissextube.be##a[href^="https://www.2k19.nl/"]
+hagelandactueel.be,leuvenactueel.be##.has-banner-top:style(padding-top: 0 !important;)
 opwindend.net##.b > .profilethumb:upward(.tab)
 poldertube.nl##a[href^="https://go2.go2cloud.org/"]
 want.nl##.ad-top_banner:upward(.mha_container--header)
