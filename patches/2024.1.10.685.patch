@@ -1,24 +1,33 @@
-diff name:dutchfilterlist lines:36 checksum:020d3fc058
+diff name:dutchfilterlist lines:45 checksum:f6b8d4a76a
 d2 1
 a2 1
-! Last modified: Tue, 16 Jan 2024 12:18:10 +0000
+! Last modified: Thu, 18 Jan 2024 05:54:26 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.16.738.patch#dutchfilterlist
+! Diff-Path: patches/2024.1.18.354.patch#dutchfilterlist
 a170 2
 ! 2024
 ||cdn.streace.io/banner/$image,domain=camjam.nl
+a271 2
+! 2024
+.be/la_custom/get_banners_cache$xhr,first-party,domain=hagelandactueel.be|leuvenactueel.be
 d416 1
 d568 1
+d691 1
+a691 1
+!deoudrotterdammer.nl,hagelandactueel.be,leuvenactueel.be,nuus.be##.advertentie
 a713 1
 bekijkporno.nl##.fp-brand
-a714 2
+a714 3
 dumpert.nl##[id^="ad_"]:upward(2)
 dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
+dvo.be##.advertisement
 a715 3
 girlscene.nl##div[id^="r89-desktop"][id$="wrapper"]
 girlscene.nl##div[id$="leaderboard-article"]
 girlscene.nl##div[id$="top-ad-desktop"]
+a716 1
+hagelandactueel.be,leuvenactueel.be##.has-banner-top:style(padding-top: 0 !important;)
 a718 2
 want.nl##.ad-top_banner:upward(.mha_container--header)
 want.nl##.sticky-banner-container

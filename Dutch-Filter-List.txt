@@ -1,7 +1,7 @@
 ! Title: Dutch Filter List
-! Last modified: Tue, 16 Jan 2024 12:18:10 +0000
+! Last modified: Thu, 18 Jan 2024 05:54:26 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2024.1.16.738.patch#dutchfilterlist
+! Diff-Path: patches/2024.1.18.354.patch#dutchfilterlist
 ! Diff-Expires: 12 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -271,6 +271,8 @@ _advertentieleaderboardhome.
 !
 !--------Specifieke blokkeerregels--------!
 ! *** easylistdutch:easylistdutch/Block 1p (specific).txt ***
+! 2024
+.be/la_custom/get_banners_cache$xhr,first-party,domain=hagelandactueel.be|leuvenactueel.be
 ! 2023
 bnnvara.nl,npo.nl,vpro.nl##+js(json-prune, assets.preroll assets.prerollDebug)
 /^https?:\/\/statics\.(?:7sur7|ad|bd|bndestem|destentor|ed|gelderlander|hln|tubantia|pzc)\.(?:nl|be)\/js\/advertising-[\w]+\.js$/$script
@@ -688,7 +690,7 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ###rightbanner_adbest
 ###sidereclame
 ##.adstekst
-!deoudrotterdammer.nl,nuus.be##.advertentie
+!deoudrotterdammer.nl,hagelandactueel.be,leuvenactueel.be,nuus.be##.advertentie
 ##.advertentie
 !dorpsklanken.online##.advertenties
 ##.advertenties
@@ -715,11 +717,13 @@ bekijkporno.nl##.fp-brand
 demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.oortje-wrapper
 dumpert.nl##[id^="ad_"]:upward(2)
 dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
+dvo.be##.advertisement
 fok.nl,fr12.nl,looopings.nl,mannenzaken.nl,scientias.nl,voetbalnieuws.be,voetbalrotterdam.nl,webwoordenboek.nl##div[class^="r89-desktop"]
 girlscene.nl##div[id^="r89-desktop"][id$="wrapper"]
 girlscene.nl##div[id$="leaderboard-article"]
 girlscene.nl##div[id$="top-ad-desktop"]
 gratissextube.be##a[href^="https://www.2k19.nl/"]
+hagelandactueel.be,leuvenactueel.be##.has-banner-top:style(padding-top: 0 !important;)
 opwindend.net##.b > .profilethumb:upward(.tab)
 poldertube.nl##a[href^="https://go2.go2cloud.org/"]
 want.nl##.ad-top_banner:upward(.mha_container--header)

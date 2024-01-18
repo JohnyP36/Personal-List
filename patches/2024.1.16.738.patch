@@ -1,4 +1,4 @@
-diff name:dutchfilterlist lines:25 checksum:f6b8d4a76a
+diff name:dutchfilterlist lines:16 checksum:f6b8d4a76a
 d2 1
 a2 1
 ! Last modified: Thu, 18 Jan 2024 05:54:26 +0000
@@ -13,14 +13,5 @@ a691 1
 !deoudrotterdammer.nl,hagelandactueel.be,leuvenactueel.be,nuus.be##.advertentie
 a717 1
 dvo.be##.advertisement
-a718 3
-girlscene.nl##div[id^="r89-desktop"][id$="wrapper"]
-girlscene.nl##div[id$="leaderboard-article"]
-girlscene.nl##div[id$="top-ad-desktop"]
-a719 1
+a722 1
 hagelandactueel.be,leuvenactueel.be##.has-banner-top:style(padding-top: 0 !important;)
-a721 2
-want.nl##.ad-top_banner:upward(.mha_container--header)
-want.nl##.sticky-banner-container
-d939 2
-d1244 1
