@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Thu, 18 Jan 2024 05:54:26 +0000
+! Last modified: Thu, 18 Jan 2024 07:28:59 +0000
 ! 2024
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,hln.be,pzc.nl##.page-header__section--spacer
@@ -16,6 +16,7 @@ girlscene.nl##div[id$="leaderboard-article"]
 girlscene.nl##div[id$="top-ad-desktop"]
 gratissextube.be##a[href^="https://www.2k19.nl/"]
 hagelandactueel.be,leuvenactueel.be##.has-banner-top:style(padding-top: 0 !important;)
+nieuwsblad.be##.cba_container_grid
 opwindend.net##.b > .profilethumb:upward(.tab)
 poldertube.nl##a[href^="https://go2.go2cloud.org/"]
 want.nl##.ad-top_banner:upward(.mha_container--header)

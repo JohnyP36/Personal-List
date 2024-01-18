@@ -1,10 +1,10 @@
-diff name:dutchfilterlist lines:38 checksum:f6b8d4a76a
+diff name:dutchfilterlist lines:39 checksum:58405764b9
 d2 1
 a2 1
-! Last modified: Thu, 18 Jan 2024 05:54:26 +0000
+! Last modified: Thu, 18 Jan 2024 07:28:59 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.18.354.patch#dutchfilterlist
+! Diff-Path: patches/2024.1.18.448.patch#dutchfilterlist
 a170 2
 ! 2024
 ||cdn.streace.io/banner/$image,domain=camjam.nl
@@ -23,8 +23,9 @@ a715 3
 girlscene.nl##div[id^="r89-desktop"][id$="wrapper"]
 girlscene.nl##div[id$="leaderboard-article"]
 girlscene.nl##div[id$="top-ad-desktop"]
-a716 1
+a716 2
 hagelandactueel.be,leuvenactueel.be##.has-banner-top:style(padding-top: 0 !important;)
+nieuwsblad.be##.cba_container_grid
 a718 2
 want.nl##.ad-top_banner:upward(.mha_container--header)
 want.nl##.sticky-banner-container

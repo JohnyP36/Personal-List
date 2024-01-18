@@ -1,10 +1,10 @@
-diff name:dutchfilterlist lines:83 checksum:f6b8d4a76a
+diff name:dutchfilterlist lines:84 checksum:58405764b9
 d2 1
 a2 1
-! Last modified: Thu, 18 Jan 2024 05:54:26 +0000
+! Last modified: Thu, 18 Jan 2024 07:28:59 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2024.1.18.354.patch#dutchfilterlist
+! Diff-Path: patches/2024.1.18.448.patch#dutchfilterlist
 d64 1
 a64 1
 ||2k19.nl^$third-party,popup
@@ -30,7 +30,7 @@ a584 2
 d689 1
 a689 1
 !deoudrotterdammer.nl,hagelandactueel.be,leuvenactueel.be,nuus.be##.advertentie
-a706 23
+a706 24
 ! 2024
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,hln.be,pzc.nl##.page-header__section--spacer
@@ -47,6 +47,7 @@ girlscene.nl##div[id$="leaderboard-article"]
 girlscene.nl##div[id$="top-ad-desktop"]
 gratissextube.be##a[href^="https://www.2k19.nl/"]
 hagelandactueel.be,leuvenactueel.be##.has-banner-top:style(padding-top: 0 !important;)
+nieuwsblad.be##.cba_container_grid
 opwindend.net##.b > .profilethumb:upward(.tab)
 poldertube.nl##a[href^="https://go2.go2cloud.org/"]
 want.nl##.ad-top_banner:upward(.mha_container--header)
