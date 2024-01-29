@@ -2,14 +2,21 @@
 ! Description: Filters for hiding elements on specific Dutch websites
 ! Last updated: %timestamp%
 !
+! 2024-01-16
+dvo.be##.advertisement
+hagelandactueel.be,leuvenactueel.be##.has-banner-top:style(padding-top: 0 !important;)
+girlscene.nl##[id$="ad-desktop"]
+girlscene.nl##[id*="desktop-leaderboard"]
+want.nl##.ad-top_banner:upward(.mha_container--header)
+want.nl##.sticky-banner-container
+! 2024-01-15 https://github.com/uBlockOrigin/uAssets/issues/21284
+! https://github.com/EasyDutch-uBO/EasyDutch/issues/121
+dumpert.nl##[id^="ad_"]:upward(2)
+dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 ! 2024-01-10
 webwoordenboek.nl##.layout__main-ads
 voetbalnieuws.be##div[class^="r89-desktop"]
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.tile:has(>.ankeiler--advertisement)
-! 2024-01-10 https://github.com/uBlockOrigin/uAssets/issues/21284
-dumpert.nl##[id^="ad_"]:not(:upward(aside)):upward(3)
-dumpert.nl##aside [id^="ad_"]:upward(2)
-dumpert.nl##[id*="leaderboardwallpaper-"]:upward(3)
 ! 2024-01-05
 arenalokaal.nl,belnieuws.nl,dehavenloods.nl,gooieneembode.nl,hetkompassliedrecht.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl,weespernieuws.nl##div[id]:upward(.component__plugin)
 arenalokaal.nl,belnieuws.nl,dehavenloods.nl,dekrantnieuws.nl,destreekkrant.nu,gooieneembode.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl,zuidenvelder.info##.component__pubble-banner:has([advobject])
@@ -1198,13 +1205,11 @@ volleybelgium.be##.sponsors
 detelefoongids.nl##.static-map
 nos.nl##.ster-banner
 tijd.be##.sticky-article-halfpager
-want.nl##.sticky-banner-container
 ninefornews.nl##.sticky-element-placeholder
 glutenvrij.nl##.t-banner
 nieuwsopbeeld.nl##.td_module_wrap:has(.td-post-category:has-text(Gesponsord))
 dissident.one##.td-adspot-title
 netonline.be##.tekstboldwit:has-text(ADVERT)
-gaynews.nl##.telefoon_verberg
 nos.nl##.teletekst__banner
 netonline.be##.text_12_jobs_only
 beursonline.nl,debeurs.nl##.Textads
