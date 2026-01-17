@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Last modified: %timestamp%
 ! 2026
-loemedia.nl##.ad
+loemedia.nl,vi##.ad
 twentefm.nl##.advertisement
 abcsuriname.com,vlietnieuws.nl##.banner_wrapper
 alblasserdamsnieuws.nl##.albla-widget
@@ -1017,7 +1017,6 @@ vandaaginside.nl##div[class^="Component-bannerTopWrapper-"]
 vastgoedjournaal.nl##[href]:has([src*="media.prdn.nl"])
 vastgoedjournaal.nl##aside:has([class]:has-text(/advert/i)):has([href]:has([src*="media.prdn.nl"]))
 vi.nl##.betting-provider-row
-vi.nl##li[class*="highlights"]:has(div[class*="articles-list"][class*="item--highlight"]:has(span[class]:has-text(/advert/i)))
 vitesse.nl##.row [id^="form"] + .box > .box-body:has(img)
 vives.nl##[class*="right"] .wpb_wrapper:has(img[height="520"][src])
 vlaamskijken.nl##a[href^="https://partner.bol.com/"]
@@ -1115,7 +1114,3 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
-
-
-
-
