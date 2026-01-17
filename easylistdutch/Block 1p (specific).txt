@@ -5,6 +5,8 @@
 /banner/*$domain=kranenwebsite.nl
 /banners/*$domain=wijchensnieuws.nl
 /wp-content/uploads/*.gif$image,domain=sliedrecht24.nl
+||cdn.gic.nl/app/uploads/*/*.gif
+||cdn.gic.nl/app/uploads/*/*banner
 ||christelijknieuws.nl/wp-content/uploads/*Banner
 ||sliedrecht24.nl/wp-content/uploads/*/palmpjes-banner
 ||touretappe.nl/images/topposblock.html
