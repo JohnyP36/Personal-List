@@ -4,6 +4,7 @@
 .nl/*/advertisements/$domain=boek9.nl|grandprixradio.nl|grootnieuwsradio.nl
 /banner/*$domain=kranenwebsite.nl
 ||touretappe.nl/images/topposblock.html
+||unitednews.sr/wp-content/uploads/*/BANNER
 ! 2024
 .be/la_custom/get_banners_cache$xhr,first-party,domain=hagelandactueel.be|leuvenactueel.be
 ! 2023
@@ -312,4 +313,5 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
+
 
