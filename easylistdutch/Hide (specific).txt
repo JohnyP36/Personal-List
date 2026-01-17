@@ -23,6 +23,7 @@ demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl###article_paragraph_3
 demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
 demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.top1-container
 fok.nl,fr12.nl,gpinfo.com,looopings.nl,mannenzaken.nl,scientias.nl,tvblik.nl,voetbalnieuws.be,voetbalrotterdam.nl,webwoordenboek.nl,wielernieuws.be##div[class^="r89-desktop"]
+gic.nl##aside[aria-label="Banner"]
 gpinfo.com,koopplein.nl,televizier.nl,tvblik.nl,voetbalnieuws.be,wielernieuws.be##.header-banner
 groningerkrant.nl##.sidebar .widget:has-text(Gerelateerd)
 groningerkrant.nl##article[id^="post"] .in-feed
@@ -747,8 +748,7 @@ gaynews.nl##[class^="va"]:has([class*="banner"])
 gaynews.nl##[id^="fp"]
 gaynews.nl##a[href^="/_global/leesmeer.php?"]
 geile-adressen.nl,sexpret.com,zinineensexdate.com##.nomobile:has(img[src^="/images/"])
-gic.nl,kbradio.nl,nieuws.nl##.banners
-gic.nl##.katernbanners
+kbradio.nl,nieuws.nl##.banners
 gids.tv##.advertisement:upward(1)
 gigantfm.nl##.onderdelenshop
 gld.nl,omroepwest.nl,rijnmond.nl,rtvnoord.nl##.groei-ad
@@ -1114,6 +1114,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
