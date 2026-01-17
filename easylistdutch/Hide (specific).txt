@@ -3,6 +3,7 @@
 ! 2026
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,mobiliteit.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
 autoreview.nl##div[id^="Autoreview.nl_ros_"]:upward(1)
+beursduivel.be##.banner
 delhaize.be##[data-testid$="-ad"]
 demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl###article_paragraph_3
 demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
@@ -111,8 +112,8 @@ basketball.nl##div[data-component="partner"]
 beeldbelsex.com##.wp-block-column > center:has([data-src*="banners"])
 beeldbelsex.com##[href^="https://islive.com/"]
 beeldbelsex.com##[href^="https://www.twero.com/nl/"]:has(img[src$=".gif"])
-belegger.nl,beursduivel.be,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-wrapper
-belegger.nl,beursduivel.be,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
+belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Billboard-wrapper
+belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
 basketbal.vlaanderen##.footer-partners
 berekenhet.nl##.bh-ads
 berekenhet.nl##.tka-sponsored-container
@@ -1103,5 +1104,6 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
