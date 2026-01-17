@@ -1,5 +1,7 @@
 [uBlock Origin]
-! Last modified: Wed, 10 Jan 2024 11:01:59 +0000
+! Last modified: Sat, 17 Jan 2026 14:02:06 +0000
+! 2026
+@@||ads.nextday.media/prebid/jw-video/7.43.0.min.js$domain=vi.nl|voetbalnieuws.nl
 ! 2024
 @@||promotools.biz^$subdocument,domain=beeldbelsex.com
 ! 2023
@@ -56,7 +58,6 @@
 @@||lexozfldkklgvc.com/assets/cp/js/webcam_gallery/iframe_handler.js$script,domain=sexmeid.nl
 @@||lexozfldkklgvc.com/cp/webcam_gallery/index.php$subdocument,domain=sexmeid.nl|sexycamgirls.eu
 @@||media.plista.com^*$image,domain=totaaltv.nl
-@@||nextday.media^$third-party,domain=vi.nl
 @@||plista.com/async$script,domain=totaaltv.nl
 @@||promotools.islive.nl/ads/nieuws_en_updates_230x135/vijf-updates/txt.js$script,domain=kutscheetje.nl
 @@||pt.protoawe.com/embed/tbplyr/*$script,domain=lekkerewebcams.nl|gratispornofilm.nl|teen-sex.nl
