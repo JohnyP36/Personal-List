@@ -1,6 +1,7 @@
 [uBlock Origin]
 ! Last modified: %timestamp%
 ! 2026
+abcsuriname.com,vlietnieuws.nl##.banner_wrapper
 alblasserdamsnieuws.nl##.albla-widget
 alblasserdamsnieuws.nl##.a2t-link:upward(div[id^="albl"])
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,mobiliteit.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
@@ -548,7 +549,6 @@ vagina.nl##[id$="fish-hooks"]:has-text(Advertenties)
 velt.nu##.region-sponsors
 villamedia.nl##.header-intro
 vivatube.com##.mt15.container:has-text(Advert)
-vlietnieuws.nl##.banner_wrapper
 voetbal-vandaag.nl###sidebar_aanbevelen
 voetbal4u.com##.widget_text:has(h4):has-text(/crypto/i)
 voetbalcentraal.nl##.blok:has(h3:has-text(Partners))
@@ -1107,6 +1107,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
