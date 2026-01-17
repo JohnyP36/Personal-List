@@ -3,7 +3,7 @@
 ! 2026
 .nl/*/advertisements/$domain=boek9.nl|grandprixradio.nl|grootnieuwsradio.nl
 /banner/*$domain=kranenwebsite.nl
-/banners/*$domain=wijchensnieuws.nl
+/banners/*$domain=rivierenland-radio.nl|wijchensnieuws.nl
 /wp-content/uploads/*.gif$image,domain=sliedrecht24.nl
 ||1twente.nl/Ads/
 ||cdn.gic.nl/app/uploads/*/*.gif
@@ -320,4 +320,5 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
+
 
