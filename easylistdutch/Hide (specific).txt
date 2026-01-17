@@ -780,7 +780,6 @@ hartvannederland.nl,shownieuws.nl,vivandaag.nl##[data-testid^="banner"]
 hartvannederland.nl,shownieuws.nl,vandaaginside.nl,vivandaag.nl##div[class*="-bannerWrapper-"]
 hdtienersexfilms.nl,rapetube.eu##.happy-sidebar
 hdtienersexfilms.nl,poepsexfilmstube.nl,rapetube.eu,tubeseks.be###tracking-url
-headliner.nl###flex_left:has([id="div-gpt-ad"])
 historiek.net##.ablok
 historiek.net##div[id^="ai_widget"]:has-text(/advert/i)
 hoekschnieuws.nl##.td-a-rec.td-a-rec-id-content_bottom > a[href]
@@ -1116,6 +1115,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
