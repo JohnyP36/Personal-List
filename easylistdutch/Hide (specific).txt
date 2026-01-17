@@ -1,6 +1,7 @@
 [uBlock Origin]
 ! Last modified: %timestamp%
 ! 2026
+automobielmanagement.nl,carwashpro.nl,infrasite.nl,mobiliteit.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
 autoreview.nl##div[id^="Autoreview.nl_ros_"]:upward(1)
 delhaize.be##[data-testid$="-ad"]
 demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl###article_paragraph_3
@@ -614,7 +615,6 @@ appletips.nl##[class^="ph_block"]
 appletips.nl##a[href^="/adverteren-"]
 autoblog.nl##.widget:has-text(/links/i)
 autoblog.nl##.widget_ab_sidebar
-automobielmanagement.nl,carwashpro.nl,infrasite.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
 autoreview.nl###parentgpt
 autoreview.nl##.autowereld_ros_bravo_leaderboard-billboard
 autoreview.nl##.bottom-bannuring
@@ -1100,6 +1100,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
