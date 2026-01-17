@@ -37,6 +37,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite:upward(.raw-html-component)
 meteoalblasserdam.nl##p:has-text(/advert/i):not(:has(a[href="adverteren.html"])):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"]) + a[href*="basbeats.nl"]
+motorblog.nl##.sale
 nieuwsuitnijmegen.nl,wijchensnieuws.nl##.js-banner-slider
 nieuwsuitnijmegen.nl,wijchensnieuws.nl##.text-left:has-text(/advert/i)
 nljug.org##.theiaStickySidebar > .widget_custom_html:has(a[href] > img)
@@ -383,7 +384,6 @@ mijn-tv-gids.be##.midzone
 mijn-tv-gids.be##.pub
 ml5.nl##[class^="fl-row fl-row-"][data-node]:has(.fl-module-uabb-image-carousel)
 morningstar.*###ad_top_page
-motorblog.nl##[src*="partner.bol.com"]:upward(table.tablepress)
 motorboot.com##.logo
 motorrijdenexpert.nl##div[class*="full-row relative-row"]:has([href]):has([class*="ignore"])
 nauticlink.com##.adv-link:upward(.nauti-target)
@@ -1114,4 +1114,5 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
