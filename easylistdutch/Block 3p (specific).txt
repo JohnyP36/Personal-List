@@ -1,5 +1,7 @@
 [uBlock Origin]
 ! Last modified: %timestamp%
+! 2026
+||resources.planetnine.com/scripts/topgear.nl.js$domain=topgear.nl
 ! 2024
 ||cdn.streace.io/banner/$image,domain=camjam.nl
 ! 2023
