@@ -11,6 +11,7 @@ huisvlijt.com##.sidebar-inner-wrap > .widget:has(img):has(a[href*="suninvestbvba
 krefel.be##[class*="sm:grid"]:has(div[aria-roledescription="slide"]:has(* > p:has-text(Gesponsord)))
 rtl.nl##div[data-adslot-variant]
 skoften.net##div[class*="cls-placeholder"]
+soccernews.nl###r89-video-outstream
 sportnieuws.nl##.banner-centered
 topgear.nl##.PnvpParent:has(div[id$="ad-wrap"])
 ! 2024
@@ -465,7 +466,6 @@ shespot.nl##.dw-card-inner:has-text(/advertentie/i)
 shespot.nl##[id^="text"]:has([src^="https://www.shespot.nl/wp-content/uploads/"]):has-text(/advertentie/i)
 slam.nl##.holder-ads
 softonic.nl##.sam-slot
-soccernews.nl###r89-mobile-rectangle-mid
 soccernews.nl###r89-takeover
 solarmagazine.nl##.sols
 solarmagazine.nl##[id]:has(.company-add)
@@ -1103,4 +1103,5 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
