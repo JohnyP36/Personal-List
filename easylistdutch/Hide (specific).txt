@@ -20,6 +20,7 @@ edestad.nl,huisaanhuiselburg.nl,huisaanhuisoldebroek.nl,nunspeethuisaanhuis.nl,s
 banden.autoweek.nl,eindexamens.nu,gezondheid.be###leaderboard
 banden.autoweek.nl##.ad
 beursduivel.be,iexprofs.nl##.banner
+bnr.nl##.bnr-message
 boek9.nl##div[id*="block-advertisements"]
 ciaotutti.nl##div[class$="widget_advert"]:not(:has(a[href*="ciaotutti.nl"])):not(:has(a[href*="eepurl"])):not(:has(a[href*="facebook.com"])):not(:has(a[href*="instagram.com"])):not(:has(a[href*=".app/share/ciaotutti"]))
 delhaize.be##[data-testid$="-ad"]
@@ -169,7 +170,6 @@ bitcoinmagazine.nl,cryptobenelux.com##.clickout-banner-regular_native_box
 blikopnieuws.nl##aside div[id^="block-block-"]:has(a[target="_blank"] > img)
 blikopzeewolde.nl##.fusion-flex-container.fullwidth-box.fusion-fullwidth:has(:not(a[href^="https://www.blikopzeewolde.nl/"]) > .fusion-column-inner-bg-image)
 bnnvara.nl,npo.nl,vpro.nl##.bitmovinplayer-poster
-bnr.nl##div[class*="BNRAd_ad_"]
 bodylifebenelux.nl##.bnrrow
 bokt.nl###frontpage_mediumrect
 bol-an.nl##section[id*="media_image"]:has-text(/sponsors/i)
@@ -1117,7 +1117,3 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
-
-
-
-
