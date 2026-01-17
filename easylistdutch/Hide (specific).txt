@@ -14,6 +14,8 @@ groningerkrant.nl##.sidebar .widget:has-text(Gerelateerd)
 groningerkrant.nl##article[id^="post"] .in-feed
 huisvlijt.com##.sidebar-inner-wrap > .widget:has(img):has(a[href*="suninvestbvba.be"])
 krefel.be##[class*="sm:grid"]:has(div[aria-roledescription="slide"]:has(* > p:has-text(Gesponsord)))
+mannenzaken.nl##.r89-mobile-billboard-top:upward(.raw-html-component)
+mannenzaken.nl##.r89-mobile-rectangle-infinite:upward(.raw-html-component)
 rtl.nl##div[data-adslot-variant]
 rubenweytjens.be##.ad.row
 rubenweytjens.be##.adpanel
@@ -1104,6 +1106,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
