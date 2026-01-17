@@ -1,11 +1,14 @@
 [uBlock Origin]
-! Last modified: Sat, 17 Jan 2026 14:02:06 +0000
+! Last modified: Sat, 17 Jan 2026 19:23:00 +0000
 ! 2026
 .nl/*/advertisements/$domain=boek9.nl|grandprixradio.nl|grootnieuwsradio.nl
 /banner/*$domain=kranenwebsite.nl
 /banners/*$domain=motorrijder.be|rivierenland-radio.nl|wijchensnieuws.nl
 /wp-content/uploads/*.gif$image,domain=sliedrecht24.nl
 ||1twente.nl/Ads/
+||boodschappen.nl/wp-json/boodschappen/v1/banners/get_banners
+||boodschappen.nl/wp-json/boodschappen/v1/banners/get_advertorial
+||boodschappen.nl/wp-json/boodschappen/v1/banners/get_native_banner
 ||cdn.gic.nl/app/uploads/*/*.gif
 ||cdn.gic.nl/app/uploads/*/*banner
 ||christelijknieuws.nl/wp-content/uploads/*Banner
@@ -321,3 +324,4 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
+

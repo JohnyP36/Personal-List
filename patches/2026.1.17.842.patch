@@ -1,0 +1,11 @@
+diff name:dutchfilterlist lines:10 checksum:6a0fcbdcb1
+d2 1
+a2 1
+! Last modified: Sat, 17 Jan 2026 19:23:00 +0000
+d4 1
+a4 1
+! Diff-Path: patches/2026.1.17.1162.patch#dutchfilterlist
+a284 3
+||boodschappen.nl/wp-json/boodschappen/v1/banners/get_banners
+||boodschappen.nl/wp-json/boodschappen/v1/banners/get_advertorial
+||boodschappen.nl/wp-json/boodschappen/v1/banners/get_native_banner
