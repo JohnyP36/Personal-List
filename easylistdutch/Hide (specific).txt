@@ -2,6 +2,7 @@
 ! Last modified: %timestamp%
 ! 2026
 loemedia.nl##.ad
+twentefm.nl##.advertisement
 abcsuriname.com,vlietnieuws.nl##.banner_wrapper
 alblasserdamsnieuws.nl##.albla-widget
 alblasserdamsnieuws.nl##.a2t-link:upward(div[id^="albl"])
@@ -1103,7 +1104,6 @@ spelersvrouw.nl##.widget_text.gridlove-box
 sporza.be##.advertising
 surfplaza.be##td.di1:has(img[src$="/yourad.gif"])
 treinreiziger.nl##div[class*="ads-adsense-"]
-twentefm.nl##.bannerzone_728x90:has-text(/advert/i)
 veto.be##div[class*="spacer block"]:has([href][id*="advert"])
 voetbal.com##.adbox
 
@@ -1114,5 +1114,3 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
-
-
