@@ -896,10 +896,6 @@ nl.motorsport.com##.ms-side-widget--custom-links__wrapper
 nl-nieuwsonline.nl###content-footer-section:has(.adsbygoogle)
 nljug.org##.widget:has(.capegroep-banner)
 nljug.org##[id^="custom_html-"]:has-text(Kennispartners):has(a[href] > img)
-noordkopcentraal.nl##.bannerListWidget
-noordkopcentraal.nl##.ewic-slider-pro-widget
-noordkopcentraal.nl##.headbanner
-noordkopcentraal.nl##.widgettitle:has-text(Advert)
 nporadio1.nl,nporadio2.nl,npo3fm.nl,nporadio4.nl##ul > li:has(script[src*="ster"]):has-text(/advert/i)
 nu.nl##.articlelist.block:has-text(Folder \(Adverteerders\)) .listA
 nu.nl##.temptation__aside
@@ -1116,6 +1112,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
