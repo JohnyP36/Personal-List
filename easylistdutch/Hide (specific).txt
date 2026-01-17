@@ -15,6 +15,9 @@ groningerkrant.nl##article[id^="post"] .in-feed
 huisvlijt.com##.sidebar-inner-wrap > .widget:has(img):has(a[href*="suninvestbvba.be"])
 krefel.be##[class*="sm:grid"]:has(div[aria-roledescription="slide"]:has(* > p:has-text(Gesponsord)))
 rtl.nl##div[data-adslot-variant]
+rubenweytjens.be##.ad.row
+rubenweytjens.be##.adpanel
+rubenweytjens.be##.skyscraper
 skoften.net##div[class*="cls-placeholder"]
 soccernews.nl###r89-video-outstream
 sportnieuws.nl##.banner-centered
@@ -450,8 +453,6 @@ rtvideaal.nl##.widget_random_banner_widget
 rtvkrimpenerwaard.nl##.art-positioncontrol
 rtvkrimpenerwaard.nl##[id^="pg-1407"]:has-text(Vrienden):has([class^="sp-logo-carousel"] .sp-lcp-logo-wrapper):has(img[src])
 rtvpapendrecht.nl##div[class^="vc_column"]:has-text(/reclame/i)
-rubenweytjens.be##.block-ad-banner:not(:has([href*="weerpush.be/"])):not(:has(iframe[src*="meteo-be.net"]))
-rubenweytjens.be##.view-weather-ads-view
 schiedamsnieuws.nl##[class*="sidebar"] > section:has(a[href]):has(img[src*="wp.com/www.schiedamsnieuws.nl/"][srcset])
 security.nl##.banner_leaderboard
 seksverhalen.org##header:style(height:100px !important;)
@@ -1102,6 +1103,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
