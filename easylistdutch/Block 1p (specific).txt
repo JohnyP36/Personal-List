@@ -1,5 +1,7 @@
 [uBlock Origin]
 ! Last modified: %timestamp%
+! 2026
+||touretappe.nl/images/topposblock.html
 ! 2024
 .be/la_custom/get_banners_cache$xhr,first-party,domain=hagelandactueel.be|leuvenactueel.be
 ! 2023
