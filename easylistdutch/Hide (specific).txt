@@ -6,6 +6,8 @@ alblasserdamsnieuws.nl##.albla-widget
 alblasserdamsnieuws.nl##.a2t-link:upward(div[id^="albl"])
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,mobiliteit.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
 autoreview.nl##div[id^="Autoreview.nl_ros_"]:upward(1)
+banden.autoweek.nl,eindexamens.nu,gezondheid.be###leaderboard
+banden.autoweek.nl##.ad
 beursduivel.be,iexprofs.nl##.banner
 boek9.nl##div[id*="block-advertisements"]
 delhaize.be##[data-testid$="-ad"]
@@ -214,7 +216,6 @@ ecommercenews.nl##.ldrtop
 ecommercenews.nl##.sidebar > .widget-image-content-button:not(:has(a[href*="ecommercenews.nl"]))
 ecommercenews.nl##.widget-partners
 eemland1.nl##.wpb_wrapper > [data-td-block-uid^="tdi_"]:has(.owl-item)
-eindexamens.nu,gezondheid.be###leaderboard
 eindtijdklok.org##.widget_block:has(img[src*="/ad"])
 elkspel.nl,fiets.nl,fietsactief.nl,knipmode.nl,riskcompliance.nl,seasons.nl,truckstar.nl,vorsten.nl,zin.nl##.banner-container
 eoswetenschap.eu##.l-banner
@@ -1108,6 +1109,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
