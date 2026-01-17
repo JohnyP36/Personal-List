@@ -1,6 +1,7 @@
 [uBlock Origin]
 ! Last modified: %timestamp%
 ! 2026
+autoreview.nl##div[id^="Autoreview.nl_ros_"]:upward(1)
 delhaize.be##[data-testid$="-ad"]
 demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl###article_paragraph_3
 demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
@@ -1098,6 +1099,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
