@@ -6,6 +6,7 @@
 /banners/*$domain=wijchensnieuws.nl
 /wp-content/uploads/*.gif$image,domain=sliedrecht24.nl
 ||christelijknieuws.nl/wp-content/uploads/*Banner
+||sliedrecht24.nl/wp-content/uploads/*/palmpjes-banner
 ||touretappe.nl/images/topposblock.html
 ||unitednews.sr/wp-content/uploads/*/BANNER
 ! 2024
@@ -316,4 +317,3 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
-
