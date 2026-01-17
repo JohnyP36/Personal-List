@@ -10,6 +10,7 @@ demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.top1-container
 huisvlijt.com##.sidebar-inner-wrap > .widget:has(img):has(a[href*="suninvestbvba.be"])
 krefel.be##[class*="sm:grid"]:has(div[aria-roledescription="slide"]:has(* > p:has-text(Gesponsord)))
 rtl.nl##div[data-adslot-variant]
+skoften.net##div[class*="cls-placeholder"]
 sportnieuws.nl##.banner-centered
 topgear.nl##.PnvpParent:has(div[id$="ad-wrap"])
 ! 2024
@@ -1102,3 +1103,4 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
