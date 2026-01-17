@@ -3,6 +3,7 @@
 ! 2026
 .nl/*/advertisements/$domain=boek9.nl|grandprixradio.nl|grootnieuwsradio.nl
 /banner/*$domain=kranenwebsite.nl
+/banners/*$domain=wijchensnieuws.nl
 ||touretappe.nl/images/topposblock.html
 ||unitednews.sr/wp-content/uploads/*/BANNER
 ! 2024
@@ -313,5 +314,3 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
-
-
