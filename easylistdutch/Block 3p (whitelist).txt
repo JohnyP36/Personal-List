@@ -1,5 +1,7 @@
 [uBlock Origin]
 ! Last modified: %timestamp%
+! 2026
+@@||ads.nextday.media/prebid/jw-video/7.43.0.min.js$domain=vi.nl|voetbalnieuws.nl
 ! 2024
 @@||promotools.biz^$subdocument,domain=beeldbelsex.com
 ! 2023
