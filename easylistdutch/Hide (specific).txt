@@ -45,6 +45,7 @@ rubenweytjens.be##.adpanel
 rubenweytjens.be##.skyscraper
 rubenweytjens.be##div[class^="xs-padding"]:has(.adsbygoogle)
 skoften.net##div[class*="cls-placeholder"]
+sliedrecht24.nl##[id$="random_ads"]
 soccernews.nl###r89-video-outstream
 sportnieuws.nl##.banner-centered
 techpulse.be##.magazine-sidebar-block
@@ -1113,6 +1114,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
