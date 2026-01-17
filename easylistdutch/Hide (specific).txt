@@ -17,6 +17,7 @@ banden.autoweek.nl,eindexamens.nu,gezondheid.be###leaderboard
 banden.autoweek.nl##.ad
 beursduivel.be,iexprofs.nl##.banner
 boek9.nl##div[id*="block-advertisements"]
+ciaotutti.nl##div[class$="widget_advert"]:not(:has(a[href*="ciaotutti.nl"])):not(:has(a[href*="eepurl"])):not(:has(a[href*="facebook.com"])):not(:has(a[href*="instagram.com"])):not(:has(a[href*=".app/share/ciaotutti"]))
 delhaize.be##[data-testid$="-ad"]
 demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl###article_paragraph_3
 demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
@@ -663,7 +664,6 @@ bnnvara.nl##div[id^="ster-ad-bnnvara-"]:upward(1)
 buienradar.be,buienradar.nl###adholderContainerHeader
 buienradar.nl##.uitradar:has(img[src*=".nl/resources//images/promo/"])
 businessinsider.nl##.ll_partnerexpert
-ciaotutti.nl##.theiaStickySidebar > .text-html-box:not(:has(a[href^="https://ciaotutti.nl/"])):not(:has(a[href^="http://eepurl.com/"])):not(:has(a[href*="facebook.com/blogciaotutti"]))
 clubbrugge.be,voetbalindebollenstreek.nl##.partners
 coc.nl,cocamsterdam.nl,cochaaglanden.nl,fanclubbarcelona.nl###banners
 cocdeventer.nl###ads
@@ -1116,6 +1116,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
