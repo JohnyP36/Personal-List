@@ -36,6 +36,7 @@ meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"]) + a[href*="basbeats.nl"]
 nieuwsuitnijmegen.nl,wijchensnieuws.nl##.js-banner-slider
 nieuwsuitnijmegen.nl,wijchensnieuws.nl##.text-left:has-text(/advert/i)
+nljug.org##.theiaStickySidebar > .widget_custom_html:has(a[href] > img)
 noordkop247.nl##.commercial-block
 radionova.be##.widget_media_image:upward(.sidebar):has-text(/Advert/i)
 radiostadmontfoort.nl##img[src^="img/ads/cdm"]:upward(5):has-text(Reclame)
@@ -896,7 +897,6 @@ nl.motorsport.com##.ms-hapb
 nl.motorsport.com##.ms-side-items--with-banner
 nl.motorsport.com##.ms-side-widget--custom-links__wrapper
 nl-nieuwsonline.nl###content-footer-section:has(.adsbygoogle)
-nljug.org##.widget:has(.capegroep-banner)
 nljug.org##[id^="custom_html-"]:has-text(Kennispartners):has(a[href] > img)
 nporadio1.nl,nporadio2.nl,npo3fm.nl,nporadio4.nl##ul > li:has(script[src*="ster"]):has-text(/advert/i)
 nu.nl##.articlelist.block:has-text(Folder \(Adverteerders\)) .listA
@@ -1114,6 +1114,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
