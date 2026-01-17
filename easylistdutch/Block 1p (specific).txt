@@ -2,6 +2,7 @@
 ! Last modified: %timestamp%
 ! 2026
 .nl/*/advertisements/$domain=boek9.nl|grandprixradio.nl|grootnieuwsradio.nl
+/banner/*$domain=kranenwebsite.nl
 ||touretappe.nl/images/topposblock.html
 ! 2024
 .be/la_custom/get_banners_cache$xhr,first-party,domain=hagelandactueel.be|leuvenactueel.be
@@ -311,3 +312,4 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
+
