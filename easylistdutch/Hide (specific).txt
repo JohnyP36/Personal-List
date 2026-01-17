@@ -28,6 +28,8 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite:upward(.raw-html-component)
 meteoalblasserdam.nl##p:has-text(/advert/i):not(:has(a[href="adverteren.html"])):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"]) + a[href*="basbeats.nl"]
+nieuwsuitnijmegen.nl,wijchensnieuws.nl##.js-banner-slider
+nieuwsuitnijmegen.nl,wijchensnieuws.nl##.text-left:has-text(/advert/i)
 radionova.be##.widget_media_image:upward(.sidebar):has-text(/Advert/i)
 radiostadmontfoort.nl##img[src^="img/ads/cdm"]:upward(5):has-text(Reclame)
 rtl.nl##div[data-adslot-variant]
@@ -880,8 +882,6 @@ nieuweoogst.nl##.logolinks-wrapper
 nieuws.nl###footer-banner
 nieuwsfiets.nu##.ult-content-box > a[href]:not([href*="nieuwsfiets.nu"]):not([href*="questionpro.com"])
 nieuwsuitdelden.nl##.gesponsord_blokje
-nieuwsuitnijmegen.nl##.js-banner-slider
-nieuwsuitnijmegen.nl##.text-left:has-text(/advert/i)
 ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
 ninefornews.nl##.mag-box:has(img[width="728"][height="90"])
 ninefornews.nl##[id*="block"]:has([class^="mag-box-container"] > *:has(div[class="featured_caption"]))
@@ -1114,27 +1114,3 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
