@@ -58,7 +58,6 @@
 @@||lexozfldkklgvc.com/assets/cp/js/webcam_gallery/iframe_handler.js$script,domain=sexmeid.nl
 @@||lexozfldkklgvc.com/cp/webcam_gallery/index.php$subdocument,domain=sexmeid.nl|sexycamgirls.eu
 @@||media.plista.com^*$image,domain=totaaltv.nl
-@@||nextday.media^$third-party,domain=vi.nl
 @@||plista.com/async$script,domain=totaaltv.nl
 @@||promotools.islive.nl/ads/nieuws_en_updates_230x135/vijf-updates/txt.js$script,domain=kutscheetje.nl
 @@||pt.protoawe.com/embed/tbplyr/*$script,domain=lekkerewebcams.nl|gratispornofilm.nl|teen-sex.nl
