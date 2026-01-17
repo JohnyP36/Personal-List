@@ -1,6 +1,7 @@
 [uBlock Origin]
 ! Last modified: %timestamp%
 ! 2026
+loemedia.nl##.ad
 abcsuriname.com,vlietnieuws.nl##.banner_wrapper
 alblasserdamsnieuws.nl##.albla-widget
 alblasserdamsnieuws.nl##.a2t-link:upward(div[id^="albl"])
@@ -340,7 +341,6 @@ knhs.nl##.ads:has(img[src*="banner"])
 landenweb.nl##.content > table:has(:scope > tbody:has-text(advert))
 leerlingen.com##.clearfix.widget > :has(.sponsors)
 leerzaam.com,radiovisie.eu,stopdebankiers.com,watchfaces.be##[id^="custom_html"]:has(.adsbygoogle)
-loemedia.nl##.widget_media_video:has-text(Reclame)
 letsgodigital.org##.product__wrapper:has(.adsbygoogle)
 linqmedia.nl##.advertentieTitel
 livios.be##.block-leaderboard
@@ -1114,3 +1114,4 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
