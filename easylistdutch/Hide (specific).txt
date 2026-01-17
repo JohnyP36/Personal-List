@@ -45,6 +45,7 @@ nljug.org##.theiaStickySidebar > .widget_custom_html:has(a[href] > img)
 noordkop247.nl##.commercial-block
 radionova.be##.widget_media_image:upward(.sidebar):has-text(/Advert/i)
 radiostadmontfoort.nl##img[src^="img/ads/cdm"]:upward(5):has-text(Reclame)
+rivierenland-radio.nl##.aba
 rtl.nl##div[data-adslot-variant]
 rubenweytjens.be##.ad.row
 rubenweytjens.be##.adpanel
@@ -1114,3 +1115,4 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
