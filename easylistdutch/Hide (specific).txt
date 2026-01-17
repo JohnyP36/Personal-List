@@ -10,6 +10,8 @@ demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
 demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.top1-container
 fok.nl,fr12.nl,gpinfo.com,looopings.nl,mannenzaken.nl,scientias.nl,tvblik.nl,voetbalnieuws.be,voetbalrotterdam.nl,webwoordenboek.nl,wielernieuws.be##div[class^="r89-desktop"]
 gpinfo.com,koopplein.nl,televizier.nl,tvblik.nl,voetbalnieuws.be,wielernieuws.be##.header-banner
+groningerkrant.nl##.sidebar .widget:has-text(Gerelateerd)
+groningerkrant.nl##article[id^="post"] .in-feed
 huisvlijt.com##.sidebar-inner-wrap > .widget:has(img):has(a[href*="suninvestbvba.be"])
 krefel.be##[class*="sm:grid"]:has(div[aria-roledescription="slide"]:has(* > p:has-text(Gesponsord)))
 rtl.nl##div[data-adslot-variant]
@@ -276,8 +278,6 @@ gratispornofilm.nl##.lazyloading.block-bordered
 grazia.nl###WB_VIDEO_PLAYER_TARGET
 greenkeeper.nl###lijst_logos
 greenkeeper.nl##.logoblok
-groningerkrant.nl##aside.widget .swiper-slide:not(:has(a[href="/adverteren"])):upward(.swiper-wrapper)
-groningerkrant.nl##aside.widget:has(.widget-title:has-text(Vrienden))
 guruwatch.nl##.Billboard
 guruwatch.nl##.LargeRectangle
 handbal.be##.footer-top
@@ -1102,6 +1102,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
