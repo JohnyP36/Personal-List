@@ -89,7 +89,7 @@ apintie.sr###navcol2
 apintie.sr###sidebar > div[style*="width:300px; height:"]:not(:has(img[alt="Apintie iPhone App"]))
 apparata.nl##.widget:has(h2:has-text(/Partners/i))
 arenalokaal.nl,belnieuws.nl,dehavenloods.nl,hetkompassliedrecht.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl,weespernieuws.nl##div[id*="rectangle"]:upward(.component__plugin)
-arenalokaal.nl,belnieuws.nl,dehavenloods.nl,dekrantnieuws.nl,destreekkrant.nu,hetkrantje-online.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl,zuidenvelder.info##.component__pubble-banner:has([advobject])
+arenalokaal.nl,belnieuws.nl,dehavenloods.nl,dekrantnieuws.nl,destreekkrant.nu,hetkrantje-online.nl,hilversumsnieuws.nl,leiderdorpsweekblad.nl,nnp.nl,weespernieuws.nl,zuidenvelder.info##.component__pubble-banner:has([advobject])
 arenalokaal.nl##.content-start > * > div[style]:has-text(/Externe links|Externe websites/i)
 arenalokaal.nl,dehavenloods.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl##.component__pubble-banner:has([advobject]):upward(.bg-gray-100):has-text(/Uit de krant/i)
 asex.nl###adblk1
@@ -1102,6 +1102,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
