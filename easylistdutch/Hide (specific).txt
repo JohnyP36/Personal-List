@@ -15,6 +15,7 @@ skoften.net##div[class*="cls-placeholder"]
 soccernews.nl###r89-video-outstream
 sportnieuws.nl##.banner-centered
 topgear.nl##.PnvpParent:has(div[id$="ad-wrap"])
+want.nl##.mha_container
 ! 2024
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,hln.be,pzc.nl##.page-header__section--spacer
@@ -34,7 +35,6 @@ hagelandactueel.be,leuvenactueel.be##.has-banner-top:style(padding-top: 0 !impor
 nieuwsblad.be##.cba_container_grid
 opwindend.net##.b > .profilethumb:upward(.tab)
 poldertube.nl##a[href^="https://go2.go2cloud.org/"]
-want.nl##.ad-top_banner:upward(.mha_container--header)
 want.nl##.sticky-banner-container
 webwoordenboek.nl##.layout__main-ads
 wos.nl##.header-right
@@ -1102,6 +1102,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
