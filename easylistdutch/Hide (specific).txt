@@ -27,6 +27,7 @@ demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
 demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.top1-container
 fok.nl,fr12.nl,gpinfo.com,headliner.nl,looopings.nl,lovereality.nl,mannenzaken.nl,scientias.nl,tvblik.nl,voetbalnieuws.be,voetbalrotterdam.nl,webwoordenboek.nl,wielernieuws.be##div[class^="r89-desktop"]
 gic.nl##aside[aria-label="Banner"]
+gpblog.com##div[id^="snack"]
 gpinfo.com,koopplein.nl,televizier.nl,tvblik.nl,voetbalnieuws.be,wielernieuws.be##.header-banner
 groningerkrant.nl##.sidebar .widget:has-text(Gerelateerd)
 groningerkrant.nl##article[id^="post"] .in-feed
@@ -299,7 +300,6 @@ goodbye.be##.advertising
 gooieneemlander.nl,noordhollandsdagblad.nl,leidschdagblad.nl###advertorial-destination
 gostreaming.nl##a[rel*="sponsored"]
 goudengids.be##.banner-boxes-holder
-gpblog.com##aside[class^="Ad_"]:style(position: absolute !important; left: -3000px !important;)
 gpfans.com##.leaderboardbg
 gpfans.com##.taboonews
 gpfans.com,playboy.nl##a[href^="https://casinoscout.nl/"]
@@ -1114,3 +1114,4 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
