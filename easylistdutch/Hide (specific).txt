@@ -49,6 +49,7 @@ soccernews.nl###r89-video-outstream
 sportnieuws.nl##.banner-centered
 techpulse.be##.magazine-sidebar-block
 topgear.nl##.PnvpParent:has(div[id$="ad-wrap"])
+voetbal4u.com##.widget_text:has(h2):has-text(/crypto/i)
 want.nl##.mha_container
 wfm.be##.wpb_wrapper:has(.slick-slider .qt-sponsor)
 ! 2024
@@ -563,7 +564,6 @@ velt.nu##.region-sponsors
 villamedia.nl##.header-intro
 vivatube.com##.mt15.container:has-text(Advert)
 voetbal-vandaag.nl###sidebar_aanbevelen
-voetbal4u.com##.widget_text:has(h4):has-text(/crypto/i)
 voetbalcentraal.nl##.blok:has(h3:has-text(Partners))
 voetbalvandaag.be##.adds
 voetbalvandaag.be##.embed-responsive:has(iframe[src*="banners"])
@@ -1113,6 +1113,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
