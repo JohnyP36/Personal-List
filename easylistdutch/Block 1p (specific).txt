@@ -1,6 +1,7 @@
 [uBlock Origin]
 ! Last modified: %timestamp%
 ! 2026
+.nl/*/advertisements/$domain=boek9.nl|grandprixradio.nl|grootnieuwsradio.nl
 ||touretappe.nl/images/topposblock.html
 ! 2024
 .be/la_custom/get_banners_cache$xhr,first-party,domain=hagelandactueel.be|leuvenactueel.be
@@ -33,8 +34,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||ecobioliving.eu/*bol.com/nl/upload/partnerprogramma/$image
 ||escort46.nl/bg_images/*.gif
 ||feyenoord.nl/*/media/*partnerships/$image
-||grandprixradio.nl/*/advertisements/
-||grootnieuwsradio.nl/*/advertisements/
 ||motorboot.com/wp-content/uploads/*/ad-logo
 ||noordernieuws.nl/wp-content/uploads/*/casino$image
 ||nnieuws.be/sites/default/files/images/ads/
