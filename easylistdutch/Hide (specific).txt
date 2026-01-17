@@ -5,6 +5,7 @@ abcsuriname.com,vlietnieuws.nl##.banner_wrapper
 alblasserdamsnieuws.nl##.albla-widget
 alblasserdamsnieuws.nl##.a2t-link:upward(div[id^="albl"])
 ans-online.nl##aside.widget:has-text(/Advertenties\b/i)
+autobahn.eu##.sticky-incontent:has([data-aa-adunit])
 autobahn.eu##li[class^="bg-reserved"]:has(* > [data-aa-adunit])
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,mobiliteit.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
 autoreview.nl##div[id^="Autoreview.nl_ros_"]:upward(1)
@@ -1114,4 +1115,5 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
