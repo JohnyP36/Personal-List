@@ -41,6 +41,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite:upward(.raw-html-component)
 meteoalblasserdam.nl##p:has-text(/advert/i):not(:has(a[href="adverteren.html"])):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"]) + a[href*="basbeats.nl"]
+metronieuws.nl,want.nl##.mha_container
 motorblog.nl##.sale
 motorrijder.be##div[id^="bannerhome"]:not(:has(a[href*="motorrijder.be/"]))
 nieuwsuitnijmegen.nl,wijchensnieuws.nl##.js-banner-slider
@@ -64,7 +65,6 @@ techpulse.be##.magazine-sidebar-block
 topgear.nl##.PnvpParent:has(div[id$="ad-wrap"])
 voetbal4u.com##.widget_text:has(h2):has-text(/crypto/i)
 voetbalverslaafd.nl##div[class*="r89-mobile"]:upward(1)
-want.nl##.mha_container
 wfm.be##.wpb_wrapper:has(.slick-slider .qt-sponsor)
 ! 2024
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
@@ -1117,3 +1117,4 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
