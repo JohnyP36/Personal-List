@@ -28,6 +28,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite:upward(.raw-html-component)
 meteoalblasserdam.nl##p:has-text(/advert/i):not(:has(a[href="adverteren.html"])):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"]) + a[href*="basbeats.nl"]
+radionova.be##.widget_media_image:upward(.sidebar):has-text(/Advert/i)
 rtl.nl##div[data-adslot-variant]
 rubenweytjens.be##.ad.row
 rubenweytjens.be##.adpanel
@@ -1111,6 +1112,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
