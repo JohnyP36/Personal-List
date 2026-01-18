@@ -65,11 +65,13 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite:upward(.raw-html-component)
 marktnet.nl##div[id^="banner"]:upward(div[class^="box"])
 marktplaats.nl,2dehands.be###adsense-container
 marktplaats.nl,2dehands.be##.BannerButton-root
+marktplaats.nl,2dehands.be##.BannerRight-root
 marktplaats.nl,2dehands.be##.Banners-bannerFeedItem
 marktplaats.nl,2dehands.be##.banner-top-dt
 marktplaats.nl,2dehands.be##.bannerContainerLoading
 marktplaats.nl,2dehands.be##.hz-Banner
 marktplaats.nl,2dehands.be##.hz-Page-content:style(max-width: 1300px!important;)
+marktplaats.nl,2dehands.be##.right-banner-root-container
 marktplaats.nl,2dehands.be##.vip-banner-top-sticky-container
 meteoalblasserdam.nl##p:has-text(/advert/i):not(:has(a[href="adverteren.html"])):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"])
@@ -1123,6 +1125,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
