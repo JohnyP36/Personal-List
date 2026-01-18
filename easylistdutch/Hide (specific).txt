@@ -63,6 +63,7 @@ krefel.be##[class*="sm:grid"]:has(div[aria-roledescription="slide"]:has(* > p:ha
 mannenzaken.nl##.r89-mobile-billboard-top:upward(.raw-html-component)
 mannenzaken.nl##.r89-mobile-rectangle-infinite:upward(.raw-html-component)
 marktnet.nl##div[id^="banner"]:upward(div[class^="box"])
+marktplaats.nl,2dehands.be##.Banners-bannerFeedItem
 meteoalblasserdam.nl##p:has-text(/advert/i):not(:has(a[href="adverteren.html"])):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"]) + a[href*="basbeats.nl"]
@@ -387,16 +388,6 @@ mannenpage.nl###r89-flex
 mannenpage.nl##video[src*="mannenpage.nl/wp-content/uploads/2023/08/kitesurfer.mp4"]:upward(.flowplayer)
 mannenstyle.nl##.widget_execphp
 marketingtribune.nl###banner-billboard
-marktplaats.nl,2dehands.be###adsense-container
-marktplaats.nl,2dehands.be##.banner-top-dt
-marktplaats.nl,2dehands.be##.BannerBottom-root
-marktplaats.nl,2dehands.be##.BannerRight-root
-marktplaats.nl,2dehands.be##.Banners-bannerFeedItem
-marktplaats.nl,2dehands.be##.hz-Banner
-marktplaats.nl,2dehands.be##.hz-Page-content:style(max-width: 1300px!important;)
-marktplaats.nl,2dehands.be##.right-banner-root-container
-marktplaats.nl,2dehands.be##.vip-banner-top-sticky-container
-marktplaats.nl,2dehands.be##div[class*="admarktTitle"]:upward(1)
 marokko.nl###ad-rec-btf
 marokko.nl##.ad_between
 marokko.nl##.ad_inner
@@ -1125,9 +1116,3 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
-
-
-
-
-
-
