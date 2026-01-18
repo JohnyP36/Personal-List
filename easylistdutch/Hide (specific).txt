@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Last modified: %timestamp%
 ! 2026
-loemedia.nl,vi##.ad
+banden.autoweek.nl,loemedia.nl,pepper.com,vi##.ad
 babybytes.nl##.ad-container
 twentefm.nl##.advertisement
 abcsuriname.com,vlietnieuws.nl##.banner_wrapper
@@ -24,7 +24,6 @@ amstelveensnieuwsblad.nl,baarnschecourant.nl,barneveldsekrant.nl,deputtenaer.nl,
 edestad.nl,huisaanhuiselburg.nl,huisaanhuisoldebroek.nl,nunspeethuisaanhuis.nl,stadwageningen.nl##.component__pubble-banner:has([advobject]):has-text(/Uit de krant/i)
 axed.nl,fok.nl,fr12.nl,gpinfo.com,headliner.nl,looopings.nl,lovereality.nl,mannenzaken.nl,scientias.nl,tvblik.nl,voetbalnieuws.be,voetbalrotterdam.nl,webwoordenboek.nl,wielernieuws.be##div[class^="r89-desktop"]
 banden.autoweek.nl,eindexamens.nu,gezondheid.be###leaderboard
-banden.autoweek.nl##.ad
 beursduivel.be,buienalaram.nl,iexprofs.nl##.banner
 bnr.nl##.bnr-message
 boek9.nl##div[id*="block-advertisements"]
@@ -1120,4 +1119,5 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
