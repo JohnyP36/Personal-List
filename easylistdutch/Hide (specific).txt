@@ -71,6 +71,8 @@ pu.nl##div[id*="adSlot"]:upward(.lazyload-wrapper)
 puna.nl##div[class^="r89-desktop"]:upward(.raw-html-component)
 radionova.be##.widget_media_image:upward(.sidebar):has-text(/Advert/i)
 radiostadmontfoort.nl##img[src^="img/ads/cdm"]:upward(5):has-text(Reclame)
+rd.nl##.codalt-container
+rd.nl##div[class*="ad-container"]
 rivierenland-radio.nl##.aba
 rtl.nl##div[data-adslot-variant]
 rubenweytjens.be##.ad.row
@@ -465,9 +467,6 @@ radioeenhoorn.nl##.module_round_box:not(:has([href*="/word-donateur"]))
 radiopros.be##.inside-left-sidebar
 radioreflex.be##aside:has-text(/sponsor/i)
 radiozenders.fm##[id^="div-gpt-rectangle"]:upward(.banner-rectangle)
-rd.nl##.codalt-container
-rd.nl##.infotainment:has(a[href^="/advert"])
-rd.nl##.rdnl__adds
 redbot.frl##.container.slider:has(.twelvecol:has-text(partners))
 refoweb.nl##.bannercontainer
 regionoordkop.nl##.regio-widget
@@ -1122,4 +1121,5 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
