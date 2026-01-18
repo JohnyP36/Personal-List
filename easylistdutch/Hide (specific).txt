@@ -24,7 +24,7 @@ amstelveensnieuwsblad.nl,baarnschecourant.nl,barneveldsekrant.nl,deputtenaer.nl,
 edestad.nl,huisaanhuiselburg.nl,huisaanhuisoldebroek.nl,nunspeethuisaanhuis.nl,stadwageningen.nl##.component__pubble-banner:has([advobject]):has-text(/Uit de krant/i)
 banden.autoweek.nl,eindexamens.nu,gezondheid.be###leaderboard
 banden.autoweek.nl##.ad
-beursduivel.be,iexprofs.nl##.banner
+beursduivel.be,buienalaram.nl,iexprofs.nl##.banner
 bnr.nl##.bnr-message
 boek9.nl##div[id*="block-advertisements"]
 ciaotutti.nl##div[class$="widget_advert"]:not(:has(a[href*="ciaotutti.nl"])):not(:has(a[href*="eepurl"])):not(:has(a[href*="facebook.com"])):not(:has(a[href*="instagram.com"])):not(:has(a[href*=".app/share/ciaotutti"]))
@@ -1117,5 +1117,6 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
