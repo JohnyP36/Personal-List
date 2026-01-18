@@ -106,6 +106,9 @@ standaard.be##div[id^="ad"]
 techpulse.be##.magazine-sidebar-block
 telegraaf.nl##div[id^="ad_divider"]
 topgear.nl##.PnvpParent:has(div[id$="ad-wrap"])
+tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
+tweakers.net##.widebnr
+tweakers.net##.top-banner
 viraal.nl##.large-screen-ad:upward(.raw-html-component)
 voetbal4u.com##.widget_text:has(h2):has-text(/crypto/i)
 voetbalverslaafd.nl##div[class*="r89-mobile"]:upward(1)
@@ -579,9 +582,6 @@ trucks.nl##.trucks_ros_leaderboard-billboard
 turksemedia.nl##.easingslider
 tvgids24.nl###shortads
 tvgids24.nl##.adBoxbig
-tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
-tweakers.net##.widebnr
-tweakers.net##div[class^="rectangle"]:has-text(/advert/i)
 ucl-voetbal.nl,uecl-voetbal.nl,uel-voetbal.nl##.uitgelichtbox
 uitzendinggemist.net##.serie_info_adbox
 vagina.nl##.list-item:has(script[src*="realsrv.com"])
@@ -1127,6 +1127,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
