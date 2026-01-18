@@ -13,7 +13,7 @@ androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
 androidplanet.nl,androidworld.nl,iphoned.nl##header[data-name="featured-header"]
 androidworld.nl##.adblock-detect:upward(1):has(div[id*="_ros_"])
 ans-online.nl##aside.widget:has-text(/Advertenties\b/i)
-autobahn.eu##.sticky-incontent:has([data-aa-adunit])
+autobahn.eu,grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.sticky-incontent:has([data-aa-adunit])
 autobahn.eu##li[class^="bg-reserved"]:has(* > [data-aa-adunit])
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,mobiliteit.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
 autoreview.nl##div[id^="Autoreview.nl_ros_"]:upward(1)
@@ -37,6 +37,7 @@ gpblog.com##div[id^="snack"]
 gpinfo.com,koopplein.nl,televizier.nl,tvblik.nl,voetbalnieuws.be,wielernieuws.be##.header-banner
 grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.bg-reserved:has(div[data-aa-adunit])
 grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##div[data-aa-adunit]
+grazia.nl,panorama.nl,wielerrevue.nl##div[id$="VIDEO_PLAYER_TARGET"]:upward(.showheroes-unit)
 groningerkrant.nl##.sidebar .widget:has-text(Gerelateerd)
 groningerkrant.nl##article[id^="post"] .in-feed
 huisvlijt.com##.sidebar-inner-wrap > .widget:has(img):has(a[href*="suninvestbvba.be"])
@@ -311,7 +312,6 @@ gpfans.com,playboy.nl##a[href^="https://casinoscout.nl/"]
 gratispittigesexfilms.nl##.spot-on
 gratispornofilm.nl##.cp-webcam-gallery-container
 gratispornofilm.nl##.lazyloading.block-bordered
-grazia.nl###WB_VIDEO_PLAYER_TARGET
 greenkeeper.nl###lijst_logos
 greenkeeper.nl##.logoblok
 guruwatch.nl##.Billboard
@@ -1119,3 +1119,4 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
