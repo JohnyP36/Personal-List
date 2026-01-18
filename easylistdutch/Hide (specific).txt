@@ -113,6 +113,7 @@ standaard.be##div[id^="ad"]
 techpulse.be##.magazine-sidebar-block
 telegraaf.nl##div[id^="ad_divider"]
 topgear.nl##.PnvpParent:has(div[id$="ad-wrap"])
+topkleurplaat.nl##a[href^="https://partner.bol.com/click/"] > img
 tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
 tweakers.net##.widebnr
 tweakers.net##.top-banner
@@ -1132,6 +1133,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
