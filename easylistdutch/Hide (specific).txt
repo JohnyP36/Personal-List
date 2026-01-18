@@ -33,6 +33,9 @@ beursduivel.be,buienalaram.nl,iexprofs.nl##.banner
 bnr.nl##.bnr-message
 boek9.nl##div[id*="block-advertisements"]
 ciaotutti.nl##div[class$="widget_advert"]:not(:has(a[href*="ciaotutti.nl"])):not(:has(a[href*="eepurl"])):not(:has(a[href*="facebook.com"])):not(:has(a[href*="instagram.com"])):not(:has(a[href*=".app/share/ciaotutti"]))
+crypto-insiders.nl##.ad-category
+crypto-insiders.nl##.exp-google-ad
+crypto-insiders.nl##div[class^="intercom-app"] > iframe[title*="banner"]
 delhaize.be##[data-testid$="-ad"]
 demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl###article_paragraph_3
 demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
@@ -690,8 +693,6 @@ coc.nl,cocamsterdam.nl,cochaaglanden.nl,fanclubbarcelona.nl###banners
 cocdeventer.nl###ads
 commonsensetv.nl##.theiaStickySidebar div[id^="media_image"]:has(img[src*="wp.com/"])
 creditexpo.nl##p:has(a[href]:has(img[src*="creditexpo.nl/wp-content/uploads/"][width="300"]))
-crypto-insiders.nl##article.format-standard:has([id^="div-gpt-ad"])
-crypto-insiders.nl##div[class^="intercom-app"] > iframe[title*="banner"]
 cryptoclan.nl,cryptonieuws.nl##div[data-elementor-type="popup"]
 dagbladdewest.com##.elementor-widget-slides:has(.swiper-wrapper)
 dagelijksekost.een.be##.dish-sponsors
@@ -1124,6 +1125,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
