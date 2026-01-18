@@ -16,6 +16,8 @@ androidworld.nl##.adblock-detect:upward(1):has(div[id*="_ros_"])
 ans-online.nl##aside.widget:has-text(/Advertenties\b/i)
 autobahn.eu,grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.sticky-incontent:has([data-aa-adunit])
 autobahn.eu##li[class^="bg-reserved"]:has(* > [data-aa-adunit])
+autoblog.nl##.widget_ab_sidebar
+autoblog.nl##div[class^="ndm-min-"]
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,mobiliteit.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
 autoreview.nl##div[id^="Autoreview.nl_ros_"]:upward(1)
 autoweek.nl##div[class^="adslot"]
@@ -651,8 +653,6 @@ appletips.nl##.ph_upgreatest
 appletips.nl###bolcontainer
 appletips.nl##[class^="ph_block"]
 appletips.nl##a[href^="/adverteren-"]
-autoblog.nl##.widget:has-text(/links/i)
-autoblog.nl##.widget_ab_sidebar
 autoreview.nl###parentgpt
 autoreview.nl##.autowereld_ros_bravo_leaderboard-billboard
 autoreview.nl##.bottom-bannuring
@@ -1121,6 +1121,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
