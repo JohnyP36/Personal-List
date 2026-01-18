@@ -92,6 +92,7 @@ nieuwsuitnijmegen.nl,wijchensnieuws.nl##.js-banner-slider
 nieuwsuitnijmegen.nl,wijchensnieuws.nl##.text-left:has-text(/advert/i)
 nljug.org##.theiaStickySidebar > .widget_custom_html:has(a[href] > img)
 noordkop247.nl##.commercial-block
+oozo.nl##.adsbybinq
 pu.nl##div[id*="adSlot"]:upward(.lazyload-wrapper)
 puna.nl##div[class^="r89-desktop"]:upward(.raw-html-component)
 radionova.be##.widget_media_image:upward(.sidebar):has-text(/Advert/i)
@@ -456,7 +457,6 @@ onschuldigemeiden.nl##.widget:has([href^="https://short1.nl/smart/"])
 oops.nl###dropinboxv2cover
 oops.nl##[src="http://www.oops.nl/banner/bannerindex.html"]
 oops.nl##table[cellspacing="30"]
-oozo.nl##.hdrcontainer > .adsbybinq
 openingstijden.com###adsense_CSA
 openingsurengids.be##.promSB
 opiniepeilers.nl##div.contentContainer:has(img[src^="/content/"])
@@ -1132,6 +1132,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
