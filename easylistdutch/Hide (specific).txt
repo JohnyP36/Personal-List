@@ -32,6 +32,8 @@ delhaize.be##[data-testid$="-ad"]
 demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl###article_paragraph_3
 demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
 demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.top1-container
+ditjesendatjes.nl##aside > h2:has-text(/DenD Promoties/i)
+ditjesendatjes.nl##aside > h2:has-text(/DenD Promoties/i) + ul
 f1maximaal.nl##.pnvp-ad-wrap:upward(.raw-html-component)
 fok.nl,fr12.nl,gpinfo.com,headliner.nl,looopings.nl,lovereality.nl,mannenzaken.nl,scientias.nl,tvblik.nl,voetbalnieuws.be,voetbalrotterdam.nl,webwoordenboek.nl,wielernieuws.be##div[class^="r89-desktop"]
 gic.nl##aside[aria-label="Banner"]
@@ -1118,6 +1120,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
