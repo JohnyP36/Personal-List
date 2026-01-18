@@ -34,6 +34,8 @@ demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
 demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.top1-container
 ditjesendatjes.nl##aside > h2:has-text(/DenD Promoties/i)
 ditjesendatjes.nl##aside > h2:has-text(/DenD Promoties/i) + ul
+ditjesendatjes.nl##li[class$="object-cover"]:has(a[href]):not(a[href*="ditjesendatjes.nl"]):has(img[src])
+ditjesendatjes.nl##section:has(h2:has-text(/DenD Promoties|DenD Partners/i))
 f1maximaal.nl##.pnvp-ad-wrap:upward(.raw-html-component)
 fok.nl,fr12.nl,gpinfo.com,headliner.nl,looopings.nl,lovereality.nl,mannenzaken.nl,scientias.nl,tvblik.nl,voetbalnieuws.be,voetbalrotterdam.nl,webwoordenboek.nl,wielernieuws.be##div[class^="r89-desktop"]
 gic.nl##aside[aria-label="Banner"]
@@ -701,8 +703,6 @@ deoudrotterdammer.nl##[class$="advertentie"] + div:has([id^="deoud-"])
 detelefoongids.nl##.static-map
 detelefoongids.nl##.wrapper:has-text(Youvia)
 dissident.one,mariabode.nl,omroepzilt.nl##[id^="custom_html"]:has-text(/advert/i)
-ditjesendatjes.nl##.c-partners
-ditjesendatjes.nl##div[class^="article-page__sidebar"] a[href]:not(a[href*="ditjesendatjes.nl"]):not(a[href="#"]):has(img[src])
 dolcevia.com##.affiliatelink
 dolcevia.com##.bookingaff:upward(.card)
 drentsnieuws.nl##.shadow:has(#bannerCarousel)
@@ -1120,8 +1120,3 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
-
-
-
-
-
