@@ -80,6 +80,7 @@ sportnieuws.nl##.banner-centered
 techpulse.be##.magazine-sidebar-block
 telegraaf.nl##div[id^="ad_divider"]
 topgear.nl##.PnvpParent:has(div[id$="ad-wrap"])
+viraal.nl##.large-screen-ad:upward(.raw-html-component)
 voetbal4u.com##.widget_text:has(h2):has-text(/crypto/i)
 voetbalverslaafd.nl##div[class*="r89-mobile"]:upward(1)
 wfm.be##.wpb_wrapper:has(.slick-slider .qt-sponsor)
@@ -1120,6 +1121,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
