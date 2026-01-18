@@ -5,6 +5,7 @@ loemedia.nl,vi##.ad
 babybytes.nl##.ad-container
 twentefm.nl##.advertisement
 abcsuriname.com,vlietnieuws.nl##.banner_wrapper
+afkortingen.nu##.banner_container
 alblasserdamsnieuws.nl##.albla-widget
 alblasserdamsnieuws.nl##.a2t-link:upward(div[id^="albl"])
 ammoniakrechten.nl,efarm.nl,fosfaat.nu,koemarkt.nl,landbouwgrond.nu,mechanisatie.nl,pluimveerechten.nu,quotum.nu,varkensrechten.nu##.adsbygoogle:upward(div[style])
@@ -99,9 +100,6 @@ xgn.nl##.bs
 112achterhoek-nieuws.nl###sidebar
 402online.com##.bannerblock
 adultwebmaster.nl##.main-promo-bn-responsive
-afkortingen.nu###banner_rectangle
-afkortingen.nu###banner_right
-afkortingen.nu###banner_top
 agconnect.nl##[class$="_ad-slot"]
 agraaf.nl##.partners-carousel
 ajax1.nl##.footer__footer-fat
@@ -1119,4 +1117,3 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
-
