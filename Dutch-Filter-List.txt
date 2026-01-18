@@ -1,7 +1,7 @@
 ! Title: Dutch Filter List
-! Last modified: Sat, 17 Jan 2026 19:23:00 +0000
+! Last modified: Sun, 18 Jan 2026 13:36:18 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2026.1.17.1162.patch#dutchfilterlist
+! Diff-Path: patches/2026.1.18.816.patch#dutchfilterlist
 ! Diff-Expires: 12 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -1888,11 +1888,13 @@ wereldreizigers.nl#@#.gridlove-ad
 !
 !-----------------Anti-AdBlock-----------------!
 ! *** easylistdutch:easylistdutch/Anti-AdBlock.txt ***
+! 2026
+@@/wp-content/themes/bigspark/scripts/ads-frontend.min.js$domain=androidplanet.nl|androidworld.nl|iphoned.nl
+autotrader.nl##+js(abort-on-property-read, Object.prototype.autoRecov)
+||jwpcdn.com/player/*/freewheel.js$script,domain=shownieuws.nl
 ! 2023
 112amersfoort.nl,112amsterdam.nl,112apeldoorn.nl,112arnhem.nl,112assen.nl,112barneveld.nl,112bunschoten.nl,112doetinchem.nl,112drenthe.nl,112ede.nl,112eindhoven.nl,112emmen.nl,112flevoland.nl,112harderwijk.nl,112hilversum.nl,112inbeeld.nl,112lelystad.nl,112meppel.nl,112nijkerk.nl,112overijssel.nl,112ridderkerk.nl,112rotterdam.nl,112scherpenzeel.nl,112schiedam.nl,112vallei.nl,112vechtdal.nl,112veenendaal.nl,112wageningen.nl,112zeewolde.nl,112zwolle.nl,vrides.nl##+js(noeval-if, /chp_?ad/)
 aimsolutions.nl##+js(noeval-if, adsBlocked)
-@@/wp-content/*/scripts/adb.min.js$script,first-party,domain=androidplanet.nl|iphoned.nl
- !androidplanet.nl,iphoned.nl##.no-content-styles:has-text(/Steun Android Planet|Steun iPhoned|whitelist/)
 ||goplay.be/js/sourcepoint/msg?v=
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect-rule=noopjs,domain=goplay.be
 @@||sdk.privacy-center.org^$script,domain=goplay.be
