@@ -35,6 +35,8 @@ fok.nl,fr12.nl,gpinfo.com,headliner.nl,looopings.nl,lovereality.nl,mannenzaken.n
 gic.nl##aside[aria-label="Banner"]
 gpblog.com##div[id^="snack"]
 gpinfo.com,koopplein.nl,televizier.nl,tvblik.nl,voetbalnieuws.be,wielernieuws.be##.header-banner
+grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.bg-reserved:has(div[data-aa-adunit])
+grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##div[data-aa-adunit]
 groningerkrant.nl##.sidebar .widget:has-text(Gerelateerd)
 groningerkrant.nl##article[id^="post"] .in-feed
 huisvlijt.com##.sidebar-inner-wrap > .widget:has(img):has(a[href*="suninvestbvba.be"])
