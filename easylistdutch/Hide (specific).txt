@@ -43,6 +43,8 @@ grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##div[data-aa-adunit]
 grazia.nl,panorama.nl,wielerrevue.nl##div[id$="VIDEO_PLAYER_TARGET"]:upward(.showheroes-unit)
 groningerkrant.nl##.sidebar .widget:has-text(Gerelateerd)
 groningerkrant.nl##article[id^="post"] .in-feed
+hbvl.be##div[id^="ad_inline"]
+hbvl.be##section[data-theme-sponsored-content]:has-text(/onze partners/i)
 huisvlijt.com##.sidebar-inner-wrap > .widget:has(img):has(a[href*="suninvestbvba.be"])
 kranenwebsite.nl###bannerdiv
 krefel.be##[class*="sm:grid"]:has(div[aria-roledescription="slide"]:has(* > p:has-text(Gesponsord)))
@@ -774,7 +776,6 @@ halstadcentraal.nl,streekstadcentraal.nl##div[class$="banners-wrapper"]
 handbalstartpunt.nl##aside > div[class]:has(>.adsbygoogle)
 handbalstartpunt.nl##p:has(img[src*="Logo"])
 hardware.info##div[class^="bnr-"]
-!hbvl.be##.widget:has(.article-teaser)
 helpmij.nl##[id^="navbar_notice"]:has(.adsbygoogle)
 hvzeeland.nl##.affiliates
 hardnieuws.nl##[class*="mb-"]:has([id$="ros-970x250"])
@@ -1117,6 +1118,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
