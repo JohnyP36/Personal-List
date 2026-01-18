@@ -16,6 +16,8 @@
 ||sliedrecht24.nl/wp-content/uploads/*/palmpjes-banner
 ||techgaming.nl/image_uploads/sponsored/
 ||touretappe.nl/images/topposblock.html
+||tweakers.net/i^$xmlhttprequest
+||tweakers.net/ajax/clicks/log^$xmlhttprequest
 ||unitednews.sr/wp-content/uploads/*/BANNER
 ! 2024
 .be/la_custom/get_banners_cache$xhr,first-party,domain=hagelandactueel.be|leuvenactueel.be
