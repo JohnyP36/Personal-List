@@ -1,42 +1,32 @@
-diff name:dutchfilterlist lines:41 checksum:9cfdd7ab02
+diff name:dutchfilterlist lines:31 checksum:9cfdd7ab02
 d2 1
 a2 1
 ! Last modified: Sun, 18 Jan 2026 14:37:28 +0000
 d4 1
 a4 1
 ! Diff-Path: patches/2026.1.18.877.patch#dutchfilterlist
-a284 3
-||boodschappen.nl/wp-json/boodschappen/v1/banners/get_banners
-||boodschappen.nl/wp-json/boodschappen/v1/banners/get_advertorial
-||boodschappen.nl/wp-json/boodschappen/v1/banners/get_native_banner
-a732 1
+a735 1
 afkortingen.nu##.banner_container
-a735 4
+a738 4
 androidplanet.nl,androidworld.nl,iphoned.nl##.adblock-detect
 androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
 androidplanet.nl,androidworld.nl,iphoned.nl##header[data-name="featured-header"]
 androidworld.nl##.adblock-detect:upward(1):has(div[id*="_ros_"])
-d737 1
-a737 1
+d740 1
+a740 1
 autobahn.eu,grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.sticky-incontent:has([data-aa-adunit])
-a758 3
+a761 3
 grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.bg-reserved:has(div[data-aa-adunit])
 grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##div[data-aa-adunit]
 grazia.nl,panorama.nl,wielerrevue.nl##div[id$="VIDEO_PLAYER_TARGET"]:upward(.showheroes-unit)
-a765 1
+a768 1
 marktnet.nl##div[id^="banner"]:upward(div[class^="box"])
-d820 3
-d847 5
-a851 1
+d823 3
+d850 5
+a854 1
 cinenews.be,handbal.nl,openrotterdam.nl,webmastersunited.com,wegdamnieuws.nl##.ads
-d1037 1
-d1092 3
-d1365 1
-a1365 1
+d1040 1
+d1095 3
+d1368 1
+a1368 1
 dartsnieuws.com,f1maximaal.nl,indeleiderstrui.nl##.sda
-a1887 4
-! 2026
-@@/wp-content/themes/bigspark/scripts/ads-frontend.min.js$domain=androidplanet.nl|androidworld.nl|iphoned.nl
-autotrader.nl##+js(abort-on-property-read, Object.prototype.autoRecov)
-||jwpcdn.com/player/*/freewheel.js$script,domain=shownieuws.nl
-d1891 2

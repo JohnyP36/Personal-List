@@ -1,15 +1,20 @@
 [uBlock Origin]
-! Last modified: Sat, 17 Jan 2026 14:02:06 +0000
+! Last modified: Sun, 18 Jan 2026 14:37:28 +0000
 ! 2026
 loemedia.nl,vi##.ad
 babybytes.nl##.ad-container
 twentefm.nl##.advertisement
 abcsuriname.com,vlietnieuws.nl##.banner_wrapper
+afkortingen.nu##.banner_container
 alblasserdamsnieuws.nl##.albla-widget
 alblasserdamsnieuws.nl##.a2t-link:upward(div[id^="albl"])
 ammoniakrechten.nl,efarm.nl,fosfaat.nu,koemarkt.nl,landbouwgrond.nu,mechanisatie.nl,pluimveerechten.nu,quotum.nu,varkensrechten.nu##.adsbygoogle:upward(div[style])
+androidplanet.nl,androidworld.nl,iphoned.nl##.adblock-detect
+androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
+androidplanet.nl,androidworld.nl,iphoned.nl##header[data-name="featured-header"]
+androidworld.nl##.adblock-detect:upward(1):has(div[id*="_ros_"])
 ans-online.nl##aside.widget:has-text(/Advertenties\b/i)
-autobahn.eu##.sticky-incontent:has([data-aa-adunit])
+autobahn.eu,grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.sticky-incontent:has([data-aa-adunit])
 autobahn.eu##li[class^="bg-reserved"]:has(* > [data-aa-adunit])
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,mobiliteit.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
 autoreview.nl##div[id^="Autoreview.nl_ros_"]:upward(1)
@@ -31,6 +36,9 @@ fok.nl,fr12.nl,gpinfo.com,headliner.nl,looopings.nl,lovereality.nl,mannenzaken.n
 gic.nl##aside[aria-label="Banner"]
 gpblog.com##div[id^="snack"]
 gpinfo.com,koopplein.nl,televizier.nl,tvblik.nl,voetbalnieuws.be,wielernieuws.be##.header-banner
+grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.bg-reserved:has(div[data-aa-adunit])
+grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##div[data-aa-adunit]
+grazia.nl,panorama.nl,wielerrevue.nl##div[id$="VIDEO_PLAYER_TARGET"]:upward(.showheroes-unit)
 groningerkrant.nl##.sidebar .widget:has-text(Gerelateerd)
 groningerkrant.nl##article[id^="post"] .in-feed
 huisvlijt.com##.sidebar-inner-wrap > .widget:has(img):has(a[href*="suninvestbvba.be"])
@@ -38,6 +46,7 @@ kranenwebsite.nl###bannerdiv
 krefel.be##[class*="sm:grid"]:has(div[aria-roledescription="slide"]:has(* > p:has-text(Gesponsord)))
 mannenzaken.nl##.r89-mobile-billboard-top:upward(.raw-html-component)
 mannenzaken.nl##.r89-mobile-rectangle-infinite:upward(.raw-html-component)
+marktnet.nl##div[id^="banner"]:upward(div[class^="box"])
 meteoalblasserdam.nl##p:has-text(/advert/i):not(:has(a[href="adverteren.html"])):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"]) + a[href*="basbeats.nl"]
@@ -92,9 +101,6 @@ xgn.nl##.bs
 112achterhoek-nieuws.nl###sidebar
 402online.com##.bannerblock
 adultwebmaster.nl##.main-promo-bn-responsive
-afkortingen.nu###banner_rectangle
-afkortingen.nu###banner_right
-afkortingen.nu###banner_top
 agconnect.nl##[class$="_ad-slot"]
 agraaf.nl##.partners-carousel
 ajax1.nl##.footer__footer-fat
@@ -119,11 +125,7 @@ almere-nieuws.nl,sexjobs.nl##div[id^="banner-"]
 amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv##.adv-tekst
 amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv##.banner_image
 amusement.tv,beurs.tv,cultuur.tv,formule1.tv,gamen.tv,geloof.tv,gezondheid.tv,informatief.tv,jongeren.tv,kennis.tv,kinderen.tv,kook.tv,lachen.tv,mensen.tv,mode.tv,muziek.tv,natuur.tv,nederland.tv,nieuws.tv,ondernemen.tv,onrecht.tv,oranje.tv,politiek.tv,reis.tv,serie.tv,spelletjes.tv,sporten.tv,talentenjacht.tv,vaartuig.tv,verkiezing.tv,voertuig.tv,voetbal.tv,weer.tv,woon.tv##.banner_image2
-androidplanet.nl,iphoned.nl##.widget_offers
-androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
-androidplanet.nl,iphoned.nl##div[data-name="dynamic-content-injected"]:upward(2)
-androidplanet.nl,iphoned.nl##header[data-name="featured-header"]
-androidworld.nl,cinenews.be,handbal.nl,openrotterdam.nl,webmastersunited.com,wegdamnieuws.nl##.ads
+cinenews.be,handbal.nl,openrotterdam.nl,webmastersunited.com,wegdamnieuws.nl##.ads
 antilliaansdagblad.com,dolcevia.com,h2owaternetwerk.nl,lokaleomroepzeewolde.nl,radiolelystad.nl##.bannergroup
 apintie.sr###left-inside > div#ads
 apintie.sr###left-inside > div[style$="px;"]:not(:has(a[href]))
@@ -309,7 +311,6 @@ gpfans.com,playboy.nl##a[href^="https://casinoscout.nl/"]
 gratispittigesexfilms.nl##.spot-on
 gratispornofilm.nl##.cp-webcam-gallery-container
 gratispornofilm.nl##.lazyloading.block-bordered
-grazia.nl###WB_VIDEO_PLAYER_TARGET
 greenkeeper.nl###lijst_logos
 greenkeeper.nl##.logoblok
 guruwatch.nl##.Billboard
@@ -364,9 +365,6 @@ mannenpage.nl###r89-flex
 mannenpage.nl##video[src*="mannenpage.nl/wp-content/uploads/2023/08/kitesurfer.mp4"]:upward(.flowplayer)
 mannenstyle.nl##.widget_execphp
 marketingtribune.nl###banner-billboard
-marktnet.nl##.tab4
-marktnet.nl##a[href^="https://www.marktnet.nl/bs/clickOut"]:upward([class^="tip"])
-marktnet.nl##li.linkUnit
 marktplaats.nl,2dehands.be###adsense-container
 marktplaats.nl,2dehands.be##.banner-top-dt
 marktplaats.nl,2dehands.be##.BannerBottom-root
@@ -637,7 +635,7 @@ ajaxreport.nl,feyenoordreport.nl,psvreport.nl,voetbalsnafu.nl##div[class$="sideb
 amateursextube.eu,anaaltube.be,incesttube.eu,omatube.be,opasextube.nl,plassextube.com,scattube.be,schaamlip.net,seksfilmstube.be,sex-kamer.nl,smsextube.com,tienersextube.com,tubeclips.nl###buttonUnderVideoLink
 amateursextube.eu,anaaltube.be,incesttube.eu,omatube.be,opasextube.nl,plassextube.com,scattube.be,schaamlip.net,seksfilmstube.be,sex-kamer.nl,smsextube.com,tienersextube.com,tubeclips.nl##.adHomePage
 amsterdamtigers.com##.sponsorbanner
-androidworld.nl,dartsnieuws.com,f1maximaal.nl,indeleiderstrui.nl##.sda
+dartsnieuws.com,f1maximaal.nl,indeleiderstrui.nl##.sda
 anoniem-surfen.nl##.footer-widget-1
 anoniem-surfen.nl##.header-widget-region
 appletips.nl##.ph_upgreatest
@@ -1117,4 +1115,3 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
-

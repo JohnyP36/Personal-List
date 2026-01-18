@@ -1,10 +1,10 @@
-diff name:dutchfilterlist lines:223 checksum:7d2b05332a
+diff name:dutchfilterlist lines:240 checksum:9cfdd7ab02
 d2 1
 a2 1
-! Last modified: Sun, 18 Jan 2026 13:36:18 +0000
+! Last modified: Sun, 18 Jan 2026 14:37:28 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2026.1.18.816.patch#dutchfilterlist
+! Diff-Path: patches/2026.1.18.877.patch#dutchfilterlist
 d64 1
 a64 1
 ||2k19.nl^$third-party,popup
@@ -59,17 +59,22 @@ d639 1
 d689 1
 a689 1
 !deoudrotterdammer.nl,hagelandactueel.be,leuvenactueel.be,nuus.be##.advertentie
-a706 88
+a706 97
 ! 2026
 loemedia.nl,vi##.ad
 babybytes.nl##.ad-container
 twentefm.nl##.advertisement
 abcsuriname.com,vlietnieuws.nl##.banner_wrapper
+afkortingen.nu##.banner_container
 alblasserdamsnieuws.nl##.albla-widget
 alblasserdamsnieuws.nl##.a2t-link:upward(div[id^="albl"])
 ammoniakrechten.nl,efarm.nl,fosfaat.nu,koemarkt.nl,landbouwgrond.nu,mechanisatie.nl,pluimveerechten.nu,quotum.nu,varkensrechten.nu##.adsbygoogle:upward(div[style])
+androidplanet.nl,androidworld.nl,iphoned.nl##.adblock-detect
+androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
+androidplanet.nl,androidworld.nl,iphoned.nl##header[data-name="featured-header"]
+androidworld.nl##.adblock-detect:upward(1):has(div[id*="_ros_"])
 ans-online.nl##aside.widget:has-text(/Advertenties\b/i)
-autobahn.eu##.sticky-incontent:has([data-aa-adunit])
+autobahn.eu,grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.sticky-incontent:has([data-aa-adunit])
 autobahn.eu##li[class^="bg-reserved"]:has(* > [data-aa-adunit])
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,mobiliteit.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
 autoreview.nl##div[id^="Autoreview.nl_ros_"]:upward(1)
@@ -91,6 +96,9 @@ fok.nl,fr12.nl,gpinfo.com,headliner.nl,looopings.nl,lovereality.nl,mannenzaken.n
 gic.nl##aside[aria-label="Banner"]
 gpblog.com##div[id^="snack"]
 gpinfo.com,koopplein.nl,televizier.nl,tvblik.nl,voetbalnieuws.be,wielernieuws.be##.header-banner
+grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.bg-reserved:has(div[data-aa-adunit])
+grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##div[data-aa-adunit]
+grazia.nl,panorama.nl,wielerrevue.nl##div[id$="VIDEO_PLAYER_TARGET"]:upward(.showheroes-unit)
 groningerkrant.nl##.sidebar .widget:has-text(Gerelateerd)
 groningerkrant.nl##article[id^="post"] .in-feed
 huisvlijt.com##.sidebar-inner-wrap > .widget:has(img):has(a[href*="suninvestbvba.be"])
@@ -98,6 +106,7 @@ kranenwebsite.nl###bannerdiv
 krefel.be##[class*="sm:grid"]:has(div[aria-roledescription="slide"]:has(* > p:has-text(Gesponsord)))
 mannenzaken.nl##.r89-mobile-billboard-top:upward(.raw-html-component)
 mannenzaken.nl##.r89-mobile-rectangle-infinite:upward(.raw-html-component)
+marktnet.nl##div[id^="banner"]:upward(div[class^="box"])
 meteoalblasserdam.nl##p:has-text(/advert/i):not(:has(a[href="adverteren.html"])):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"]) + a[href*="basbeats.nl"]
@@ -149,8 +158,11 @@ webwoordenboek.nl##.layout__main-ads
 wos.nl##.header-right
 xgn.nl##.bs
 d710 3
+d714 3
 d724 4
-d750 1
+d745 6
+a750 1
+cinenews.be,handbal.nl,openrotterdam.nl,webmastersunited.com,wegdamnieuws.nl##.ads
 d757 1
 a757 2
 arenalokaal.nl,belnieuws.nl,dehavenloods.nl,hetkompassliedrecht.nl,hetkrantje-online.nl,leiderdorpsweekblad.nl,weespernieuws.nl##div[id*="rectangle"]:upward(.component__plugin)
@@ -176,10 +188,12 @@ d873 1
 d898 1
 d926 2
 d939 1
+d946 1
 d949 2
 d966 2
 d986 1
 d990 1
+d1007 3
 d1033 1
 d1074 1
 d1126 2
@@ -194,6 +208,9 @@ d1271 1
 a1271 1
 1twente.nl,autoweek.nl,bnnvara.nl,elektormagazine.nl,fonkmagazine.nl,hpdetijd.nl,hvzeeland.nl,kieskeurig.nl,ovpro.nl,tankpro.nl,tubantia.nl,zijaanzij.nl##.advertisement
 d1280 1
+d1289 1
+a1289 1
+dartsnieuws.com,f1maximaal.nl,indeleiderstrui.nl##.sda
 d1298 1
 d1327 1
 d1408 2
