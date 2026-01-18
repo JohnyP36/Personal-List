@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Sat, 17 Jan 2026 14:02:06 +0000
+! Last modified: Sun, 18 Jan 2026 19:19:46 +0000
 ||a2.tijd.be^
 ||aa.hwigroup.com^
 ||ab.hwigroup.com^
@@ -15,5 +15,8 @@
 ||content2.nrc.nl^
 ||content2.wasmachines.nl^
 ||content2.zoom.nl^
+||creatives-promo.telegraaf.nl^
 ||mooieplaatjes.bierdopje.com^
 ||kechtube.com^$popunder
+! https://github.com/AdguardTeam/AdguardFilters/commit/d7690d1e07746b72e9d414ac245de762f5dcb4f1
+||kjdsfjisdfjr23.azurewebsites.net^

@@ -1,20 +1,26 @@
 [uBlock Origin]
-! Last modified: Sat, 17 Jan 2026 19:23:00 +0000
+! Last modified: Sun, 18 Jan 2026 19:19:46 +0000
 ! 2026
+avrotros.nl##+js(json-prune, assets.preroll)
+nos.nl##+js(json-prune, adUrl)
 .nl/*/advertisements/$domain=boek9.nl|grandprixradio.nl|grootnieuwsradio.nl
 /banner/*$domain=kranenwebsite.nl
 /banners/*$domain=motorrijder.be|rivierenland-radio.nl|wijchensnieuws.nl
 /wp-content/uploads/*.gif$image,domain=sliedrecht24.nl
 ||1twente.nl/Ads/
+||biernet.nl/site/plugins/bja_new/redirect.php
 ||boodschappen.nl/wp-json/boodschappen/v1/banners/get_banners
 ||boodschappen.nl/wp-json/boodschappen/v1/banners/get_advertorial
 ||boodschappen.nl/wp-json/boodschappen/v1/banners/get_native_banner
 ||cdn.gic.nl/app/uploads/*/*.gif
 ||cdn.gic.nl/app/uploads/*/*banner
 ||christelijknieuws.nl/wp-content/uploads/*Banner
+||gp33.nl/assets/common/ads-helper.js
 ||sliedrecht24.nl/wp-content/uploads/*/palmpjes-banner
 ||techgaming.nl/image_uploads/sponsored/
 ||touretappe.nl/images/topposblock.html
+||tweakers.net/i^$xmlhttprequest
+||tweakers.net/ajax/clicks/log^$xmlhttprequest
 ||unitednews.sr/wp-content/uploads/*/BANNER
 ! 2024
 .be/la_custom/get_banners_cache$xhr,first-party,domain=hagelandactueel.be|leuvenactueel.be
@@ -324,4 +330,3 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
-

@@ -1,11 +1,12 @@
 [uBlock Origin]
-! Last modified: Wed, 10 Jan 2024 11:01:59 +0000
+! Last modified: Sun, 18 Jan 2026 19:19:46 +0000
 ||2k19.nl^$third-party,popup
 ||2k21.nl^$third-party
 ||2k23.nl^$third-party
 ||2k24.nl^$third-party
 ||7mb.nl^$third-party
 !||adcalls.nl^$third-party
+||adconfig.ster.nl^$domain=avrotros.nl|nos.nl
 ||adconfigproxy.azurewebsites.net^$third-party
 ||adfactor.nl^$third-party
 ||adpepper.nl^$third-party
@@ -31,6 +32,7 @@
 ||bva-auctions.com^$domain=telegraaf.nl
 ||cashpartners.eu^$third-party,domain=~extreemonlinecontact.nl|~extremesexmatch.nl|~instasex.nl|~seksverhaaltjes.be
 ||cd.tnet.nl^$script,third-party
+||cdn-ster-nl.akamaized.net^$domain=avrotros.nl|nos.nl
 ||chainadvertising.eu^$third-party
 ||cleafs.nl^$third-party
 ||conversive.nl^$third-party
