@@ -6,6 +6,7 @@
 ||2k24.nl^$third-party
 ||7mb.nl^$third-party
 !||adcalls.nl^$third-party
+||adconfig.ster.nl^$domain=avrotros.nl|nos.nl
 ||adconfigproxy.azurewebsites.net^$third-party
 ||adfactor.nl^$third-party
 ||adpepper.nl^$third-party
@@ -31,6 +32,7 @@
 ||bva-auctions.com^$domain=telegraaf.nl
 ||cashpartners.eu^$third-party,domain=~extreemonlinecontact.nl|~extremesexmatch.nl|~instasex.nl|~seksverhaaltjes.be
 ||cd.tnet.nl^$script,third-party
+||cdn-ster-nl.akamaized.net^$domain=avrotros.nl|nos.nl
 ||chainadvertising.eu^$third-party
 ||cleafs.nl^$third-party
 ||conversive.nl^$third-party
