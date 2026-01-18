@@ -6,6 +6,7 @@
 /banners/*$domain=motorrijder.be|rivierenland-radio.nl|wijchensnieuws.nl
 /wp-content/uploads/*.gif$image,domain=sliedrecht24.nl
 ||1twente.nl/Ads/
+||biernet.nl/site/plugins/bja_new/redirect.php
 ||boodschappen.nl/wp-json/boodschappen/v1/banners/get_banners
 ||boodschappen.nl/wp-json/boodschappen/v1/banners/get_advertorial
 ||boodschappen.nl/wp-json/boodschappen/v1/banners/get_native_banner
