@@ -3,6 +3,7 @@
 ! 2026
 ||api.banner-online.nl/$third-party,domain=noordernieuws.nl
 ||jobfish.nl/widget/$third-party
+||js.intercomcdn.com/banner-modern.
 ||resources.planetnine.com/scripts/topgear.nl.js$domain=topgear.nl
 ! 2024
 ||cdn.streace.io/banner/$image,domain=camjam.nl
@@ -104,3 +105,4 @@
 ||enviedeplus.be^*_banner_$third-party
 ||powerconnect.be^*/poweractie.jpg$third-party
 ||totaalwijzer.nl/widget/$third-party
+
