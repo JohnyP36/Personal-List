@@ -88,6 +88,8 @@ meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"]) + a[
 metronieuws.nl,want.nl##.mha_container
 motorblog.nl##.sale
 motorrijder.be##div[id^="bannerhome"]:not(:has(a[href*="motorrijder.be/"]))
+nieuwspaal.nl###abovecontent-widget-area
+nieuwspaal.nl##div[id^="ada"]
 nieuwsuitnijmegen.nl,wijchensnieuws.nl##.js-banner-slider
 nieuwsuitnijmegen.nl,wijchensnieuws.nl##.text-left:has-text(/advert/i)
 nljug.org##.theiaStickySidebar > .widget_custom_html:has(a[href] > img)
@@ -1133,16 +1135,3 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
-
-
-
-
-
-
-
-
-
-
-
-
-
