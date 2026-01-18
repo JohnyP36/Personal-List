@@ -35,6 +35,7 @@ demorgen.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.top1-container
 f1maximaal.nl##.pnvp-ad-wrap:upward(.raw-html-component)
 fok.nl,fr12.nl,gpinfo.com,headliner.nl,looopings.nl,lovereality.nl,mannenzaken.nl,scientias.nl,tvblik.nl,voetbalnieuws.be,voetbalrotterdam.nl,webwoordenboek.nl,wielernieuws.be##div[class^="r89-desktop"]
 gic.nl##aside[aria-label="Banner"]
+gp33.nl##div[id^="grandprix33_"]
 gpblog.com##div[id^="snack"]
 gpinfo.com,koopplein.nl,televizier.nl,tvblik.nl,voetbalnieuws.be,wielernieuws.be##.header-banner
 grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.bg-reserved:has(div[data-aa-adunit])
@@ -1116,4 +1117,5 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
