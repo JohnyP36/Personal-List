@@ -2,6 +2,7 @@
 ! Last modified: %timestamp%
 ! 2026
 ||api.banner-online.nl/$third-party,domain=noordernieuws.nl
+||cdn.aa.onstuimig.nl/mega-publishers/nieuwspaal.nl.js$domain=nieuwspaal.nl
 ||jobfish.nl/widget/$third-party
 ||js.intercomcdn.com/banner-modern.
 ||resources.planetnine.com/scripts/topgear.nl.js$domain=topgear.nl
@@ -105,4 +106,3 @@
 ||enviedeplus.be^*_banner_$third-party
 ||powerconnect.be^*/poweractie.jpg$third-party
 ||totaalwijzer.nl/widget/$third-party
-
