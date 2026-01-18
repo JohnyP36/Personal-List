@@ -19,6 +19,8 @@ autobahn.eu##li[class^="bg-reserved"]:has(* > [data-aa-adunit])
 autoblog.nl##.widget_ab_sidebar
 autoblog.nl##div[class^="ndm-min-"]
 automobielmanagement.nl,carwashpro.nl,infrasite.nl,mobiliteit.nl,ovpro.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,verkeersnet.nl##.widget_nlpartners
+autotrader.nl##article:has(p[class^="Sponsored_wrapper"])
+autotrader.nl##div[class^="AdContentBanner"]
 autotrader.nl##div[class^="AdTop"]
 autoreview.nl##div[id^="Autoreview.nl_ros_"]:upward(1)
 autoweek.nl##div[class^="adslot"]
@@ -1122,6 +1124,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
