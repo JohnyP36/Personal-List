@@ -39,6 +39,7 @@ ditjesendatjes.nl##aside > h2:has-text(/DenD Promoties/i) + ul
 ditjesendatjes.nl##li[class$="object-cover"]:has(a[href]):not(a[href*="ditjesendatjes.nl"]):has(img[src])
 ditjesendatjes.nl##section:has(h2:has-text(/DenD Promoties|DenD Partners/i))
 f1maximaal.nl##.pnvp-ad-wrap:upward(.raw-html-component)
+funda.nl##aside:has-text(/Advertentie/i)
 gic.nl##aside[aria-label="Banner"]
 gp33.nl##div[id^="grandprix33_"]
 gpblog.com##div[id^="snack"]
@@ -754,7 +755,6 @@ forum.scholieren.com##div[data-advert-placeholder-size]
 forum.spaarinformatie.nl##table:has-text(/advert/i)
 fotografie.nl##.section-partners
 frontline.digital##p:has-text(,):not(:has-text(/[a-z]|[0-9]/i))
-funda.nl##.home-billboard
 gaynews.nl##.telefoon_verberg
 gaynews.nl##[class^="va"]:has([class*="banner"])
 gaynews.nl##[id^="fp"]
@@ -1122,3 +1122,4 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
