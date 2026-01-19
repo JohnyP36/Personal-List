@@ -129,6 +129,7 @@ voetbal4u.com##.widget_text:has(h2):has-text(/crypto/i)
 voetbalverslaafd.nl##div[class*="r89-mobile"]:upward(1)
 voetbalzone.nl##.fco-abs-iframe
 voetbalzone.nl##.fco-betting-offer
+welingelichtekringen.nl##.raw-html-component:has(.ms-container)
 wfm.be##.wpb_wrapper:has(.slick-slider .qt-sponsor)
 ! 2024
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
@@ -1138,5 +1139,6 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
