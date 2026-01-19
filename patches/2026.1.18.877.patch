@@ -1,10 +1,10 @@
-diff name:dutchfilterlist lines:127 checksum:aabf2aa033
+diff name:dutchfilterlist lines:130 checksum:7e6b04e841
 d2 1
 a2 1
-! Last modified: Sun, 18 Jan 2026 19:19:46 +0000
+! Last modified: Mon, 19 Jan 2026 15:33:32 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2026.1.18.1159.patch#dutchfilterlist
+! Diff-Path: patches/2026.1.19.933.patch#dutchfilterlist
 a69 1
 ||adconfig.ster.nl^$domain=avrotros.nl|nos.nl
 a94 1
@@ -126,3 +126,6 @@ d1408 2
 d1426 2
 d1477 1
 d1503 1
+d1892 1
+a1892 1
+||jwpcdn.com/player/*/freewheel.js$script,domain=538.nl|hartvannederland.nl|kijk.nl|radio10.nl|shownieuws.nl|vandaaginside.nl

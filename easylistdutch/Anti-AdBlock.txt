@@ -1,9 +1,9 @@
 [uBlock Origin]
-! Last modified: Sun, 18 Jan 2026 13:36:18 +0000
+! Last modified: Mon, 19 Jan 2026 15:33:32 +0000
 ! 2026
 @@/wp-content/themes/bigspark/scripts/ads-frontend.min.js$domain=androidplanet.nl|androidworld.nl|iphoned.nl
 autotrader.nl##+js(abort-on-property-read, Object.prototype.autoRecov)
-||jwpcdn.com/player/*/freewheel.js$script,domain=shownieuws.nl
+||jwpcdn.com/player/*/freewheel.js$script,domain=538.nl|hartvannederland.nl|kijk.nl|radio10.nl|shownieuws.nl|vandaaginside.nl
 ! 2023
 112amersfoort.nl,112amsterdam.nl,112apeldoorn.nl,112arnhem.nl,112assen.nl,112barneveld.nl,112bunschoten.nl,112doetinchem.nl,112drenthe.nl,112ede.nl,112eindhoven.nl,112emmen.nl,112flevoland.nl,112harderwijk.nl,112hilversum.nl,112inbeeld.nl,112lelystad.nl,112meppel.nl,112nijkerk.nl,112overijssel.nl,112ridderkerk.nl,112rotterdam.nl,112scherpenzeel.nl,112schiedam.nl,112vallei.nl,112vechtdal.nl,112veenendaal.nl,112wageningen.nl,112zeewolde.nl,112zwolle.nl,vrides.nl##+js(noeval-if, /chp_?ad/)
 aimsolutions.nl##+js(noeval-if, adsBlocked)

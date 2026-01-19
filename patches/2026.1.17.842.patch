@@ -1,10 +1,10 @@
-diff name:dutchfilterlist lines:155 checksum:aabf2aa033
+diff name:dutchfilterlist lines:155 checksum:7e6b04e841
 d2 1
 a2 1
-! Last modified: Sun, 18 Jan 2026 19:19:46 +0000
+! Last modified: Mon, 19 Jan 2026 15:33:32 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2026.1.18.1159.patch#dutchfilterlist
+! Diff-Path: patches/2026.1.19.933.patch#dutchfilterlist
 a69 1
 ||adconfig.ster.nl^$domain=avrotros.nl|nos.nl
 a94 1
@@ -152,5 +152,5 @@ a1887 4
 ! 2026
 @@/wp-content/themes/bigspark/scripts/ads-frontend.min.js$domain=androidplanet.nl|androidworld.nl|iphoned.nl
 autotrader.nl##+js(abort-on-property-read, Object.prototype.autoRecov)
-||jwpcdn.com/player/*/freewheel.js$script,domain=shownieuws.nl
+||jwpcdn.com/player/*/freewheel.js$script,domain=538.nl|hartvannederland.nl|kijk.nl|radio10.nl|shownieuws.nl|vandaaginside.nl
 d1891 2
