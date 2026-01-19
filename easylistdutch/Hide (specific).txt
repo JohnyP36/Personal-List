@@ -51,6 +51,7 @@ ditjesendatjes.nl##aside > h2:has-text(/DenD Promoties/i)
 ditjesendatjes.nl##aside > h2:has-text(/DenD Promoties/i) + ul
 ditjesendatjes.nl##li[class$="object-cover"]:has(a[href]):not(a[href*="ditjesendatjes.nl"]):has(img[src])
 ditjesendatjes.nl##section:has(h2:has-text(/DenD Promoties|DenD Partners/i))
+drimble.nl##div[id^="drimble.nl_web_"]
 f1maximaal.nl##.pnvp-ad-wrap:upward(.raw-html-component)
 flair.nl,libelle.nl##[class$="advertisement"]
 flair.nl,libelle.nl##div[class$="adblock"]:has( > div[class$="advertisement"])
@@ -736,7 +737,6 @@ dissident.one,mariabode.nl,omroepzilt.nl##[id^="custom_html"]:has-text(/advert/i
 dolcevia.com##.affiliatelink
 dolcevia.com##.bookingaff:upward(.card)
 drentsnieuws.nl##.shadow:has(#bannerCarousel)
-drimble.nl##.ASTAGQ_Billboard
 dutchcryptotalk.com##.hootslider-image-wrapper
 dutchcryptotalk.com##[id^="media_image"]:has([href*="/bitvavo"])
 dutchcryptotalk.com##div[id^="dutch-"]:has(a[href^="https://bitvavo.com/"])
@@ -1141,6 +1141,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
