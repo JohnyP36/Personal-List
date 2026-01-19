@@ -88,6 +88,8 @@ meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"]) + a[
 metronieuws.nl,want.nl##.mha_container
 motorblog.nl##.sale
 motorrijder.be##div[id^="bannerhome"]:not(:has(a[href*="motorrijder.be/"]))
+nd.nl##.banner__head
+nd.nl##.page-header__ad
 nieuwspaal.nl###abovecontent-widget-area
 nieuwspaal.nl##div[id^="ada"]
 nieuwsuitnijmegen.nl,wijchensnieuws.nl##.js-banner-slider
@@ -431,7 +433,6 @@ motorboot.com##.logo
 motorrijdenexpert.nl##div[class*="full-row relative-row"]:has([href]):has([class*="ignore"])
 nauticlink.com##.adv-link:upward(.nauti-target)
 nauticlink.com##.elementor-section:has-text(partners)
-nd.nl##.page-header__inner__ad
 nederland.fm##[class*=adv]
 nederlandsexdate.nl##.card-header:has-text(Advertentie)
 nederlandsmedianieuws.nl##.sidebar:has(.line:has-text(/Advertentie/i))
