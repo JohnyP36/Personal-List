@@ -1,10 +1,10 @@
-diff name:dutchfilterlist lines:152 checksum:7e6b04e841
+diff name:dutchfilterlist lines:212 checksum:83e3baf3d2
 d2 1
 a2 1
-! Last modified: Mon, 19 Jan 2026 15:33:32 +0000
+! Last modified: Mon, 19 Jan 2026 20:03:07 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2026.1.19.933.patch#dutchfilterlist
+! Diff-Path: patches/2026.1.19.1203.patch#dutchfilterlist
 a69 1
 ||adconfig.ster.nl^$domain=avrotros.nl|nos.nl
 a94 1
@@ -16,6 +16,8 @@ a168 3
 ||kechtube.com^$popunder
 ! https://github.com/AdguardTeam/AdguardFilters/commit/d7690d1e07746b72e9d414ac245de762f5dcb4f1
 ||kjdsfjisdfjr23.azurewebsites.net^
+a172 1
+||*.b-cdn.net/*-390x280.gif$third-party,domain=wos.nl
 a173 2
 ||cdn.aa.onstuimig.nl/mega-publishers/nieuwspaal.nl.js$domain=nieuwspaal.nl
 ||cdn-ster-nl.akamaized.net/STERAD_P_*.mp4^$media,domain=avrotros.nl|nos.nl,redirect=noopmp4-1s
@@ -24,13 +26,19 @@ a174 1
 a279 2
 avrotros.nl##+js(json-prune, assets.preroll)
 nos.nl##+js(json-prune, adUrl)
-a284 1
+a284 2
 ||biernet.nl/site/plugins/bja_new/redirect.php
+||bitcoinmagazine.nl/wp-content/uploads/*promo-bitvavo
+a287 1
+||cdn.nieuwdezeweek.nl/ads/
 a290 1
 ||gp33.nl/assets/common/ads-helper.js
 a293 2
 ||tweakers.net/i^$xmlhttprequest
 ||tweakers.net/ajax/clicks/log^$xmlhttprequest
+d713 1
+a713 1
+!deoudrotterdammer.nl,hagelandactueel.be,leuvenactueel.be,nuus.be,wordfeudhelp.nl##.advertentie
 d732 1
 a732 1
 banden.autoweek.nl,loemedia.nl,pepper.com,vi##.ad
@@ -55,24 +63,37 @@ autotrader.nl##article:has(p[class^="Sponsored_wrapper"])
 autotrader.nl##div[class^="AdContentBanner"]
 autotrader.nl##div[class^="AdTop"]
 a747 1
-axed.nl,fok.nl,fr12.nl,gpinfo.com,headliner.nl,looopings.nl,lovereality.nl,mannenzaken.nl,scientias.nl,tvblik.nl,viraal.nl,voetbalnieuws.be,voetbalrotterdam.nl,webwoordenboek.nl,wielernieuws.be##div[class^="r89-desktop"]
+axed.nl,fok.nl,fr12.nl,gpinfo.com,headliner.nl,looopings.nl,lovereality.nl,mannenzaken.nl,scientias.nl,showblad.nl,tvblik.nl,viraal.nl,voetbalnieuws.be,voetbalrotterdam.nl,webwoordenboek.nl,wielernieuws.be##div[class^="r89-desktop"]
 d749 2
-a750 4
+a750 5
 beursduivel.be,buienalaram.nl,iexprofs.nl##.banner
 biernet.nl###BJA_LEADER1
 biernet.nl###BJA3
 biernet.nl###banTop
+bitcoinmagazine.nl##.clickout-relative
+a752 3
+boerderij.nl###top_desktop_wrapper
+boerderij.nl##div[class*="max-ad_"]
+bol.com##div[data-bltgg$="considerationDisplay"]
 a753 3
 crypto-insiders.nl##.ad-category
 crypto-insiders.nl##.exp-google-ad
 crypto-insiders.nl##div[class^="intercom-app"] > iframe[title*="banner"]
-d758 1
-a758 6
+d755 4
+a758 14
+demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl###article_paragraph_3
+demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
+demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.top1-container
 ditjesendatjes.nl##aside > h2:has-text(/DenD Promoties/i)
 ditjesendatjes.nl##aside > h2:has-text(/DenD Promoties/i) + ul
 ditjesendatjes.nl##li[class$="object-cover"]:has(a[href]):not(a[href*="ditjesendatjes.nl"]):has(img[src])
 ditjesendatjes.nl##section:has(h2:has-text(/DenD Promoties|DenD Partners/i))
+drimble.nl##div[id^="drimble.nl_web_"]
+ewmagazine.nl###top_lb_bb
+ewmagazine.nl###top_rt
 f1maximaal.nl##.pnvp-ad-wrap:upward(.raw-html-component)
+flair.nl,libelle.nl##[class$="advertisement"]
+flair.nl,libelle.nl##div[class$="adblock"]:has( > div[class$="advertisement"])
 funda.nl##aside:has-text(/Advertentie/i)
 a759 1
 gp33.nl##div[id^="grandprix33_"]
@@ -85,6 +106,14 @@ grazia.nl,panorama.nl,wielerrevue.nl##div[id$="VIDEO_PLAYER_TARGET"]:upward(.sho
 a763 2
 hbvl.be##div[id^="ad_inline"]
 hbvl.be##section[data-theme-sponsored-content]:has-text(/onze partners/i)
+a764 7
+ibestuur.nl##.c-ad-slot
+iex.nl##.banner
+iex.nl##.js-banner
+iex.nl##.network:has-text(Gesponsorde links)
+iex.nl,tostrams.nl##.publisher-sh-spot
+iex.nl##.sidebar > .block:has(p.text-promo)
+iex.nl##[class^="rectangle"]
 a768 13
 marktnet.nl##div[id^="banner"]:upward(div[class^="box"])
 marktplaats.nl,2dehands.be###adsense-container
@@ -99,29 +128,48 @@ marktplaats.nl,2dehands.be##.right-banner-root-container
 marktplaats.nl,2dehands.be##.vip-banner-top-sticky-container
 mediacourant.nl##.mc-adv
 mediacourant.nl##.mg-slot
-a774 2
+a772 2
+monitor.iex.nl##.centerbanner
+monitor.iex.nl##.leaderboard-down
+a774 7
+nd.nl##.banner__head
+nd.nl##.page-header__ad
+newsbit.nl##.acf-block-cta-conversion-rating
+nieuwdezeweek.nl##.promo:has(img[src*="cdn.nieuwdezeweek.nl/ads/"])
+nieuwdezeweek.nl##div[class$="main"] div[class*="ad"]
 nieuwspaal.nl###abovecontent-widget-area
 nieuwspaal.nl##div[id^="ada"]
-a778 1
+a778 4
+onderwijsnieuwsdienst.nl###topAdvertisement
+onderwijsnieuwsdienst.nl##.bottomSpace
+onderwijsnieuwsdienst.nl##.extraInfo > span[style]:has-text(/Advertentie/i)
 oozo.nl##.adsbybinq
 a779 1
-puna.nl##div[class^="r89-desktop"]:upward(.raw-html-component)
+puna.nl,showblad.nl##div[class^="r89-desktop"]:upward(.raw-html-component)
 a781 2
 rd.nl##.codalt-container
 rd.nl##div[class*="ad-container"]
+a787 1
+showblad.nl##.r89-video-outstream
 a791 1
 standaard.be##div[id^="ad"]
 a792 1
 telegraaf.nl##div[id^="ad_divider"]
-a793 5
+a793 7
 topkleurplaat.nl##a[href^="https://partner.bol.com/click/"] > img
+tostrams.nl##[class*="banner"]
+tostrams.nl##[id*="banner"]
 tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
 tweakers.net##.widebnr
 tweakers.net##.top-banner
 viraal.nl##.large-screen-ad:upward(.raw-html-component)
-a795 2
+a795 3
 voetbalzone.nl##.fco-abs-iframe
 voetbalzone.nl##.fco-betting-offer
+welingelichtekringen.nl##.raw-html-component:has(.ms-container)
+a796 1
+wos.nl##.widget:has(img[src*="b-cdn.net"][src$=".gif"]):has-text(/Advertentie/i)
+d817 1
 d823 3
 d832 1
 a832 1
@@ -129,12 +177,20 @@ alarmeringen.nl,autozine.nl,beleggersbelangen.nl,besteproduct.nl,bright.nl,gpblo
 d850 5
 a854 1
 cinenews.be,handbal.nl,openrotterdam.nl,webmastersunited.com,wegdamnieuws.nl##.ads
+d896 2
+d956 1
+a956 1
+dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl##.prom
 d1040 1
 d1095 13
 d1111 1
+d1125 1
 d1154 1
 d1185 3
 d1241 1
+d1280 2
+a1281 1
+yourlittleblackbook.me##[id*="banner"]
 d1292 3
 d1368 1
 a1368 1
@@ -143,8 +199,12 @@ d1375 2
 d1396 3
 d1410 2
 d1428 2
+d1433 1
+d1454 1
+d1465 1
 d1479 1
 d1505 1
+d1524 7
 a1890 4
 ! 2026
 @@/wp-content/themes/bigspark/scripts/ads-frontend.min.js$domain=androidplanet.nl|androidworld.nl|iphoned.nl

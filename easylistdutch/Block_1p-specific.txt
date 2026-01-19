@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Sun, 18 Jan 2026 19:19:46 +0000
+! Last modified: Mon, 19 Jan 2026 20:03:07 +0000
 ! 2026
 avrotros.nl##+js(json-prune, assets.preroll)
 nos.nl##+js(json-prune, adUrl)
@@ -9,9 +9,11 @@ nos.nl##+js(json-prune, adUrl)
 /wp-content/uploads/*.gif$image,domain=sliedrecht24.nl
 ||1twente.nl/Ads/
 ||biernet.nl/site/plugins/bja_new/redirect.php
+||bitcoinmagazine.nl/wp-content/uploads/*promo-bitvavo
 ||boodschappen.nl/wp-json/boodschappen/v1/banners/get_banners
 ||boodschappen.nl/wp-json/boodschappen/v1/banners/get_advertorial
 ||boodschappen.nl/wp-json/boodschappen/v1/banners/get_native_banner
+||cdn.nieuwdezeweek.nl/ads/
 ||cdn.gic.nl/app/uploads/*/*.gif
 ||cdn.gic.nl/app/uploads/*/*banner
 ||christelijknieuws.nl/wp-content/uploads/*Banner

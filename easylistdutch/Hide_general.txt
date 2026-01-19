@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Thu, 18 Jan 2024 05:54:26 +0000
+! Last modified: Mon, 19 Jan 2026 20:03:07 +0000
 !kinderspelletjes.be###adRechts
 ###adRechts
 !biertijd.xxx###advertentie
@@ -11,7 +11,7 @@
 ###rightbanner_adbest
 ###sidereclame
 ##.adstekst
-!deoudrotterdammer.nl,hagelandactueel.be,leuvenactueel.be,nuus.be##.advertentie
+!deoudrotterdammer.nl,hagelandactueel.be,leuvenactueel.be,nuus.be,wordfeudhelp.nl##.advertentie
 ##.advertentie
 !dorpsklanken.online##.advertenties
 ##.advertenties
