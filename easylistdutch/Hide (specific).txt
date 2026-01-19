@@ -38,6 +38,8 @@ biernet.nl###banTop
 bitcoinmagazine.nl##.clickout-relative
 bnr.nl##.bnr-message
 boek9.nl##div[id*="block-advertisements"]
+boerderij.nl###top_desktop_wrapper
+boerderij.nl##div[class*="max-ad_"]
 bol.com##div[data-bltgg$="considerationDisplay"]
 ciaotutti.nl##div[class$="widget_advert"]:not(:has(a[href*="ciaotutti.nl"])):not(:has(a[href*="eepurl"])):not(:has(a[href*="facebook.com"])):not(:has(a[href*="instagram.com"])):not(:has(a[href*=".app/share/ciaotutti"]))
 crypto-insiders.nl##.ad-category
@@ -1144,6 +1146,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
