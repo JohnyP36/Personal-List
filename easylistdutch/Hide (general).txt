@@ -11,7 +11,7 @@
 ###rightbanner_adbest
 ###sidereclame
 ##.adstekst
-!deoudrotterdammer.nl,hagelandactueel.be,leuvenactueel.be,nuus.be##.advertentie
+!deoudrotterdammer.nl,hagelandactueel.be,leuvenactueel.be,nuus.be,wordfeudhelp.nl##.advertentie
 ##.advertentie
 !dorpsklanken.online##.advertenties
 ##.advertenties
