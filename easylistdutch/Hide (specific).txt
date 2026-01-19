@@ -54,6 +54,8 @@ ditjesendatjes.nl##aside > h2:has-text(/DenD Promoties/i) + ul
 ditjesendatjes.nl##li[class$="object-cover"]:has(a[href]):not(a[href*="ditjesendatjes.nl"]):has(img[src])
 ditjesendatjes.nl##section:has(h2:has-text(/DenD Promoties|DenD Partners/i))
 drimble.nl##div[id^="drimble.nl_web_"]
+ewmagazine.nl###top_lb_bb
+ewmagazine.nl###top_rt
 f1maximaal.nl##.pnvp-ad-wrap:upward(.raw-html-component)
 flair.nl,libelle.nl##[class$="advertisement"]
 flair.nl,libelle.nl##div[class$="adblock"]:has( > div[class$="advertisement"])
@@ -765,7 +767,6 @@ ensie.nl##.top-banner:style(min-height: 0px !important)
 erotischemassages.com,poldertube.nl##.happy-footer
 eurogamer.nl##.desktop_mpu
 europa-bouwmachines.nl,europa-heftruck.nl,europa-landbouwmachines.nl,europa-vrachtwagens.nl##.pt-3.height-90:has([id^="div-gpt-ad"])
-!ewmagazine.nl##.widgets > .la-items:has(a[href$="/partners"])
 farmaline.be##.c-scroll-list:has(img[src*="farmaline.be/assets/banners/"])
 fcgroningen.nl##.sidebar__item--banner
 feestdagen-be.be,feestdagen-nl.nl##aside:has(.adsbygoogle)
@@ -1149,6 +1150,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
