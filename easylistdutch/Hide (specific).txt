@@ -69,6 +69,11 @@ groningerkrant.nl##article[id^="post"] .in-feed
 hbvl.be##div[id^="ad_inline"]
 hbvl.be##section[data-theme-sponsored-content]:has-text(/onze partners/i)
 huisvlijt.com##.sidebar-inner-wrap > .widget:has(img):has(a[href*="suninvestbvba.be"])
+iex.nl##.banner
+iex.nl##.js-banner
+iex.nl##.network:has-text(Gesponsorde links)
+iex.nl##.sidebar > .block:has(p.text-promo)
+iex.nl##[class^="rectangle"]
 kranenwebsite.nl###bannerdiv
 krefel.be##[class*="sm:grid"]:has(div[aria-roledescription="slide"]:has(* > p:has-text(Gesponsord)))
 mannenzaken.nl##.r89-mobile-billboard-top:upward(.raw-html-component)
@@ -819,13 +824,6 @@ hollywoodhuizen.nl##div[class^="post-content description"] > div[class]:not(.sha
 hyc.be##div[class*="slider"]:has([class*="sliderwidget"])
 iculture.nl##.ad-top-desktop
 iculture.nl##.feed-ad-wrapper
-iex.nl##.ContentPartner
-iex.nl##.contentwidget
-iex.nl##.js-banner
-iex.nl##.network:has-text(Gesponsorde links)
-iex.nl##[class^="billboardwrap"]
-iex.nl##[class^="rectangle"]
-iex.nl##section:has-text(advertentie)
 ijshockeynederland.nl##.adswiper:upward(1)
 ijshockeynederland.nl##div[class^="column col"]:has(img[src*="/uploads/ads"])
 immo.vlan.be,vakantieweb.be##[id^="rossel-leaderboard"]
@@ -1143,6 +1141,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
