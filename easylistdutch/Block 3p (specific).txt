@@ -1,6 +1,7 @@
 [uBlock Origin]
 ! Last modified: %timestamp%
 ! 2026
+||*.b-cdn.net/*-390x280.gif$third-party,domain=wos.nl
 ||api.banner-online.nl/$third-party,domain=noordernieuws.nl
 ||cdn.aa.onstuimig.nl/mega-publishers/nieuwspaal.nl.js$domain=nieuwspaal.nl
 ||cdn-ster-nl.akamaized.net/STERAD_P_*.mp4^$media,domain=avrotros.nl|nos.nl,redirect=noopmp4-1s
