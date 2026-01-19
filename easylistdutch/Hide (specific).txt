@@ -152,6 +152,7 @@ voetbalzone.nl##.fco-abs-iframe
 voetbalzone.nl##.fco-betting-offer
 welingelichtekringen.nl##.raw-html-component:has(.ms-container)
 wfm.be##.wpb_wrapper:has(.slick-slider .qt-sponsor)
+wos.nl##.widget:has(img[src*="b-cdn.net"][src$=".gif"]):has-text(/Advertentie/i)
 ! 2024
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,hln.be,pzc.nl##.page-header__section--spacer
@@ -172,7 +173,6 @@ opwindend.net##.b > .profilethumb:upward(.tab)
 poldertube.nl##a[href^="https://go2.go2cloud.org/"]
 want.nl##.sticky-banner-container
 webwoordenboek.nl##.layout__main-ads
-wos.nl##.header-right
 xgn.nl##.bs
 ! 2023
 112achterhoek-nieuws.nl###sidebar
@@ -302,7 +302,7 @@ digitaalburg.com##aside[class^="widget widget_text"]
 dknieuws.nl##[id^="dknie-grid-"]:has(.adv-link)
 dknieuws.nl##.dknie-widget:has(.adv-link)
 doorbraak.be##a[href^="https://vnz.be"]:upward(.border-dashed)
-dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl,wos.nl##.prom
+dtvnieuws.nl,omroephorstaandemaas.nl,omroepvenlo.nl,roulettefm.nl,rtvstichtsevecht.nl##.prom
 duic.nl##.article-excerpt--ad
 dutchitchannel.nl##a[href]:not(a[href*="dutchit"]):has(img[src*="assets-servd.host"])
 dutchitleaders.nl##a[target]:not(a[href*="dutchitleaders.nl"]):not(a[href*="linkedin.com"]):has(img[src*=".assets-servd.host/"])
@@ -1149,6 +1149,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
