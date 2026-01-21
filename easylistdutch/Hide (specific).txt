@@ -161,7 +161,7 @@ standaard.be##div[id^="ad"]
 techpulse.be##.magazine-sidebar-block
 techzine.nl##.chimney
 telegraaf.nl##div[id^="ad_divider"]
-topgear.nl##.PnvpParent:has(div[id$="ad-wrap"])
+topgear.nl##.Pnvp__ad
 topkleurplaat.nl##a[href^="https://partner.bol.com/click/"] > img
 tostrams.nl##[class*="banner"]
 tostrams.nl##[id*="banner"]
@@ -625,7 +625,6 @@ telegraaf.nl##.withBanners + .ComponentRotation
 tellows.nl###lb_header
 tiener-sexverhalen.nl##aside[id^="block"]:has([src*="/wp-content/uploads/"][src$=".webm"])
 tiener-sexverhalen.nl##aside[id^="block"]:has(img[src*="/wp-content/uploads/"][src$=".gif"])
-topgear.nl##div[id$="ad-wrap"]
 yourlittleblackbook.me##[id*="banner"]
 touretappe.nl###right .desktopad[id*="TOURETAPPE_300"]:upward(1)
 touretappe.nl##.desktopad
@@ -1153,6 +1152,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
