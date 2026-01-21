@@ -44,6 +44,7 @@ edestad.nl,huisaanhuiselburg.nl,huisaanhuisoldebroek.nl,nunspeethuisaanhuis.nl,s
 ajaxshowtime.com,axed.nl,fok.nl,fr12.nl,gpinfo.com,headliner.nl,klusidee.nl,looopings.nl,lovereality.nl,mannenzaken.nl,meemetoranje.nl,nieuws365.be,showblad.nl,tvblik.nl,twenteinside.nl,viraal.nl,voetbal14.nl,voetbalnieuws.be,voetbalrotterdam.nl,webwoordenboek.nl,wielernieuws.be,whiskymonkeys.com##div[class^="r89-desktop"]
 banden.autoweek.nl,eindexamens.nu,gezondheid.be###leaderboard
 beurs.nl,beursduivel.be,beursgorilla.nl,buienalaram.nl,iex.nl,iexprofs.nl,propertynl.com,vnci.nl##.banner
+beurs.nl##.addslot
 beursgorilla.nl,iex.nl,tostrams.nl##.publisher-sh-spot
 biernet.nl###BJA_LEADER1
 biernet.nl###BJA3
@@ -314,8 +315,6 @@ belegger.nl,beursonline.nl,debeurs.nl,eurobench.com##.Rectangle-wrapper
 basketbal.vlaanderen##.footer-partners
 berekenhet.nl##.bh-ads
 berekenhet.nl##.tka-sponsored-container
-beurs.nl##.addslot
-beurs.nl##.wrapper--topbanner
 bierdopje.com##div[class=block]:has-text(/advert/i)
 biertijd.xxx###sidebarcontainer > h2:not(:has-text(/bierbroeders/i)):not(:has-text(partners))
 biflatie.nl##.elementor-image:has(img[src*="banner"])
@@ -1188,6 +1187,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
