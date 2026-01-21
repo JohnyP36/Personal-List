@@ -814,8 +814,6 @@ gratisepub.nl##.type-post:has-text(advert)
 gratisepub.nl##.widget:has(.adsbygoogle)
 groningsnieuws.nl##aside.widget:has(figure img)
 guidinc.nl##.promotion_link
-gva.be##main .widgetgroup > .grid
-gva.be##main > section.grid:has(.link-complex)
 halstadcentraal.nl,streekstadcentraal.nl##div[class$="banners-wrapper"]
 !handbalstartpunt.nl##aside.widget-banner
 handbalstartpunt.nl##aside > div[class]:has(>.adsbygoogle)
@@ -1148,6 +1146,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
