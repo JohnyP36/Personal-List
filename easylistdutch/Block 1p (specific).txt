@@ -11,6 +11,7 @@ nos.nl##+js(json-prune, adUrl)
 /wp-content/uploads/*.gif$image,domain=crimesite.nl|sliedrecht24.nl
 ||1twente.nl/Ads/
 ||24cars.nl/api/advertise-deliver/
+||aalsmeervandaag.nl/wp-content/uploads/*/adv
 ||biernet.nl/site/plugins/bja_new/redirect.php
 ||bitcoinmagazine.nl/wp-content/uploads/*promo-bitvavo
 ||boodschappen.nl/wp-json/boodschappen/v1/banners/get_banners
@@ -336,4 +337,3 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
-
