@@ -143,6 +143,8 @@ rubenweytjens.be##.ad.row
 rubenweytjens.be##.adpanel
 rubenweytjens.be##.skyscraper
 rubenweytjens.be##div[class^="xs-padding"]:has(.adsbygoogle)
+schuttevaer.nl##.partners
+schuttevaer.nl##.widget_minisites
 showblad.nl##.r89-video-outstream
 skoften.net##div[class*="cls-placeholder"]
 sliedrecht24.nl##[id$="random_ads"]
@@ -995,7 +997,6 @@ rtlboulevard.nl##.dfp-rectangle-wrapper
 sc-heerenveen.nl##.partner-grid:upward(2)
 scholieren.com##.blockvertorial
 scholieren.com##.min-h-90
-schuttevaer.nl##.widget_minisites
 scheepvaartkrant.nl###block-leaderboard
 scheepvaartkrant.nl###block-topbannersidebar
 schie.nu##.my-5:has-text(/advert/i)
@@ -1144,6 +1145,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
