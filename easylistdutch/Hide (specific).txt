@@ -163,6 +163,7 @@ tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
 tweakers.net##.widebnr
 tweakers.net##.top-banner
 viraal.nl,wielrennenuptodate.nl##.raw-html-component
+visionair.nl##aside.widget_block:empty
 voetbal4u.com##.widget_text:has(h2):has-text(/crypto/i)
 voetbalkrant.com###ad-intro-text
 voetbalverslaafd.nl##div[class*="r89-mobile"]:upward(1)
@@ -1145,6 +1146,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
