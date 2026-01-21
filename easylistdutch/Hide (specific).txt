@@ -203,6 +203,7 @@ sol2.nl##.et_pb_module:has-text(/Onze Sponsoren|Onze sponsors/) + div.et_pb_slid
 sommenoefenen.nl##div[style^="max-width: 960px; height:280px;"]
 spellingoefenen.nl##div[class^="r89-desktop"]:upward(1)
 sportnieuws.nl##.banner-centered
+sporza.be##[class^="_adBanner_"]
 standaard.be##div[id^="ad"]
 techpulse.be##.magazine-sidebar-block
 techzine.nl##.chimney
@@ -1174,7 +1175,6 @@ sexcam-mokkels.nl##.entry-content > div
 sexervaringdelen.com##center > center:has(iframe[width="900"][height="250"])
 sexervaringdelen.com##section[id^="block"]:has([width="300"][height="250"])
 spelersvrouw.nl##.widget_text.gridlove-box
-sporza.be##.advertising
 surfplaza.be##td.di1:has(img[src$="/yourad.gif"])
 treinreiziger.nl##div[class*="ads-adsense-"]
 veto.be##div[class*="spacer block"]:has([href][id*="advert"])
@@ -1188,6 +1188,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
