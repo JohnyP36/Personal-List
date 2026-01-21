@@ -80,6 +80,7 @@ gpblog.com##div[id^="snack"]
 gpinfo.com,koopplein.nl,televizier.nl,tvblik.nl,voetbalnieuws.be,wielernieuws.be##.header-banner
 gptoday.net##.banner_adv-js
 gptoday.net##div[id^="gptoday_ros"][id$="_rectangle-halfpage"]
+gratisoptehalen.nl##center > a[href]:has(img)
 grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.bg-reserved:has(div[data-aa-adunit])
 grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##div[data-aa-adunit]
 grazia.nl,panorama.nl,wielerrevue.nl##div[id$="VIDEO_PLAYER_TARGET"]:upward(.showheroes-unit)
@@ -1167,6 +1168,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
