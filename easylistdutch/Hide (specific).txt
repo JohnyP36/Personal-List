@@ -142,6 +142,7 @@ onderwijsnieuwsdienst.nl###topAdvertisement
 onderwijsnieuwsdienst.nl##.bottomSpace
 onderwijsnieuwsdienst.nl##.extraInfo > span[style]:has-text(/Advertentie/i)
 oozo.nl##.adsbybinq
+propertynl.com##.box_header:has-text(Advertenties)
 psvinside.nl##.raw-html-component:has(img[src*="banner"]):has(div[class*="ad"])
 psvinside.nl##.raw-html-component:has(script[src*="/adserver"])
 pu.nl##div[id*="adSlot"]:upward(.lazyload-wrapper)
@@ -1155,6 +1156,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
