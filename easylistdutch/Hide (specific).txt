@@ -142,6 +142,7 @@ showblad.nl##.r89-video-outstream
 skoften.net##div[class*="cls-placeholder"]
 sliedrecht24.nl##[id$="random_ads"]
 soccernews.nl###r89-video-outstream
+spellingoefenen.nl##div[class^="r89-desktop"]:upward(1)
 sportnieuws.nl##.banner-centered
 standaard.be##div[id^="ad"]
 techpulse.be##.magazine-sidebar-block
@@ -1145,6 +1146,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
