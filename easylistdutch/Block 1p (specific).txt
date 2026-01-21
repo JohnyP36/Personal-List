@@ -8,7 +8,7 @@ nos.nl##+js(json-prune, adUrl)
 /banners/*$domain=motorrijder.be|rivierenland-radio.nl|wijchensnieuws.nl
 /img/banners/*.gif$image,1p,domain=fcutrecht.net
 /wp-content/*banner$image,domain=ajaxinside.nl|hoimedia.com
-/wp-content/uploads/*.gif$image,domain=crimesite.nl|sliedrecht24.nl
+/wp-content/uploads/*.gif$image,domain=crimesite.nl|rtvmiddenholland.nl|sliedrecht24.nl
 ||1twente.nl/Ads/
 ||24cars.nl/api/advertise-deliver/
 ||aalsmeervandaag.nl/wp-content/uploads/*/adv
@@ -337,4 +337,5 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
+
 
