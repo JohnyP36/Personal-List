@@ -44,6 +44,7 @@ edestad.nl,huisaanhuiselburg.nl,huisaanhuisoldebroek.nl,nunspeethuisaanhuis.nl,s
 ajaxshowtime.com,axed.nl,fok.nl,fr12.nl,gpinfo.com,headliner.nl,klusidee.nl,looopings.nl,lovereality.nl,mannenzaken.nl,meemetoranje.nl,nieuws365.be,showblad.nl,tvblik.nl,twenteinside.nl,viraal.nl,voetbal14.nl,voetbalnieuws.be,voetbalrotterdam.nl,webwoordenboek.nl,wielernieuws.be,whiskymonkeys.com##div[class^="r89-desktop"]
 banden.autoweek.nl,eindexamens.nu,gezondheid.be###leaderboard
 beursduivel.be,beursgorilla.nl,buienalaram.nl,iexprofs.nl,propertynl.com##.banner
+beursgorilla.nl,iex.nl,tostrams.nl##.publisher-sh-spot
 biernet.nl###BJA_LEADER1
 biernet.nl###BJA3
 biernet.nl###banTop
@@ -108,7 +109,6 @@ id.nl##div[id^="artikel/"]:upward(.lazyload-wrapper)
 iex.nl##.banner
 iex.nl##.js-banner
 iex.nl##.network:has-text(Gesponsorde links)
-iex.nl,tostrams.nl##.publisher-sh-spot
 iex.nl##.sidebar > .block:has(p.text-promo)
 iex.nl##[class^="rectangle"]
 isgeschiedenis.nl##.webads
@@ -771,14 +771,12 @@ autozine.nl##.ad300x1050
 basketballbelgium.be##.sidebar-inner aside:has(.carousel.slide)
 basketballbelgium.be###sidebar-top-content > .widget-area:has(img[width="970"][height="250"])
 bdsmleven.nl##[class*="random_banner"]
-belegger.nl,beursgorilla.nl##article[class*="plus"]:contains(plus500)
+belegger.nl##article[class*="plus"]:contains(plus500)
 belegger.nl##.Textads:upward(.ContentRightBlock)
 beleggersbelangen.nl##.promo
 belgiancycling.be,nieuwsfiets.nu###banner
 belgischecasinos.be,newspower.nu##.gofollow
 besteproduct.nl##[id^="ad-block"]
-beursgorilla.nl##.js--billboard.ut--billboard
-beursgorilla.nl##.js--rect.ut--rectangle
 beveiligingnieuws.nl##aside.widget:has-text(/Partners/i)
 binnenlandsbestuur.nl##aside div[class="c-teaser"]:not(:has(a[href*="binnenlandsbestuur.nl"]))
 binnenvaartkrant.nl,christmaholic.nl,curacao.nu,dbsuriname.com,dehavengids.nl,oogtv.nl,regioinbedrijf.nl,seksmet.nl,sleutelstad.nl,westerwoldeactueel.nl##.g
@@ -1191,6 +1189,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
