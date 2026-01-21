@@ -62,6 +62,8 @@ crypto-insiders.nl##div[class^="intercom-app"] > iframe[title*="banner"]
 dartfreakz.nl,puna.nl,showblad.nl,voetbal24.be##div[class^="r89-desktop"]:upward(.raw-html-component)
 dartfreakz.nl##.r89-outstream-video:upward(.raw-html-component)
 dartfreakz.nl,vechtsportinfo.nl##.sda
+deaandeelhouder.be,deaandeelhouder.nl##.container-commercial
+deaandeelhouder.be,deaandeelhouder.nl##.content > a[title="Traderepublic"]
 delhaize.be##[data-testid$="-ad"]
 demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl###article_paragraph_3
 demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
@@ -1189,6 +1191,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
