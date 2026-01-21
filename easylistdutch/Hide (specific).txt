@@ -66,6 +66,7 @@ delhaize.be##[data-testid$="-ad"]
 demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl###article_paragraph_3
 demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.mid1-container
 demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl##.top1-container
+ditishelmond.nl##.aanbieder:not(:has(a[href*="ditishelmond.nl"]))
 ditjesendatjes.nl##aside > h2:has-text(/DenD Promoties/i)
 ditjesendatjes.nl##aside > h2:has-text(/DenD Promoties/i) + ul
 ditjesendatjes.nl##li[class$="object-cover"]:has(a[href]):not(a[href*="ditjesendatjes.nl"]):has(img[src])
@@ -1188,6 +1189,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
