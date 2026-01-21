@@ -25,6 +25,8 @@ androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
 androidplanet.nl,androidworld.be,androidworld.nl,iphoned.nl##header[data-name="featured-header"]
 androidworld.be,androidworld.nl##.adblock-detect:upward(1):has(div[id*="_ros_"])
 ans-online.nl##aside.widget:has-text(/Advertenties\b/i)
+at5.nl##[class^="Advertisement_container"]
+at5.nl##div[class^="article_adWrapper"]
 autobahn.eu,grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.sticky-incontent:has([data-aa-adunit])
 autobahn.eu##li[class^="bg-reserved"]:has(* > [data-aa-adunit])
 autoblog.nl##.widget_ab_sidebar
@@ -1177,6 +1179,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
