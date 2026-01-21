@@ -12,6 +12,7 @@
 ||js.intercomcdn.com/banner-modern.
 ||publize.net^$script,domain=filmvandaag.nl
 ||resources.planetnine.com/scripts/topgear.nl.js$domain=topgear.nl
+||static.promedia.nl/logos/$image,domain=schuttevaer.nl
 ||static.wixstatic.com/media/*banner$domain=nbs-bouwmaterialen.nl
 ||viralize.tv/display/$domain=albrandswaardsdagblad.nl|barendrechtsdagblad.nl|dagblad010.nl|dagblad070.nl|goudsdagblad.nl|ridderkerksdagblad.nl|rijswijksdagblad.nl|sgxl.nl|startpagina.nl|voorburgsdagblad.nl|zoetermeersdagblad.nl
 ||voetbalassist.nl/*/Banner/*/Sponsors/$image,domain=rkvvo.nl
