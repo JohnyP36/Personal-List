@@ -192,6 +192,8 @@ skoften.net##div[class*="cls-placeholder"]
 sliedrecht24.nl##[id$="random_ads"]
 soccernews.nl###r89-takeover
 soccernews.nl###r89-video-outstream
+sol2.nl##.et_pb_module:has-text(/Onze Sponsoren|Onze sponsors/)
+sol2.nl##.et_pb_module:has-text(/Onze Sponsoren|Onze sponsors/) + div.et_pb_slider
 sommenoefenen.nl##div[style^="max-width: 960px; height:280px;"]
 spellingoefenen.nl##div[class^="r89-desktop"]:upward(1)
 sportnieuws.nl##.banner-centered
@@ -1184,6 +1186,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
