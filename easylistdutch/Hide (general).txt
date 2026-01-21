@@ -24,5 +24,7 @@
 ##.reclame
 !a1mediagroep.nl##.reclame
 ##.reclamekop
+!flowmagazine.nl,happinez.nl,landleven.nl,psychologie.nl##.rmn-advert
+##.rmn-advert
 ##.sponsorbalk
 ##a[href^="http://adserver.webads.nl/adclick/"]
