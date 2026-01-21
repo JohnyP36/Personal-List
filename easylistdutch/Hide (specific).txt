@@ -11,10 +11,10 @@ afkortingen.nu##.banner_container
 alblasserdamsnieuws.nl##.albla-widget
 alblasserdamsnieuws.nl##.a2t-link:upward(div[id^="albl"])
 ammoniakrechten.nl,efarm.nl,fosfaat.nu,koemarkt.nl,landbouwgrond.nu,mechanisatie.nl,pluimveerechten.nu,quotum.nu,varkensrechten.nu##.adsbygoogle:upward(div[style])
-androidplanet.nl,androidworld.nl,iphoned.nl##.adblock-detect
+androidplanet.nl,androidworld.be,androidworld.nl,iphoned.nl##.adblock-detect
 androidplanet.nl,iphoned.nl##[data-name="dynamic-content"][data-nosnippet]
-androidplanet.nl,androidworld.nl,iphoned.nl##header[data-name="featured-header"]
-androidworld.nl##.adblock-detect:upward(1):has(div[id*="_ros_"])
+androidplanet.nl,androidworld.be,androidworld.nl,iphoned.nl##header[data-name="featured-header"]
+androidworld.be,androidworld.nl##.adblock-detect:upward(1):has(div[id*="_ros_"])
 ans-online.nl##aside.widget:has-text(/Advertenties\b/i)
 autobahn.eu,grazia.nl,panorama.nl,wielerrevue.nl,zeilen.nl##.sticky-incontent:has([data-aa-adunit])
 autobahn.eu##li[class^="bg-reserved"]:has(* > [data-aa-adunit])
@@ -1151,5 +1151,6 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
