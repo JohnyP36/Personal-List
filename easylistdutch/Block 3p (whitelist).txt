@@ -19,7 +19,6 @@
 @@||potwm.com/api/video-promotion/v1/get-$xhr,domain=camsexbabe.nl|potwm.com
 @@||prtawe.com/embed/tbplyr/*$script,domain=camsexbabe.nl
 @@||cdn.bluebillywig.com/scripts/prebid/$script,domain=geenstijl.nl
-@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=goplay.be
 @@||partner.bol.com/promotion/static/js/partnerProductlink$script,domain=grandprixradio.nl
 !@@||fundingchoicesmessages.google.com/*/$script,domain=racingnews365.nl
 @@||mmcdn.nl/tags/racingnews365.nl/artikel.js$script,domain=racingnews365.nl
