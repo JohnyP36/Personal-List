@@ -3,6 +3,7 @@
 ! 2026
 banden.autoweek.nl,loemedia.nl,pepper.com,vi.nl##.ad
 babybytes.nl##.ad-container
+dagelijkseverhalen.nl##.ads
 twentefm.nl##.advertisement
 centraalplus.nl##.g
 112brabant.nl,112nederland.nl,gelrenieuws.nl,noordernieuws.nl###ads
@@ -1154,6 +1155,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
