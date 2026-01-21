@@ -8,7 +8,7 @@ nos.nl##+js(json-prune, adUrl)
 /banners/*$domain=motorrijder.be|rivierenland-radio.nl|wijchensnieuws.nl
 /img/banners/*.gif$image,1p,domain=fcutrecht.net
 /wp-content/*banner$image,domain=ajaxinside.nl
-/wp-content/uploads/*.gif$image,domain=sliedrecht24.nl
+/wp-content/uploads/*.gif$image,domain=crimesite.nl|sliedrecht24.nl
 ||1twente.nl/Ads/
 ||biernet.nl/site/plugins/bja_new/redirect.php
 ||bitcoinmagazine.nl/wp-content/uploads/*promo-bitvavo
@@ -182,7 +182,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||ciaotutti.nl/wp-content/uploads/*/villa-in-umbria-vakantie$image
 ||clubbrugge.be^*/partner/$image
 ||creditexpo.nl/wp-content/uploads/*/*_400x400*.jpg
-||crimesite.nl/inhoud/uploads/*/*.gif$image
 ||cryptobenelux.com/wp-content/uploads/*/Bets*$image
 ||curacao.nu/wp-content/uploads/*/*WebAD$image
 ||despirituelewereld.be/wp-content/uploads/*/DrukZo-Korting-*.jpg
@@ -336,7 +335,3 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
-
-
-
-
