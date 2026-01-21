@@ -229,6 +229,7 @@ voetbalzone.nl##.fco-abs-iframe
 voetbalzone.nl##.fco-betting-offer
 voetbalzone.nl##.fco-sponsored-text-link
 waterkant.net##.adsbygoogle
+wattedoen.be###banner
 weer.nl##.items-center:has(div[data-advert-placeholder-collapses])
 weer.nl##div[data-advert-placeholder-collapses]:upward(div[class*="my-"])
 wfm.be##.wpb_wrapper:has(.slick-slider .qt-sponsor)
@@ -1188,6 +1189,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
