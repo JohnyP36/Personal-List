@@ -88,6 +88,8 @@ guruwatch.nl##.LargeRectangle
 guruwatch.nl##.publisher-sh-spot1
 gva.be,hbvl.be,nieuwsblad.be,standaard.be##div[id^="ad_inline"]
 gva.be,hbvl.be,nieuwsblad.be,standaard.be##section[data-theme-sponsored-content]:has-text(/onze partners/i)
+hoekschnieuws.nl##.rb-section.widget:has-text(/Advertentie/i)
+hoekschnieuws.nl##body > center:has(a[href]:has(img))
 huisvlijt.com##.sidebar-inner-wrap > .widget:has(img):has(a[href*="suninvestbvba.be"])
 ibestuur.nl##.c-ad-slot
 id.nl##div[id^="artikel/"]:upward(.lazyload-wrapper)
@@ -839,9 +841,6 @@ hdtienersexfilms.nl,rapetube.eu##.happy-sidebar
 hdtienersexfilms.nl,poepsexfilmstube.nl,rapetube.eu,tubeseks.be###tracking-url
 historiek.net##.ablok
 historiek.net##div[id^="ai_widget"]:has-text(/advert/i)
-hoekschnieuws.nl##.td-a-rec.td-a-rec-id-content_bottom > a[href]
-hoekschnieuws.nl##.widget[class^="td_block_template"]:has-text(/Advert/i)
-hoekschnieuws.nl##body > center:has(a[href]:has(img))
 hollywoodhuizen.nl##.a-widget
 hollywoodhuizen.nl##div[class^="post-content description"] > div[class]:not(.sharedaddy):not(:has(img))
 hyc.be##div[class*="slider"]:has([class*="sliderwidget"])
@@ -1155,6 +1154,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
