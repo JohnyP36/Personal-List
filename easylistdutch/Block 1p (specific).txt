@@ -19,6 +19,7 @@ nos.nl##+js(json-prune, adUrl)
 ||cdn.gic.nl/app/uploads/*/*banner
 ||christelijknieuws.nl/wp-content/uploads/*Banner
 ||gp33.nl/assets/common/ads-helper.js
+||rallylovers.be/img/betalend/*.gif
 ||sliedrecht24.nl/wp-content/uploads/*/palmpjes-banner
 ||techgaming.nl/image_uploads/sponsored/
 ||touretappe.nl/images/topposblock.html
@@ -333,4 +334,5 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||tennisplaza.be/wp-content/uploads/*/tennisdirect-$image
 ||thehike.nl/wp-content/uploads/*/*statisch-500x500
 ||tijd.be/ad/
+
 
