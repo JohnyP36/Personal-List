@@ -112,6 +112,9 @@ monitor.iex.nl##.centerbanner
 monitor.iex.nl##.leaderboard-down
 motorblog.nl##.sale
 motorrijder.be##div[id^="bannerhome"]:not(:has(a[href*="motorrijder.be/"]))
+moviemeter.nl##.footer-artikelen:has-text(/Partners/i)
+moviemeter.nl##.leaderboard-bar
+moviemeter.nl##div[id^="moviemeter_ros_"][id$="rectangle-halfpage"]
 nd.nl##.banner__head
 nd.nl##.page-header__ad
 newsbit.nl##.acf-block-cta-conversion-rating
@@ -1146,6 +1149,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
