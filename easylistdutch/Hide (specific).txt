@@ -102,6 +102,7 @@ guruwatch.nl##.LargeRectangle
 guruwatch.nl##.publisher-sh-spot1
 gva.be,hbvl.be,nieuwsblad.be,standaard.be##div[id^="ad_inline"]
 gva.be,hbvl.be,nieuwsblad.be,standaard.be##section[data-theme-sponsored-content]:has-text(/onze partners/i)
+heelhollandkijkt.nl##section.widget:has(.widgettitle:has-text(Wij hosten bij:))
 hoekschnieuws.nl##.rb-section.widget:has-text(/Advertentie/i)
 hoekschnieuws.nl##body > center:has(a[href]:has(img))
 huisvlijt.com##.sidebar-inner-wrap > .widget:has(img):has(a[href*="suninvestbvba.be"])
@@ -1187,6 +1188,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
