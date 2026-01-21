@@ -60,6 +60,7 @@ drimble.nl##div[id^="drimble.nl_web_"]
 ewmagazine.nl###top_lb_bb
 ewmagazine.nl###top_rt
 f1maximaal.nl##.pnvp-ad-wrap:upward(.raw-html-component)
+fcutrecht.net,wettelijke-feestdagen.nl###reclame
 flair.nl,libelle.nl##[class$="advertisement"]
 flair.nl,libelle.nl##div[class$="adblock"]:has( > div[class$="advertisement"])
 funda.nl##aside:has-text(/Advertentie/i)
@@ -1071,7 +1072,6 @@ welklidwoord.nl###ad-takeover
 wereldklokken.nl##.adsbygoogle:style(visibility: collapse !important;)
 wereldklokken.nl##.klokken:style(transform: translateX(-180px ) !important;)
 wettelijke-feestdagen.nl##.advertentieBanner
-wettelijke-feestdagen.nl###reclame
 whiskyprijzen.be,whiskyprijzen.nl,whiskyprix.be##.bnr.card
 wietforum.nl##li.ipsBox.ipsWidget:has(.ipsType_richText.ipsPad)
 wildfm.nl##[class*="avia-image-container"]:has(a[href])
@@ -1149,6 +1149,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
