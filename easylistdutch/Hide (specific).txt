@@ -201,6 +201,7 @@ weer.nl##div[data-advert-placeholder-collapses]:upward(div[class*="my-"])
 wfm.be##.wpb_wrapper:has(.slick-slider .qt-sponsor)
 whiskymonkeys.com##div[class^="r89-mobile"]:upward(.raw-html-component)
 wos.nl##.widget:has(img[src*="b-cdn.net"][src$=".gif"]):has-text(/Advertentie/i)
+zelfmaak-ideetjes.nl##section[id^="sticky_ad_widget"]
 ! 2024
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,hln.be,pzc.nl##.page-header__section--spacer
@@ -1165,6 +1166,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
