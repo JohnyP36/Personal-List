@@ -153,6 +153,8 @@ radiostadmontfoort.nl##img[src^="img/ads/cdm"]:upward(5):has-text(Reclame)
 rd.nl##.codalt-container
 rd.nl##div[class*="ad-container"]
 rallylovers.be##.advertentierechts
+revive.nl##div[id^="reviv-"]:not(:has(a[href*="revive.nl"])):not(:has(iframe[src*="revive.nl"]))
+revive.nl##.textwidget:has(iframe[src*="jobfish.nl/widget"])
 rivierenland-radio.nl##.aba
 rkvvo.nl##.divFooterBanner
 rtl.nl##div[data-adslot-variant]
@@ -1163,6 +1165,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
