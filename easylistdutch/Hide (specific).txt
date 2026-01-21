@@ -172,6 +172,7 @@ revive.nl##.textwidget:has(iframe[src*="jobfish.nl/widget"])
 rivierenland-radio.nl##.aba
 rkvvo.nl##.divFooterBanner
 rtl.nl##div[data-adslot-variant]
+rtveen.nl##.row [id^="block"]:not(:has(a[href*="rtveen.nl"])):not(:has(.popular-posts)):not(:has-text(/Meest gelezen artikel/i))
 rubenweytjens.be##.ad.row
 rubenweytjens.be##.adpanel
 rubenweytjens.be##.skyscraper
@@ -589,7 +590,6 @@ rotterdam-nesselande.nl##.adsbygoogle:upward(.wpb_wrapper):not(:has(aside))
 rotterdambasketbal.nl##.gdlr-core-pbf-wrapper:has(img[title^="roba_sponosor_"])
 roulettefm.nl,rtvstichtsevecht.nl##body > .content:has-text(/advert/i)
 rtvalbrandswaard.com##section:has-text(/steun ons/i)
-rtveen.nl##.row [id^="block"]:not(:has(a[href*="rtveen.nl"])):not(:has(.popular-posts))
 rtvgo.nl##.thanksto
 rtvideaal.nl##.widget_random_banner_widget
 rtvkrimpenerwaard.nl##.art-positioncontrol
@@ -1179,6 +1179,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
