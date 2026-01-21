@@ -10,6 +10,7 @@ abcsuriname.com,vlietnieuws.nl##.banner_wrapper
 afkortingen.nu##.banner_container
 ajaxfanzone.nl##.widget_text:has-text(/Advertenties/i)
 ajaxfanzone.nl##.widget_text:has-text(/Advertenties/i) + .widget_text:has(iframe)
+ajaxinside.nl###bettingpartners
 alblasserdamsnieuws.nl##.albla-widget
 alblasserdamsnieuws.nl##.a2t-link:upward(div[id^="albl"])
 ammoniakrechten.nl,efarm.nl,fosfaat.nu,koemarkt.nl,landbouwgrond.nu,mechanisatie.nl,pluimveerechten.nu,quotum.nu,varkensrechten.nu##.adsbygoogle:upward(div[style])
@@ -1150,6 +1151,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
