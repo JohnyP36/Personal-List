@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Last modified: %timestamp%
 ! 2026
-@@/wp-content/themes/bigspark/scripts/ads-frontend.min.js$domain=androidplanet.nl|androidworld.nl|iphoned.nl
+@@/wp-content/themes/bigspark/scripts/ads-frontend.min.js$domain=androidplanet.nl|androidworld.be|androidworld.nl|iphoned.nl
 autotrader.nl##+js(abort-on-property-read, Object.prototype.autoRecov)
 ||jwpcdn.com/player/*/freewheel.js$script,domain=538.nl|hartvannederland.nl|kijk.nl|radio10.nl|shownieuws.nl|vandaaginside.nl
 ! 2023
