@@ -43,7 +43,7 @@ amstelveensnieuwsblad.nl,baarnschecourant.nl,barneveldsekrant.nl,deputtenaer.nl,
 edestad.nl,huisaanhuiselburg.nl,huisaanhuisoldebroek.nl,nunspeethuisaanhuis.nl,stadwageningen.nl##.component__pubble-banner:has([advobject]):has-text(/Uit de krant/i)
 ajaxshowtime.com,axed.nl,fok.nl,fr12.nl,gpinfo.com,headliner.nl,klusidee.nl,looopings.nl,lovereality.nl,mannenzaken.nl,meemetoranje.nl,nieuws365.be,showblad.nl,tvblik.nl,twenteinside.nl,viraal.nl,voetbal14.nl,voetbalnieuws.be,voetbalrotterdam.nl,webwoordenboek.nl,wielernieuws.be,whiskymonkeys.com##div[class^="r89-desktop"]
 banden.autoweek.nl,eindexamens.nu,gezondheid.be###leaderboard
-beursduivel.be,buienalaram.nl,iexprofs.nl,propertynl.com##.banner
+beursduivel.be,beursgorilla.nl,buienalaram.nl,iexprofs.nl,propertynl.com##.banner
 biernet.nl###BJA_LEADER1
 biernet.nl###BJA3
 biernet.nl###banTop
@@ -1191,6 +1191,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
