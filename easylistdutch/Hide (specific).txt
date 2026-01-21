@@ -210,6 +210,7 @@ tweakers.net##.leaderBoard:has([src*="ab.tweakers"])
 tweakers.net##.widebnr
 tweakers.net##.top-banner
 upinthesky.nl##div[class^="r89-mobile-rectangle"]
+veluwefm.nl##.slideshow_container
 viraal.nl,wielrennenuptodate.nl##.raw-html-component
 visionair.nl##aside.widget_block:empty
 voedingswaardetabel.nl##div[class^="amgray"]:has(div[id*="div-gpt-ad"])
@@ -1186,6 +1187,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
