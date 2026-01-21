@@ -20,3 +20,4 @@
 ||kechtube.com^$popunder
 ! https://github.com/AdguardTeam/AdguardFilters/commit/d7690d1e07746b72e9d414ac245de762f5dcb4f1
 ||kjdsfjisdfjr23.azurewebsites.net^
+||preroll.omroepvenlo.nl^
