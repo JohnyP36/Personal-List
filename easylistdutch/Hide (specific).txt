@@ -5,7 +5,7 @@ banden.autoweek.nl,loemedia.nl,pepper.com,vi.nl##.ad
 babybytes.nl##.ad-container
 dagelijkseverhalen.nl##.ads
 hoimedia.com##.advert
-twentefm.nl##.advertisement
+maassluis24.nl,schiedam24.nl,twentefm.nl##.advertisement
 centraalplus.nl##.g
 112brabant.nl,112nederland.nl,gelrenieuws.nl,noordernieuws.nl###ads
 24cars.nl##.more.sponsored
@@ -1184,6 +1184,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
