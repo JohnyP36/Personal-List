@@ -24,6 +24,7 @@
 ||affiliateprogramma.eu^$third-party
 ||asp.unitedconsumers.com^$third-party
 ||awin.com^$third-party
+||banner-online.nl/$third-party
 ||bannermarkt.nl^$third-party
 ||banners.vip.nl^$third-party
 ||believe-the-hype.be^$third-party
