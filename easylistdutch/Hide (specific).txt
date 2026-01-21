@@ -163,6 +163,7 @@ rubenweytjens.be##div[class^="xs-padding"]:has(.adsbygoogle)
 schuttevaer.nl##.partners
 schuttevaer.nl##.widget_minisites
 showblad.nl,upinthesky.nl##.r89-video-outstream
+scientias.nl##.ndm-desktop-only
 skoften.net##div[class*="cls-placeholder"]
 sliedrecht24.nl##[id$="random_ads"]
 soccernews.nl###r89-video-outstream
@@ -1158,7 +1159,9 @@ mannenzaken.nl##.r89-mobile-billboard-top:upward(.td_block_wrap)
 mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
+scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
