@@ -122,6 +122,7 @@ mediacourant.nl##.mg-slot
 meteoalblasserdam.nl##p:has-text(/advert/i):not(:has(a[href="adverteren.html"])):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"]) + a[href*="basbeats.nl"]
+modekoninginmaxima.nl,waterkant.net##.td-all-devices
 monitor.iex.nl##.centerbanner
 monitor.iex.nl##.leaderboard-down
 motorblog.nl##.sale
@@ -193,6 +194,7 @@ voetbalverslaafd.nl##div[class*="r89-mobile"]:upward(1)
 voetbalzone.nl##.fco-abs-iframe
 voetbalzone.nl##.fco-betting-offer
 voetbalzone.nl##.fco-sponsored-text-link
+waterkant.net##.adsbygoogle
 weer.nl##.items-center:has(div[data-advert-placeholder-collapses])
 weer.nl##div[data-advert-placeholder-collapses]:upward(div[class*="my-"])
 wfm.be##.wpb_wrapper:has(.slick-slider .qt-sponsor)
@@ -923,7 +925,6 @@ minimumloon.nl##.header-widget-region > .col-full
 mnm.be,stubru.be###reclameblok-wrapper
 mnm.be##.ad--rectangle:upward(1)
 mnm.be##div[class^="grid-item"]:has(div:has-text(/advert/i))
-modekoninginmaxima.nl##.adsbygoogle
 modekoninginmaxima.nl##.region-top-advertisement
 motocrossplanet.nl##.artikel-banners
 motocrossplanet.nl##.background_link
@@ -1078,8 +1079,6 @@ vlootschouw.nl##[id*="miw_widget"] a[target$="blank"][href]:not(a[href*="mailto"
 voetbalnederland.nl###submenubanner
 voetbalnieuws.be##[id$="takeover"]
 voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="eredivisiewedden.nl"][target="_blank"])
-waterkant.net##.td-fix-index:has(a[href])
-waterkant.net##[href^="https://www.eventbrite.nl/e/tickets"]
 webcam-binnenvaart.nl##.d-md-block.d-none:has-text(Met dank aan)
 weerstationleeuwarden.nl##.cookieconsent-optin-marketing
 wegdamnieuws.nl##.mk-sponsorlink
@@ -1165,6 +1164,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
