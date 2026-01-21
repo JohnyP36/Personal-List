@@ -70,6 +70,7 @@ ditjesendatjes.nl##aside > h2:has-text(/DenD Promoties/i)
 ditjesendatjes.nl##aside > h2:has-text(/DenD Promoties/i) + ul
 ditjesendatjes.nl##li[class$="object-cover"]:has(a[href]):not(a[href*="ditjesendatjes.nl"]):has(img[src])
 ditjesendatjes.nl##section:has(h2:has-text(/DenD Promoties|DenD Partners/i))
+dmgdeurne.nl##aside.widget_block:has-text(Advertentie)
 drimble.nl##div[id^="drimble.nl_web_"]
 ewmagazine.nl###top_lb_bb
 ewmagazine.nl###top_rt
@@ -1187,6 +1188,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
