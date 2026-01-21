@@ -78,6 +78,7 @@ hbvl.be##div[id^="ad_inline"]
 hbvl.be##section[data-theme-sponsored-content]:has-text(/onze partners/i)
 huisvlijt.com##.sidebar-inner-wrap > .widget:has(img):has(a[href*="suninvestbvba.be"])
 ibestuur.nl##.c-ad-slot
+id.nl##div[id^="artikel/"]:upward(.lazyload-wrapper)
 iex.nl##.banner
 iex.nl##.js-banner
 iex.nl##.network:has-text(Gesponsorde links)
@@ -355,7 +356,7 @@ fucking-tube.com,pornokartel.nl,seks-tube.be##.video-block-happy
 funnygames.be,funnygames.nl,spele.be,spele.nl##.is-billboard
 funnygames.be,funnygames.nl,spele.be,spele.nl##.is-skyscraper
 fwd.nl##[class^="advertisement"]
-gamer.nl,id.nl,wasmachines.nl##.adunitContainer:upward(.items-center)
+gamer.nl,wasmachines.nl##.adunitContainer:upward(.items-center)
 gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
 gebruikershandleiding.com##[class^="adserver-container"]
 geelfm.be###slider
@@ -407,7 +408,6 @@ hollandskroonnieuws.nl,wieringernieuws.nl###navleft > center:has-text(/advert/i)
 hollandskroonnieuws.nl,wieringernieuws.nl##div#block-blue:has-text(/advert/i)
 hotradiohits.nl###tpl_banners
 hyvesgames.nl##.gamereel_featured-ad
-id.nl##.rounded-md:has(p[class^="call-to-action"]):not(:has-text(/Akkoord en door naar/i))
 iexgeld.nl##.LeaderboardContainer
 iexgeld.nl##.Rectangle
 ikwilneuken.be,ikwilneuken.net,sexcontactadressen.nl##.nomobile.boxlinks:has(.homebanner)
@@ -1149,6 +1149,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
