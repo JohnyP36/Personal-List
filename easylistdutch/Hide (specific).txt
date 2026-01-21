@@ -48,6 +48,7 @@ boerderij.nl###top_desktop_wrapper
 boerderij.nl##div[class*="max-ad_"]
 bol.com##div[data-bltgg$="considerationDisplay"]
 ciaotutti.nl##div[class$="widget_advert"]:not(:has(a[href*="ciaotutti.nl"])):not(:has(a[href*="eepurl"])):not(:has(a[href*="facebook.com"])):not(:has(a[href*="instagram.com"])):not(:has(a[href*=".app/share/ciaotutti"]))
+crimesite.nl##div[class*="r89-desktop"]
 cryptobenelux.com,psvinside.nl,welingelichtekringen.nl##.raw-html-component:has(.ms-container)
 crypto-insiders.nl##.ad-category
 crypto-insiders.nl##.exp-google-ad
@@ -308,7 +309,6 @@ coastline945fm.nl,coastlinefm.nl,elfvoetbal.nl,fonkmagazine.nl###partners
 computable.be##.sponsorartikelen
 computable.nl,sexjobs.nl##.banner-wrapper
 culturescope.nl##.widget_sp_image:has([onclick^="javascript:window.open("] > img[width][height])
-crimesite.nl##.r89-desktop-InContent
 cryptosjop.nl##.td-block-title-wrap:has-text(/Direct Crypto Kopen/i)
 cyclingmedia.eu##div[class*="section-sidebar"] figure:has-text(/advert/i)
 cvandaag.nl##a[href*="/api/advertise-deliver/"]:not(:has-text(/gesponsord/i))
@@ -1158,6 +1158,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
