@@ -359,7 +359,7 @@ fucking-tube.com,pornokartel.nl,seks-tube.be##.video-block-happy
 funnygames.be,funnygames.nl,spele.be,spele.nl##.is-billboard
 funnygames.be,funnygames.nl,spele.be,spele.nl##.is-skyscraper
 fwd.nl##[class^="advertisement"]
-gamer.nl,wasmachines.nl##.adunitContainer:upward(.items-center)
+wasmachines.nl##.adunitContainer:upward(.items-center)
 gamereactor.nl##div[style="min-height: 600px; margin-bottom: 20px;"]
 gebruikershandleiding.com##[class^="adserver-container"]
 geelfm.be###slider
@@ -1146,6 +1146,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
