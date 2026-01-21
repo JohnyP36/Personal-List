@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Last modified: Sun, 18 Jan 2026 19:19:46 +0000
+! Last modified: Wed, 21 Jan 2026 20:31:04 +0000
 ||2k19.nl^$third-party,popup
 ||2k21.nl^$third-party
 ||2k23.nl^$third-party
@@ -14,6 +14,7 @@
 ||adrequest.net^$third-party
 ||adscience.nl^$third-party
 ||adshim.com^$third-party
+||adswag.nl^$third-party
 ||adulttradecenter.nl^$third-party
 ||adverteren.rd.nl^$strict3p
 ||advertising-cdn.dpgmedia.cloud^$third-party
@@ -24,6 +25,7 @@
 ||affiliateprogramma.eu^$third-party
 ||asp.unitedconsumers.com^$third-party
 ||awin.com^$third-party
+||banner-online.nl/$third-party
 ||bannermarkt.nl^$third-party
 ||banners.vip.nl^$third-party
 ||believe-the-hype.be^$third-party

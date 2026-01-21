@@ -1,13 +1,17 @@
 [uBlock Origin]
-! Last modified: Mon, 19 Jan 2026 20:03:07 +0000
+! Last modified: Wed, 21 Jan 2026 20:31:04 +0000
 ! 2026
 avrotros.nl##+js(json-prune, assets.preroll)
 nos.nl##+js(json-prune, adUrl)
 .nl/*/advertisements/$domain=boek9.nl|grandprixradio.nl|grootnieuwsradio.nl
 /banner/*$domain=kranenwebsite.nl
 /banners/*$domain=motorrijder.be|rivierenland-radio.nl|wijchensnieuws.nl
-/wp-content/uploads/*.gif$image,domain=sliedrecht24.nl
+/img/banners/*.gif$image,1p,domain=fcutrecht.net
+/wp-content/*banner$image,domain=ajaxinside.nl|hoimedia.com
+/wp-content/uploads/*.gif$image,domain=crimesite.nl|rtvmiddenholland.nl|sliedrecht24.nl
 ||1twente.nl/Ads/
+||24cars.nl/api/advertise-deliver/
+||aalsmeervandaag.nl/wp-content/uploads/*/adv
 ||biernet.nl/site/plugins/bja_new/redirect.php
 ||bitcoinmagazine.nl/wp-content/uploads/*promo-bitvavo
 ||boodschappen.nl/wp-json/boodschappen/v1/banners/get_banners
@@ -18,9 +22,11 @@ nos.nl##+js(json-prune, adUrl)
 ||cdn.gic.nl/app/uploads/*/*banner
 ||christelijknieuws.nl/wp-content/uploads/*Banner
 ||gp33.nl/assets/common/ads-helper.js
+||rallylovers.be/img/betalend/*.gif
 ||sliedrecht24.nl/wp-content/uploads/*/palmpjes-banner
 ||techgaming.nl/image_uploads/sponsored/
 ||touretappe.nl/images/topposblock.html
+||tvvisie.be/textads/textads.js
 ||tweakers.net/i^$xmlhttprequest
 ||tweakers.net/ajax/clicks/log^$xmlhttprequest
 ||unitednews.sr/wp-content/uploads/*/BANNER
@@ -178,7 +184,6 @@ omroepalmere.nl/wp-content/uploads/*/vacature-noordpool$image,domain=omroepalmer
 ||ciaotutti.nl/wp-content/uploads/*/villa-in-umbria-vakantie$image
 ||clubbrugge.be^*/partner/$image
 ||creditexpo.nl/wp-content/uploads/*/*_400x400*.jpg
-||crimesite.nl/inhoud/uploads/*/*.gif$image
 ||cryptobenelux.com/wp-content/uploads/*/Bets*$image
 ||curacao.nu/wp-content/uploads/*/*WebAD$image
 ||despirituelewereld.be/wp-content/uploads/*/DrukZo-Korting-*.jpg
