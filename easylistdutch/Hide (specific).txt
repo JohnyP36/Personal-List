@@ -174,6 +174,7 @@ rivierenland-radio.nl##.aba
 rkvvo.nl##.divFooterBanner
 rtl.nl##div[data-adslot-variant]
 rtvmiddenholland.nl##.morenews-widget:has(div[id^="rtvmi-"])
+rtvmiddenholland.nl##.unslider-horizontal
 rtveen.nl##.row [id^="block"]:not(:has(a[href*="rtveen.nl"])):not(:has(.popular-posts)):not(:has-text(/Meest gelezen artikel/i))
 rubenweytjens.be##.ad.row
 rubenweytjens.be##.adpanel
@@ -1181,6 +1182,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
