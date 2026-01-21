@@ -136,6 +136,7 @@ nd.nl##.page-header__ad
 newsbit.nl##.acf-block-cta-conversion-rating
 nieuwdezeweek.nl##.promo:has(img[src*="cdn.nieuwdezeweek.nl/ads/"])
 nieuwdezeweek.nl##div[class$="main"] div[class*="ad"]
+nieuwnieuws.nl##.uk-text-center[style]:has(div[id*="billboardskin"]):has(div[id*="_ros_"])
 nieuwspaal.nl###abovecontent-widget-area
 nieuwspaal.nl##div[id^="ada"]
 nieuwsuitnijmegen.nl,wijchensnieuws.nl##.js-banner-slider
@@ -1129,7 +1130,6 @@ mariogames.be##.googleadvidx
 mariogames.be##div.gameinfo:has-text(/sponsored links/i)
 meerradio.nl##.grijze-balk:has-text(Advert)
 meerradio.nl##div[id="pristineslider.12"]
-nieuwnieuws.nl##.article-page__bumper
 nieuwslog.nl##.wp-block-genesis-blocks-gb-columns:has(a[href*="/go/www.bet365.nl/"])
 nos.nl##.ster-banner
 nos.nl##.teletekst__banner
@@ -1166,6 +1166,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
