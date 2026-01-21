@@ -988,11 +988,8 @@ radioviainternet.be##.banner-size-leaderbord
 radiozuidrand.be##aside:has-text(/advert/i)
 rickfm.nl###advertisement
 risallah.com##[class^="zijbalk"] > table > tbody:has-text(Advertentie)
-rtlboulevard.nl,rtlnieuws.nl###dfp-billboard-wrapper
-rtlboulevard.nl,rtlnieuws.nl##.dfp-rectangle-wrapper
-rtlnieuws.nl##.article-sidebar__ad
-rtlnieuws.nl##.autoscalable-block-wrapper:has-text(/van onze partners/i)
-rtlnieuws.nl##div[class$=_with_ad__ad]
+rtlboulevard.nl###dfp-billboard-wrapper
+rtlboulevard.nl##.dfp-rectangle-wrapper
 sc-heerenveen.nl##.partner-grid:upward(2)
 scholieren.com##.blockvertorial
 scholieren.com##.min-h-90
@@ -1149,6 +1146,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
