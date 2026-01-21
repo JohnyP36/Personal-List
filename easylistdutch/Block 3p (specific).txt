@@ -8,6 +8,7 @@
 ||jobfish.nl/widget/$third-party
 ||js.intercomcdn.com/banner-modern.
 ||resources.planetnine.com/scripts/topgear.nl.js$domain=topgear.nl
+||voetbalassist.nl/*/Banner/*/Sponsors/$image,domain=rkvvo.nl
 ! 2024
 ||cdn.streace.io/banner/$image,domain=camjam.nl
 ! 2023
