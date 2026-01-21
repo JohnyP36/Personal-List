@@ -159,6 +159,7 @@ nieuwsuitnijmegen.nl,wijchensnieuws.nl##.js-banner-slider
 nieuwsuitnijmegen.nl,wijchensnieuws.nl##.text-left:has-text(/advert/i)
 nljug.org##.theiaStickySidebar > .widget_custom_html:has(a[href] > img)
 noordkop247.nl##.commercial-block
+nuus.be##.a2t-link:upward(.sidebar-widget)
 omroeptholen.nl,rtvalbrandswaard.com##.widget_media_image:has-text(/Advertentie/i)
 onderwijsnieuwsdienst.nl###topAdvertisement
 onderwijsnieuwsdienst.nl##.bottomSpace
@@ -540,7 +541,6 @@ nlsexfilmpjes.com###toplist_bodem li:not(:has(a[target="_blank"]))
 nnieuws.be##[class*="blockpartners"]
 nnieuws.be##[id^="block-billboard"]:has([class*="banner"])
 notebookcheck.nl###nbc_skys
-nuus.be##.adv-link:upward(.sidebar)
 nzbindex.nl##form + div a[href^="/"]:has(img)
 omroepalmere.nl##aside.widget_block[id^="block"]:not(:has([href*="omroepalmere.nl"])):not(:has-text(/Informatie/i))
 omroepbrabant.nl,reclamefolder.nl##div[class^="ad_"]
@@ -1187,6 +1187,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
