@@ -157,6 +157,7 @@ voetbalzone.nl##.fco-abs-iframe
 voetbalzone.nl##.fco-betting-offer
 welingelichtekringen.nl##.raw-html-component:has(.ms-container)
 wfm.be##.wpb_wrapper:has(.slick-slider .qt-sponsor)
+whiskymonkeys.com##div[class^="r89-mobile"]:upward(.raw-html-component)
 wos.nl##.widget:has(img[src*="b-cdn.net"][src$=".gif"]):has-text(/Advertentie/i)
 ! 2024
 7sur7.be,ad.nl,bd.nl,bndestem.nl,destentor.nl,ed.nl,gelderlander.nl,hln.be,pzc.nl,tubantia.nl##.dfp-space
@@ -1148,6 +1149,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
