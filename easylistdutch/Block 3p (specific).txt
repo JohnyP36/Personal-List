@@ -89,7 +89,6 @@
 ||media.prdn.nl/retailtrends/images/thumbnail_bnr-*$domain=retailtrends.nl
 ||sedproductions.nl/banners/*$image,third-party
 ||sociaaldigitaal.nl/img/Banner-$third-party
-||sponsorlink.nl/storage/*/conversions/*-thumbnail$domain=hoekschnieuws.nl
 ||static.qmusic.*/acties/qnl-nu-ad/index.html$subdocument,domain=nu.nl
 ||stepstone.be/*?event=widgettool.$third-party
 ||storage.googleapis.com/stateless-www-nuus-be/*/*.gif$image,domain=nuus.be
