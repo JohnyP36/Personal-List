@@ -54,6 +54,7 @@ bnr.nl##.bnr-message
 boek9.nl##div[id*="block-advertisements"]
 boerderij.nl###top_desktop_wrapper
 boerderij.nl##div[class*="max-ad_"]
+bol.com##[data-bltgi*="ProductList_"]:has-text(Gesponsord)
 bol.com##div[data-bltgg$="considerationDisplay"]
 ciaotutti.nl##div[class$="widget_advert"]:not(:has(a[href*="ciaotutti.nl"])):not(:has(a[href*="eepurl"])):not(:has(a[href*="facebook.com"])):not(:has(a[href*="instagram.com"])):not(:has(a[href*=".app/share/ciaotutti"]))
 crimesite.nl##div[class*="r89-desktop"]
@@ -1189,6 +1190,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
