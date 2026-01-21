@@ -128,6 +128,7 @@ marktplaats.nl,2dehands.be##.right-banner-root-container
 marktplaats.nl,2dehands.be##.vip-banner-top-sticky-container
 mediacourant.nl##.mc-adv
 mediacourant.nl##.mg-slot
+meetingmagazine.nl##.bannerLine
 meteoalblasserdam.nl##p:has-text(/advert/i):not(:has(a[href="adverteren.html"])):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"])
 meteoalblasserdam.nl##p:has(a[href*="basbeats.nl"]):upward(div[id^="txt_"]) + a[href*="basbeats.nl"]
@@ -1179,6 +1180,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
