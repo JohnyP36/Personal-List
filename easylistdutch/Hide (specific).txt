@@ -46,6 +46,7 @@ crypto-insiders.nl##.ad-category
 crypto-insiders.nl##.exp-google-ad
 crypto-insiders.nl##div[class^="intercom-app"] > iframe[title*="banner"]
 dartfreakz.nl,puna.nl,showblad.nl##div[class^="r89-desktop"]:upward(.raw-html-component)
+dartfreakz.nl##.r89-outstream-video:upward(.raw-html-component)
 dartfreakz.nl##.sda
 delhaize.be##[data-testid$="-ad"]
 demorgen.be,humo.be,margriet.nl,parool.nl,trouw.nl,volkskrant.nl###article_paragraph_3
@@ -1147,6 +1148,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
