@@ -1008,8 +1008,6 @@ sexdatemet-milfs.be##.d-lg-block.d-none:has-text(Advert):not(:has(.jcarousel-ski
 sexguide.nl##.topBanners
 sexvoorgeldadvertenties.nl##[class]:has-text(Gesponsorde):upward(aside)
 simone.nl##section:has(div[class*="sponsorcarousel"])
-skoften.net##.promoted
-skoften.net##.promoted-entry-in-content
 spidersolitairespelen.nl##.spel_b1
 spidersolitairespelen.nl##.spel_b2
 sproeiendekutjes.nl##aside.widget:has(a[href*="trff9links.com/"])
@@ -1147,6 +1145,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
