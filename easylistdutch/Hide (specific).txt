@@ -7,6 +7,7 @@ dagelijkseverhalen.nl##.ads
 twentefm.nl##.advertisement
 centraalplus.nl##.g
 112brabant.nl,112nederland.nl,gelrenieuws.nl,noordernieuws.nl###ads
+24cars.nl##.more.sponsored
 9292.nl##[data-testid="ad-root"]
 abcsuriname.com,vlietnieuws.nl##.banner_wrapper
 afkortingen.nu##.banner_container
@@ -1158,6 +1159,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
