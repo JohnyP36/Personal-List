@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Last modified: %timestamp%
 ! 2026
-a1mediagroep.nl,banden.autoweek.nl,loemedia.nl,pepper.com,vi.nl##.ad
+a1mediagroep.nl,banden.autoweek.nl,loemedia.nl,pepper.com,rtvnunspeet.nl,vi.nl,vrmg.nl##.ad
 babybytes.nl##.ad-container
 dagelijkseverhalen.nl##.ads
 hoimedia.com##.advert
@@ -1187,6 +1187,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
