@@ -172,6 +172,7 @@ scientias.nl##.ndm-desktop-only
 scientias.nl##div.widget:has(* > div[id^="scientias.nl_ros"])
 skoften.net##div[class*="cls-placeholder"]
 sliedrecht24.nl##[id$="random_ads"]
+soccernews.nl###r89-takeover
 soccernews.nl###r89-video-outstream
 spellingoefenen.nl##div[class^="r89-desktop"]:upward(1)
 sportnieuws.nl##.banner-centered
@@ -596,7 +597,6 @@ shespot.nl##.dw-card-inner:has-text(/advertentie/i)
 shespot.nl##[id^="text"]:has([src^="https://www.shespot.nl/wp-content/uploads/"]):has-text(/advertentie/i)
 slam.nl##.holder-ads
 softonic.nl##.sam-slot
-soccernews.nl###r89-takeover
 solarmagazine.nl##.sols
 solarmagazine.nl##[id]:has(.company-add)
 sozio.nl##.adchannel
@@ -1166,6 +1166,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
