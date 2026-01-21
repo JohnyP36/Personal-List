@@ -192,6 +192,7 @@ tweakers.net##.top-banner
 upinthesky.nl##div[class^="r89-mobile-rectangle"]
 viraal.nl,wielrennenuptodate.nl##.raw-html-component
 visionair.nl##aside.widget_block:empty
+voedingswaardetabel.nl##div[class^="amgray"]:has(div[id*="div-gpt-ad"])
 voetbal24.be##.OUTBRAIN:upward(.raw-html-component)
 voetbal4u.com##.widget_text:has(h2):has-text(/crypto/i)
 voetbalkrant.com###ad-intro-text
@@ -1168,6 +1169,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
