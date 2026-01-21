@@ -132,6 +132,7 @@ radionova.be##.widget_media_image:upward(.sidebar):has-text(/Advert/i)
 radiostadmontfoort.nl##img[src^="img/ads/cdm"]:upward(5):has-text(Reclame)
 rd.nl##.codalt-container
 rd.nl##div[class*="ad-container"]
+rallylovers.be##.advertentierechts
 rivierenland-radio.nl##.aba
 rtl.nl##div[data-adslot-variant]
 rubenweytjens.be##.ad.row
@@ -1145,6 +1146,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
