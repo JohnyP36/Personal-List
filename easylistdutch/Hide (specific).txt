@@ -132,6 +132,9 @@ motorrijder.be##div[id^="bannerhome"]:not(:has(a[href*="motorrijder.be/"]))
 moviemeter.nl##.footer-artikelen:has-text(/Partners/i)
 moviemeter.nl##.leaderboard-bar
 moviemeter.nl##div[id^="moviemeter_ros_"][id$="rectangle-halfpage"]
+nbs-bouwmaterialen.nl##div[data-testid="mesh-container-content"]:not(:has(a[href*="linkedin.com"])) a[data-testid="linkElement"][target="_blank"]:has(img)
+nbs-bouwmaterialen.nl##div[data-testid="mesh-container-content"]:not(:has(a[href*="linkedin.com"])) a[data-testid="linkElement"][target="_blank"]:has(svg)
+nbs-bouwmaterialen.nl##div[id^="comp"][class$="SPY_vo"]:has-text(/premium deelnemers/i)
 nd.nl##.banner__head
 nd.nl##.page-header__ad
 newsbit.nl##.acf-block-cta-conversion-rating
@@ -1169,6 +1172,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
