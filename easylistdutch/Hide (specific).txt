@@ -54,7 +54,7 @@ cryptobenelux.com,psvinside.nl,welingelichtekringen.nl##.raw-html-component:has(
 crypto-insiders.nl##.ad-category
 crypto-insiders.nl##.exp-google-ad
 crypto-insiders.nl##div[class^="intercom-app"] > iframe[title*="banner"]
-dartfreakz.nl,puna.nl,showblad.nl##div[class^="r89-desktop"]:upward(.raw-html-component)
+dartfreakz.nl,puna.nl,showblad.nl,voetbal24.be##div[class^="r89-desktop"]:upward(.raw-html-component)
 dartfreakz.nl##.r89-outstream-video:upward(.raw-html-component)
 dartfreakz.nl,vechtsportinfo.nl##.sda
 delhaize.be##[data-testid$="-ad"]
@@ -191,6 +191,7 @@ tweakers.net##.top-banner
 upinthesky.nl##div[class^="r89-mobile-rectangle"]
 viraal.nl,wielrennenuptodate.nl##.raw-html-component
 visionair.nl##aside.widget_block:empty
+voetbal24.be##.OUTBRAIN:upward(.raw-html-component)
 voetbal4u.com##.widget_text:has(h2):has-text(/crypto/i)
 voetbalkrant.com###ad-intro-text
 voetbalverslaafd.nl##div[class*="r89-mobile"]:upward(1)
@@ -1166,6 +1167,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
