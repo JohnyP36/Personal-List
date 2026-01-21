@@ -157,6 +157,7 @@ tweakers.net##.widebnr
 tweakers.net##.top-banner
 viraal.nl,wielrennenuptodate.nl##.raw-html-component
 voetbal4u.com##.widget_text:has(h2):has-text(/crypto/i)
+voetbalkrant.com###ad-intro-text
 voetbalverslaafd.nl##div[class*="r89-mobile"]:upward(1)
 voetbalzone.nl##.fco-abs-iframe
 voetbalzone.nl##.fco-betting-offer
@@ -1055,7 +1056,6 @@ vlaamskijken.nl##a[href^="https://partner.bol.com/"]
 vlaamskijken.nl##div[class^="col"]:has([class^="add"])
 vlootschouw.nl##[id*="miw_widget"]:has(div[class]:has(a[href*="leverancier"]))
 vlootschouw.nl##[id*="miw_widget"] a[target$="blank"][href]:not(a[href*="mailto"])
-voetbalkrant.com###imu:has(div[class*="ad--rectangle"])
 voetbalnederland.nl###submenubanner
 voetbalnieuws.be##[id$="takeover"]
 voetbalsnafu.nl##div[class$="sidebar-widget"] > .textwidget:has(p > a[href*="eredivisiewedden.nl"][target="_blank"])
@@ -1145,6 +1145,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
