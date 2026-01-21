@@ -142,6 +142,7 @@ soccernews.nl###r89-video-outstream
 sportnieuws.nl##.banner-centered
 standaard.be##div[id^="ad"]
 techpulse.be##.magazine-sidebar-block
+techzine.nl##.chimney
 telegraaf.nl##div[id^="ad_divider"]
 topgear.nl##.PnvpParent:has(div[id$="ad-wrap"])
 topkleurplaat.nl##a[href^="https://partner.bol.com/click/"] > img
@@ -589,7 +590,6 @@ tcroomburg.nl##.hpitem:has(h3:has-text(Partner))
 techpulse.be###page-content > section.wpb_row.height_medium:has(.wpb_wrapper div[id^="gpt-ad"])
 techpulse.be##.wpb_wrapper > div[id^="techp"]:upward(.g-cols.wpb_row)
 techpulse.be##.wpb_wrapper:has( > div[class^="g"]):upward(section[class$="wpb_row height_small"]):not(:nth-of-type(1))
-techzine.nl###lead
 telefoonboek.nl###tbresult-top
 telefoonboek.nl##[class^="detail-leaderbord"]:has(.adsbygoogle)
 telegraaf.nl##.ArticleBodyBlocks__bannerWrapper
@@ -1149,6 +1149,7 @@ mannenzaken.nl##.r89-mobile-rectangle-infinite
 nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 !#endif
+
 
 
 
