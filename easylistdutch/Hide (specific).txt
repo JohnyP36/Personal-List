@@ -9,6 +9,8 @@ centraalplus.nl##.g
 112brabant.nl,112nederland.nl,gelrenieuws.nl,noordernieuws.nl###ads
 24cars.nl##.more.sponsored
 9292.nl##[data-testid="ad-root"]
+aalsmeervandaag.nl##.elementor-sticky:has(.elementor-swiper)
+aalsmeervandaag.nl##div[data-element_type="column"]:has(#mk-slider) :has([data-widget_type^="vertical-slider"])
 abcsuriname.com,vlietnieuws.nl##.banner_wrapper
 afkortingen.nu##.banner_container
 ajaxfanzone.nl##.widget_text:has-text(/Advertenties/i)
@@ -1171,6 +1173,7 @@ nu.nl##div[data-type="tealium"]
 nudeviste.be,nudevista.nl##.mob_adv
 scientias.nl##.ndm-mobile-header-only
 !#endif
+
 
 
 
