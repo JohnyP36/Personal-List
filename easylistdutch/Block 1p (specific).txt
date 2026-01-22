@@ -22,6 +22,7 @@ nos.nl##+js(json-prune, adUrl)
 ||cdn.gic.nl/app/uploads/*/*banner
 ||christelijknieuws.nl/wp-content/uploads/*Banner
 ||gp33.nl/assets/common/ads-helper.js
+||ninefornews.nl/wp-content/uploads/*/Banner
 ||rallylovers.be/img/betalend/*.gif
 ||sliedrecht24.nl/wp-content/uploads/*/palmpjes-banner
 ||techgaming.nl/image_uploads/sponsored/
