@@ -165,7 +165,6 @@ ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
 ninefornews.nl##[id*="block"]:has([class^="mag-box-container"] > *:has(div[class="featured_caption"]))
 ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3)
 ninefornews.nl##div[class^="mag-box"] + #adskeeper
-ninefornews.nl##div[class*="header-container"] a[class="gofollow"][href*="link"]
 nljug.org##.theiaStickySidebar > .widget_custom_html:has(a[href] > img)
 noordkop247.nl##.commercial-block
 nuus.be##.a2t-link:upward(.sidebar-widget)
