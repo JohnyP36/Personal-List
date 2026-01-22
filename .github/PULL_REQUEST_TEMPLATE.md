@@ -18,6 +18,7 @@ To avoid being banned, don't constantly re-open or create new (related) issue re
     - [ ] uBlock Origin with default lists/settings
     - [ ] using a new, unmodified browser profile
 - [ ] I am running the latest version of uBlock Origin (or Adguard or Adblock Plus, etc.)
+- [ ] I did not answer truthfully to the above questions. <!-- Remove this line. Otherwise your PR will automatically been labeled as invalid and been closed. -->
 
 ### URL(s) where the issue occurs
 <!-- [At least one URL for a web page where the clearly described issue occurs is **mandatory**. The backticks (`) surrounding the URLs is important, it prevents the URL from being clickable. Warn with "NSFW" where applicable.] -->
