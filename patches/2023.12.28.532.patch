@@ -1,10 +1,10 @@
-diff name:dutchfilterlist lines:516 checksum:3b6d79ce90
+diff name:dutchfilterlist lines:516 checksum:084cb98fbd
 d2 1
 a2 1
-! Last modified: Thu, 22 Jan 2026 16:07:18 +0000
+! Last modified: Thu, 22 Jan 2026 16:52:38 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2026.1.22.967.patch#dutchfilterlist
+! Diff-Path: patches/2026.1.22.1012.patch#dutchfilterlist
 d64 1
 a64 1
 ||2k19.nl^$third-party,popup
@@ -52,7 +52,7 @@ d209 1
 d216 1
 d240 1
 d249 1
-a271 32
+a271 33
 ! 2026
 avrotros.nl##+js(json-prune, assets.preroll)
 nos.nl##+js(json-prune, adUrl)
@@ -75,6 +75,7 @@ nos.nl##+js(json-prune, adUrl)
 ||cdn.gic.nl/app/uploads/*/*banner
 ||christelijknieuws.nl/wp-content/uploads/*Banner
 ||gp33.nl/assets/common/ads-helper.js
+||ninefornews.nl/wp-content/uploads/*/Banner
 ||rallylovers.be/img/betalend/*.gif
 ||sliedrecht24.nl/wp-content/uploads/*/palmpjes-banner
 ||techgaming.nl/image_uploads/sponsored/
@@ -107,7 +108,7 @@ a689 1
 a701 2
 !flowmagazine.nl,happinez.nl,landleven.nl,psychologie.nl##.rmn-advert
 ##.rmn-advert
-a706 265
+a706 264
 ! 2026
 a1mediagroep.nl,banden.autoweek.nl,bicycling.nl,loemedia.nl,menshealth.nl,pepper.com,rtvnunspeet.nl,runners.nl,vi.nl,vrmg.nl,womenshealthmag.nl##.ad
 babybytes.nl##.ad-container
@@ -273,7 +274,6 @@ ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
 ninefornews.nl##[id*="block"]:has([class^="mag-box-container"] > *:has(div[class="featured_caption"]))
 ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3)
 ninefornews.nl##div[class^="mag-box"] + #adskeeper
-ninefornews.nl##div[class*="header-container"] a[class="gofollow"][href*="link"]
 nljug.org##.theiaStickySidebar > .widget_custom_html:has(a[href] > img)
 noordkop247.nl##.commercial-block
 nuus.be##.a2t-link:upward(.sidebar-widget)

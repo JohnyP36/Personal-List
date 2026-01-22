@@ -1,7 +1,7 @@
 ! Title: Dutch Filter List
-! Last modified: Thu, 22 Jan 2026 16:07:18 +0000
+! Last modified: Thu, 22 Jan 2026 16:52:38 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2026.1.22.967.patch#dutchfilterlist
+! Diff-Path: patches/2026.1.22.1012.patch#dutchfilterlist
 ! Diff-Expires: 12 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -315,6 +315,7 @@ nos.nl##+js(json-prune, adUrl)
 ||cdn.gic.nl/app/uploads/*/*banner
 ||christelijknieuws.nl/wp-content/uploads/*Banner
 ||gp33.nl/assets/common/ads-helper.js
+||ninefornews.nl/wp-content/uploads/*/Banner
 ||rallylovers.be/img/betalend/*.gif
 ||sliedrecht24.nl/wp-content/uploads/*/palmpjes-banner
 ||techgaming.nl/image_uploads/sponsored/
@@ -924,7 +925,6 @@ ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
 ninefornews.nl##[id*="block"]:has([class^="mag-box-container"] > *:has(div[class="featured_caption"]))
 ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3)
 ninefornews.nl##div[class^="mag-box"] + #adskeeper
-ninefornews.nl##div[class*="header-container"] a[class="gofollow"][href*="link"]
 nljug.org##.theiaStickySidebar > .widget_custom_html:has(a[href] > img)
 noordkop247.nl##.commercial-block
 nuus.be##.a2t-link:upward(.sidebar-widget)

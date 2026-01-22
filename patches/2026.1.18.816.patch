@@ -1,10 +1,10 @@
-diff name:dutchfilterlist lines:390 checksum:3b6d79ce90
+diff name:dutchfilterlist lines:390 checksum:084cb98fbd
 d2 1
 a2 1
-! Last modified: Thu, 22 Jan 2026 16:07:18 +0000
+! Last modified: Thu, 22 Jan 2026 16:52:38 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2026.1.22.967.patch#dutchfilterlist
+! Diff-Path: patches/2026.1.22.1012.patch#dutchfilterlist
 a69 1
 ||adconfig.ster.nl^$domain=avrotros.nl|nos.nl
 a76 1
@@ -54,8 +54,9 @@ a284 4
 ||bitcoinmagazine.nl/wp-content/uploads/*promo-bitvavo
 a287 1
 ||cdn.nieuwdezeweek.nl/ads/
-a290 2
+a290 3
 ||gp33.nl/assets/common/ads-helper.js
+||ninefornews.nl/wp-content/uploads/*/Banner
 ||rallylovers.be/img/betalend/*.gif
 a293 3
 ||tvvisie.be/textads/textads.js
@@ -223,12 +224,11 @@ nieuwdezeweek.nl##div[class$="main"] div[class*="ad"]
 nieuwnieuws.nl##.uk-text-center[style]:has(div[id*="billboardskin"]):has(div[id*="_ros_"])
 nieuwspaal.nl###abovecontent-widget-area
 nieuwspaal.nl##div[id^="ada"]
-a776 5
+a776 4
 ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
 ninefornews.nl##[id*="block"]:has([class^="mag-box-container"] > *:has(div[class="featured_caption"]))
 ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3)
 ninefornews.nl##div[class^="mag-box"] + #adskeeper
-ninefornews.nl##div[class*="header-container"] a[class="gofollow"][href*="link"]
 a778 10
 nuus.be##.a2t-link:upward(.sidebar-widget)
 omroeptholen.nl,rtvalbrandswaard.com##.widget_media_image:has-text(/Advertentie/i)
