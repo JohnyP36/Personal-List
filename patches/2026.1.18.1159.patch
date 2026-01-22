@@ -1,10 +1,10 @@
-diff name:dutchfilterlist lines:302 checksum:85469a5d04
+diff name:dutchfilterlist lines:303 checksum:8240d51e7a
 d2 1
 a2 1
-! Last modified: Wed, 21 Jan 2026 20:31:04 +0000
+! Last modified: Thu, 22 Jan 2026 12:14:10 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2026.1.21.1231.patch#dutchfilterlist
+! Diff-Path: patches/2026.1.22.734.patch#dutchfilterlist
 a77 1
 ||adswag.nl^$third-party
 a87 1
@@ -13,7 +13,8 @@ d173 1
 a173 2
 ||kjdsfjisdfjr23.azurewebsites.net^
 ||preroll.omroepvenlo.nl^
-a177 1
+d178 1
+a178 1
 ||*.b-cdn.net/*-390x280.gif$third-party,domain=wos.nl
 a180 3
 ||cdn-tmo.nl^*/banners/$image,domain=schiedam24.nl

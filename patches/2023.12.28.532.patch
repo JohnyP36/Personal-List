@@ -1,10 +1,10 @@
-diff name:dutchfilterlist lines:511 checksum:85469a5d04
+diff name:dutchfilterlist lines:510 checksum:8240d51e7a
 d2 1
 a2 1
-! Last modified: Wed, 21 Jan 2026 20:31:04 +0000
+! Last modified: Thu, 22 Jan 2026 12:14:10 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2026.1.21.1231.patch#dutchfilterlist
+! Diff-Path: patches/2026.1.22.734.patch#dutchfilterlist
 d64 1
 a64 1
 ||2k19.nl^$third-party,popup
@@ -30,10 +30,9 @@ a165 4
 ! https://github.com/AdguardTeam/AdguardFilters/commit/d7690d1e07746b72e9d414ac245de762f5dcb4f1
 ||kjdsfjisdfjr23.azurewebsites.net^
 ||preroll.omroepvenlo.nl^
-a168 18
+a168 17
 ! 2026
 ||*.b-cdn.net/*-390x280.gif$third-party,domain=wos.nl
-||api.banner-online.nl/$third-party,domain=noordernieuws.nl
 ||cdn.aa.onstuimig.nl/mega-publishers/nieuwspaal.nl.js$domain=nieuwspaal.nl
 ||cdn-ster-nl.akamaized.net/STERAD_P_*.mp4^$media,domain=avrotros.nl|nos.nl,redirect=noopmp4-1s
 ||cdn-tmo.nl^*/banners/$image,domain=schiedam24.nl
