@@ -1,17 +1,16 @@
-diff name:dutchfilterlist lines:16 checksum:3b6d79ce90
+diff name:dutchfilterlist lines:15 checksum:3b6d79ce90
 d2 1
 a2 1
 ! Last modified: Thu, 22 Jan 2026 16:07:18 +0000
 d4 1
 a4 1
 ! Diff-Path: patches/2026.1.22.967.patch#dutchfilterlist
-d182 1
-a769 1
+a768 1
 ninefornews.nl##.gofollow
-a922 5
+a921 5
 ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
 ninefornews.nl##[id*="block"]:has([class^="mag-box-container"] > *:has(div[class="featured_caption"]))
 ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3)
 ninefornews.nl##div[class^="mag-box"] + #adskeeper
 ninefornews.nl##div[class*="header-container"] a[class="gofollow"][href*="link"]
-d1742 6
+d1741 6

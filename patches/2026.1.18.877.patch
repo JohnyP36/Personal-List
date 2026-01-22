@@ -1,10 +1,10 @@
-diff name:dutchfilterlist lines:372 checksum:8240d51e7a
+diff name:dutchfilterlist lines:380 checksum:3b6d79ce90
 d2 1
 a2 1
-! Last modified: Thu, 22 Jan 2026 12:14:10 +0000
+! Last modified: Thu, 22 Jan 2026 16:07:18 +0000
 d4 1
 a4 1
-! Diff-Path: patches/2026.1.22.734.patch#dutchfilterlist
+! Diff-Path: patches/2026.1.22.967.patch#dutchfilterlist
 a69 1
 ||adconfig.ster.nl^$domain=avrotros.nl|nos.nl
 a76 1
@@ -73,11 +73,12 @@ d732 1
 a732 1
 a1mediagroep.nl,banden.autoweek.nl,bicycling.nl,loemedia.nl,menshealth.nl,pepper.com,rtvnunspeet.nl,runners.nl,vi.nl,vrmg.nl,womenshealthmag.nl##.ad
 d734 1
-a734 9
+a734 10
 dagelijkseverhalen.nl##.ads
 hoimedia.com##.advert
 maassluis24.nl,schiedam24.nl,twentefm.nl##.advertisement
 centraalplus.nl##.g
+ninefornews.nl##.gofollow
 112brabant.nl,112nederland.nl,gelrenieuws.nl,noordernieuws.nl###ads
 24cars.nl##.more.sponsored
 9292.nl##[data-testid="ad-root"]
@@ -217,6 +218,12 @@ nieuwdezeweek.nl##div[class$="main"] div[class*="ad"]
 nieuwnieuws.nl##.uk-text-center[style]:has(div[id*="billboardskin"]):has(div[id*="_ros_"])
 nieuwspaal.nl###abovecontent-widget-area
 nieuwspaal.nl##div[id^="ada"]
+a785 5
+ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
+ninefornews.nl##[id*="block"]:has([class^="mag-box-container"] > *:has(div[class="featured_caption"]))
+ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3)
+ninefornews.nl##div[class^="mag-box"] + #adskeeper
+ninefornews.nl##div[class*="header-container"] a[class="gofollow"][href*="link"]
 a787 10
 nuus.be##.a2t-link:upward(.sidebar-widget)
 omroeptholen.nl,rtvalbrandswaard.com##.widget_media_image:has-text(/Advertentie/i)
@@ -347,6 +354,7 @@ d1503 1
 d1514 3
 d1522 7
 d1596 1
+d1621 6
 d1684 5
 a1688 2
 rtlboulevard.nl###dfp-billboard-wrapper

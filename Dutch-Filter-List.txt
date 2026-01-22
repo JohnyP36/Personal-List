@@ -1,7 +1,7 @@
 ! Title: Dutch Filter List
-! Last modified: Thu, 22 Jan 2026 12:14:10 +0000
+! Last modified: Thu, 22 Jan 2026 16:07:18 +0000
 ! Expires: 14 days (update frequency)
-! Diff-Path: patches/2026.1.22.734.patch#dutchfilterlist
+! Diff-Path: patches/2026.1.22.967.patch#dutchfilterlist
 ! Diff-Expires: 12 hours
 ! Description:  
 !     A supplement for EasyList and EasyPrivacy on Dutch domains including anti-adblock
@@ -766,6 +766,7 @@ dagelijkseverhalen.nl##.ads
 hoimedia.com##.advert
 maassluis24.nl,schiedam24.nl,twentefm.nl##.advertisement
 centraalplus.nl##.g
+ninefornews.nl##.gofollow
 112brabant.nl,112nederland.nl,gelrenieuws.nl,noordernieuws.nl###ads
 24cars.nl##.more.sponsored
 9292.nl##[data-testid="ad-root"]
@@ -919,6 +920,11 @@ nieuwspaal.nl###abovecontent-widget-area
 nieuwspaal.nl##div[id^="ada"]
 nieuwsuitnijmegen.nl,wijchensnieuws.nl##.js-banner-slider
 nieuwsuitnijmegen.nl,wijchensnieuws.nl##.text-left:has-text(/advert/i)
+ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
+ninefornews.nl##[id*="block"]:has([class^="mag-box-container"] > *:has(div[class="featured_caption"]))
+ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3)
+ninefornews.nl##div[class^="mag-box"] + #adskeeper
+ninefornews.nl##div[class*="header-container"] a[class="gofollow"][href*="link"]
 nljug.org##.theiaStickySidebar > .widget_custom_html:has(a[href] > img)
 noordkop247.nl##.commercial-block
 nuus.be##.a2t-link:upward(.sidebar-widget)
@@ -1738,12 +1744,6 @@ nieuweoogst.nl##.logolinks-wrapper
 nieuws.nl###footer-banner
 nieuwsfiets.nu##.ult-content-box > a[href]:not([href*="nieuwsfiets.nu"]):not([href*="questionpro.com"])
 nieuwsuitdelden.nl##.gesponsord_blokje
-ninefornews.nl##.mag-box:has([src*="adskeeper.com"])
-ninefornews.nl##.mag-box:has(img[width="728"][height="90"])
-ninefornews.nl##[id*="block"]:has([class^="mag-box-container"] > *:has(div[class="featured_caption"]))
-ninefornews.nl##article > div.entry-content > .mag-box-container:has(h3)
-ninefornews.nl##div[class^="mag-box"] + #adskeeper
-ninefornews.nl##div[class*="header-container"] a[class="gofollow"][href*="link"]
 nl.motorsport.com##.ms-hapb
 nl.motorsport.com##.ms-side-items--with-banner
 nl.motorsport.com##.ms-side-widget--custom-links__wrapper
